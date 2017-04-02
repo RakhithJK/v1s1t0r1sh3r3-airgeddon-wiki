@@ -1,5 +1,5 @@
-**I. Main & Features**
- - [Main]
+**I. Home & Features**
+ - [Home]
  - [Features]
 
 **II. Requirements**
@@ -28,7 +28,7 @@
 - [Hat Tip To]
 - [Inspiration]
 
-[Main]: https://github.com/v1s1t0r1sh3r3/airgeddon/wiki
+[Home]: https://github.com/v1s1t0r1sh3r3/airgeddon/wiki
 [Features]: https://github.com/v1s1t0r1sh3r3/airgeddon/wiki/Features
 [Requirements]: https://github.com/v1s1t0r1sh3r3/airgeddon/wiki/Requirements
 [Compatibility]: https://github.com/v1s1t0r1sh3r3/airgeddon/wiki/Compatibility
