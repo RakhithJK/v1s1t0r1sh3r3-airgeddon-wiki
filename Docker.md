@@ -20,5 +20,7 @@ Parameters explanation:
 
 Don't forget to replace "/path/to/some/dir/on/your/host" with a path of an existing directory of your choice on your host machine. That directory will be the "input/output" point for the script. For example, if you place a dictionary.txt file there, inside the script you must access to it as "/io/dictionary.txt".
 
+The default language for docker image is English. Once inside, it can be changed as normal using menu option for that.
+
 [Dockerhub]: https://hub.docker.com/r/v1s1t0r1sh3r3/airgeddon/
 [Dockercloud]: https://cloud.docker.com/app/v1s1t0r1sh3r3/repository/docker/v1s1t0r1sh3r3/airgeddon/general
