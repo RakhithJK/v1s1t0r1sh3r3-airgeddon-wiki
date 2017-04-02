@@ -46,3 +46,5 @@
 [Contributing]: https://github.com/v1s1t0r1sh3r3/airgeddon/wiki/Contributing
 [Changelog]: https://github.com/v1s1t0r1sh3r3/airgeddon/wiki/Changelog
 [Disclaimer & License]: https://github.com/v1s1t0r1sh3r3/airgeddon/wiki/Disclaimer%20&%20License
+[Hat Tip To]: https://github.com/v1s1t0r1sh3r3/airgeddon/wiki/Hat%20Tip%20To
+[Inspiration]: https://github.com/v1s1t0r1sh3r3/airgeddon/wiki/Inspiration
