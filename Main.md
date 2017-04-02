@@ -33,7 +33,7 @@
 	</ul>
 
 <!-- Links To Images -->
-[Banner]: /imgs/banners/airgeddon_banner.png "We will conquer the earth!!"
+[Banner]: https://raw.githubusercontent.com/v1s1t0r1sh3r3/airgeddon/master/imgs/banners/airgeddon_banner.png "We will conquer the earth!!"
 <!-- Badges URLs -->
 [Version-shield]: https://img.shields.io/badge/version-6.2-blue.svg?style=flat-square&colorA=273133&colorB=0093ee "Latest version"
 [Bash4.2-shield]: https://img.shields.io/badge/bash-4.2%2B-blue.svg?style=flat-square&colorA=273133&colorB=00db00 "Bash 4.2 or later"
