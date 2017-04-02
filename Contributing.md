@@ -1,4 +1,4 @@
-You can contribute to `airgeddon` in many different ways
+You can contribute to `airgeddon` in many different ways:
 
  - Translations into other languages
  - More distribution support compatibility
