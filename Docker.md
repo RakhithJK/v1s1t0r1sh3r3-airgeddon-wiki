@@ -22,5 +22,8 @@ Don't forget to replace "/path/to/some/dir/on/your/host" with a path of an exist
 
 The default language for docker image is English. Once inside, it can be changed as normal using menu option for that.
 
+If you prefer to build your own image, there is a [Dockerfile] present in the project.
+
 [Dockerhub]: https://hub.docker.com/r/v1s1t0r1sh3r3/airgeddon/
 [Dockercloud]: https://cloud.docker.com/app/v1s1t0r1sh3r3/repository/docker/v1s1t0r1sh3r3/airgeddon/general
+[Dockerfile]: https://github.com/v1s1t0r1sh3r3/airgeddon/blob/docker/docker/Dockerfile
