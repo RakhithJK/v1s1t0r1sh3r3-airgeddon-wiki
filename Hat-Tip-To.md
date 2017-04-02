@@ -30,8 +30,6 @@ Thank you to:
 [Lampiweb.com]: http://lampiweb.com/foro
 [Hackware.ru]: https://hackware.ru
 <!-- Github URLs -->
-[vk496]: https://github.com/vk496
-[MatToufoutu]: https://github.com/mattoufoutu
 [Kcdtv]: https://github.com/kcdtv
 [cLn]: https://github.com/cLn73
 [Luan]: https://github.com/Luan7805
