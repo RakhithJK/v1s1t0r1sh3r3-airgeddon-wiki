@@ -1,5 +1,3 @@
-### Known Incompatibilities
-
 - Incompatible with Mac OSX at the moment
   - *Bash version* &#8592; it can be avoided by upgrading it using `brew` or whatever, this is not the real problem :smile:
   - *Aircrack suite* &#8592; this suite does not support `airodump` and `aireplay` for OSX
