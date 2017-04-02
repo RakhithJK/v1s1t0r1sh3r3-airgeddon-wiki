@@ -1,5 +1,3 @@
-### Features
-
 <!-- Each sub list needs 2 additional followed spaces -->
 - Interface mode switcher (Monitor-Managed) keeping selection even on interface name changing
 - DoS over wireless networks using different methods
