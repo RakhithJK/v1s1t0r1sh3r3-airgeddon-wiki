@@ -6,9 +6,9 @@
 ---
 <strong>Table of contents</strong>
 <ul>
-	<strong>I. Main & Features</strong>
+	<strong>I. Home & Features</strong>
 	<ul>
-		<li><a href="https://github.com/v1s1t0r1sh3r3/airgeddon/wiki">Main</a></li>
+		<li><a href="https://github.com/v1s1t0r1sh3r3/airgeddon/wiki">Home</a></li>
 		<li><a href="https://github.com/v1s1t0r1sh3r3/airgeddon/wiki/Features">Features</a></li>
 	</ul>
 	<br/>
