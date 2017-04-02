@@ -1,4 +1,4 @@
-**I. Home & Features**
+**I. Content & Features**
  - [Home]
  - [Features]
 
