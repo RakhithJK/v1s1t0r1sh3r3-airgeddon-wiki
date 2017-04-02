@@ -3,34 +3,51 @@
 > This is a multi-use bash script for Linux systems to audit wireless networks.
 
 ![Banner]
-
-<summary><strong>Table of Contents</strong></summary>
+---
+<strong>Table of contents</strong>
+<ul>
+	<strong>I. Main & Features</strong>
 	<ul>
-		<li><a href="#features">Features</a></li>
-		<li><a href="#requirements">Requirements</a></li>
-		<ul>
-			<li><a href="#essential-tools--the-script-does-not-work-if-you-dont-have-installed-all-of-them">Essential Tools</a></li>
-			<li><a href="#optional-tools--not-necessary-to-work-only-needed-for-some-features">Optional Tools</a></li>
-			<ul>
-				<li><a href="#important-tips-about-beef">BeEF Tips</a></li>
-				<li><a href="#important-tips-about-hashcat">Hashcat Tips</a></li>
-			</ul>
-			<li><a href="#update-tools--not-necessary-to-work-only-used-for-auto-update">Update Tools</a></li>
-			<li><a href="#internal-tools--these-are-internally-checked-not-necessary-to-work-good-to-have">Internal Tools</a></li>
-		</ul>
-		<li><a href="#usage">Usage</a></li>
-		<li><a href="#docker">Docker</a></li>
-		<li><a href="#supported-languages">Supported Languages</a></li>
-		<li><a href="#known-incompatibilities">Known Incompatibilities</a></li>
-		<li><a href="#contributing">Contributing</a></li>
-		<li><a href="#changelog">Changelog</a></li>
-		<li><a href="#disclaimer--license">Disclaimer & License</a></li>
-		<li><a href="#acknowledgments--license">Acknowledgments</a></li>
-		<ul>
-			<li><a href="#hat-tip-to">Hat Tip To</a></li>
-			<li><a href="#inspiration">Inspiration</a></li>
-		</ul>
+		<li><a href="https://github.com/v1s1t0r1sh3r3/airgeddon/wiki">Main</a></li>
+		<li><a href="https://github.com/v1s1t0r1sh3r3/airgeddon/wiki/Features">Features</a></li>
 	</ul>
+	<br/>
+	<strong>II. Requirements</strong>
+	<ul>
+		<li><a href="https://github.com/v1s1t0r1sh3r3/airgeddon/wiki/Requirements">Requirements</a></li>
+		<li><a href="https://github.com/v1s1t0r1sh3r3/airgeddon/wiki/Compatibility">Compatibility</a></li>
+		<li><a href="https://github.com/v1s1t0r1sh3r3/airgeddon/wiki/Essential%20Tools">Essential Tools</a></li>
+		<li><a href="https://github.com/v1s1t0r1sh3r3/airgeddon/wiki/Optional%20Tools">Optional Tools</a></li>
+		<ul>
+			<li><a href="https://github.com/v1s1t0r1sh3r3/airgeddon/wiki/BeEF%20Tips">BeEF Tips</a></li>
+			<li><a href="https://github.com/v1s1t0r1sh3r3/airgeddon/wiki/Hashcat%20Tips">Hashcat Tips</a></li>
+		</ul>
+		<li><a href="https://github.com/v1s1t0r1sh3r3/airgeddon/wiki/Update%20Tools">Update Tools</a></li>
+		<li><a href="https://github.com/v1s1t0r1sh3r3/airgeddon/wiki/Internal%20Tools">Internal Tools</a></li>
+		<li><a href="https://github.com/v1s1t0r1sh3r3/airgeddon/wiki/Known%20incompatibilities">Known incompatibilities</a></li>
+	</ul>
+	<br/>
+	<strong>III. Getting started</strong>
+	<ul>
+		<li><a href="https://github.com/v1s1t0r1sh3r3/airgeddon/wiki/Usage">Usage</a></li>
+		<li><a href="https://github.com/v1s1t0r1sh3r3/airgeddon/wiki/Docker">Docker</a></li>
+		<li><a href="https://github.com/v1s1t0r1sh3r3/airgeddon/wiki/Other%20sources">Other sources</a></li>
+	</ul>
+	<br/>
+	<strong>IV. Project & Development</strong>
+	<ul>
+		<li><a href="https://github.com/v1s1t0r1sh3r3/airgeddon/wiki/Supported%20Languages">Supported Languages</a></li>
+		<li><a href="https://github.com/v1s1t0r1sh3r3/airgeddon/wiki/Contributing">Contributing</a></li>
+		<li><a href="https://github.com/v1s1t0r1sh3r3/airgeddon/wiki/Changelog">Changelog</a></li>
+		<li><a href="https://github.com/v1s1t0r1sh3r3/airgeddon/wiki/Disclaimer%20&%20License">Disclaimer & License</a></li>
+	</ul>
+	<br/>
+	<strong>V. Acknowledgments & References</strong>
+	<ul>
+		<li><a href="https://github.com/v1s1t0r1sh3r3/airgeddon/wiki/Hat%20Tip%20To">Hat Tip To</a></li>
+		<li><a href="https://github.com/v1s1t0r1sh3r3/airgeddon/wiki/Inspiration">Inspiration</a></li>
+	</ul>
+</ul>
 
 <!-- Links To Images -->
 [Banner]: https://raw.githubusercontent.com/v1s1t0r1sh3r3/airgeddon/master/imgs/banners/airgeddon_banner.png "We will conquer the earth!!"
