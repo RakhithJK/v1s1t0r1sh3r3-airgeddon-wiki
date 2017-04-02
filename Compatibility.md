@@ -1,4 +1,4 @@
-airgeddon can be launched on any Linux distribution passing the tools validations. Some of them already tested.
+`airgeddon` can be launched on any Linux distribution passing the tools validations. Some of them already tested.
 
 <strong>Tested on these compatible Linux distributions</strong>
 <ul>
