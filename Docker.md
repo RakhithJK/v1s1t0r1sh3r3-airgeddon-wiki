@@ -1,7 +1,7 @@
 <a href="LICENSE.md"><img src="https://raw.githubusercontent.com/v1s1t0r1sh3r3/airgeddon/docker/imgs/banners/airgeddon_docker.png" align="left" hspace="10" vspace="6"></a>
 To run a container based on a Docker image to execute `airgeddon`, bear in mind that it should be run on a system running X Window because it runs xterm windows used for some features.
 
-`airgeddon` Docker image is based on Kali Linux. Below, there is a docker run command as example. The image is going to be automatically downloaded from [Dockerhub]/[Dockercloud] and then a Docker container is going to be run. It will launch `airgeddon` script automatically inside the container:
+`airgeddon` Docker image is based on Kali Linux. Below, there is a docker run command as example. The image is going to be automatically downloaded from [airgeddon's Dockerhub]/[airgeddon's Dockercloud] and then a Docker container is going to be run. It will launch `airgeddon` script automatically inside the container:
 <br/>
 ```
 docker run --rm -ti --name airgeddon --net=host --privileged -p 3000:3000 -v /path/to/some/dir/on/your/host:/io v1s1t0r1sh3r3/airgeddon
@@ -24,6 +24,6 @@ The default language for docker image is English. Once inside, it can be changed
 
 If you prefer to build your own image, there is a [Dockerfile] present in the project.
 
-[Dockerhub]: https://hub.docker.com/r/v1s1t0r1sh3r3/airgeddon/
-[Dockercloud]: https://cloud.docker.com/app/v1s1t0r1sh3r3/repository/docker/v1s1t0r1sh3r3/airgeddon/general
+[airgeddon's Dockerhub]: https://hub.docker.com/r/v1s1t0r1sh3r3/airgeddon/
+[airgeddon's Dockercloud]: https://cloud.docker.com/app/v1s1t0r1sh3r3/repository/docker/v1s1t0r1sh3r3/airgeddon/general
 [Dockerfile]: https://github.com/v1s1t0r1sh3r3/airgeddon/blob/docker/docker/Dockerfile
