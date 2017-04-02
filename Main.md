@@ -1,6 +1,6 @@
 # :satellite: airgeddon [![Version-shield]](CHANGELOG.md) [![Bash4.2-shield]](http://tldp.org/LDP/abs/html/bashver4.html#AEN21220) [![License-shield]](LICENSE.md) [![Docker-shield]](https://cloud.docker.com/app/v1s1t0r1sh3r3/repository/docker/v1s1t0r1sh3r3/airgeddon/general) [![Paypal-shield]](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=7ELM486P7XKKG) [![Bitcoin-shield]](https://blockchain.info/address/1AKnTXbomtwUzrm81FRzi5acSSXxGteGTH)
 
-<details>
+
 	<summary><strong>Table of Contents</strong></summary>
 	<ul>
 		<li><a href="#features">Features</a></li>
@@ -28,7 +28,7 @@
 			<li><a href="#inspiration">Inspiration</a></li>
 		</ul>
 	</ul>
-</details>
+
 
 <!-- Badges URLs -->
 [Version-shield]: https://img.shields.io/badge/version-6.2-blue.svg?style=flat-square&colorA=273133&colorB=0093ee "Latest version"
