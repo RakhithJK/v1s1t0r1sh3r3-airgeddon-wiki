@@ -32,7 +32,7 @@
 [Features]: https://github.com/v1s1t0r1sh3r3/airgeddon/wiki/Features
 [Requirements]: https://github.com/v1s1t0r1sh3r3/airgeddon/wiki/Requirements
 [Compatibility]: https://github.com/v1s1t0r1sh3r3/airgeddon/wiki/Compatibility
-[Essential Tools]: https://github.com/v1s1t0r1sh3r3/airgeddon/wiki/Essential Tools
+[Essential Tools]: https://github.com/v1s1t0r1sh3r3/airgeddon/wiki/Essential%20Tools
 [Requirements]: https://github.com/v1s1t0r1sh3r3/airgeddon/wiki/Requirements
 [Requirements]: https://github.com/v1s1t0r1sh3r3/airgeddon/wiki/Requirements
 [Requirements]: https://github.com/v1s1t0r1sh3r3/airgeddon/wiki/Requirements
