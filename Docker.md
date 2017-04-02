@@ -2,7 +2,7 @@
 To run a container based on this Docker image, bear in mind that it should be run on a system running X Window because it runs xterm windows used for some features.
 
 Below, there is a docker run command as example. The image is going to be automatically downloaded from [Dockerhub]/[Dockercloud] and then a Docker container is going to be run. It will launch airgeddon script automatically inside the container:
-<br/><br/><br/>
+<br/>
 ```
 docker run --rm -ti --name airgeddon --net=host --privileged -p 3000:3000 -v /path/to/some/dir/on/your/host:/io v1s1t0r1sh3r3/airgeddon
 ```
