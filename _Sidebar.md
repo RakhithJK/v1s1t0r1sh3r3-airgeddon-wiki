@@ -42,3 +42,7 @@
 [Usage]: https://github.com/v1s1t0r1sh3r3/airgeddon/wiki/Usage
 [Docker]: https://github.com/v1s1t0r1sh3r3/airgeddon/wiki/Docker
 [Other sources]: https://github.com/v1s1t0r1sh3r3/airgeddon/wiki/Other%20sources
+[Supported Languages]: https://github.com/v1s1t0r1sh3r3/airgeddon/wiki/Supported%20Languages
+[Contributing]: https://github.com/v1s1t0r1sh3r3/airgeddon/wiki/Contributing
+[Changelog]: https://github.com/v1s1t0r1sh3r3/airgeddon/wiki/Changelog
+[Disclaimer & License]: https://github.com/v1s1t0r1sh3r3/airgeddon/wiki/Disclaimer%20&%20License
