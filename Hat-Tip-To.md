@@ -20,7 +20,7 @@ Thank you to:
 - Dominique Bongard for bringing to us the Pixie Dust attacks
 - Zhao Chunsheng and Stefan Viehböck for their wonderful algorithms
 - All the developers who made and designed the third-party tools that `airgeddon` uses
-- [jansorg] for his effort developing the [BashSupport] plugin for IntelliJ IDE.
+- [jansorg] for his effort developing the [BashSupport] plugin for IntelliJ platform.
 
 <!-- URLs -->
 [Wifislax]: http://www.wifislax.com
