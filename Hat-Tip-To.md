@@ -20,6 +20,7 @@ Thank you to:
 - Dominique Bongard for bringing to us the Pixie Dust attacks
 - Zhao Chunsheng and Stefan Viehböck for their wonderful algorithms
 - All the developers who made and designed the third-party tools that `airgeddon` uses
+- [jansorg] for his effort developing the [BashSupport] plugin for IntelliJ IDE.
 
 <!-- URLs -->
 [Wifislax]: http://www.wifislax.com
@@ -29,6 +30,7 @@ Thank you to:
 [Wifi-libre.com]: https://www.wifi-libre.com
 [Lampiweb.com]: http://lampiweb.com/foro
 [Hackware.ru]: https://hackware.ru
+[BashSupport]: https://github.com/jansorg/BashSupport
 <!-- Github URLs -->
 [Kcdtv]: https://github.com/kcdtv
 [cLn]: https://github.com/cLn73
@@ -36,3 +38,4 @@ Thank you to:
 [MiAl]: https://github.com/Mi-Al
 [xtonousou]: https://github.com/xtonousou
 [OscarAkaElvis]: https://github.com/OscarAkaElvis
+[jansorg]: https://github.com/jansorg
