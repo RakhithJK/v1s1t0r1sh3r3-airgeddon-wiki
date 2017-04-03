@@ -16,7 +16,7 @@
 		<li>Gentoo 20160514 and 20160704</li>
 		<li>Fedora 24</li>
 		<li>Red Hat 7 (Maipo)</li>
-		<li>Arch 4.6.2-1 to 4.10.4-1</li>
+		<li>Arch 4.6.2-1 to 4.10.6-1</li>
 		<li>Raspbian 7 (Wheezy) and 8 (Jessie) (Raspberry Pi)</li>
 		<li>OpenMandriva LX3</li>
 	</em>
