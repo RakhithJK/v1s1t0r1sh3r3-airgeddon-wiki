@@ -8,6 +8,9 @@
 ![Russian][Russian] Russian <br/>
 ![Greek][Greek] Greek <br/>
 
+If you want `airgeddon` in your language, contact to `airgeddon` staff following the [contributing] instructions.
+
+[contributing]: https://github.com/v1s1t0r1sh3r3/airgeddon/wiki/Contributing
 <!-- Links To Images -->
 [English]: https://raw.githubusercontent.com/v1s1t0r1sh3r3/airgeddon/master/imgs/flags/us.png "English"
 [Spanish]: https://raw.githubusercontent.com/v1s1t0r1sh3r3/airgeddon/master/imgs/flags/es.png "Spanish"
