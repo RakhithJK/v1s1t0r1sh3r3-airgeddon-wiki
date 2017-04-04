@@ -20,6 +20,7 @@
   - Parameterizable timeouts
   - Known WPS PINs attack (bully and reaver), based on online PIN database with auto-update
   - Integration of the most common PIN generation algorithms
+- WEP All-in-One attack (combining different techniques: Chop-Chop, Caffe Latte, ARP Replay, Hirte, Fragmentation, Fake association, etc.)
 - Compatibility with many Linux distributions (see [Requirements] section)
 - Easy targeting and selection in every section
 - Drag and drop files on console window for entering file paths
@@ -28,6 +29,7 @@
 - Multilanguage support and autodetect OS language feature (see [Supported Languages] section)
 - Help hints in every zone/menu for easy use
 - Auto-update. Script checks for newer version if possible
+- Docker container for easy and quick deployment
 
 <!-- Anchors -->
 [Requirements]: https://github.com/v1s1t0r1sh3r3/airgeddon/wiki/Requirements
