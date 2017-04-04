@@ -10,7 +10,7 @@
 		<li>BlackArch 2016.01.10 to 2017.01.28</li>
 		<li>Cyborg Hawk 1.1</li>
 		<li>Debian 7 (Wheezy) and 8 (Jessie)</li>
-		<li>Ubuntu/Xubuntu 15.10, 16.04 and 16.04.1</li>
+		<li>Ubuntu/Xubuntu 15.10 to 16.04.1</li>
 		<li>OpenSUSE Leap 42.1 and 42.2</li>
 		<li>CentOS 6 and 7</li>
 		<li>Gentoo 20160514 and 20160704</li>
