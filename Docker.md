@@ -58,7 +58,7 @@ Evil Twin attacks are using `hostapd` to create fake AP which usually are in con
 
 The easiest way is to launch on host this command:
 
-`airmon-ng check kill` -> This will kill conflicting processes
+`airmon-ng check kill` -> This will kill conflicting processes.
 
 Or if you prefer, you can directly disable `network-manager`. To do this there are several ways. Depending of your Linux distribution the command can change. Some of them:
 
