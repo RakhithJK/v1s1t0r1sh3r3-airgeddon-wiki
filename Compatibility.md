@@ -2,7 +2,7 @@
 
 `airgeddon` was designed under Linux and mainly focused to be run on it. Can be launched on any Linux distribution passing the tools validations. Some of them have been already tested and listed here.
 
-
+<br/>
 <strong>Tested on these compatible Linux distributions</strong>
 <ul>
 	<em>
