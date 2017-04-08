@@ -16,6 +16,6 @@
 
 You can get `airgeddon` also from [npm] repository using the package manager for the JavaScript runtime environment Node.js.
 
-![npm](https://raw.githubusercontent.com/v1s1t0r1sh3r3/airgeddon/docker/imgs/wiki/npm.png) Npm repository
+<img src="https://raw.githubusercontent.com/v1s1t0r1sh3r3/airgeddon/docker/imgs/wiki/npm.png" title="Npm repository"/>
 
 [npm]: https://www.npmjs.com/package/get-airgeddon
