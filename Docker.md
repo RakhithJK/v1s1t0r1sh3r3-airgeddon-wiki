@@ -1,4 +1,4 @@
-<a href="LICENSE.md"><img src="https://raw.githubusercontent.com/v1s1t0r1sh3r3/airgeddon/docker/imgs/banners/airgeddon_docker.png" align="left" hspace="10" vspace="6"></a>
+<img src="https://raw.githubusercontent.com/v1s1t0r1sh3r3/airgeddon/docker/imgs/banners/airgeddon_docker.png" align="left" hspace="10" vspace="6">
 To run a container based on a Docker image to execute `airgeddon`, bear in mind that it should be run on a system running X Window (for example Xorg for Linux or XQuartz for Mac) because it runs xterm windows used for some features. `airgeddon` Docker image is based on Kali Linux.
 
 Below, there are docker run commands as example (for Linux and Mac OSX. Not tested yet in Windows). The image is going to be automatically downloaded from [airgeddon's Dockerhub]/[airgeddon's Dockercloud] and then a Docker container will be be run launching automatically `airgeddon` script inside the container:
