@@ -46,7 +46,7 @@ If you prefer to build your own image, there is a [Dockerfile] present in the pr
 
 **Linux Tips**
 
-Evil Twin attacks are using `hostapd` to create fake AP which usually are in conflict with `network-manager`. Usually (in native mode) `airgeddon` manages all of this stuff to solve process conflicts, but when launched in a Docker container is not possible because the conflicting network-manager is on the Linux host. So, before launching any Evil Twin Attack, be sure of disabling/stopping `network-manager` if you have it installed on Linux host or you'll get an error like this:
+Evil Twin attacks are using `hostapd` to create fake AP which usually are in conflict with `network-manager`. Usually (in native mode) `airgeddon` manages all of this stuff to solve process conflicts, but when launched in a Docker container is not possible because the conflicting network-manager is on the Linux host. So, before launching any Evil Twin Attack, be sure of killing conflicting processes or disabling/stopping `network-manager` if you have it installed on Linux host or you'll get an error like this:
 
     Configuration file: /tmp/ag.hostapd.conf
     nl80211: Could not configure driver mode
@@ -56,6 +56,21 @@ Evil Twin attacks are using `hostapd` to create fake AP which usually are in con
     wlan0: AP-DISABLED 
     hostapd_free_hapd_data: Interface wlan0 wasn't started
 
+The easiest way is to launch on host this command:
+
+`airmon-ng check kill` -> This will kill conflicting processes
+
+Or if you prefer, you can directly disable `network-manager`. To do this there are several ways. Depending of your Linux distribution the command can change. Some of them:
+
+`service network-manager stop` -> Valid for Kali, Backbox, Ubuntu, Debian, Raspbian, Parrot, Cyborg.
+`service NetworkManager stop` -> Valid for SuSE, CentOS, Fedora, Gentoo, Red Hat.
+`systemctl stop NetworkManager.service` -> Valid for Arch, BlackArch, OpenMandriva.
+
+
+    Configuration file: /tmp/ag.hostapd.conf
+    Using interface wlan0 with hwaddr 00:11:22:33:44:55 and ssid "airgeddon-test"
+    wlan0: interface state UNINITIALIZED->ENABLED
+    wlan0: AP-ENABLED
 
 **Mac OSX Tips**
 
