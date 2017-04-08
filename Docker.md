@@ -77,7 +77,8 @@ The goal is to see at `hostapd` window something like this:
 
 You'll need a X window system running on your Mac OSX. You can install [XQuartz], and after installing it, be sure of allowing connections from network clients in preferences as shown on next image:
 <p align="center">
-<img src="https://raw.githubusercontent.com/v1s1t0r1sh3r3/airgeddon/docker/imgs/wiki/x11_preferences_xquartz.png" title="XQuartz preferences">
+	<img src="https://raw.githubusercontent.com/v1s1t0r1sh3r3/airgeddon/docker/imgs/wiki/x11_preferences_xquartz.png" title="XQuartz preferences">
+</p>
 
 After that, you'll need to disable access control or add your ip to the authorized clients list:
 
