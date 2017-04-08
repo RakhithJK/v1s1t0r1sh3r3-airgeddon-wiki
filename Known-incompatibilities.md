@@ -5,7 +5,7 @@
 
 Anyway, you can launch `airgeddon` from _Mac OSX_ using Docker container. Take a look at the [Docker] Wiki section.
 <p align="center">
-	<img src="https://raw.githubusercontent.com/v1s1t0r1sh3r3/airgeddon/docker/imgs/wiki/apple_airgeddon_docker.png" title="Mac OSX docker">
+	<img src="https://raw.githubusercontent.com/v1s1t0r1sh3r3/airgeddon/docker/imgs/wiki/apple_airgeddon_docker.png" title="Mac OSX airgeddon docker">
 </p>
 
 - Incompatible with native _OpenBSD_ and _FreeBSD_. They are Unix systems but they have some differences with Linux
