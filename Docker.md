@@ -8,12 +8,23 @@ Below, there are docker run commands as example (for Linux and Mac. Not tested y
 docker run --rm -ti --name airgeddon --net=host --privileged -p 3000:3000 -v /path/to/some/dir/on/your/host:/io v1s1t0r1sh3r3/airgeddon
 ```
 
+Parameters explanation:
+
+ - `--rm` -> Ephemeral containter. It will be removed on exit.
+ - `-ti` -> Attach pseudo-TTY terminal to the container as interactive.
+ - `--name airgeddon` -> Name for the container.
+ - `--net=host` -> Is needed to have access to the host network interfaces inside the container.
+ - `--privileged` -> Needed to have permissions over network interfaces (mode switching).
+ - `-p 3000:3000` -> Open port to access to BeEF control panel from the host.
+ - `-v /path/to/some/dir/on/your/host:/io` -> It maps a directory from host to the container. Useful to use external files like dictionaries or whatever.
+ - `v1s1t0r1sh3r3/airgeddon` -> Is the name and tag of the image. `v1s1t0r1sh3r3/airgeddon` is the stable version and is the same as `v1s1t0r1sh3r3/airgeddon:latest`. Alternatively you can use `v1s1t0r1sh3r3/airgeddon:beta` or `v1s1t0r1sh3r3/airgeddon:alpha` for development versions.
+
 **Mac**
 ```
 docker run --rm -ti --name airgeddon --net=host --privileged -p 3000:3000 -v /path/to/some/dir/on/your/host:/io -e DISPLAY=$(ifconfig en0 | grep inet | awk '$1=="inet" {print $2}') v1s1t0r1sh3r3/airgeddon
 ```
 
-Parameters explanation:
+Linux Parameters explanation:
 
  - `--rm` -> Ephemeral containter. It will be removed on exit.
  - `-ti` -> Attach pseudo-TTY terminal to the container as interactive.
@@ -25,7 +36,7 @@ Parameters explanation:
  - `-e DISPLAY=$(ifconfig en0 | grep inet | awk '$1=="inet" {print $2}')` -> It overwrites the needed var to connect to local X Window system (It's understood you installed XQuartz for mac). This is not needed for Linux because the Dockerfile already has set DISPLAY=:0 which is valid for Linux.
  - `v1s1t0r1sh3r3/airgeddon` -> Is the name and tag of the image. `v1s1t0r1sh3r3/airgeddon` is the stable version and is the same as `v1s1t0r1sh3r3/airgeddon:latest`. Alternatively you can use `v1s1t0r1sh3r3/airgeddon:beta` or `v1s1t0r1sh3r3/airgeddon:alpha` for development versions.
 
-
+**General Tips**
 
 Don't forget to replace "/path/to/some/dir/on/your/host" with a path of an existing directory of your choice on your host machine. That directory will be the "input/output" point for the script. For example, if you place a dictionary.txt file there, inside the script you must access to it as "/io/dictionary.txt". If you capture a trophy or a Handshake file, save it at "/io/" dir to access it from the host.
 
