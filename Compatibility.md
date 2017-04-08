@@ -1,6 +1,6 @@
 <img src="https://raw.githubusercontent.com/v1s1t0r1sh3r3/airgeddon/docker/imgs/wiki/alien_tux.png" align="left" hspace="10" vspace="6" title="airgeddon Linux"/>
 
-`airgeddon` was designed under Linux and mainly focused to be run on it. Can be launched on any Linux distribution passing the tools validations. Some of them already tested.
+`airgeddon` was designed under Linux and mainly focused to be run on it. Can be launched on any Linux distribution passing the tools validations. Some of them have been already tested and listed here.
 
 <strong>Tested on these compatible Linux distributions</strong>
 <ul>
