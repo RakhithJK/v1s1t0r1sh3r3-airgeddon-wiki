@@ -7,3 +7,5 @@
  iw          | iw                    | &#8901; | awk         | awk \| gawk           
  airmon-ng   | aircrack-ng           | &#8901; | airodump-ng | aircrack-ng           
  aircrack-ng | aircrack-ng           | &#8901; | xterm       | xterm                 
+
+You'll need to pass all the validations at the beginning to be able to use `airgeddon`. This tools are the main core and `airgeddon` can't work without any of them.
