@@ -1,4 +1,5 @@
 ##### Important tips about BeEF
+<img src="https://raw.githubusercontent.com/v1s1t0r1sh3r3/airgeddon/docker/imgs/wiki/beef_logo.png" align="right" hspace="10" vspace="6">
 
  - The right software you must install is **BeEF** (Browser Exploitation Framework). Be careful, do not mistake it with **beef** (Flexible Brainfuck Interpreter). This package has the same name and executable file name on some distributions and can lead into confusion. Anyway, `airgeddon` is able to detect the issue and display a warning if needed. Here is a link to the right [BeEF installation's page].
 
