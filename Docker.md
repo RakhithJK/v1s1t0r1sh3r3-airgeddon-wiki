@@ -50,6 +50,14 @@ You'll need a X window system running. You can install [XQuartz]. And after inst
 
 ![XQuartz Config](https://fredrikaverpil.github.io/blog/assets/docker/xquartz_preferences.png)
 
+After that, you'll need to disable access control or add your ip to the authorized clients list:
+
+`xhost +` -> to disable completely the restriction.
+
+or
+
+`xhost $(ifconfig en0 | grep inet | awk '$1=="inet" {print $2}')` -> to allow only local ip. This is more restrictive and recommended.
+
 [airgeddon's Dockerhub]: https://hub.docker.com/r/v1s1t0r1sh3r3/airgeddon/
 [airgeddon's Dockercloud]: https://cloud.docker.com/app/v1s1t0r1sh3r3/repository/docker/v1s1t0r1sh3r3/airgeddon/general
 [Dockerfile]: https://github.com/v1s1t0r1sh3r3/airgeddon/blob/docker/docker/Dockerfile
