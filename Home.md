@@ -29,7 +29,7 @@
 	<br/>
 	<strong>III. Getting started</strong>
 	<ul>
-		<li><a href="https://github.com/v1s1t0r1sh3r3/airgeddon/wiki/Usage">Usage</a></li>
+		<li><a href="https://github.com/v1s1t0r1sh3r3/airgeddon/wiki/Installation%20&%20Usage">Installation & Usage</a></li>
 		<li><a href="https://github.com/v1s1t0r1sh3r3/airgeddon/wiki/Docker">Docker</a></li>
 		<li><a href="https://github.com/v1s1t0r1sh3r3/airgeddon/wiki/Other%20Sources">Other Sources</a></li>
 	</ul>
