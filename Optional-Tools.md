@@ -12,3 +12,5 @@
  iptables    | iptables                 | &#8901; | bully    | bully                                                
  bettercap   | bettercap                | &#8901; | pixiewps | pixiewps                                             
  beef        | beef-xss \| beef-project | &#8901; | unbuffer | expect \| expect-dev                                 
+
+Checks are done at the beginning to determine if you are able of use some features. They are optional but are recommended to have. `airgeddon` will block you the use of some features if the needed optional tool is not present.
