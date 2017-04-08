@@ -44,9 +44,22 @@ The default language for docker image is English. Once inside, it can be changed
 
 If you prefer to build your own image, there is a [Dockerfile] present in the project.
 
+**Linux Tips**
+
+Evil Twin attacks are using `hostapd` to create fake AP which usually are in conflict with `network-manager`. Usually (in native mode) `airgeddon` manages all of this stuff to solve process conflicts, but when launched in a Docker container is not possible because the conflicting network-manager is on the Linux host. So, before launching any Evil Twin Attack, be sure of disabling/stopping `network-manager` if you have it installed on Linux host or you'll get an error like this:
+
+    Configuration file: /tmp/ag.hostapd.conf
+    nl80211: Could not configure driver mode
+    nl80211: deinit ifname=wlan0 disabled_11b_rates=0
+    nl80211 driver initialization failed.
+    wlan0: interface state UNINITIALIZED->DISABLED
+    wlan0: AP-DISABLED 
+    hostapd_free_hapd_data: Interface wlan0 wasn't started
+
+
 **Mac OSX Tips**
 
-You'll need a X window system running. You can install [XQuartz]. And after installing it, be sure of allowing connections from network clients in preferences as shown on next image:
+You'll need a X window system running on your Mac OSX. You can install [XQuartz], and after installing it, be sure of allowing connections from network clients in preferences as shown on next image:
 <p align="center">
 <img src="https://raw.githubusercontent.com/v1s1t0r1sh3r3/airgeddon/docker/imgs/wiki/x11_preferences_xquartz.png" title="XQuartz preferences">
 
@@ -56,7 +69,7 @@ After that, you'll need to disable access control or add your ip to the authoriz
 
 Or the more recommended:
 
-`xhost $(ifconfig en0 | grep inet | awk '$1=="inet" {print $2}')` -> To allow only local ip, this is more restrictive.
+`xhost $(ifconfig en0 | grep inet | awk '$1=="inet" {print $2}')` -> To allow only local ip, this is more restrictive and secure.
 
 [airgeddon's Dockerhub]: https://hub.docker.com/r/v1s1t0r1sh3r3/airgeddon/
 [airgeddon's Dockercloud]: https://cloud.docker.com/app/v1s1t0r1sh3r3/repository/docker/v1s1t0r1sh3r3/airgeddon/general
