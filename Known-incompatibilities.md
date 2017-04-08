@@ -1,5 +1,5 @@
 - Incompatible with native _Mac OSX_ at the moment.
-  - *Bash version* &#8592; it can be avoided by upgrading it using `brew` or whatever, this is not the real problem :smile:
+  - *Bash version* &#8592; At first sight, Mac OSX has an older Bash version. It can be avoided by upgrading it using `brew` or whatever, this is not the real problem :smile:
   - *Aircrack suite* &#8592; this suite does not support `airodump` and `aireplay` for OSX
   - *Wireless tools* &#8592; `iwconfig` does not exist in OSX, and `airport` command cannot be used. It generates different outputs
 
