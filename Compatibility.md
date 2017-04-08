@@ -22,6 +22,6 @@
 	</em>
 </ul>
 
-If you want to run airgeddon under _Windows_ or _Mac OSX_, you can use [Docker] container.
+If you want to run airgeddon under any other Operating System, you can use [Docker] container.
 
 [Docker]: https://github.com/v1s1t0r1sh3r3/airgeddon/wiki/Docker
