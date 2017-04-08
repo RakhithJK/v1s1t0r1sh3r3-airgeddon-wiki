@@ -62,10 +62,11 @@ The easiest way is to launch on host this command:
 
 Or if you prefer, you can directly disable `network-manager`. To do this there are several ways. Depending of your Linux distribution the command can change. Some of them:
 
-`service network-manager stop` -> Valid for Kali, Backbox, Ubuntu, Debian, Raspbian, Parrot, Cyborg.
-`service NetworkManager stop` -> Valid for SuSE, CentOS, Fedora, Gentoo, Red Hat.
-`systemctl stop NetworkManager.service` -> Valid for Arch, BlackArch, OpenMandriva.
+`service network-manager stop` -> Valid for Kali, Backbox, Ubuntu, Debian, Raspbian, Parrot and Cyborg.<br/>
+`service NetworkManager stop` -> Valid for SuSE, CentOS, Fedora, Gentoo and Red Hat.<br/>
+`systemctl stop NetworkManager.service` -> Valid for Arch, BlackArch and OpenMandriva.<br/>
 
+The goal is to see at `hostapd` window something like this:
 
     Configuration file: /tmp/ag.hostapd.conf
     Using interface wlan0 with hwaddr 00:11:22:33:44:55 and ssid "airgeddon-test"
