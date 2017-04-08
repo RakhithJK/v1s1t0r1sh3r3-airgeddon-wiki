@@ -47,8 +47,9 @@ If you prefer to build your own image, there is a [Dockerfile] present in the pr
 **Mac OSX Tips**
 
 You'll need a X window system running. You can install [XQuartz]. And after installing it, be sure of allowing connections from network clients in preferences as shown on next image:
-
+<p align="center">
 ![XQuartz Config](https://raw.githubusercontent.com/v1s1t0r1sh3r3/airgeddon/docker/imgs/wiki/x11_preferences_xquartz.png)
+</p>
 
 After that, you'll need to disable access control or add your ip to the authorized clients list:
 
