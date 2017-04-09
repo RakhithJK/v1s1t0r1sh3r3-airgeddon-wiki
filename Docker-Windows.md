@@ -27,9 +27,13 @@ Parameters explanation:
  - `-e DISPLAY=$(route print | grep 0.0.0.0 | awk '{print $4}' | head -n 1)` -> It overwrites the needed var to connect to local X Window system (It's understood you installed Xming for Windows).
  - `v1s1t0r1sh3r3/airgeddon` -> Is the name and tag of the image. `v1s1t0r1sh3r3/airgeddon` is the stable version and is the same as `v1s1t0r1sh3r3/airgeddon:latest`. Alternatively you can use `v1s1t0r1sh3r3/airgeddon:beta` or `v1s1t0r1sh3r3/airgeddon:alpha` for development versions.
 
-**Windows Tips**
+### Windows Tips
+
+#### Volume mapping
 
 Don't forget to replace on docker command the string "/path/to/some/dir/on/your/host" with a path of an existing directory of your choice on your host machine. That directory will be the "input/output" point for the script. For example, if you place a dictionary.txt file there, inside the script you must access to it as "/io/dictionary.txt". If you capture a trophy or a Handshake file, save it at "/io/" dir to access it from the host.
+
+#### X Windows system
 
 You'll need a X Window system running on your Windows. You can install [Xming], and after installing it, be sure of allowing connections from network clients in preferences as shown on next images:
 <p align="center">
