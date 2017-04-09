@@ -29,5 +29,6 @@ You'll need a X Window system running on your Windows. You can install [Xming], 
 	<img src="https://raw.githubusercontent.com/v1s1t0r1sh3r3/airgeddon/docker/imgs/wiki/xming3.png" title="Xming config 3">
 </p>
 
+Is important to let the display number in 0 as shown in the first image.
 [Xming]: http://www.straightrunning.com/XmingNotes/
 
