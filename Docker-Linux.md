@@ -1,5 +1,3 @@
-**Docker Linux**
-
 The recommended docker run command to be run under Linux host is:
 
 ```
