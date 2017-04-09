@@ -27,9 +27,13 @@ Parameters explanation:
  - `-e DISPLAY=$(ifconfig en0 | grep inet | awk '$1=="inet" {print $2}')` -> It overwrites the needed var to connect to local X Window system (It's understood you installed XQuartz for Mac).
  - `v1s1t0r1sh3r3/airgeddon` -> Is the name and tag of the image. `v1s1t0r1sh3r3/airgeddon` is the stable version and is the same as `v1s1t0r1sh3r3/airgeddon:latest`. Alternatively you can use `v1s1t0r1sh3r3/airgeddon:beta` or `v1s1t0r1sh3r3/airgeddon:alpha` for development versions.
 
-**Mac OSX Tips**
+### Mac OSXTips
+
+#### Volume mapping
 
 Don't forget to replace on docker command the string "/path/to/some/dir/on/your/host" with a path of an existing directory of your choice on your host machine. That directory will be the "input/output" point for the script. For example, if you place a dictionary.txt file there, inside the script you must access to it as "/io/dictionary.txt". If you capture a trophy or a Handshake file, save it at "/io/" dir to access it from the host.
+
+#### X Window system
 
 You'll need a X Window system running on your Mac OSX. You can install [XQuartz], and after installing it, be sure of allowing connections from network clients in preferences as shown on next image:
 <p align="center">
