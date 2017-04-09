@@ -12,10 +12,6 @@ The default language for docker image is English. Once inside, it can be changed
 
 If you prefer to build your own image, there is a [Dockerfile] present in the project.
 
-**General Tip (valid for any host type)**
-
-Don't forget to replace on docker command the string "/path/to/some/dir/on/your/host" with a path of an existing directory of your choice on your host machine. That directory will be the "input/output" point for the script. For example, if you place a dictionary.txt file there, inside the script you must access to it as "/io/dictionary.txt". If you capture a trophy or a Handshake file, save it at "/io/" dir to access it from the host.
-
 [Linux]: https://github.com/v1s1t0r1sh3r3/airgeddon/wiki/Docker%20Linux
 [Mac OSX]: https://github.com/v1s1t0r1sh3r3/airgeddon/wiki/Docker%20Mac%20OSX
 [Windows]: https://github.com/v1s1t0r1sh3r3/airgeddon/wiki/Docker%20Windows
