@@ -1,4 +1,4 @@
-#### This is in alpha version. The part of connecting to X Window system is working. Investigating yet how to connect wireless interfaces into docker container.
+### This is under development. For now, only image with alpha tag is available at Dockerhub. The part of connecting to X Window system is working. Investigating yet how to connect wireless interfaces into docker container.
 
 The recommended docker run command to be run under Windows host is:
 
