@@ -3,7 +3,16 @@
 The recommended docker run command to be run under Mac OSX host is:
 
 ```
-docker run --rm -ti --name airgeddon --net=host --privileged -p 3000:3000 -v /path/to/some/dir/on/your/host:/io -e DISPLAY=$(ifconfig en0 | grep inet | awk '$1=="inet" {print $2}') v1s1t0r1sh3r3/airgeddon
+docker run \
+       --rm \
+       -ti \
+       --name airgeddon \
+       --net=host \
+       --privileged \
+       -p 3000:3000 \
+       -v /path/to/some/dir/on/your/host:/io \
+       -e DISPLAY=$(ifconfig en0 | grep inet | awk '$1=="inet" {print $2}') \
+       v1s1t0r1sh3r3/airgeddon
 ```
 
 Parameters explanation:
