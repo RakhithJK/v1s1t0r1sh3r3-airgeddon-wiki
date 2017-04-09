@@ -1,3 +1,5 @@
+### This is under development. For now, only image with alpha tag is available at Dockerhub
+
 The recommended docker run command to be run under Linux host is:
 
 ```
