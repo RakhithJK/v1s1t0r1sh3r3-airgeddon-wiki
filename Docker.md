@@ -1,6 +1,8 @@
 <img src="https://raw.githubusercontent.com/v1s1t0r1sh3r3/airgeddon/docker/imgs/banners/airgeddon_docker.png" align="left" hspace="10" vspace="6" title="airgeddon loves docker"/>
 
-To run a container based on a Docker image to execute `airgeddon`, bear in mind that it should be run on a system running X Window (for example Xorg for Linux, XQuartz for Mac or XMing for Windows) because it runs xterm windows used for some features. `airgeddon` Docker image is based on Kali Linux.
+`airgeddon` Docker image is based on Kali Linux.
+
+To run a container based on a Docker image to execute `airgeddon`, bear in mind that it should be run on a system running X Window (for example Xorg for Linux, XQuartz for Mac or XMing for Windows) because it runs xterm windows used for some features.
 
 Depending of the Operating System of your host, check the corresponding section to see the recommended docker run command. The image is going to be automatically downloaded from [airgeddon's Dockerhub] and then a Docker container will be be run launching automatically `airgeddon` script inside it:
 
