@@ -2,7 +2,7 @@
 
 To run a container based on a Docker image to execute `airgeddon`, bear in mind that it should be run on a system running X Window (for example Xorg for Linux, XQuartz for Mac or XMing for Windows) because it runs xterm windows used for some features. `airgeddon` Docker image is based on Kali Linux.
 
-Below, there are docker run commands as example (for Linux and Mac OSX. Not tested yet in Windows). The image is going to be automatically downloaded from [airgeddon's Dockerhub]/[airgeddon's Dockercloud] and then a Docker container will be be run launching automatically `airgeddon` script inside the container:
+Below, there are docker run commands as example (for Linux and Mac OSX. Not tested yet in Windows). The image is going to be automatically downloaded from [airgeddon's Dockerhub] and then a Docker container will be be run launching automatically `airgeddon` script inside it:
 
 **Linux**
 ```
@@ -90,6 +90,5 @@ Or the more recommended:
 `xhost $(ifconfig en0 | grep inet | awk '$1=="inet" {print $2}')` -> To allow only local ip, this is more restrictive and secure.
 
 [airgeddon's Dockerhub]: https://hub.docker.com/r/v1s1t0r1sh3r3/airgeddon/
-[airgeddon's Dockercloud]: https://cloud.docker.com/app/v1s1t0r1sh3r3/repository/docker/v1s1t0r1sh3r3/airgeddon/general
 [Dockerfile]: https://github.com/v1s1t0r1sh3r3/airgeddon/blob/docker/docker/Dockerfile
 [XQuartz]: https://www.xquartz.org/
