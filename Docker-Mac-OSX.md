@@ -11,7 +11,7 @@ docker run \
        --privileged \
        -p 3000:3000 \
        -v /path/to/some/dir/on/your/host:/io \
-       -e DISPLAY=$(ifconfig en0 | grep inet | awk '$1=="inet" {print $2}') \
+       -e DISPLAY=$(ifconfig en0 | grep inet | awk '$1=="inet" {print $2}'):0 \
        v1s1t0r1sh3r3/airgeddon
 ```
 
@@ -24,7 +24,7 @@ Parameters explanation:
  - `--privileged` -> Needed to have permissions over network interfaces (mode switching).
  - `-p 3000:3000` -> Open port to access to BeEF control panel from the host.
  - `-v /path/to/some/dir/on/your/host:/io` -> It maps a directory from host to the container. Useful to use external files like dictionaries or whatever.
- - `-e DISPLAY=$(ifconfig en0 | grep inet | awk '$1=="inet" {print $2}')` -> It overwrites the needed var to connect to local X Window system (It's understood you installed XQuartz for Mac).
+ - `-e DISPLAY=$(ifconfig en0 | grep inet | awk '$1=="inet" {print $2}'):0` -> It overwrites the needed var to connect to local X Window system (It's understood you installed XQuartz for Mac).
  - `v1s1t0r1sh3r3/airgeddon` -> Is the name and tag of the image. `v1s1t0r1sh3r3/airgeddon` is the stable version and is the same as `v1s1t0r1sh3r3/airgeddon:latest`. Alternatively you can use `v1s1t0r1sh3r3/airgeddon:beta` or `v1s1t0r1sh3r3/airgeddon:alpha` for development versions.
 
 ### Mac OSX Tips
