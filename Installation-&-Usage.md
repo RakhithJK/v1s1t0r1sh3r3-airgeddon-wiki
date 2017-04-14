@@ -29,7 +29,7 @@ It is essential to run this script as **root**, otherwise `airgeddon` won't work
 		</ul>
 		<li>Go to the newly created directory</li>
 		<ul>
-			<li><code>cd airgeddon</code></li>
+			<li><code>cd airgeddon-master</code></li>
 		</ul>
 		<li>Run it (remove <strong>sudo</strong> if you already have root permissions)</li>
 		<ul>
