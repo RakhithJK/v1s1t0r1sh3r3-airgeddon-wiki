@@ -45,6 +45,7 @@
 		<li><a href="https://github.com/v1s1t0r1sh3r3/airgeddon/wiki/Contributing">Contributing</a></li>
 		<li><a href="https://github.com/v1s1t0r1sh3r3/airgeddon/wiki/Changelog">Changelog</a></li>
 		<li><a href="https://github.com/v1s1t0r1sh3r3/airgeddon/wiki/Disclaimer%20&%20License">Disclaimer & License</a></li>
+		<li><a href="https://github.com/v1s1t0r1sh3r3/airgeddon/wiki/Contact">Contact</a></li>
 	</ul>
 	<br/>
 	<strong>V. Acknowledgments & References</strong>
