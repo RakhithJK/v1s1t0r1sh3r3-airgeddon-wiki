@@ -4,7 +4,7 @@ You can contact to `airgeddon`'s staff in many different ways:
  - By chat on our **#airgeddon** channel at _irc.freenode.net_ IRC server.
 
 <p align="center">
-	<img src="https://raw.githubusercontent.com/v1s1t0r1sh3r3/airgeddon/docker/imgs/wiki/airgeddon_irc.png" title="IRC channel">
+	<img src="https://raw.githubusercontent.com/v1s1t0r1sh3r3/airgeddon/master/imgs/wiki/airgeddon_irc.png" title="IRC channel">
 </p>
 
 [issue]: https://github.com/v1s1t0r1sh3r3/airgeddon/issues/new
