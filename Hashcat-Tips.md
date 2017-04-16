@@ -4,7 +4,7 @@
 
 More info at [Hashcat official's page].
 <p align="center">
-	<img src="https://raw.githubusercontent.com/v1s1t0r1sh3r3/airgeddon/docker/imgs/wiki/hashcat_logo.png" title="Hashcat"/>
+	<img src="https://raw.githubusercontent.com/v1s1t0r1sh3r3/airgeddon/master/imgs/wiki/hashcat_logo.png" title="Hashcat"/>
 </p>
 
 [Hashcat official's page]: https://hashcat.net/hashcat/
