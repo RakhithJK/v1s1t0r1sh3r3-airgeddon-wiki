@@ -18,4 +18,4 @@ If you prefer to build your own image, there is a [Dockerfile] present in the pr
 [Mac OSX]: https://github.com/v1s1t0r1sh3r3/airgeddon/wiki/Docker%20Mac%20OSX
 [Windows]: https://github.com/v1s1t0r1sh3r3/airgeddon/wiki/Docker%20Windows
 [airgeddon's Dockerhub]: https://hub.docker.com/r/v1s1t0r1sh3r3/airgeddon/
-[Dockerfile]: https://github.com/v1s1t0r1sh3r3/airgeddon/blob/docker/docker/Dockerfile
+[Dockerfile]: https://github.com/v1s1t0r1sh3r3/airgeddon/blob/master/Dockerfile
