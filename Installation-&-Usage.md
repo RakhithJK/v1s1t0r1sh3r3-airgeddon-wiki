@@ -50,6 +50,6 @@ Even with no initial errors, they will appear later. Always launch with **bash**
 
 #### Installing from binaries
 
-There are existing binaries. You can download [latest deb package for Kali Linux]. You can install it using `dpkg -i airgeddon_x.x-x_all.deb`. Of course you must change "x" for the right downloaded version file. It will check the dependencies (essential tools) before install.
+There are existing binaries for `airgeddon`. You can download [latest deb package for Kali Linux]. You can install it using `dpkg -i airgeddon_x.x-x_all.deb`. Of course you must change "x" for the right downloaded version file. It will check the dependencies (essential tools) before install.
 
 [latest deb package for Kali Linux]: https://github.com/v1s1t0r1sh3r3/airgeddon/tree/master/binaries/kali
