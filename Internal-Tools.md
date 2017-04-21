@@ -5,6 +5,7 @@
  xdpyinfo | x11-utils \| xdpyinfo \| xorg-xdpyinfo
  ethtool  | ethtool                                
  lspci    | pciutils                               
+ lsusb    | usbutils                               
  rfkill   | rfkill                                 
 
 It is highly recommended to have the internal tools installed. These tools are not checked as validation at the beginning. They improve functionality and performance. For example, `xdpyinfo` allows the script to detect the display resolution in order to print on windows in a better way (size and position).
