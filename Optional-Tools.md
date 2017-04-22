@@ -1,4 +1,4 @@
-#### Optional tools &#8592; Not necessary to work, only needed for some features
+#### Not necessary to work, only needed for some features
 
  Command     | Possible package name    | &#8901; | Command  | Possible package name                                
 :------------|:-------------------------|:-------:|:---------|:-----------------------------------------------------
@@ -13,4 +13,4 @@
  bettercap   | bettercap                | &#8901; | pixiewps | pixiewps                                             
  beef        | beef-xss \| beef-project | &#8901; | unbuffer | expect \| expect-dev                                 
 
-Checkings are done at the beginning to determine if you are able to use some features. They are optional but are recommended to have. `airgeddon` will block you the use of some features if the needed optional tool is not present.
+Appropriate checks are done at the beginning to determine if you are able to use some features. Optional but recommended to have. airgeddon will block the ability to use some features if the needed optional tool is not present.
