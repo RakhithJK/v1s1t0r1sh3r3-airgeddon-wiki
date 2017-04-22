@@ -6,6 +6,8 @@ This page lists all the Linux distributions and repositories in which airgeddon 
 | ![BlackArch](https://raw.githubusercontent.com/v1s1t0r1sh3r3/airgeddon/master/imgs/wiki/blackarch_linux.png) | [2017.01.28 or later] |
 | ![Wifislax](https://raw.githubusercontent.com/v1s1t0r1sh3r3/airgeddon/master/imgs/wiki/wifislax_linux.png) | [4.12, 64-1.0 or later] |
 
+***
+
 ### Arch Linux
 
 `yaourt -S airgeddon-git`
