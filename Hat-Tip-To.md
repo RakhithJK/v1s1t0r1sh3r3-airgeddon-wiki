@@ -1,12 +1,12 @@
 #### Collaborators
 
-- [Kcdtv] for French translations, beta testing, suggestions about new features and support received since the beginning, <br/>
-- **USUARIONUEVO** for helping me to improve the script, suggestions about new features and for the support received, <br/>
-- **El padrino** and [cLn] for Catalan translations, <br/>
-- [Luan] for Portuguese translations, <br/>
-- [MiAl] for Russian translations, <br/>
-- [xtonousou] for Greek translations, beta testing, suggestions, the help received fixing code warnings and other stuff, <br/>
-- [OscarAkaElvis] for allowing me to own his body when I visit the earth.
+- [Kcdtv] for French translations, beta testing, suggestions about new features and support received since the beginning
+- **USUARIONUEVO** for helping me to improve the script, suggestions about new features and for the support received
+- **El padrino** and [cLn] for Catalan translations
+- [Luan] for Portuguese translations
+- [MiAl] for Russian translations
+- [xtonousou] for Greek translations, beta testing, suggestions, the help received fixing code warnings and other stuff
+- [OscarAkaElvis] for allowing me to own his body when I visit the earth
 
 #### Others
 
