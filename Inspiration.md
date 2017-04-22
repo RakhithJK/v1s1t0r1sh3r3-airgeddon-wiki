@@ -1,4 +1,4 @@
-This page lists the authors who inspired me with their tools. Make sure to sort the list alphabetically and keep the list up-to-date.
+This page lists the authors who inspired me with their tools.
 
 - MI1 &#8594; Airstorm
 - [MatToufoutu] &#8594; Ap-fucker
