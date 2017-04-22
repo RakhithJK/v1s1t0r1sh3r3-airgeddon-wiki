@@ -1,5 +1,5 @@
 [![License File][License File]](https://github.com/v1s1t0r1sh3r3/airgeddon/blob/master/License.md)
-This script is licensed under GPLv3+.
+This script is licensed under GPLv3+
 
 **airgeddon's staff is not responsible of its use in any case**
 
