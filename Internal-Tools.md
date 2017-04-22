@@ -1,4 +1,4 @@
-#### Internal tools &#8592; These are internally checked. Not necessary to work, good to have
+#### These are internally checked. Not necessary to work, good to have
 
  Command  | Possible package name                  
 :---------|:---------------------------------------
