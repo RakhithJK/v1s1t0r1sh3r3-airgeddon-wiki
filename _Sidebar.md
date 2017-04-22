@@ -21,16 +21,16 @@
       - [Windows]
     - [Other Sources]
 
-**IV. Project & Development**
-- [Supported Languages]
-- [Contributing]
-- [Changelog]
-- [Disclaimer & License]
-- [Contact]
+  - Project & Development
+    - [Supported Languages]
+    - [Contributing]
+    - [Changelog]
+    - [Disclaimer & License]
+    - [Contact]
 
-**V. Acknowledgments & References**
-- [Hat Tip To]
-- [Inspiration]
+  - Acknowledgments & References
+    - [Hat Tip To]
+    - [Inspiration]
 
 [Content]: https://github.com/v1s1t0r1sh3r3/airgeddon/wiki
 [Features]: https://github.com/v1s1t0r1sh3r3/airgeddon/wiki/Features
