@@ -1,25 +1,25 @@
-  - I. Content & Features**
+  - Content & Features
     - [Content]
     - [Features]
 
-**II. Requirements**
-- [Requirements]
-- [Compatibility]
-- [Essential Tools]
-- [Optional Tools]
-  - [BeEF Tips]
-  - [Hashcat Tips]
-- [Update Tools]
-- [Internal Tools]
-- [Known incompatibilities]
+  - Requirements
+    - [Requirements]
+    - [Compatibility]
+    - [Essential Tools]
+    - [Optional Tools]
+      - [BeEF Tips]
+      - [Hashcat Tips]
+    - [Update Tools]
+    - [Internal Tools]
+    - [Known incompatibilities]
 
-**III. Getting started**
-- [Installation & Usage]
-- [Docker]
-  - [Linux]
-  - [Mac OSX]
-  - [Windows]
-- [Other Sources]
+  - Getting Started
+    - [Installation & Usage]
+    - [Docker]
+      - [Linux]
+      - [Mac OSX]
+      - [Windows]
+    - [Other Sources]
 
 **IV. Project & Development**
 - [Supported Languages]
