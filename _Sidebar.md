@@ -1,6 +1,6 @@
-**I. Content & Features**
- - [Content]
- - [Features]
+  - I. Content & Features**
+    - [Content]
+    - [Features]
 
 **II. Requirements**
 - [Requirements]
