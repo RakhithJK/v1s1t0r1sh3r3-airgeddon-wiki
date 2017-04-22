@@ -1,9 +1,9 @@
 - Incompatible with native _Mac OSX_.
-  - *Bash version* &#8592; At first sight, _Mac OSX_ has an older Bash version. It can be avoided by upgrading it using `brew` or whatever, this is not the real problem :smile:
+  - *Bash version* &#8592; Mac OSX has older Bash versions. It can be avoided by upgrading it using `brew` or whatever, this is not the real problem :smile:
   - *Aircrack suite* &#8592; this suite does not support `airodump` and `aireplay` for OSX
   - *Wireless tools* &#8592; `iwconfig` does not exist in OSX, and `airport` command cannot be used. It generates different outputs
 
-Anyway, you can launch `airgeddon` from _Mac OSX_ using Docker container (is in alpha phase). Take a look at the [Docker] Wiki section.
+Anyway, you can run airgeddon on _Mac OSX_ using Docker container (is in alpha phase). Take a look at the [Docker] Wiki section.
 <p align="center">
 	<img src="https://raw.githubusercontent.com/v1s1t0r1sh3r3/airgeddon/master/imgs/wiki/apple_airgeddon_docker.png" title="Mac OSX airgeddon docker">
 </p>
