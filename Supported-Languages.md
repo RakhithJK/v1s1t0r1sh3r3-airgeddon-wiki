@@ -1,15 +1,18 @@
-`airgeddon` is supported in all of these languages:
+This page lists the languages in which `airgeddon` is translated into. Make sure to sort the list alphabetically and keep the list up-to-date.
 
-![English][English] English <br/>
-![Spanish][Spanish] Spanish <br/>
-![French][French] French <br/>
-![Catalan][Catalan] Catalan <br/>
-![Portuguese][Portuguese] Portuguese <br/>
-![Russian][Russian] Russian <br/>
-![Greek][Greek] Greek <br/>
+If you wish to use `airgeddon` but written in your language, contact `airgeddon`'s staff following the [contributing] instructions to get things done.
 
-If you want to see it in your language, contact to `airgeddon` staff following the [contributing] instructions to collaborate translating it.
+`airgeddon` is currently available in
 
+- ![Catalan][Catalan] Catalan
+- ![English][English] English
+- ![French][French] French
+- ![Greek][Greek] Greek
+- ![Portuguese][Portuguese] Portuguese
+- ![Russian][Russian] Russian
+- ![Spanish][Spanish] Spanish
+
+<!-- Links To WiKi -->
 [contributing]: https://github.com/v1s1t0r1sh3r3/airgeddon/wiki/Contributing
 <!-- Links To Images -->
 [English]: https://raw.githubusercontent.com/v1s1t0r1sh3r3/airgeddon/master/imgs/flags/us.png "English"
