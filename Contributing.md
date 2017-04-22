@@ -1,11 +1,11 @@
-You can contribute to `airgeddon` in many different ways:
+You can contribute to `airgeddon` by
 
- - Translations into other languages
- - More distribution support compatibility
- - New features
- - More WPS pins for the database
- - Testing and feedback
- - Making a donation
+ - Translating into other languages
+ - Adding more distribution support compatibility
+ - Adding and suggesting new features
+ - Adding and improving WPS pins on the database
+ - Testing and sending feedback
+ - Donating
 
 Read the [Contributing File] for more details on the process of project collaborating and on our code of conduct.
 
