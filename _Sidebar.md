@@ -1,36 +1,36 @@
-  - Content & Features
-    - [Content]
-    - [Features]
+**Content & Features**
+  - [Content]
+  - [Features]
 
-  - Requirements
-    - [Requirements]
-    - [Compatibility]
-    - [Essential Tools]
-    - [Optional Tools]
-      - [BeEF Tips]
-      - [Hashcat Tips]
-    - [Update Tools]
-    - [Internal Tools]
-    - [Known incompatibilities]
+**Requirements**
+  - [Requirements]
+  - [Compatibility]
+  - [Essential Tools]
+  - [Optional Tools]
+    - [BeEF Tips]
+    - [Hashcat Tips]
+  - [Update Tools]
+  - [Internal Tools]
+  - [Known incompatibilities]
 
-  - Getting Started
-    - [Installation & Usage]
-    - [Docker]
-      - [Linux]
-      - [Mac OSX]
-      - [Windows]
-    - [Other Sources]
+**Getting started**
+  - [Installation & Usage]
+  - [Docker]
+    - [Linux]
+    - [Mac OSX]
+    - [Windows]
+  - [Other Sources]
 
-  - Project & Development
-    - [Supported Languages]
-    - [Contributing]
-    - [Changelog]
-    - [Disclaimer & License]
-    - [Contact]
+**Project & Development**
+  - [Supported Languages]
+  - [Contributing]
+  - [Changelog]
+  - [Disclaimer & License]
+  - [Contact]
 
-  - Acknowledgments & References
-    - [Hat Tip To]
-    - [Inspiration]
+**Acknowledgments & References**
+  - [Hat Tip To]
+  - [Inspiration]
 
 [Content]: https://github.com/v1s1t0r1sh3r3/airgeddon/wiki
 [Features]: https://github.com/v1s1t0r1sh3r3/airgeddon/wiki/Features
