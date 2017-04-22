@@ -12,7 +12,7 @@ This page lists all the Linux distributions and repositories in which airgeddon 
 
 `yaourt -S airgeddon-git`
 
-### NPM package
+### NPM
 
 1. `npm install -g get-airgeddon` with root permissions
 2. Run `get-airgeddon -b`
