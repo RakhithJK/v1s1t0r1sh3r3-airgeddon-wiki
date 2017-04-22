@@ -1,8 +1,8 @@
-This page lists the languages in which `airgeddon` is translated into. Make sure to sort the list alphabetically and keep the list up-to-date.
+This page lists the languages in which airgeddon is translated into. Make sure to sort the list alphabetically and keep the list up-to-date.
 
-If you wish to use `airgeddon` but written in your language, contact `airgeddon`'s staff following the [contributing] instructions to get things done.
+If you wish to use airgeddon but written in your language, contact airgeddon's staff following the [contributing] instructions to get things done.
 
-`airgeddon` is currently available in
+airgeddon is currently available in
 
 - ![Catalan][Catalan] Catalan
 - ![English][English] English
