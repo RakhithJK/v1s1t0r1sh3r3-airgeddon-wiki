@@ -13,14 +13,14 @@ docker run --rm \
 
 Parameters explanation:
 
- - `--rm` -> Ephemeral containter. It will be removed on exit.
- - `-ti` -> Attach pseudo-TTY terminal to the container as interactive.
- - `--name airgeddon` -> Name for the container.
- - `--net=host` -> Is needed to have access to the host network interfaces inside the container.
- - `--privileged` -> Needed to have permissions over network interfaces (mode switching).
- - `-p 3000:3000` -> Open port to access to BeEF control panel from the host.
- - `-v /path/to/some/dir/on/your/host:/io` -> It maps a directory from host to the container. Useful to use external files like dictionaries or whatever.
- - `v1s1t0r1sh3r3/airgeddon` -> Is the name and tag of the image. `v1s1t0r1sh3r3/airgeddon` is the stable version and is the same as `v1s1t0r1sh3r3/airgeddon:latest`. Alternatively you can use `v1s1t0r1sh3r3/airgeddon:beta` or `v1s1t0r1sh3r3/airgeddon:alpha` for development versions.
+ - `--rm` &#8594; Ephemeral containter. It will be removed on exit.
+ - `-ti` &#8594; Attach pseudo-TTY terminal to the container as interactive.
+ - `--name airgeddon` &#8594; Name for the container.
+ - `--net=host` &#8594; Is needed to have access to the host network interfaces inside the container.
+ - `--privileged` &#8594; Needed to have permissions over network interfaces (mode switching).
+ - `-p 3000:3000` &#8594; Open port to access to BeEF control panel from the host.
+ - `-v /path/to/some/dir/on/your/host:/io` &#8594; It maps a directory from host to the container. Useful to use external files like dictionaries or whatever.
+ - `v1s1t0r1sh3r3/airgeddon` &#8594; Is the name and tag of the image. `v1s1t0r1sh3r3/airgeddon` is the stable version and is the same as `v1s1t0r1sh3r3/airgeddon:latest`. Alternatively you can use `v1s1t0r1sh3r3/airgeddon:beta` or `v1s1t0r1sh3r3/airgeddon:alpha` for development versions.
 
 ### Linux Tips
 
@@ -42,13 +42,13 @@ Evil Twin attacks are using `hostapd` to create fake AP which usually are in con
 
 The easiest way is to launch on host this command:
 
-`airmon-ng check kill` -> This will kill conflicting processes.
+`airmon-ng check kill` &#8594; This will kill conflicting processes.
 
-Or if you prefer, you can directly disable `network-manager`. To do this there are several ways. Depending of your Linux distribution the command can change. Some of them:
+Or if you prefer, you can directly disable `network-manager`. To do this there are several ways. Depending on your Linux distribution the command may vary. Some of them are:
 
-`service network-manager stop` -> Valid for Kali, Backbox, Ubuntu, Debian, Raspbian, Parrot and Cyborg.<br/>
-`service NetworkManager stop` -> Valid for SuSE, CentOS, Fedora, Gentoo and Red Hat.<br/>
-`systemctl stop NetworkManager.service` -> Valid for Arch, BlackArch and OpenMandriva.<br/>
+`service network-manager stop` &#8594; Valid for Kali, Backbox, Ubuntu, Debian, Raspbian, Parrot and Cyborg.<br/>
+`service NetworkManager stop` &#8594; Valid for SuSE, CentOS, Fedora, Gentoo and Red Hat.<br/>
+`systemctl stop NetworkManager.service` &#8594; Valid for Arch, BlackArch and OpenMandriva.<br/>
 
 The goal is to see at `hostapd` window something like this:
 
