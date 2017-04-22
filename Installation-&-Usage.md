@@ -1,10 +1,12 @@
-### Getting Started
-
 It is essential to run this script as **root**, otherwise `airgeddon` won't work properly.
+
+***
+
+### Generic installation
 
 <details open>
 	<summary><strong>Installation method 1</strong></summary>
-	<i>(easiest). Requirements: git</i>
+	<sub>(easiest) Requirements: <code>git</code></sub>
 	<ul>
 		<li>Clone the repository</li>
 		<ul>
@@ -22,7 +24,7 @@ It is essential to run this script as **root**, otherwise `airgeddon` won't work
 </details>
 <details open>
 	<summary><strong>Installation method 2</strong></summary>
-	<i>(alternative). Requirements: wget, unzip</i>
+	<sub>(alternative) Requirements: <code>wget</code> <code>unzip</code></sub>
 	<ul>
 		<li>Download files</li>
 		<ul>
@@ -43,13 +45,32 @@ It is essential to run this script as **root**, otherwise `airgeddon` won't work
 	</ul>
 </details>
 
-`airgeddon` should be launched with **bash** `bash /path/to/airgeddon.sh` and not with `sh` or any other kind of shell. <br/>
+airgeddon should be launched with **bash** `bash /path/to/airgeddon.sh` and not with **sh** or any other kind of shell
+
 
 If you launch the script using another shell, there will be *Syntax errors* and faulty results.
 Even with no initial errors, they will appear later. Always launch with **bash**!
 
-#### Installing from binaries
+### Binary installation
 
-There are existing binaries for `airgeddon`. You can download [latest deb package for Kali Linux]. You can install it using `dpkg -i airgeddon_x.x-x_all.deb`. Of course you must change "x" for the right downloaded version file. It will check the dependencies (essential tools) before install.
+This section lists the binaries that are available for you to download and install airgeddon. Make sure to sort the list alphabetically and keep the list up-to-date.
+
+<!-- Should change versioning scheme sometime -->
+<!-- Uncomment this section after the next merge into master 04/23
+- Arch Linux
+  1. Download the [latest tarball for Arch Linux]
+  2. Install it using `pacman -U airgeddon-git-rxxx.xxxxxxx-y.y-any.pkg.tar.xz`
+
+- Kali Linux
+  1. Download the [latest deb package for Kali Linux]
+  2. Install it using `dpkg -i airgeddon_x.x-x_all.deb`
+
+[latest tarball for Arch Linux]: https://github.com/v1s1t0r1sh3r3/airgeddon/tree/master/binaries/arch
+[latest deb package for Kali Linux]: https://github.com/v1s1t0r1sh3r3/airgeddon/tree/master/binaries/kali
+-->
+
+- Kali Linux
+  1. Download the [latest deb package for Kali Linux]
+  2. Install it using `dpkg -i airgeddon_x.x-x_all.deb`
 
 [latest deb package for Kali Linux]: https://github.com/v1s1t0r1sh3r3/airgeddon/tree/master/binaries/kali
