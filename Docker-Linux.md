@@ -30,7 +30,7 @@ Don't forget to replace on docker command the string "/path/to/some/dir/on/your/
 
 #### Hostapd possible conflict with host network-manager
 
-Evil Twin attacks are using `hostapd` to create fake AP which usually are in conflict with `network-manager`. In native mode `airgeddon` handle this to solve process conflicts, but when launched in a Docker container is not possible because the conflicting network-manager is on the Linux host (not on container). So, before launching any Evil Twin Attack, be sure of killing conflicting processes or disabling/stopping `network-manager` if you have it installed on Linux host or you'll get an error like this:
+Evil Twin attacks are using `hostapd` to create fake AP which usually are in conflict with `network-manager`. In native mode `airgeddon` handle this to solve process conflicts, but when launched in a Docker container is not possible because the conflicting network-manager is on the Linux host (not on container). Anyway, `airgeddon` will show you a warning as a reminder of this while running on Docker before launch `hostpad`. So, before launching any Evil Twin Attack, be sure of killing conflicting processes or disabling/stopping `network-manager` if you have it installed on Linux host or you'll get an error like this:
 
     Configuration file: /tmp/ag.hostapd.conf
     nl80211: Could not configure driver mode
