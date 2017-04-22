@@ -1,13 +1,15 @@
-You can contribute to `airgeddon` by
+You can contribute to airgeddon by
 
- - Translating into other languages
- - Adding more distribution support compatibility
- - Adding and suggesting new features
- - Adding and improving WPS pins on the database
- - Testing and sending feedback
- - Donating
+- Translating into other languages
+- Adding more distribution support compatibility
+- Adding and suggesting new features
+- Adding and improving WPS pins on the database
+- Testing and sending feedback
+- Donating
 
 Read the [Contributing File] for more details on the process of project collaborating and on our code of conduct.
+
+***
 
 If you enjoyed the script, feel free to donate. Support the project through Paypal or sending a fraction of a bitcoin:
 
