@@ -5,8 +5,35 @@
 ![Banner]
 
 ***
-
-- [Content]
+- **Content & Features**
+  - [Content]
+  - [Features]
+- **Requirements**
+  - [Requirements]
+  - [Compatibility]
+  - [Essential Tools]
+  - [Optional Tools]
+    - [BeEF Tips]
+    - [Hashcat Tips]
+  - [Update Tools]
+  - [Internal Tools]
+  - [Known Incompatibilities]
+- **Getting Started**
+  - [Installation & Usage]
+  - [Docker]
+    - [Linux]
+    - [MAC OSX]
+    - [Windows]
+  - [Other Sources]
+- **Project & Development**
+  - [Supported Languages]
+  - [Contributing]
+  - [Changelog]
+  - [Disclaimer & License]
+  - [Contact]
+- **Acknowledgments & References**
+  - [Hat Tip To]
+  - [Inspiration]
 
 <!-- Links to Wiki -->
 [Content]: https://github.com/v1s1t0r1sh3r3/airgeddon/wiki
@@ -19,7 +46,7 @@
 [Hashcat Tips]: https://github.com/v1s1t0r1sh3r3/airgeddon/wiki/Hashcat%20Tips
 [Update Tools]: https://github.com/v1s1t0r1sh3r3/airgeddon/wiki/Update%20Tools
 [Internal Tools]: https://github.com/v1s1t0r1sh3r3/airgeddon/wiki/Internal%20Tools
-[Known Incompatibilities]: https://github.com/v1s1t0r1sh3r3/airgeddon/wiki/Known%20incompatibilities
+[Known Incompatibilities]: https://github.com/v1s1t0r1sh3r3/airgeddon/wiki/Known%20Incompatibilities
 [Installation & Usage]: https://github.com/v1s1t0r1sh3r3/airgeddon/wiki/Installation%20&%20Usage
 [Docker]: https://github.com/v1s1t0r1sh3r3/airgeddon/wiki/Docker
 [Linux]: https://github.com/v1s1t0r1sh3r3/airgeddon/wiki/Docker%20Linux
