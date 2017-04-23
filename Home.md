@@ -3,76 +3,36 @@
 > This is a multi-use bash script for Linux systems to audit wireless networks.
 
 ![Banner]
----
-<strong>Table of contents</strong>
-<ul>
-	<strong>I. Content & Features</strong>
-	<ul>
-		<li><a href="https://github.com/v1s1t0r1sh3r3/airgeddon/wiki">Content</a></li>
-		<li><a href="https://github.com/v1s1t0r1sh3r3/airgeddon/wiki/Features">Features</a></li>
-	</ul>
-	<br/>
-	<strong>II. Requirements</strong>
-	<ul>
-		<li><a href="https://github.com/v1s1t0r1sh3r3/airgeddon/wiki/Requirements">Requirements</a></li>
-		<li><a href="https://github.com/v1s1t0r1sh3r3/airgeddon/wiki/Compatibility">Compatibility</a></li>
-		<li><a href="https://github.com/v1s1t0r1sh3r3/airgeddon/wiki/Essential%20Tools">Essential Tools</a></li>
-		<li><a href="https://github.com/v1s1t0r1sh3r3/airgeddon/wiki/Optional%20Tools">Optional Tools</a></li>
-		<ul>
-			<li><a href="https://github.com/v1s1t0r1sh3r3/airgeddon/wiki/BeEF%20Tips">BeEF Tips</a></li>
-			<li><a href="https://github.com/v1s1t0r1sh3r3/airgeddon/wiki/Hashcat%20Tips">Hashcat Tips</a></li>
-		</ul>
-		<li><a href="https://github.com/v1s1t0r1sh3r3/airgeddon/wiki/Update%20Tools">Update Tools</a></li>
-		<li><a href="https://github.com/v1s1t0r1sh3r3/airgeddon/wiki/Internal%20Tools">Internal Tools</a></li>
-		<li><a href="https://github.com/v1s1t0r1sh3r3/airgeddon/wiki/Known%20incompatibilities">Known incompatibilities</a></li>
-	</ul>
-	<br/>
-	<strong>III. Getting started</strong>
-	<ul>
-		<li><a href="https://github.com/v1s1t0r1sh3r3/airgeddon/wiki/Installation%20&%20Usage">Installation & Usage</a></li>
-		<li><a href="https://github.com/v1s1t0r1sh3r3/airgeddon/wiki/Docker">Docker</a></li>
-		<ul>
-			<li><a href="https://github.com/v1s1t0r1sh3r3/airgeddon/wiki/Docker%20Linux">Linux</a></li>
-			<li><a href="https://github.com/v1s1t0r1sh3r3/airgeddon/wiki/Docker%20Mac%20OSX">Mac OSX</a></li>
-			<li><a href="https://github.com/v1s1t0r1sh3r3/airgeddon/wiki/Docker%20Windows">Windows</a></li>
-		</ul>
-		<li><a href="https://github.com/v1s1t0r1sh3r3/airgeddon/wiki/Other%20Sources">Other Sources</a></li>
-	</ul>
-	<br/>
-	<strong>IV. Project & Development</strong>
-	<ul>
-		<li><a href="https://github.com/v1s1t0r1sh3r3/airgeddon/wiki/Supported%20Languages">Supported Languages</a></li>
-		<li><a href="https://github.com/v1s1t0r1sh3r3/airgeddon/wiki/Contributing">Contributing</a></li>
-		<li><a href="https://github.com/v1s1t0r1sh3r3/airgeddon/wiki/Changelog">Changelog</a></li>
-		<li><a href="https://github.com/v1s1t0r1sh3r3/airgeddon/wiki/Disclaimer%20&%20License">Disclaimer & License</a></li>
-		<li><a href="https://github.com/v1s1t0r1sh3r3/airgeddon/wiki/Contact">Contact</a></li>
-	</ul>
-	<br/>
-	<strong>V. Acknowledgments & References</strong>
-	<ul>
-		<li><a href="https://github.com/v1s1t0r1sh3r3/airgeddon/wiki/Hat%20Tip%20To">Hat Tip To</a></li>
-		<li><a href="https://github.com/v1s1t0r1sh3r3/airgeddon/wiki/Inspiration">Inspiration</a></li>
-	</ul>
-</ul>
+
+***
+
+- [Content]
+
 <!-- Links to Wiki -->
 [Content]: https://github.com/v1s1t0r1sh3r3/airgeddon/wiki
 [Features]: https://github.com/v1s1t0r1sh3r3/airgeddon/wiki/Features
 [Requirements]: https://github.com/v1s1t0r1sh3r3/airgeddon/wiki/Requirements
-[Requirements]: https://github.com/v1s1t0r1sh3r3/airgeddon/wiki/Compatibility
-[Requirements]: https://github.com/v1s1t0r1sh3r3/airgeddon/wiki/Essential%20Tools
-[Requirements]: https://github.com/v1s1t0r1sh3r3/airgeddon/wiki/Optional%20Tools
-[Requirements]: https://github.com/v1s1t0r1sh3r3/airgeddon/wiki/BeEF%20Tips
-[Requirements]: https://github.com/v1s1t0r1sh3r3/airgeddon/wiki/Hashcat%20Tips
+[Compatibility]: https://github.com/v1s1t0r1sh3r3/airgeddon/wiki/Compatibility
+[Essential Tools]: https://github.com/v1s1t0r1sh3r3/airgeddon/wiki/Essential%20Tools
+[Optional Tools]: https://github.com/v1s1t0r1sh3r3/airgeddon/wiki/Optional%20Tools
+[BeEF Tips]: https://github.com/v1s1t0r1sh3r3/airgeddon/wiki/BeEF%20Tips
+[Hashcat Tips]: https://github.com/v1s1t0r1sh3r3/airgeddon/wiki/Hashcat%20Tips
 [Update Tools]: https://github.com/v1s1t0r1sh3r3/airgeddon/wiki/Update%20Tools
-[Update Tools]: https://github.com/v1s1t0r1sh3r3/airgeddon/wiki/Update%20Tools
-[Update Tools]: https://github.com/v1s1t0r1sh3r3/airgeddon/wiki/Update%20Tools
-[Update Tools]: https://github.com/v1s1t0r1sh3r3/airgeddon/wiki/Update%20Tools
-[Update Tools]: https://github.com/v1s1t0r1sh3r3/airgeddon/wiki/Update%20Tools
-[Update Tools]: https://github.com/v1s1t0r1sh3r3/airgeddon/wiki/Update%20Tools
-[Update Tools]: https://github.com/v1s1t0r1sh3r3/airgeddon/wiki/Update%20Tools
-[Update Tools]: https://github.com/v1s1t0r1sh3r3/airgeddon/wiki/Update%20Tools
-[Update Tools]: https://github.com/v1s1t0r1sh3r3/airgeddon/wiki/Update%20Tools
-[Update Tools]: https://github.com/v1s1t0r1sh3r3/airgeddon/wiki/Update%20Tools
+[Internal Tools]: https://github.com/v1s1t0r1sh3r3/airgeddon/wiki/Internal%20Tools
+[Known Incompatibilities]: https://github.com/v1s1t0r1sh3r3/airgeddon/wiki/Known%20incompatibilities
+[Installation & Usage]: https://github.com/v1s1t0r1sh3r3/airgeddon/wiki/Installation%20&%20Usage
+[Docker]: https://github.com/v1s1t0r1sh3r3/airgeddon/wiki/Docker
+[Linux]: https://github.com/v1s1t0r1sh3r3/airgeddon/wiki/Docker%20Linux
+[MAC OSX]: https://github.com/v1s1t0r1sh3r3/airgeddon/wiki/Docker%20Mac%20OSX
+[Windows]: https://github.com/v1s1t0r1sh3r3/airgeddon/wiki/Docker%20Windows
+[Other Sources]: https://github.com/v1s1t0r1sh3r3/airgeddon/wiki/Other%20Sources
+[Supported Languages]: https://github.com/v1s1t0r1sh3r3/airgeddon/wiki/Supported%20Languages
+[Contributing]: https://github.com/v1s1t0r1sh3r3/airgeddon/wiki/Contributing
+[Changelog]: https://github.com/v1s1t0r1sh3r3/airgeddon/wiki/Changelog
+[Disclaimer & License]: https://github.com/v1s1t0r1sh3r3/airgeddon/wiki/Disclaimer%20&%20License
+[Contact]: https://github.com/v1s1t0r1sh3r3/airgeddon/wiki/Contact
+[Hat Tip To]: https://github.com/v1s1t0r1sh3r3/airgeddon/wiki/Hat%20Tip%20To
+[Inspiration]: https://github.com/v1s1t0r1sh3r3/airgeddon/wiki/Inspiration
 <!-- Links To Images -->
 [Banner]: https://raw.githubusercontent.com/v1s1t0r1sh3r3/airgeddon/master/imgs/banners/airgeddon_banner.png "We will conquer the earth!!"
 <!-- Badges URLs -->
