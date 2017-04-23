@@ -25,9 +25,9 @@ It can run on any Linux distribution that passes the tools validations. Some of 
 - OpenMandriva LX3
 - OpenSUSE Leap 42.1 and 42.2
 - Parrot 2.2.1 to 3.4.1 and arm versions (Raspberry Pi)
-- Raspbian 7 (Wheezy) and 8 (Jessie) (Raspberry Pi)
+- Raspbian 7 (Wheezy) to 9 (Stretch) (Raspberry Pi)
 - Red Hat 7 (Maipo)
-- Ubuntu/Xubuntu 15.10 to 16.04.1
+- Ubuntu/Xubuntu 15.10 to 16.04.2
 - Wifislax 4.11.1, 4.12 and 64-1.0
 
 If you wish to run airgeddon in any Operating System, you can use [Docker] container.
