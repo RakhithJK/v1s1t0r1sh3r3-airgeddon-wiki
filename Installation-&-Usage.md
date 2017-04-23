@@ -59,7 +59,7 @@ This section lists the binaries that are available for you to download and insta
 <!-- Uncomment this section after the next merge into master 04/23
 - Arch Linux
   1. Download the [latest tarball for Arch Linux]
-  2. Install it using `pacman -U airgeddon-git-rxxx.xxxxxxx-y.y-any.pkg.tar.xz`
+  2. Install it using `pacman -U airgeddon-git-x.x-y-any.pkg.tar.xz`
 
 - Kali Linux
   1. Download the [latest deb package for Kali Linux]
