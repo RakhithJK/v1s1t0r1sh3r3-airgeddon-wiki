@@ -16,7 +16,7 @@
 - The forum people of [Seguridadwireless.net], [Wifi-libre.com] and [Lampiweb.com]
 - The [Hackware.ru] admins
 - All the people who helped building the online PIN database for WPS
-- Dominique Bongard for bringing to us the Pixie Dust attacks and [wiire] for creating pixiewps
+- Dominique Bongard for bringing to us the Pixie Dust attacks and [wiire] for creating pixiewps script
 - Zhao Chunsheng and Stefan Viehböck for their wonderful algorithms
 - All the developers who made and designed the third-party tools that `airgeddon` uses
 - [BashSupport] developer [jansorg] for his effort maintaining the Bash plugin for IntelliJ platform
