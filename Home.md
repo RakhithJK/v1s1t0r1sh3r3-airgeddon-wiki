@@ -54,7 +54,23 @@
 		<li><a href="https://github.com/v1s1t0r1sh3r3/airgeddon/wiki/Inspiration">Inspiration</a></li>
 	</ul>
 </ul>
-
+<!-- Links to Wiki -->
+[Content]: https://github.com/v1s1t0r1sh3r3/airgeddon/wiki
+[Features]: https://github.com/v1s1t0r1sh3r3/airgeddon/wiki/Features
+[Requirements]: https://github.com/v1s1t0r1sh3r3/airgeddon/wiki/Requirements
+[Requirements]: https://github.com/v1s1t0r1sh3r3/airgeddon/wiki/Compatibility
+[Requirements]: https://github.com/v1s1t0r1sh3r3/airgeddon/wiki/Essential%20Tools
+[Requirements]: https://github.com/v1s1t0r1sh3r3/airgeddon/wiki/Optional%20Tools
+[Requirements]: https://github.com/v1s1t0r1sh3r3/airgeddon/wiki/BeEF%20Tips
+[Requirements]: https://github.com/v1s1t0r1sh3r3/airgeddon/wiki/Hashcat%20Tips
+[Update Tools]: https://github.com/v1s1t0r1sh3r3/airgeddon/wiki/Update%20Tools
+[Update Tools]: https://github.com/v1s1t0r1sh3r3/airgeddon/wiki/Update%20Tools
+[Update Tools]: https://github.com/v1s1t0r1sh3r3/airgeddon/wiki/Update%20Tools
+[Update Tools]: https://github.com/v1s1t0r1sh3r3/airgeddon/wiki/Update%20Tools
+[Update Tools]: https://github.com/v1s1t0r1sh3r3/airgeddon/wiki/Update%20Tools
+[Update Tools]: https://github.com/v1s1t0r1sh3r3/airgeddon/wiki/Update%20Tools
+[Update Tools]: https://github.com/v1s1t0r1sh3r3/airgeddon/wiki/Update%20Tools
+[Update Tools]: https://github.com/v1s1t0r1sh3r3/airgeddon/wiki/Update%20Tools
 <!-- Links To Images -->
 [Banner]: https://raw.githubusercontent.com/v1s1t0r1sh3r3/airgeddon/master/imgs/banners/airgeddon_banner.png "We will conquer the earth!!"
 <!-- Badges URLs -->
