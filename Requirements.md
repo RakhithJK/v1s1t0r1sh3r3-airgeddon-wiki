@@ -1,4 +1,4 @@
-`airgeddon` needs Bash **4.2** or later.
+`airgeddon` needs Bash **4.2** or later
 
 Compatible with any Linux distribution that has installed the tools needed. The script checks for them at the beginning.
 
