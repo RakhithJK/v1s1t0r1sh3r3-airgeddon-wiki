@@ -21,7 +21,7 @@ It can run on any Linux distribution that passes the tools validations. Some of 
 - Debian 7 (Wheezy) to 9 (Stretch)
 - Fedora 24
 - Gentoo 20160514 and 20160704
-- Kali 2.0, 2016.1, 2016.2 and arm versions (Raspberry Pi)
+- Kali 2.0, 2016.1 to 2017.1 and arm versions (Raspberry Pi)
 - OpenMandriva LX3
 - OpenSUSE Leap 42.1 and 42.2
 - Parrot 2.2.1 to 3.4.1 and arm versions (Raspberry Pi)
