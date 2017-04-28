@@ -24,6 +24,8 @@ Parameters explanation:
 
 ### Linux Tips
 
+It's understood that your Linux host has the needed drivers for your wireless card and its kernel support all the needed features for wireless operations (changing mode managed/monitor) in the same way as is needed to run it in native mode on any Linux system.
+
 #### Volume mapping
 
 Don't forget to replace on docker command the string "/path/to/some/dir/on/your/host" with a path of an existing directory of your choice on your host machine. That directory will be the "input/output" point for the script. For example, if you place a dictionary.txt file there, inside the script you must access to it as "/io/dictionary.txt". If you capture a trophy or a Handshake file, save it at "/io/" dir to access it from the host.
