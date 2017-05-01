@@ -12,7 +12,7 @@
 
 - The "Spanish pentesting crew"
 - The [Wifislax] staff
-- The [BlackArch] community
+- The [BlackArch] community and specially to [noptrix] for his support
 - The forum people of [Seguridadwireless.net], [Wifi-libre.com] and [Lampiweb.com]
 - The [Hackware.ru] admins
 - All the people who helped building the online PIN database for WPS
@@ -39,3 +39,4 @@
 [OscarAkaElvis]: https://github.com/OscarAkaElvis
 [jansorg]: https://github.com/jansorg
 [wiire]: https://github.com/wiire
+[noptrix]: https://github.com/noptrix
