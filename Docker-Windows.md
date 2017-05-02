@@ -37,9 +37,9 @@ Don't forget to replace on docker command the string "/path/to/some/dir/on/your/
 
 You'll need a X Window system running on your Windows. You can install [Xming], and after installing it, be sure of allowing connections from network clients in preferences as shown on next images:
 <p align="center">
-	<img src="https://raw.githubusercontent.com/v1s1t0r1sh3r3/airgeddon/docker/imgs/wiki/xming1.png" title="Xming config 1">
-	<img src="https://raw.githubusercontent.com/v1s1t0r1sh3r3/airgeddon/docker/imgs/wiki/xming2.png" title="Xming config 2">
-	<img src="https://raw.githubusercontent.com/v1s1t0r1sh3r3/airgeddon/docker/imgs/wiki/xming3.png" title="Xming config 3">
+	<img src="https://raw.githubusercontent.com/v1s1t0r1sh3r3/airgeddon/master/imgs/wiki/xming1.png" title="Xming config 1">
+	<img src="https://raw.githubusercontent.com/v1s1t0r1sh3r3/airgeddon/master/imgs/wiki/xming2.png" title="Xming config 2">
+	<img src="https://raw.githubusercontent.com/v1s1t0r1sh3r3/airgeddon/master/imgs/wiki/xming3.png" title="Xming config 3">
 </p>
 
 It's important to let the display number in 0 as shown in the first image and check the "No access control" checkbox as shown on third image.
