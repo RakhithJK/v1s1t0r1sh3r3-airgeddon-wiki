@@ -25,7 +25,7 @@ Parameters explanation:
  - `-p 3000:3000` &#8594; Open port to access to BeEF control panel from the host.
  - `-v /path/to/some/dir/on/your/host:/io` &#8594; It maps a directory from host to the container. Useful to use external files like dictionaries or whatever.
  - `-e DISPLAY=$(ifconfig en0 | grep inet | awk '$1=="inet" {print $2}'):0` &#8594; It overwrites the needed var to connect to local X Window system (It's understood you installed XQuartz for Mac).
- - `v1s1t0r1sh3r3/airgeddon` &#8594; Is the name and tag of the image. `v1s1t0r1sh3r3/airgeddon` is the stable version and is the same as `v1s1t0r1sh3r3/airgeddon:latest`. Alternatively you can use `v1s1t0r1sh3r3/airgeddon:beta` or `v1s1t0r1sh3r3/airgeddon:alpha` for development versions.
+ - `v1s1t0r1sh3r3/airgeddon` &#8594; Is the name and tag of the image. `v1s1t0r1sh3r3/airgeddon` is the stable version and is the same as `v1s1t0r1sh3r3/airgeddon:latest`. Alternatively you can use `v1s1t0r1sh3r3/airgeddon:beta` for development version.
 
 ### Mac OSX Tips
 
