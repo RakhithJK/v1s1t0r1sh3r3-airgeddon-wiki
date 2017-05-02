@@ -55,7 +55,6 @@ Even with no initial errors, they will appear later. Always launch with **bash**
 
 This section lists the binaries that are available for you to download and install airgeddon. Make sure to sort the list alphabetically and keep the list up-to-date.
 
-<!-- Should change versioning scheme sometime -->
 <!-- Uncomment this section after the next merge into master 04/23
 - Arch Linux
   1. Download the [latest tarball for Arch Linux]
