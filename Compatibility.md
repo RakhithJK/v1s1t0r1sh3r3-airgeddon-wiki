@@ -13,7 +13,7 @@ It can run on any Linux distribution that passes the tools validations. Some of 
 ***
 
 #### Tested on these compatible Linux distributions
-- Arch 4.6.2-1 to 4.10.11-1
+- Arch 4.6.2-1 to 4.10.13-1
 - Backbox 4.5.1 and 4.6
 - BlackArch 2016.01.10 to 2017.03.01
 - CentOS 6 and 7
