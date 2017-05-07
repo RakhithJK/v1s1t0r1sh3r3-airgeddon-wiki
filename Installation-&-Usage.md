@@ -53,9 +53,8 @@ Even with no initial errors, they will appear later. Always launch with **bash**
 
 ### Binary installation
 
-This section lists the binaries that are available for you to download and install airgeddon. Make sure to sort the list alphabetically and keep the list up-to-date.
+This section lists the binaries that are available for you to download and install airgeddon.
 
-<!-- Uncomment this section after the next merge into master 04/23
 - Arch Linux
   1. Download the [latest tarball for Arch Linux]
   2. Install it using `pacman -U airgeddon-git-x.x-y-any.pkg.tar.xz`
@@ -65,11 +64,4 @@ This section lists the binaries that are available for you to download and insta
   2. Install it using `dpkg -i airgeddon_x.x-x_all.deb`
 
 [latest tarball for Arch Linux]: https://github.com/v1s1t0r1sh3r3/airgeddon/tree/master/binaries/arch
-[latest deb package for Kali Linux]: https://github.com/v1s1t0r1sh3r3/airgeddon/tree/master/binaries/kali
--->
-
-- Kali Linux
-  1. Download the [latest deb package for Kali Linux]
-  2. Install it using `dpkg -i airgeddon_x.x-x_all.deb`
-
 [latest deb package for Kali Linux]: https://github.com/v1s1t0r1sh3r3/airgeddon/tree/master/binaries/kali
