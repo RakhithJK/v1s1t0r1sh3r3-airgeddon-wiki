@@ -21,7 +21,7 @@ Parameters explanation:
  - `--privileged` &#8594; Needed to have permissions over network interfaces (mode switching).
  - `-p 3000:3000` &#8594; Open port to access to BeEF control panel from the host.
  - `-v /path/to/some/dir/on/your/host:/io` &#8594; It maps a directory from host to the container. Useful to use external files like dictionaries or whatever.
- - `-e $(env | grep DISPLAY)` &#8594; It overwrites the needed var to connect to local X Window system. DISPLAY=:0 is used by default so you can avoid this parameter if you already have set DISPLAY=:0 var on your host system.
+ - `-e DISPLAY=$(env | grep DISPLAY | awk -F "=" '{print $2}')` &#8594; It overwrites the needed var to connect to local X Window system. DISPLAY=:0 is used by default so you can avoid this parameter if you already have set DISPLAY=:0 var on your host system.
  - `v1s1t0r1sh3r3/airgeddon` &#8594; Is the name and tag of the image. `v1s1t0r1sh3r3/airgeddon` is the stable version and is the same as `v1s1t0r1sh3r3/airgeddon:latest`. Alternatively you can use `v1s1t0r1sh3r3/airgeddon:beta` for development version.
 
 ### Linux Tips
