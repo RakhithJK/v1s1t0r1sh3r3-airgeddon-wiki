@@ -30,9 +30,9 @@ Parameters explanation:
 
 Don't forget to replace on docker command the string "/path/to/some/dir/on/your/host" with a path of an existing directory of your choice on your host machine. That directory will be the "input/output" point for the script. For example, if you place a dictionary.txt file there, inside the script you must access to it as "/io/dictionary.txt". If you capture a trophy or a Handshake file, save it at "/io/" dir to access it from the host.
 
-#### Display problems
+#### Display problems (resolution detection)
 
-On some distros like Ubuntu, in order to open the possibility of connecting airgeddon xterm windows to your host X Window system, you must launch first `xhost +` command. You can check if you need it easily. The resolution should be detected inside `airgeddon` on initial checks. If not is detected, you have a problem with your DISPLAY var. You should launch `xhost +` command or adjust DISPLAY var on docker run command.
+On some distros like Ubuntu, in order to open the possibility of connecting `airgeddon` xterm windows to your host X Window system, you must launch first `xhost +` command. You can check if you need it easily. The resolution should be detected inside `airgeddon` on initial checks. If not is detected, you have a problem with your DISPLAY var. You should launch `xhost +` command or adjust DISPLAY var on docker run command.
 
 #### Hostapd possible conflict with host network-manager
 
