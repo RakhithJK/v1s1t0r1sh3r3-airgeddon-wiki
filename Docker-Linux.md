@@ -30,6 +30,10 @@ Parameters explanation:
 
 Don't forget to replace on docker command the string "/path/to/some/dir/on/your/host" with a path of an existing directory of your choice on your host machine. That directory will be the "input/output" point for the script. For example, if you place a dictionary.txt file there, inside the script you must access to it as "/io/dictionary.txt". If you capture a trophy or a Handshake file, save it at "/io/" dir to access it from the host.
 
+#### Display problems
+
+On some distros like Ubuntu, in order to open the possibility of connecting airgeddon xterm windows to your host X Window system, you must launch first `xhost +` command. You can check if you need it easily. The resolution should be detected inside `airgeddon` on initial checks. If not is detected, you have a problem with your DISPLAY var. You should launch `xhost +` command or adjust DISPLAY var on docker run command.
+
 #### Hostapd possible conflict with host network-manager
 
 Evil Twin attacks are using `hostapd` to create fake AP which usually are in conflict with `network-manager`. In native mode `airgeddon` handle this to solve process conflicts, but when launched in a Docker container is not possible because the conflicting network-manager is on the Linux host (not on container). Anyway, `airgeddon` will show you a warning as a reminder of this while running on Docker before launch `hostpad`. So, before launching any Evil Twin Attack, be sure of killing conflicting processes or disabling/stopping `network-manager` if you have it installed on Linux host or you'll get an error like this:
