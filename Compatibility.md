@@ -1,4 +1,4 @@
-###### This page lists all Linux distributions compatible with airgeddon. Make sure to sort the list alphabetically and keep the list up-to-date.
+###### This page lists all Linux distributions compatible with airgeddon. It's an alphabetically sorted and up-to-date list.
 
 ***
 
