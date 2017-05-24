@@ -30,6 +30,7 @@
 - Help hints in every zone/menu for easy use
 - Auto-update. Script checks for newer version if possible
 - [Docker] container for easy and quick deployment
+- Http proxy auto detection for updates
 
 <!-- Anchors -->
 [Requirements]: https://github.com/v1s1t0r1sh3r3/airgeddon/wiki/Requirements
