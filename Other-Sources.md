@@ -8,6 +8,10 @@ This page lists all the Linux distributions and repositories in which airgeddon 
 
 ***
 
+### Parrot Security Linux
+
+`apt install airgeddon`
+
 ### Arch Linux
 
 `yaourt -S airgeddon-git`
