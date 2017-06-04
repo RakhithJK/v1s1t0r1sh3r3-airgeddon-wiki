@@ -3,7 +3,7 @@ You can contribute to airgeddon by
 - Translating into other languages
 - Adding more distribution support compatibility
 - Adding and suggesting new features
-- Adding and improving WPS pins on the database
+- Adding pins and improving the database for WPS
 - Testing and sending feedback
 - Donating
 
