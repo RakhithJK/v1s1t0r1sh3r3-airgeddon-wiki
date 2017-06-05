@@ -2,7 +2,7 @@
 
 `hashcat` is used by `airgeddon` to perform various attacks against captured files using the **CPU**. In order to execute it you'll need to install an **OpenCL** runtime compatible with your hardware.
 
-If your hashcat version is 3.40 or higher, you'll need in addition the package called hashcat-utils. `airgeddon` will do the required check before using it.
+If your `hashcat` version is 3.40 or higher, you'll need in addition the package called hashcat-utils. `airgeddon` will do the required check before using it.
 
 More info at [Hashcat official's page].
 <p align="center">
