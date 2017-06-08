@@ -11,7 +11,7 @@ Read the [Contributing File] for more details on the process of project collabor
 
 ***
 
-If you enjoyed the script, feel free to donate. Support the project through Paypal or sending a fraction of a bitcoin:
+If you enjoyed the script and found it useful, you can support the project making a donation. Through Paypal or sending a fraction of a bitcoin. Any amount, not matter how small (1, 2, 5 $/€) is welcome.
 
 <table>
   <tr>
@@ -25,8 +25,14 @@ If you enjoyed the script, feel free to donate. Support the project through Payp
 [![Paypal][Paypal]](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=7ELM486P7XKKG)
 &nbsp;
 [![Bitcoin][Bitcoin]](https://blockchain.info/address/1AKnTXbomtwUzrm81FRzi5acSSXxGteGTH)
+
+Bitcoin QR code:
+
+[![BitcoinQR][BitcoinQR]](https://blockchain.info/address/1AKnTXbomtwUzrm81FRzi5acSSXxGteGTH)
+
 <!-- Images -->
 [Paypal]: https://raw.githubusercontent.com/v1s1t0r1sh3r3/airgeddon/master/imgs/banners/paypal_donate.png "Show me the money!"
 [Bitcoin]: https://raw.githubusercontent.com/v1s1t0r1sh3r3/airgeddon/master/imgs/banners/bitcoin_donate.png "Show me the money!"
+[BitcoinQR]: https://raw.githubusercontent.com/v1s1t0r1sh3r3/airgeddon/dev/imgs/banners/bitcoin_qr.png "Show me the money!"
 
 [Contributing File]: https://github.com/v1s1t0r1sh3r3/airgeddon/blob/master/CONTRIBUTING.md
