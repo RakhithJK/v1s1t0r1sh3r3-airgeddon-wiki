@@ -7,15 +7,14 @@ This page lists all the Linux distributions and repositories in which `airgeddon
 | ![Parrot](https://raw.githubusercontent.com/v1s1t0r1sh3r3/airgeddon/master/imgs/wiki/parrot_linux.png) | [3.6 or later] |
 | ![Wifislax](https://raw.githubusercontent.com/v1s1t0r1sh3r3/airgeddon/master/imgs/wiki/wifislax_linux.png) | [4.12, 64-1.0 or later] |
 
-
 ***
 ### Wifislax and BlackArch
 
-Just select it from the menu or execute from anywhere `airgeddon` command.
+Pre installed. Just select it from the menu or execute from anywhere `airgeddon` command.
 
 ### Parrot Security Linux
 
-`apt install airgeddon`
+`apt install airgeddon` to install it and then `airgeddon` command from anywhere to execute it.
 
 ### Arch Linux
 
