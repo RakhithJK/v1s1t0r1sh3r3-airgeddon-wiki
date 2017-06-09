@@ -1,4 +1,4 @@
-This page lists all the Linux distributions and repositories in which airgeddon is available to download. Make sure to sort the list alphabetically and keep the list up-to-date.
+This page lists all the Linux distributions and repositories in which `airgeddon` is available to download.
 
 | Source  | Link  |
 |:-------:|:-----:|
@@ -8,6 +8,9 @@ This page lists all the Linux distributions and repositories in which airgeddon 
 | ![Parrot](https://raw.githubusercontent.com/v1s1t0r1sh3r3/airgeddon/master/imgs/wiki/parrot_linux.png) | [3.6 or later] |
 
 ***
+### Wifislax and BlackArch
+
+Just select it from the menu or execute from anywhere `airgeddon` command.
 
 ### Parrot Security Linux
 
