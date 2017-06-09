@@ -2,7 +2,7 @@
 
 If you wish to use airgeddon but written in your language, contact airgeddon's staff following the [contributing] instructions to get things done.
 
-airgeddon is currently available in
+`airgeddon` is currently available in
 
 - ![Catalan][Catalan] Catalan
 - ![English][English] English
