@@ -1,4 +1,4 @@
-This page lists all the Linux distributions and repositories in which `airgeddon` is available to download. Listed alphabetically:
+This page lists all the Linux distributions and repositories in which `airgeddon` is preinstalled or available to download. Listed alphabetically:
 
 | Source  | Link  |
 |:-------:|:-----:|
