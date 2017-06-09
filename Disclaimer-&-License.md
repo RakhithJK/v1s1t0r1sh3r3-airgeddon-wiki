@@ -3,7 +3,7 @@ This script is licensed under GPLv3+
 
 **airgeddon's staff is not responsible of its use in any case**
 
-The purpose of its use, including whether such use is of a penetration testing nature, or is for nonprofit education purposes.
+The purpose of its use, including whether such use is of a penetration testing nature, or is for nonprofit educational purposes.
 
 Use it on your own networks or with the permission of the network's owner.
 
