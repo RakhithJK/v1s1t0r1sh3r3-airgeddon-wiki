@@ -14,6 +14,6 @@ It is highly recommended to have the internal tools installed. These tools are n
 
 Of course, the script also uses many standard basic tools that are supposed to be included in any Linux distribution, so they are not checked (cp, rm, grep, pgrep, egrep, md5sum, uname, echo, hash, cat, sed, etc.).
 
-##### Important tips about BeEF
+##### Important tips about ccze
 
 ccze could cause impact in performance. Is not recommended to be used on arm devices. Colorization can be disabled replacing `allow_colorization=1` by `allow_colorization=0` at the beginning of the script.
