@@ -10,7 +10,7 @@ This page lists all the Linux distributions and repositories in which `airgeddon
 ***
 ### Wifislax and BlackArch
 
-Pre installed. Just select it from the menu or execute from anywhere `airgeddon` command.
+Pre installed. Just select it from the menu or execute `airgeddon` command from anywhere.
 
 ### Parrot Security Linux
 
