@@ -33,6 +33,6 @@ Bitcoin QR code:
 <!-- Images -->
 [Paypal]: https://raw.githubusercontent.com/v1s1t0r1sh3r3/airgeddon/master/imgs/banners/paypal_donate.png "Show me the money!"
 [Bitcoin]: https://raw.githubusercontent.com/v1s1t0r1sh3r3/airgeddon/master/imgs/banners/bitcoin_donate.png "Show me the money!"
-[BitcoinQR]: https://raw.githubusercontent.com/v1s1t0r1sh3r3/airgeddon/dev/imgs/banners/bitcoin_qr.png "Show me the money!"
+[BitcoinQR]: https://raw.githubusercontent.com/v1s1t0r1sh3r3/airgeddon/master/imgs/banners/bitcoin_qr.png "Show me the money!"
 
 [Contributing File]: https://github.com/v1s1t0r1sh3r3/airgeddon/blob/master/CONTRIBUTING.md
