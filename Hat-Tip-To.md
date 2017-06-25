@@ -21,6 +21,7 @@
 - Zhao Chunsheng and Stefan Viehböck for their wonderful algorithms
 - All the developers who made and designed the third-party tools that `airgeddon` uses
 - [BashSupport] developer [jansorg] for his effort maintaining the Bash plugin for IntelliJ platform
+- The [Parrot] crew and specially to [Palinuro] for adding `airgeddon` to their repositories
 
 <!-- URLs -->
 [Wifislax]: http://www.wifislax.com
@@ -31,6 +32,7 @@
 [Lampiweb.com]: http://lampiweb.com/foro
 [Hackware.ru]: https://hackware.ru
 [BashSupport]: https://github.com/jansorg/BashSupport
+[Parrot]: https://www.parrotsec.org/
 <!-- Github URLs -->
 [Kcdtv]: https://github.com/kcdtv
 [cLn]: https://github.com/cLn73
@@ -42,3 +44,4 @@
 [wiire]: https://github.com/wiire
 [noptrix]: https://github.com/noptrix
 [xorond]: https://github.com/xorond
+[Palinuro]: https://github.com/PalinuroSec
