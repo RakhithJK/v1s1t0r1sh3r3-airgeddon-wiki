@@ -30,6 +30,9 @@ Bitcoin QR code:
 
 [![BitcoinQR][BitcoinQR]](https://blockchain.info/address/1AKnTXbomtwUzrm81FRzi5acSSXxGteGTH)
 
+***
+
+Top contributor: [@_Barriuso](https://twitter.com/_Barriuso)
 <!-- Images -->
 [Paypal]: https://raw.githubusercontent.com/v1s1t0r1sh3r3/airgeddon/master/imgs/banners/paypal_donate.png "Show me the money!"
 [Bitcoin]: https://raw.githubusercontent.com/v1s1t0r1sh3r3/airgeddon/master/imgs/banners/bitcoin_donate.png "Show me the money!"
