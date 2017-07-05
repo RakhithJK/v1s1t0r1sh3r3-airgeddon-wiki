@@ -32,7 +32,7 @@ Bitcoin QR code:
 
 ***
 
-### Donor Hall of Fame
+### Donor hall of fame
 
 Top donor: [@_Barriuso](https://twitter.com/_Barriuso)
 
