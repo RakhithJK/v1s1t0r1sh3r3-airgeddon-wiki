@@ -32,4 +32,4 @@ Pre installed. Just select it from the menu or execute `airgeddon` command from 
 [4.12, 64-1.0 or later]: http://www.wifislax.com
 [2017.01.28 or later]: https://blackarch.org
 [Arch Repository]: https://archstrike.org/wiki
-[3.6 or later]: https://www.parrotsec.org
+[3.7 or later]: https://www.parrotsec.org
