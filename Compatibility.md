@@ -14,7 +14,7 @@ It can run on any Linux distribution that passes the tools validations. Some of 
 
 #### Tested on these compatible Linux distributions
 - Arch 4.6.2-1 to 4.11.6-3
-- Backbox 4.5.1 to 4.7
+- Backbox 4.5.1 to 5
 - BlackArch 2016.01.10 to 2017.03.01
 - CentOS 6 and 7
 - Cyborg Hawk 1.1
@@ -24,7 +24,7 @@ It can run on any Linux distribution that passes the tools validations. Some of 
 - Kali 2.0, 2016.1 to 2017.1 and arm versions (Raspberry Pi)
 - OpenMandriva LX3
 - OpenSUSE Leap 42.1 and 42.2
-- Parrot 2.2.1 to 3.6 and arm versions (Raspberry Pi)
+- Parrot 2.2.1 to 3.7 and arm versions (Raspberry Pi)
 - Raspbian 7 (Wheezy) to 9 (Stretch) (Raspberry Pi)
 - Red Hat 7 (Maipo)
 - Ubuntu/Xubuntu 15.10 to 17.04
