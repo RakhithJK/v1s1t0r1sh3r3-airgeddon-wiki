@@ -20,7 +20,7 @@ Pre installed. Just select it from the menu or execute `airgeddon` command from 
 
 `yaourt -S airgeddon-git` without root permissions.
 
-### NPM
+### NPM [![npm version](https://img.shields.io/npm/v/get-airgeddon.svg?style=flat-square&colorA=5E7449&colorB=C1DB8D)](https://www.npmjs.com/package/get-airgeddon)
 
 1. `npm install -g get-airgeddon` with root permissions.
 2. Run `get-airgeddon -b`.
