@@ -17,4 +17,4 @@ Of course, the script also uses many standard basic tools that are supposed to b
 
 ##### Important tips about ccze
 
-`ccze` could cause impact in performance. Is not recommended to be used on arm devices. Colorization can be disabled replacing `allow_colorization=1` by `allow_colorization=0` at the beginning of the script.
+`ccze` could cause impact in performance. Is not recommended to be used on arm devices. Colorization can be disabled replacing `allow_colorization=1` by `allow_colorization=0` at the beginning of the script. From version 7.2 it can be disabled directly from menues inside `airgeddon`.
