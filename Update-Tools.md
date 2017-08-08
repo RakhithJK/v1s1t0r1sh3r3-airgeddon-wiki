@@ -5,3 +5,7 @@
  curl    | curl                  
 
 airgeddon uses `curl` to update itself and the WPS pin database. It will be checked at the beginning to determine if updates are possible. It's not mandatory to have it but it's highly recommended.
+
+##### Important tips about curl and auto-update
+
+Binary packages have the auto-update feature disabled. The package manager of your distribution, will take care of the updates. 
