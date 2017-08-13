@@ -6,6 +6,7 @@
 - [Luan] for Portuguese translations
 - [MiAl] for Russian translations
 - [xtonousou] for Greek translations, beta testing, suggestions, the help received fixing code warnings and other stuff
+- [salu90] for Italian translations
 - [OscarAkaElvis] for allowing me to own his body when I visit the earth
 
 #### Others
@@ -44,4 +45,5 @@
 [wiire]: https://github.com/wiire
 [noptrix]: https://github.com/noptrix
 [xorond]: https://github.com/xorond
+[salu90]: https://github.com/salu90
 [Palinuro]: https://github.com/PalinuroSec
