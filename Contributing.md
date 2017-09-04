@@ -34,7 +34,10 @@ Bitcoin QR code:
 
 ### Donor hall of fame
 
-Top donor: [@_Barriuso](https://twitter.com/_Barriuso)
+Top donors:
+
+ - [@_Barriuso](https://twitter.com/_Barriuso)
+ - Armando Hernandez
 
 If you want to be here, send me some data (mail, link, twitter account, etc) with your donation.
 
