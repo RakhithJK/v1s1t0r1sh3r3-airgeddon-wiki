@@ -8,7 +8,7 @@ If you wish to use airgeddon but written in your language, contact airgeddon's s
 - ![English][English] English
 - ![French][French] French
 - ![Greek][Greek] Greek
-- ![Italian][Italian] Italian (coming soon on next 7.21 version)
+- ![Italian][Italian] Italian
 - ![Portuguese][Portuguese] Portuguese
 - ![Russian][Russian] Russian
 - ![Spanish][Spanish] Spanish
