@@ -10,7 +10,7 @@ It is essential to run this script as **root**, otherwise `airgeddon` won't work
 	<ul>
 		<li>Clone the repository</li>
 		<ul>
-			<li><code>git clone https://github.com/v1s1t0r1sh3r3/airgeddon.git</code></li>
+			<li><code>git clone --depth 1 https://github.com/v1s1t0r1sh3r3/airgeddon.git</code></li>
 		</ul>
 		<li>Go to the newly created directory</li>
 		<ul>
