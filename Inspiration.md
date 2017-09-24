@@ -5,7 +5,7 @@ This page lists the authors who inspired me with their tools.
 - Goyfilms &#8594; Goyscript
 - Coeman76 &#8594; Handshaker
 - [vk496] &#8594; Linset
-- [Kcdtv] &#8594; WPSPin
+- [Kcdtv] &#8594; WPSPin and nmk
 
 <!-- Github links -->
 [vk496]: https://github.com/vk496
