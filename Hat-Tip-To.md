@@ -1,6 +1,6 @@
 #### Collaborators
 
-- [Kcdtv] for French translations, beta testing, suggestions about new features and support received since the beginning
+- [kcdtv] for French translations, beta testing, suggestions about new features and support received since the beginning
 - **USUARIONUEVO** for helping me to improve the script, suggestions about new features and for the support received
 - **El padrino** and [cLn] for Catalan translations
 - [Luan] for Portuguese translations
