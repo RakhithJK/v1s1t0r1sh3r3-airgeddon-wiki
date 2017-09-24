@@ -25,12 +25,12 @@
 - The [Parrot] crew and specially to [Palinuro] for adding `airgeddon` to their repositories
 
 <!-- URLs -->
-[Wifislax]: http://www.wifislax.com
+[Wifislax]: https://www.wifislax.com
 [BlackArch]: https://blackarch.org
 [ArchStrike]: https://archstrike.org/wiki
-[Seguridadwireless.net]: http://foro.seguridadwireless.net
+[Seguridadwireless.net]: https://foro.seguridadwireless.net
 [Wifi-libre.com]: https://www.wifi-libre.com
-[Lampiweb.com]: http://lampiweb.com/foro
+[Lampiweb.com]: https://lampiweb.com/foro
 [Hackware.ru]: https://hackware.ru
 [BashSupport]: https://github.com/jansorg/BashSupport
 [Parrot]: https://www.parrotsec.org/
