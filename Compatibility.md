@@ -24,7 +24,7 @@ It can run on any Linux distribution that passes the tools validations. Some of 
 - Kali 2.0, 2016.1 to 2017.2 and arm versions (Raspberry Pi)
 - OpenMandriva LX3
 - OpenSUSE Leap 42.1 and 42.2
-- Parrot 2.2.1 to 3.7 and arm versions (Raspberry Pi)
+- Parrot 2.2.1 to 3.8 and arm versions (Raspberry Pi)
 - Raspbian 7 (Wheezy) to 9 (Stretch) (Raspberry Pi)
 - Red Hat 7 (Maipo)
 - Ubuntu/Xubuntu 15.10 to 17.04
