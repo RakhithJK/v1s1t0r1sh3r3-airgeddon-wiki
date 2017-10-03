@@ -23,7 +23,7 @@
   - [Installation & Usage]
   - [Docker]
     - [Linux]
-    - [MAC OSX]
+    - [Mac OSX]
     - [Windows]
   - [Other Sources]
 - **Project & Development**
@@ -52,7 +52,7 @@
 [Installation & Usage]: https://github.com/v1s1t0r1sh3r3/airgeddon/wiki/Installation%20&%20Usage
 [Docker]: https://github.com/v1s1t0r1sh3r3/airgeddon/wiki/Docker
 [Linux]: https://github.com/v1s1t0r1sh3r3/airgeddon/wiki/Docker%20Linux
-[MAC OSX]: https://github.com/v1s1t0r1sh3r3/airgeddon/wiki/Docker%20Mac%20OSX
+[Mac OSX]: https://github.com/v1s1t0r1sh3r3/airgeddon/wiki/Docker%20Mac%20OSX
 [Windows]: https://github.com/v1s1t0r1sh3r3/airgeddon/wiki/Docker%20Windows
 [Other Sources]: https://github.com/v1s1t0r1sh3r3/airgeddon/wiki/Other%20Sources
 [Supported Languages]: https://github.com/v1s1t0r1sh3r3/airgeddon/wiki/Supported%20Languages
