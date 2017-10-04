@@ -7,6 +7,7 @@
 - [MiAl] for Russian translations
 - [xtonousou] for Greek translations, beta testing, suggestions, the help received fixing code warnings and other stuff
 - [salu90] for Italian translations
+- **rdcdt** for more French translations
 - [OscarAkaElvis] for allowing me to own his body when I visit the earth
 
 #### Others
