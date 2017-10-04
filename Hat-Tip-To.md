@@ -14,7 +14,7 @@
 - The "Spanish pentesting crew"
 - The [Wifislax] staff
 - The [BlackArch] community and specially to [noptrix] for his support
-- The [ArchStrike] staff and his maintainer [xorond]
+- The [ArchStrike] staff and the maintainers, specially to [xorond] and [Cthulu201]
 - The forum people of [Seguridadwireless.net], [Wifi-libre.com] and [Lampiweb.com]
 - The [Hackware.ru] admins
 - All the people who helped building the online PIN database for WPS
@@ -45,5 +45,6 @@
 [wiire]: https://github.com/wiire
 [noptrix]: https://github.com/noptrix
 [xorond]: https://github.com/xorond
+[Cthulu201]: https://github.com/Cthulu201
 [salu90]: https://github.com/salu90
 [Palinuro]: https://github.com/PalinuroSec
