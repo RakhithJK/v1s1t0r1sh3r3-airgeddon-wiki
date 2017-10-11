@@ -7,7 +7,7 @@
 - [MiAl] for Russian translations
 - [xtonousou] for Greek translations, beta testing, suggestions, the help received fixing code warnings and other stuff
 - [salu90] for Italian translations
-- **rdcdt** for more French translations
+- [rdcdt1] for more French translations
 - [OscarAkaElvis] for allowing me to own his body when I visit the earth
 
 #### Others
@@ -49,3 +49,4 @@
 [Cthulu201]: https://github.com/Cthulu201
 [salu90]: https://github.com/salu90
 [Palinuro]: https://github.com/PalinuroSec
+[rdcdt1]: https://github.com/rdcdt1
