@@ -1,4 +1,4 @@
-Some `airgeddon` screenshots. Click on them to see full size image:
+Some `airgeddon` screenshots. Click on them to see full size images:
 
 **Intro**
 
