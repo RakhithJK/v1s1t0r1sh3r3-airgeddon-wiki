@@ -25,4 +25,4 @@ If you wish to use airgeddon but written in your language, contact airgeddon's s
 [Russian]: https://raw.githubusercontent.com/v1s1t0r1sh3r3/airgeddon/master/imgs/flags/ru.png "Russian"
 [Greek]: https://raw.githubusercontent.com/v1s1t0r1sh3r3/airgeddon/master/imgs/flags/gr.png "Greek"
 [Italian]: https://raw.githubusercontent.com/v1s1t0r1sh3r3/airgeddon/master/imgs/flags/it.png "Italian"
-[Polish]: https://raw.githubusercontent.com/v1s1t0r1sh3r3/airgeddon/master/imgs/flags/pl.png "Polish"
+[Polish]: https://raw.githubusercontent.com/v1s1t0r1sh3r3/airgeddon/dev/imgs/flags/pl.png "Polish"
