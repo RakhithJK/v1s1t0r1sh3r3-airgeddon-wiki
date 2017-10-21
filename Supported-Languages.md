@@ -9,6 +9,7 @@ If you wish to use airgeddon but written in your language, contact airgeddon's s
 - ![French][French] French
 - ![Greek][Greek] Greek
 - ![Italian][Italian] Italian
+- ![Polish][Polish] Polish
 - ![Portuguese][Portuguese] Portuguese
 - ![Russian][Russian] Russian
 - ![Spanish][Spanish] Spanish
@@ -23,4 +24,5 @@ If you wish to use airgeddon but written in your language, contact airgeddon's s
 [Portuguese]: https://raw.githubusercontent.com/v1s1t0r1sh3r3/airgeddon/master/imgs/flags/pt.png "Portuguese"
 [Russian]: https://raw.githubusercontent.com/v1s1t0r1sh3r3/airgeddon/master/imgs/flags/ru.png "Russian"
 [Greek]: https://raw.githubusercontent.com/v1s1t0r1sh3r3/airgeddon/master/imgs/flags/gr.png "Greek"
-[Italian]: https://raw.githubusercontent.com/v1s1t0r1sh3r3/airgeddon/master/imgs/flags/it.png "Greek"
+[Italian]: https://raw.githubusercontent.com/v1s1t0r1sh3r3/airgeddon/master/imgs/flags/it.png "Italian"
+[Polish]: https://raw.githubusercontent.com/v1s1t0r1sh3r3/airgeddon/master/imgs/flags/pl.png "Polish" (coming soon)
