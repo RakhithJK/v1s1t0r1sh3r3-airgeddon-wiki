@@ -8,6 +8,7 @@
 - [xtonousou] for Greek translations, beta testing, suggestions, the help received fixing code warnings and other stuff
 - [salu90] for Italian translations
 - [rdcdt1] for more French translations
+- [dodg3rmaq] for Polish translations
 - [OscarAkaElvis] for allowing me to own his body when I visit the earth
 
 #### Others
@@ -50,3 +51,4 @@
 [salu90]: https://github.com/salu90
 [Palinuro]: https://github.com/PalinuroSec
 [rdcdt1]: https://github.com/rdcdt1
+[dodg3rmaq]: https://github.com/dodg3rmaq
