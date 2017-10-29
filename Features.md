@@ -1,7 +1,7 @@
 `airgeddon` is a living project growing day by day. This is the list of features so far:
 <!-- Each sub list needs 2 additional followed spaces -->
 - Interface mode switcher (Monitor-Managed) keeping selection even on interface name changing
-- DoS over wireless networks using different methods. "DoS Pursuit mode" available to avoid AP channel hopping.
+- DoS over wireless networks using different methods. "DoS Pursuit mode" available to avoid AP channel hopping
 - Assisted Handshake file capturing
 - Cleaning and optimizing Handshake captured files
 - Offline password decrypting on WPA/WPA2 captured files (dictionary, bruteforce and rule based) based on aircrack, crunch and hashcat tools.
