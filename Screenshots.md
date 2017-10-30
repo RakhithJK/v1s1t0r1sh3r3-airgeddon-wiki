@@ -20,7 +20,7 @@ Some `airgeddon` screenshots. Click on them to see full size images:
 
 [![Screenshot6]](https://raw.githubusercontent.com/v1s1t0r1sh3r3/airgeddon/dev/imgs/wiki/airgeddon_scrs6.png)
 
-**WEP attack**
+**All-in-One WEP attack**
 
 [![Screenshot5]](https://raw.githubusercontent.com/v1s1t0r1sh3r3/airgeddon/dev/imgs/wiki/airgeddon_scrs5.png)
 
@@ -29,5 +29,5 @@ Some `airgeddon` screenshots. Click on them to see full size images:
 [Screenshot2]: https://raw.githubusercontent.com/v1s1t0r1sh3r3/airgeddon/dev/imgs/wiki/airgeddon_scrs2.png "Initial checks"
 [Screenshot3]: https://raw.githubusercontent.com/v1s1t0r1sh3r3/airgeddon/dev/imgs/wiki/airgeddon_scrs3.png "Main menu"
 [Screenshot4]: https://raw.githubusercontent.com/v1s1t0r1sh3r3/airgeddon/dev/imgs/wiki/airgeddon_scrs4.png "EEvil Twin sslstrip2 attack (Hostapd + DHCP + DoS + Bettercap + BeEF)"
-[Screenshot5]: https://raw.githubusercontent.com/v1s1t0r1sh3r3/airgeddon/dev/imgs/wiki/airgeddon_scrs5.png "WEP attack"
+[Screenshot5]: https://raw.githubusercontent.com/v1s1t0r1sh3r3/airgeddon/dev/imgs/wiki/airgeddon_scrs5.png "All-in-One WEP attack"
 [Screenshot6]: https://raw.githubusercontent.com/v1s1t0r1sh3r3/airgeddon/dev/imgs/wiki/airgeddon_scrs6.png "WPS attacks menu"
