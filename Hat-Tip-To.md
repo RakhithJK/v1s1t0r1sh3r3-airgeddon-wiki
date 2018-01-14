@@ -25,6 +25,7 @@
 - All the developers who made and designed the third-party tools that `airgeddon` uses
 - [BashSupport] developer [jansorg] for his effort maintaining the Bash plugin for IntelliJ platform
 - The [Parrot] crew and specially to [Palinuro] for adding `airgeddon` to their repositories
+- The [Hack&Beers] and [Br3aking C0de] managers for letting me promote airgeddon on their events
 
 <!-- URLs -->
 [Wifislax]: https://www.wifislax.com
@@ -36,6 +37,9 @@
 [Hackware.ru]: https://hackware.ru
 [BashSupport]: https://github.com/jansorg/BashSupport
 [Parrot]: https://www.parrotsec.org/
+[Hack&Beers]: https://twitter.com/hackandbeers
+[Br3aking C0de]: https://n0ipr0cs.github.io/br3akingc0de/
+
 <!-- Github URLs -->
 [Kcdtv]: https://github.com/kcdtv
 [cLn]: https://github.com/cLn73
