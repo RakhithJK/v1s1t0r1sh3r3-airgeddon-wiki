@@ -14,6 +14,13 @@ If you wish to use airgeddon but written in your language, contact airgeddon's s
 - ![Russian][Russian] Russian
 - ![Spanish][Spanish] Spanish
 
+It would be great to have it translated to any other language, but we'd like especially:
+- ![Chinese][Chinese] Chinese
+- ![German][German] German
+- ![Indian][Indian] Indian
+
+If you want to see `airgeddon` translated to your language, don't hesitate to contact us to make it real!
+
 <!-- Links To WiKi -->
 [contributing]: https://github.com/v1s1t0r1sh3r3/airgeddon/wiki/Contributing
 <!-- Links To Images -->
@@ -26,3 +33,6 @@ If you wish to use airgeddon but written in your language, contact airgeddon's s
 [Greek]: https://raw.githubusercontent.com/v1s1t0r1sh3r3/airgeddon/master/imgs/flags/gr.png "Greek"
 [Italian]: https://raw.githubusercontent.com/v1s1t0r1sh3r3/airgeddon/master/imgs/flags/it.png "Italian"
 [Polish]: https://raw.githubusercontent.com/v1s1t0r1sh3r3/airgeddon/master/imgs/flags/pl.png "Polish"
+[Chinese]: https://raw.githubusercontent.com/v1s1t0r1sh3r3/airgeddon/dev/imgs/flags/cn.png "Chinese"
+[German]: https://raw.githubusercontent.com/v1s1t0r1sh3r3/airgeddon/dev/imgs/flags/de.png "German"
+[Indian]: https://raw.githubusercontent.com/v1s1t0r1sh3r3/airgeddon/dev/imgs/flags/in.png "Indian"
