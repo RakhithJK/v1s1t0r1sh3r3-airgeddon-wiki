@@ -7,7 +7,7 @@ You can contribute to airgeddon by
 - Testing and sending feedback
 - Donating
 
-Read the [Contributing File] for more details on the process of project collaborating and on our code of conduct.
+Read the [Contributing File] for more details on the process of project collaborating and on our [Code of Conduct].
 
 ***
 
@@ -47,3 +47,4 @@ If you want to be here, send me some data (mail, link, twitter account, etc) wit
 [BitcoinQR]: https://raw.githubusercontent.com/v1s1t0r1sh3r3/airgeddon/master/imgs/banners/bitcoin_qr.png "Show me the money!"
 
 [Contributing File]: https://github.com/v1s1t0r1sh3r3/airgeddon/blob/master/CONTRIBUTING.md
+[Code of Conduct]: https://github.com/v1s1t0r1sh3r3/airgeddon/blob/dev/CODE_OF_CONDUCT.md
