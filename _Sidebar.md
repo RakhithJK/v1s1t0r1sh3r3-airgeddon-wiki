@@ -24,7 +24,7 @@
 
 **Project & Development**
   - [Supported Languages]
-  - [Contributing]
+  - [Contributing & Code of Conduct]
   - [Changelog]
   - [Disclaimer & License]
   - [Contact]
@@ -52,7 +52,7 @@
 [Windows]: https://github.com/v1s1t0r1sh3r3/airgeddon/wiki/Docker%20Windows
 [Other Sources]: https://github.com/v1s1t0r1sh3r3/airgeddon/wiki/Other%20Sources
 [Supported Languages]: https://github.com/v1s1t0r1sh3r3/airgeddon/wiki/Supported%20Languages
-[Contributing]: https://github.com/v1s1t0r1sh3r3/airgeddon/wiki/Contributing
+[Contributing & Code of Conduct]: https://github.com/v1s1t0r1sh3r3/airgeddon/wiki/Contributing-&-Code-of-Conduct
 [Changelog]: https://github.com/v1s1t0r1sh3r3/airgeddon/wiki/Changelog
 [Disclaimer & License]: https://github.com/v1s1t0r1sh3r3/airgeddon/wiki/Disclaimer%20&%20License
 [Contact]: https://github.com/v1s1t0r1sh3r3/airgeddon/wiki/Contact
