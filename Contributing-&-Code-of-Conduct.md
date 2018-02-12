@@ -11,7 +11,7 @@ Read the [Contributing File] for more details on the process of project collabor
 
 ***
 
-If you enjoyed the script and found it useful, you can support the project making a donation. Through Paypal or sending a fraction of a bitcoin. Any amount, not matter how small (1, 2, 5 $/€) is welcome.
+If you enjoyed the script and found it useful, you can support the project making a donation. Through Paypal or sending a fraction of a Bitcoin. Any amount, not matter how small (1, 2, 5 $/€) is welcome.
 
 <table>
   <tr>
