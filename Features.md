@@ -2,6 +2,7 @@
 <!-- Each sub list needs 2 additional followed spaces -->
 - Interface mode switcher (Monitor-Managed) keeping selection even on interface name changing
 - DoS over wireless networks using different methods. "DoS Pursuit mode" available to avoid AP channel hopping (available also on DoS performed on Evil Twin attacks)
+- Full support for 5Ghz band
 - Assisted Handshake file capturing
 - Cleaning and optimizing Handshake captured files
 - Offline password decrypting on WPA/WPA2 captured files (dictionary, bruteforce and rule based) based on aircrack, crunch and hashcat tools.
@@ -30,7 +31,7 @@
 - Multilanguage support and autodetect OS language feature (see [Supported Languages] section)
 - Help hints in every zone/menu for easy use
 - Auto-update. Script checks for newer version if possible
-- [Docker] container for easy and quick deployment. Use already built on [Docker Hub] or build your own
+- [Docker] image for easy and quick container deployment. Use already built image on [Docker Hub] or build your own
 - Http proxy auto detection for updates
 
 <!-- Anchors -->
