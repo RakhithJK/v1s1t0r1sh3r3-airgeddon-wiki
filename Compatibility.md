@@ -21,10 +21,10 @@ It can run on any Linux distribution that passes the tools validations. Some of 
 - Debian 7 (Wheezy) to 9 (Stretch)
 - Fedora 24 to 26
 - Gentoo 20160514 and 20160704
-- Kali 2.0, 2016.1 to 2017.3 and arm versions (Raspberry Pi)
+- Kali 2.0, 2016.1 to 2018.1 and arm versions (Raspberry Pi)
 - OpenMandriva LX3
 - OpenSUSE Leap 42.1 and 42.2
-- Parrot 2.2.1 to 3.10 and arm versions (Raspberry Pi)
+- Parrot Security 2.2.1 to 3.10 and arm versions (Raspberry Pi)
 - Raspbian 7 (Wheezy) to 9 (Stretch) (Raspberry Pi)
 - Red Hat 7 (Maipo)
 - Ubuntu/Xubuntu 15.10 to 17.04
