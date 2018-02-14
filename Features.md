@@ -2,7 +2,7 @@
 <!-- Each sub list needs 2 additional followed spaces -->
 - Interface mode switcher (Monitor-Managed) keeping selection even on interface name changing
 - DoS over wireless networks using different methods. "DoS Pursuit mode" available to avoid AP channel hopping (available also on DoS performed on Evil Twin attacks)
-- Full support for 5Ghz band
+- Full support for 2.4Ghz and 5Ghz band
 - Assisted Handshake file capturing
 - Cleaning and optimizing Handshake captured files
 - Offline password decrypting on WPA/WPA2 captured files (dictionary, bruteforce and rule based) based on aircrack, crunch and hashcat tools.
@@ -27,7 +27,7 @@
 - Easy targeting and selection in every section
 - Drag and drop files on console window for entering file paths
 - Dynamic screen resolution detection and windows auto-sizing for optimal viewing
-- Controlled Exit. Cleaning tasks and temp files. Option to keep monitor mode if desired
+- Controlled Exit. Cleaning tasks and temp files. Restoring iptables after an attack that require changes on them. Option to keep monitor mode if desired on exit
 - Multilanguage support and autodetect OS language feature (see [Supported Languages] section)
 - Help hints in every zone/menu for easy use
 - Auto-update. Script checks for newer version if possible
