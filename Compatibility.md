@@ -30,6 +30,6 @@ It can run on any Linux distribution that passes the tools validations. Some of 
 - Ubuntu/Xubuntu 15.10 to 17.04
 - Wifislax 4.11.1 to 64-1.1
 
-If you wish to run airgeddon in any Operating System, you can use a [Docker] container.
+If you wish to run airgeddon in any different Operating System, you can use a [Docker] container.
 
 [Docker]: https://github.com/v1s1t0r1sh3r3/airgeddon/wiki/Docker
