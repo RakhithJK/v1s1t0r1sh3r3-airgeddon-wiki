@@ -19,11 +19,11 @@ It can run on any Linux distribution that passes the tools validations. Some of 
 - CentOS 6 and 7
 - Cyborg Hawk 1.1
 - Debian 7 (Wheezy) to 9 (Stretch)
-- Fedora 24 to 26
+- Fedora 24 to 27
 - Gentoo 20160514 and 20160704
 - Kali 2.0, 2016.1 to 2018.1 and arm versions (Raspberry Pi)
 - OpenMandriva LX3
-- OpenSUSE Leap 42.1 and 42.2
+- OpenSUSE Leap 42.1 to 42.3
 - Parrot Security 2.2.1 to 3.10 and arm versions (Raspberry Pi)
 - Raspbian 7 (Wheezy) to 9 (Stretch) (Raspberry Pi)
 - Red Hat 7 (Maipo)
