@@ -9,6 +9,7 @@
 - [salu90] for Italian translations
 - [rdcdt1] for more French translations
 - [dodg3rmaq] for Polish translations
+- [hamperfait] for German translations
 - [OscarAkaElvis] for allowing me to own his body when I visit the earth
 
 #### Others
@@ -56,3 +57,4 @@
 [Palinuro]: https://github.com/PalinuroSec
 [rdcdt1]: https://github.com/rdcdt1
 [dodg3rmaq]: https://github.com/dodg3rmaq
+[hamperfait]: https://github.com/hamperfait
