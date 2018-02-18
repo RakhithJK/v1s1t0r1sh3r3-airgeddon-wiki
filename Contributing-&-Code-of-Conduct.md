@@ -38,6 +38,7 @@ Top donors:
 
  - [@_Barriuso](https://twitter.com/_Barriuso)
  - Armando Hernandez
+ - Antonii_30
 
 If you want to be here, send me some data (mail, link, twitter account, etc) with your donation.
 
