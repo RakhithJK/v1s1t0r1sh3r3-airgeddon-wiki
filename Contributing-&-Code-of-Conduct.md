@@ -96,9 +96,5 @@ Top donors:
 
 If you want to be here, send me some data (mail, link, twitter account, etc) with your donation.
 
-<!-- Images -->
-[Bitcoin]: https://raw.githubusercontent.com/v1s1t0r1sh3r3/airgeddon/master/imgs/banners/bitcoin_donate.png "Show me the money!"
-[BitcoinQR]: https://raw.githubusercontent.com/v1s1t0r1sh3r3/airgeddon/master/imgs/banners/bitcoin_qr.png "Show me the money!"
-
 [Contributing File]: https://github.com/v1s1t0r1sh3r3/airgeddon/blob/master/CONTRIBUTING.md
 [Code of Conduct]: https://github.com/v1s1t0r1sh3r3/airgeddon/blob/master/CODE_OF_CONDUCT.md
