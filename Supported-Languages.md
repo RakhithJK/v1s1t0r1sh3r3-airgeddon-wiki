@@ -7,6 +7,7 @@ If you wish to use airgeddon but written in your language, contact airgeddon's s
 - ![Catalan][Catalan] Catalan
 - ![English][English] English
 - ![French][French] French
+- ![German][German] German
 - ![Greek][Greek] Greek
 - ![Italian][Italian] Italian
 - ![Polish][Polish] Polish
@@ -16,7 +17,6 @@ If you wish to use airgeddon but written in your language, contact airgeddon's s
 
 It would be great to have it translated to any other language, but we'd like especially:
 - ![Chinese][Chinese] Chinese
-- ![German][German] German <- this is coming soon!!
 - ![Indian][Indian] Indian
 
 If you want to see `airgeddon` translated to your language, don't hesitate to contact us to make it real!
