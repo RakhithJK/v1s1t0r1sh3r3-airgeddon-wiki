@@ -50,13 +50,13 @@ If you enjoyed the script and found it useful, you can support the project makin
   </tr>
   <tr>
     <td>
-      <img src="https://raw.githubusercontent.com/v1s1t0r1sh3r3/airgeddon/dev/imgs/banners/bitcoin_qr.png" title="Bitcoin"/>
+      <img src="https://raw.githubusercontent.com/v1s1t0r1sh3r3/airgeddon/master/imgs/banners/bitcoin_qr.png" title="Bitcoin"/>
     </td>
     <td>
-      <img src="https://raw.githubusercontent.com/v1s1t0r1sh3r3/airgeddon/dev/imgs/banners/bitcoincash_qr.png" title="Bitcoin Cash"/>
+      <img src="https://raw.githubusercontent.com/v1s1t0r1sh3r3/airgeddon/master/imgs/banners/bitcoincash_qr.png" title="Bitcoin Cash"/>
     </td>
     <td>
-      <img src="https://raw.githubusercontent.com/v1s1t0r1sh3r3/airgeddon/dev/imgs/banners/dash_qr.png" title="Dash"/>
+      <img src="https://raw.githubusercontent.com/v1s1t0r1sh3r3/airgeddon/master/imgs/banners/dash_qr.png" title="Dash"/>
     </td>
   </tr>
   <tr>
@@ -72,13 +72,13 @@ If you enjoyed the script and found it useful, you can support the project makin
   </tr>
   <tr>
     <td>
-      <img src="https://raw.githubusercontent.com/v1s1t0r1sh3r3/airgeddon/dev/imgs/banners/ethereum_qr.png" title="Ethereum"/>
+      <img src="https://raw.githubusercontent.com/v1s1t0r1sh3r3/airgeddon/master/imgs/banners/ethereum_qr.png" title="Ethereum"/>
     </td>
     <td>
-      <img src="https://raw.githubusercontent.com/v1s1t0r1sh3r3/airgeddon/dev/imgs/banners/litecoin_qr.png" title="Litecoin"/>
+      <img src="https://raw.githubusercontent.com/v1s1t0r1sh3r3/airgeddon/master/imgs/banners/litecoin_qr.png" title="Litecoin"/>
     </td>
     <td>
-      <img src="https://raw.githubusercontent.com/v1s1t0r1sh3r3/airgeddon/dev/imgs/banners/zcash_qr.png" title="ZCash"/>
+      <img src="https://raw.githubusercontent.com/v1s1t0r1sh3r3/airgeddon/master/imgs/banners/zcash_qr.png" title="ZCash"/>
     </td>
   </tr>
 </table>
