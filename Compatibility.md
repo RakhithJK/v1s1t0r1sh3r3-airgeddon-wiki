@@ -32,4 +32,6 @@ It can run on any Linux distribution that passes the tools validations. Some of 
 
 If you wish to run airgeddon in any different Operating System, you can use a [Docker] container.
 
+Linux distributions (any) running under Windows subsystem are **NOT** supported.
+
 [Docker]: https://github.com/v1s1t0r1sh3r3/airgeddon/wiki/Docker
