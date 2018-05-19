@@ -13,4 +13,4 @@
  bettercap   | bettercap                | &#8901; | pixiewps | pixiewps                                             
  beef        | beef-xss \| beef-project | &#8901; | unbuffer | expect \| expect-dev                                 
 
-Appropriate checks are done at the beginning to determine if you are able to use some features. Optional but recommended to have. airgeddon will block the ability to use some features if the needed optional tool is not present.
+Appropriate checks are done at the beginning to determine if you are able to use some features. Optional but recommended to have. `airgeddon` will block the ability to use some features if the needed optional tool is not present.
