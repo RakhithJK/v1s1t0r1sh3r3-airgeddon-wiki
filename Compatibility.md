@@ -27,7 +27,7 @@ It can run on any Linux distribution that passes the tools validations. Some of 
 - Parrot Security 2.2.1 to 3.10 and arm versions (Raspberry Pi)
 - Raspbian 7 (Wheezy) to 9 (Stretch) (Raspberry Pi)
 - Red Hat 7 (Maipo)
-- Ubuntu/Xubuntu 15.10 to 17.04
+- Ubuntu/Xubuntu 15.10 to 18.04
 - Wifislax 4.11.1 to 64-1.1
 
 If you wish to run airgeddon in any different Operating System, you can use a [Docker] container.
