@@ -23,7 +23,7 @@ If you have chosen the legacy deb package, follow this instructions to install i
 	<ul>
 		<li><code>apt install ruby-packetfu ruby-colorize ruby-net-dns ruby-em-proxy ruby-network-interface</code></li>
 	</ul>
-	<li>Download the legacy **deb** bettercap package</li>
+	<li>Download the legacy deb bettercap package</li>
 	<ul>
 		<li><code>wget https://github.com/v1s1t0r1sh3r3/bettercap1.6.2/raw/master/bettercap_1.6.2-0parrot1_all.deb</code></li>
 	</ul>
