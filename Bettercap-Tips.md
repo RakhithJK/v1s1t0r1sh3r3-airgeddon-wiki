@@ -4,6 +4,11 @@
 
 The last compatible version (1.6.2) can be downloaded and compiled from the official author's page. Anyway, there is an available **deb** package ready to be installed on a Debian based Linux distribution. Here is the link: https://github.com/v1s1t0r1sh3r3/bettercap1.6.2
 
+More info at [Bettercap official's page].
+<p align="center">
+	<img src="https://raw.githubusercontent.com/v1s1t0r1sh3r3/airgeddon/dev/imgs/wiki/bettercap_logo.png" title="Bettercap"/>
+</p>
+
 #### Donwgrade instructions
 
 If you have chosen the legacy deb package, follow this instructions to install it:
@@ -29,3 +34,5 @@ If you have chosen the legacy deb package, follow this instructions to install i
 </ul>
 
 ##### Important note. This downgrade method was tested only on Kali and Parrot Security Linux.
+
+[Bettercap official's page]: https://www.bettercap.org/
