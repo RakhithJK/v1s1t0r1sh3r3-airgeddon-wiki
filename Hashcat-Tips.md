@@ -4,7 +4,7 @@
 
 If your `hashcat` version is 3.40 or higher, you'll need in addition the package called hashcat-utils. `airgeddon` will do the required check before using it.
 
-If you are having problems with your OpenCL drivers, you can use the old legacy `hashcat` v2.0. Available at official page and already compiled for amd64 at this repository (just for copy and directly be executed): https://github.com/v1s1t0r1sh3r3/hashcat2.0
+If you are having problems with your **OpenCL** drivers, you can use the old legacy `hashcat` v2.0. Available at official page and already compiled for amd64 at this repository (just for copy and directly be executed): https://github.com/v1s1t0r1sh3r3/hashcat2.0
 
 More info at [Hashcat official's page].
 <p align="center">
