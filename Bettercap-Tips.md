@@ -8,6 +8,7 @@ The last compatible version (1.6.2) can be downloaded and compiled from the offi
 
 If you have chosen the legacy deb package, follow this instructions to install it:
 
+<sub>Requirements: <code>wget</code></sub>
 <ul>
 	<li>Uninstall latest 2.x bettercap package</li>
 	<ul>
