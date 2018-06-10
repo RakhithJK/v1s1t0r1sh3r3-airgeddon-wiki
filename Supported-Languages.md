@@ -15,6 +15,9 @@ If you wish to use airgeddon but written in your language, contact airgeddon's s
 - ![Russian][Russian] Russian
 - ![Spanish][Spanish] Spanish
 
+Languages coming soon:
+- ![Turkish][Turkish] Turkish
+
 It would be great to have it translated to any other language, but we'd like especially:
 - ![Chinese][Chinese] Chinese
 - ![Indian][Indian] Indian
@@ -36,3 +39,4 @@ If you want to see `airgeddon` translated to your language, don't hesitate to co
 [Chinese]: https://raw.githubusercontent.com/v1s1t0r1sh3r3/airgeddon/master/imgs/flags/cn.png "Chinese"
 [German]: https://raw.githubusercontent.com/v1s1t0r1sh3r3/airgeddon/master/imgs/flags/de.png "German"
 [Indian]: https://raw.githubusercontent.com/v1s1t0r1sh3r3/airgeddon/master/imgs/flags/in.png "Indian"
+[Turkish]: https://raw.githubusercontent.com/v1s1t0r1sh3r3/airgeddon/dev/imgs/flags/tr.png "Indian"
