@@ -10,6 +10,7 @@
 - [rdcdt1] for more French translations
 - [dodg3rmaq] for Polish translations
 - [hamperfait] for German translations
+- [UN5T48L3] for Turkish translations
 - [OscarAkaElvis] for allowing me to own his body when I visit the earth
 
 #### Others
@@ -58,3 +59,4 @@
 [rdcdt1]: https://github.com/rdcdt1
 [dodg3rmaq]: https://github.com/dodg3rmaq
 [hamperfait]: https://github.com/hamperfait
+[UN5T48L3]: https://github.com/UN5T48L3
