@@ -39,4 +39,4 @@ If you want to see `airgeddon` translated to your language, don't hesitate to co
 [Chinese]: https://raw.githubusercontent.com/v1s1t0r1sh3r3/airgeddon/master/imgs/flags/cn.png "Chinese"
 [German]: https://raw.githubusercontent.com/v1s1t0r1sh3r3/airgeddon/master/imgs/flags/de.png "German"
 [Indian]: https://raw.githubusercontent.com/v1s1t0r1sh3r3/airgeddon/master/imgs/flags/in.png "Indian"
-[Turkish]: https://raw.githubusercontent.com/v1s1t0r1sh3r3/airgeddon/dev/imgs/flags/tr.png "Indian"
+[Turkish]: https://raw.githubusercontent.com/v1s1t0r1sh3r3/airgeddon/master/imgs/flags/tr.png "Indian"
