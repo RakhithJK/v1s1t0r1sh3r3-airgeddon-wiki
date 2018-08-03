@@ -25,7 +25,7 @@ It would be great to have it translated to any other language, but we'd like esp
 If you want to see `airgeddon` translated to your language, don't hesitate to contact us to make it real!
 
 <!-- Links To WiKi -->
-[contributing]: https://github.com/v1s1t0r1sh3r3/airgeddon/wiki/Contributing
+[contributing]: https://github.com/v1s1t0r1sh3r3/airgeddon/wiki/Contributing-&-Code-of-Conduct
 <!-- Links To Images -->
 [English]: https://raw.githubusercontent.com/v1s1t0r1sh3r3/airgeddon/master/imgs/flags/us.png "English"
 [Spanish]: https://raw.githubusercontent.com/v1s1t0r1sh3r3/airgeddon/master/imgs/flags/es.png "Spanish"
