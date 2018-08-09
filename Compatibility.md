@@ -33,7 +33,7 @@ It can run on any Linux distribution that passes the tools validations. Some of 
 If you wish to run airgeddon in any different Operating System, you can use a [Docker] container.
 
 #### Important compatibility notes
- - Any Linux distribution run under Windows subsystem are **NOT** supported.
+ - Any Linux distribution run under Windows subsystem is **NOT** supported.
  - In `airgeddon<=8.10`, only `airmon` compatible wireless cards are supported. If your card is unable to change its mode by performing an `airmon` command out of `airgeddon`, it won't work. From `airgeddon>=8.11` any card can be used if the monitor mode is supported.
 
 [Docker]: https://github.com/v1s1t0r1sh3r3/airgeddon/wiki/Docker
