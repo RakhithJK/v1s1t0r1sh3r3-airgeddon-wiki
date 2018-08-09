@@ -11,6 +11,7 @@
 - [dodg3rmaq] for Polish translations
 - [hamperfait] for German translations
 - [UN5T48L3] for Turkish translations
+- [mamatb] for help received on development
 - [OscarAkaElvis] for allowing me to own his body when I visit the earth
 
 #### Others
@@ -60,3 +61,4 @@
 [dodg3rmaq]: https://github.com/dodg3rmaq
 [hamperfait]: https://github.com/hamperfait
 [UN5T48L3]: https://github.com/UN5T48L3
+[mamatb]: https://github.com/mamatb
