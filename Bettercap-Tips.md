@@ -34,6 +34,10 @@ If you have chosen the legacy deb package, follow this instructions to install i
 	</ul>
 </ul>
 
+Additionally, you may want as optional to mark the package as "hold" to avoid its update in order to keep the downgraded compatible version:
+
+`apt-mark hold bettercap`
+
 ##### Important note. This downgrade method was tested only on Kali and Parrot Security Linux.
 
 [Bettercap official's page]: https://www.bettercap.org/
