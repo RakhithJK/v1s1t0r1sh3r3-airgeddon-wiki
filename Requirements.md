@@ -5,7 +5,7 @@ Compatible with any Linux distribution that has installed the tools needed. The 
  - [Essential Tools]: The script does not work if you don't have installed all of them.
 
  - [Optional Tools]: Not necessary to work, only needed for some features.
-   - Some of them require special attention. Check them out: [BeEF Tips], [Hashcat Tips].
+   - Some of them require special attention. Check them out: [BeEF Tips], [Hashcat Tips], [Bettercap Tips].
 
  - [Update Tools]: Not necessary to work, only used for auto-update.
 
@@ -17,3 +17,4 @@ Compatible with any Linux distribution that has installed the tools needed. The 
 [Internal Tools]: https://github.com/v1s1t0r1sh3r3/airgeddon/wiki/Internal%20Tools
 [BeEF Tips]: https://github.com/v1s1t0r1sh3r3/airgeddon/wiki/BeEF%20Tips
 [Hashcat Tips]: https://github.com/v1s1t0r1sh3r3/airgeddon/wiki/Hashcat%20Tips
+[Bettercap Tips]: https://github.com/v1s1t0r1sh3r3/airgeddon/wiki/Bettercap%20Tips
