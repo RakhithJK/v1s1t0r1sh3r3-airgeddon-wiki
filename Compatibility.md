@@ -22,7 +22,7 @@ It can run on any Linux distribution that passes the tools validations. Some of 
 - Fedora 24 to 27
 - Gentoo 20160514 to 20180206
 - Kali 2.0, 2016.1 to 2018.2 and arm versions (Raspberry Pi)
-- Mint 18.x
+- Mint 18.x (Serena to Sylvia)
 - OpenMandriva LX3
 - OpenSUSE Leap 42.1 to 42.3
 - Parrot Security 2.2.1 or higher (3.x, 4.x) and arm versions (Raspberry Pi)
