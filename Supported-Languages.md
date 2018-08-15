@@ -14,8 +14,6 @@ If you wish to use airgeddon but written in your language, contact airgeddon's s
 - ![Portuguese][Portuguese] Portuguese
 - ![Russian][Russian] Russian
 - ![Spanish][Spanish] Spanish
-
-Languages coming soon:
 - ![Turkish][Turkish] Turkish
 
 It would be great to have it translated to any other language, but we'd like especially:
