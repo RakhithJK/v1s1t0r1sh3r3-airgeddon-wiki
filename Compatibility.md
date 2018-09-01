@@ -14,14 +14,14 @@ It can run on any Linux distribution that passes the tools validations. Some of 
 
 #### Tested on these compatible Linux distributions
 - Arch 4.6.2-1 to 4.17.14-1
-- Backbox 4.5.1 to 5
-- BlackArch 2016.01.10 to 2017.12.11
+- Backbox 4.5.1 to 5.x
+- BlackArch 2016.01.10 to 2018.06.01
 - CentOS 6 and 7
 - Cyborg Hawk 1.1
 - Debian 7 (Wheezy) to 9 (Stretch)
-- Fedora 24 to 27
+- Fedora 24 to 28
 - Gentoo 20160514 to 20180206
-- Kali 2.0, 2016.1 to 2018.2 and arm versions (Raspberry Pi)
+- Kali 2.0, 2016.1 to 2018.3 and arm versions (Raspberry Pi)
 - Mint 18.x (Serena to Sylvia)
 - OpenMandriva LX3
 - OpenSUSE Leap 42.1 to 42.3
