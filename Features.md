@@ -33,7 +33,7 @@
 - Auto-update. Script checks for newer version if possible
 - [Docker] image for easy and quick container deployment. Use already built image on [Docker Hub] or build your own
 - Http proxy auto detection for updates
-- Wayland graphic system support
+- Wayland graphic system supported (not only X window system)
 
 <!-- Anchors -->
 [Requirements]: https://github.com/v1s1t0r1sh3r3/airgeddon/wiki/Requirements
