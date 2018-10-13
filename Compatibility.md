@@ -36,5 +36,6 @@ If you wish to run airgeddon in any different Operating System, you can use a [D
 #### Important compatibility notes
  - Any Linux distribution run under Windows subsystem is **NOT** supported.
  - In `airgeddon<=8.10`, only `airmon` compatible wireless cards are supported. If your card is unable to change its mode by performing an `airmon` command out of `airgeddon`, it won't work. From `airgeddon>=8.11` any card can be used if the monitor mode is supported.
+ - In order to work with Wayland graphic system (instead on using X window system), you must add permissions to root user in this way: `xhost si:localuser:root`. Doing that, root user (or using `airgeddon` as sudo) is able to detect the screen resolution.
 
 [Docker]: https://github.com/v1s1t0r1sh3r3/airgeddon/wiki/Docker
