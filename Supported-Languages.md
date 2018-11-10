@@ -1,6 +1,6 @@
 ###### This page lists the languages in which airgeddon is translated into.
 
-If you wish to use airgeddon but written in your language, contact airgeddon's staff following the [contributing] instructions to get things done.
+Different languages can be set from the `airgeddon`'s options and language menu. If you wish to use airgeddon but written in your language, contact airgeddon's staff following the [contributing] instructions to get things done.
 
 `airgeddon` is currently available in:
 
