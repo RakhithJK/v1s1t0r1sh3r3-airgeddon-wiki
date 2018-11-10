@@ -1,4 +1,4 @@
-### This is under development. The part of connecting to X Window system is working. Investigating yet how to connect wireless interfaces into docker container.
+### This is under development. The part of connecting to X Window system is working. Investigating yet how to connect wireless interfaces into docker container. Help wanted!!
 
 The recommended docker run command to be run under Mac OSX host is:
 
