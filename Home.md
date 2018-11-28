@@ -21,6 +21,7 @@
   - [Known Incompatibilities]
 - **Getting Started**
   - [Installation & Usage]
+  - [Options]
   - [Docker]
     - [Linux]
     - [Mac OSX]
@@ -50,6 +51,7 @@
 [Internal Tools]: https://github.com/v1s1t0r1sh3r3/airgeddon/wiki/Internal%20Tools
 [Known Incompatibilities]: https://github.com/v1s1t0r1sh3r3/airgeddon/wiki/Known%20Incompatibilities
 [Installation & Usage]: https://github.com/v1s1t0r1sh3r3/airgeddon/wiki/Installation%20&%20Usage
+[Options]: https://github.com/v1s1t0r1sh3r3/airgeddon/wiki/Options
 [Docker]: https://github.com/v1s1t0r1sh3r3/airgeddon/wiki/Docker
 [Linux]: https://github.com/v1s1t0r1sh3r3/airgeddon/wiki/Docker%20Linux
 [Mac OSX]: https://github.com/v1s1t0r1sh3r3/airgeddon/wiki/Docker%20Mac%20OSX
