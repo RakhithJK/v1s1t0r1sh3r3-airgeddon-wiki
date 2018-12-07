@@ -14,7 +14,7 @@ Pre installed. Just select it from the menu or execute `airgeddon` command from 
 
 ### Parrot Security Linux
 
-Pre installed. Just select it from the menu or execute `airgeddon` command from anywhere. If you have an old Parrot version, you can install it executing `apt install airgeddon` and then can be executed from anywhere using `airgeddon` command.
+Pre installed. Just select it from the menu or execute `airgeddon` command from anywhere. If you have an old Parrot version, you can install it executing `~# apt install airgeddon` and then can be executed from anywhere using `airgeddon` command.
 
 ### Arch Linux [![](https://img.shields.io/aur/version/airgeddon-git.svg?style=flat-square&colorA=3F3F3F&colorB=1793D1)](https://aur.archlinux.org/packages/airgeddon-git)
 
