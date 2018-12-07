@@ -18,7 +18,7 @@ It is essential to run this script as **root**, otherwise `airgeddon` won't work
 		</ul>
 		<li>Run it (remove <strong>sudo</strong> if you already have root permissions)</li>
 		<ul>
-			<li><code>~$ sudo bash airgeddon.sh</code></li>
+			<li><code>~/airgeddon$ sudo bash airgeddon.sh</code></li>
 		</ul>
 	</ul>
 </details>
@@ -40,7 +40,7 @@ It is essential to run this script as **root**, otherwise `airgeddon` won't work
 		</ul>
 		<li>Run it (remove <strong>sudo</strong> if you already have root permissions)</li>
 		<ul>
-			<li><code>~$ sudo bash airgeddon.sh</code></li>
+			<li><code>~/airgeddon$ sudo bash airgeddon.sh</code></li>
 		</ul>
 	</ul>
 </details>
