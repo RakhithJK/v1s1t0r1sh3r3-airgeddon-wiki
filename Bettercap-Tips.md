@@ -18,25 +18,25 @@ If you have chosen the legacy deb package, follow this instructions to install i
 <ul>
 	<li>Uninstall latest 2.x bettercap package</li>
 	<ul>
-		<li><code>apt remove bettercap</code></li>
+		<li><code>~# apt remove bettercap</code></li>
 	</ul>
 	<li>Install the ruby dependencies</li>
 	<ul>
-		<li><code>apt install ruby-packetfu ruby-colorize ruby-net-dns ruby-em-proxy ruby-network-interface</code></li>
+		<li><code>~# apt install ruby-packetfu ruby-colorize ruby-net-dns ruby-em-proxy ruby-network-interface</code></li>
 	</ul>
 	<li>Download the legacy deb bettercap package</li>
 	<ul>
-		<li><code>wget https://github.com/v1s1t0r1sh3r3/bettercap1.6.2/raw/master/bettercap_1.6.2-0parrot1_all.deb</code></li>
+		<li><code>~# wget https://github.com/v1s1t0r1sh3r3/bettercap1.6.2/raw/master/bettercap_1.6.2-0parrot1_all.deb</code></li>
 	</ul>
 	<li>Install the downloaded package</li>
 	<ul>
-		<li><code>dpkg -i bettercap_1.6.2-0parrot1_all.deb</code></li>
+		<li><code>~# dpkg -i bettercap_1.6.2-0parrot1_all.deb</code></li>
 	</ul>
 </ul>
 
 Additionally, you may want as optional to mark the package as "hold" to avoid its update in order to keep the downgraded compatible version:
 
-`apt-mark hold bettercap`
+`~# apt-mark hold bettercap`
 
 ##### Important note. This downgrade method was tested only on Kali and Parrot Security Linux.
 
