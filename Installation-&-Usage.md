@@ -28,19 +28,19 @@ It is essential to run this script as **root**, otherwise `airgeddon` won't work
 	<ul>
 		<li>Download files</li>
 		<ul>
-			<li><code>wget https://github.com/v1s1t0r1sh3r3/airgeddon/archive/master.zip</code></li>
+			<li><code>~$ wget https://github.com/v1s1t0r1sh3r3/airgeddon/archive/master.zip</code></li>
 		</ul>
 		<li>Unzip the downloaded file</li>
 		<ul>
-			<li><code>unzip master.zip</code></li>
+			<li><code>~$ unzip master.zip</code></li>
 		</ul>
 		<li>Go to the newly created directory</li>
 		<ul>
-			<li><code>cd airgeddon-master</code></li>
+			<li><code>~$ cd airgeddon-master</code></li>
 		</ul>
 		<li>Run it (remove <strong>sudo</strong> if you already have root permissions)</li>
 		<ul>
-			<li><code>sudo bash airgeddon.sh</code></li>
+			<li><code>~$ sudo bash airgeddon.sh</code></li>
 		</ul>
 	</ul>
 </details>
