@@ -3,7 +3,6 @@
 The recommended docker run command to be run under Windows host is:
 
 ```
-
 ~# docker run --rm \
               -ti \
               --name airgeddon \
