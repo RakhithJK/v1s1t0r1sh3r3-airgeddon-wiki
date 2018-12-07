@@ -48,13 +48,13 @@ Evil Twin attacks are using `hostapd` to create fake AP which usually are in con
 
 The easiest way is to launch on host this command:
 
-`airmon-ng check kill` &#8594; This will kill conflicting processes.
+`~# airmon-ng check kill` &#8594; This will kill conflicting processes.
 
 Or if you prefer, you can directly disable `network-manager`. To do this there are several ways. Depending on your Linux distribution the command may vary. Some of them are:
 
-`service network-manager stop` &#8594; Valid for Kali, Backbox, Ubuntu, Debian, Raspbian, Parrot and Cyborg.<br/>
-`service NetworkManager stop` &#8594; Valid for SuSE, CentOS, Fedora, Gentoo and Red Hat.<br/>
-`systemctl stop NetworkManager.service` &#8594; Valid for Arch, BlackArch and OpenMandriva.<br/>
+`~# service network-manager stop` &#8594; Valid for Kali, Backbox, Ubuntu, Debian, Raspbian, Parrot and Cyborg.<br/>
+`~# service NetworkManager stop` &#8594; Valid for SuSE, CentOS, Fedora, Gentoo and Red Hat.<br/>
+`~# systemctl stop NetworkManager.service` &#8594; Valid for Arch, BlackArch and OpenMandriva.<br/>
 
 The goal is to see at `hostapd` window something like this:
 
