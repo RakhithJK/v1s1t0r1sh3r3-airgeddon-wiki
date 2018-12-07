@@ -2,17 +2,17 @@
 
 The recommended docker run command to be run under Windows host is:
 
-```bash
-docker run \
-       --rm \
-       -ti \
-       --name airgeddon \
-       --net=host \
-       --privileged \
-       -p 3000:3000 \
-       -v /path/to/some/dir/on/your/host:/io \
-       -e DISPLAY=$(route print | grep 0.0.0.0 | awk '{print $4}' | head -n 1):0 \
-       v1s1t0r1sh3r3/airgeddon
+```
+
+~# docker run --rm \
+              -ti \
+              --name airgeddon \
+              --net=host \
+              --privileged \
+              -p 3000:3000 \
+              -v /path/to/some/dir/on/your/host:/io \
+              -e DISPLAY=$(route print | grep 0.0.0.0 | awk '{print $4}' | head -n 1):0 \
+              v1s1t0r1sh3r3/airgeddon
 ```
 
 Parameters explanation:
