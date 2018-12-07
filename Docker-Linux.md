@@ -32,7 +32,7 @@ Don't forget to replace on docker command the string "/path/to/some/dir/on/your/
 
 #### Display problems (resolution detection)
 
-On some distros like Ubuntu, in order to open the possibility of connecting `airgeddon` xterm windows to your host X Window system, you must launch first `xhost +` command. You can check if you need it easily. The resolution should be detected inside `airgeddon` on initial checks. If not is detected, you have a problem with your DISPLAY var. You should launch `xhost +` command or adjust DISPLAY var on docker run command.
+On some distros like Ubuntu, in order to open the possibility of connecting `airgeddon` xterm windows to your host X Window system, you must launch first `~# xhost +` command. You can check if you need it easily. The resolution should be detected inside `airgeddon` on initial checks. If not is detected, you have a problem with your DISPLAY var. You should launch `~# xhost +` command or adjust DISPLAY var on docker run command.
 
 #### Hostapd possible conflict with host network-manager
 
