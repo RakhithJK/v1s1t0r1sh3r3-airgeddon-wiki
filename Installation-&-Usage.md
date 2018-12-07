@@ -40,12 +40,12 @@ It is essential to run this script as **root**, otherwise `airgeddon` won't work
 		</ul>
 		<li>Run it (remove <strong>sudo</strong> if you already have root permissions)</li>
 		<ul>
-			<li><code>~/airgeddon$ sudo bash airgeddon.sh</code></li>
+			<li><code>~/airgeddon-master$ sudo bash airgeddon.sh</code></li>
 		</ul>
 	</ul>
 </details>
 
-airgeddon should be launched with **bash** `bash /path/to/airgeddon.sh` and not with **sh** or any other kind of shell
+airgeddon should be launched with **bash** `~# bash /path/to/airgeddon.sh` and not with **sh** or any other kind of shell
 
 
 If you launch the script using another shell, there will be *Syntax errors* and faulty results.
