@@ -18,7 +18,7 @@ Pre installed. Just select it from the menu or execute `airgeddon` command from 
 
 ### Arch Linux [![](https://img.shields.io/aur/version/airgeddon-git.svg?style=flat-square&colorA=3F3F3F&colorB=1793D1)](https://aur.archlinux.org/packages/airgeddon-git)
 
-`yaourt -S airgeddon-git` without root permissions.
+`~# yaourt -S airgeddon-git` without root permissions.
 
 <!-- Links -->
 [4.12, 64-1.0 or later]: http://www.wifislax.com
