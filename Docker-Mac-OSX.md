@@ -2,7 +2,7 @@
 
 The recommended docker run command to be run under Mac OSX host is:
 
-```bash
+```
 ~# docker run \
           --rm \
           -ti \
