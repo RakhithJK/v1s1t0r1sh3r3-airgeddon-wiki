@@ -3,16 +3,16 @@
 The recommended docker run command to be run under Mac OSX host is:
 
 ```bash
-docker run \
-       --rm \
-       -ti \
-       --name airgeddon \
-       --net=host \
-       --privileged \
-       -p 3000:3000 \
-       -v /path/to/some/dir/on/your/host:/io \
-       -e DISPLAY=$(ifconfig en0 | grep inet | awk '$1=="inet" {print $2}'):0 \
-       v1s1t0r1sh3r3/airgeddon
+~# docker run \
+          --rm \
+          -ti \
+          --name airgeddon \
+          --net=host \
+          --privileged \
+          -p 3000:3000 \
+          -v /path/to/some/dir/on/your/host:/io \
+          -e DISPLAY=$(ifconfig en0 | grep inet | awk '$1=="inet" {print $2}'):0 \
+          v1s1t0r1sh3r3/airgeddon
 ```
 
 Parameters explanation:
@@ -43,10 +43,10 @@ You'll need a X Window system running on your Mac OSX. You can install [XQuartz]
 
 After that, you'll need to disable access control or add your ip to the authorized clients list:
 
-`xhost +` &#8594; To disable completely the restriction.
+`~# xhost +` &#8594; To disable completely the restriction.
 
 Or the more recommended:
 
-`xhost $(ifconfig en0 | grep inet | awk '$1=="inet" {print $2}')` &#8594; To allow only local ip, this is more restrictive and secure.
+`~# xhost $(ifconfig en0 | grep inet | awk '$1=="inet" {print $2}')` &#8594; To allow only local ip, this is more restrictive and secure.
 
 [XQuartz]: https://www.xquartz.org/
