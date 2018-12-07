@@ -10,15 +10,15 @@ It is essential to run this script as **root**, otherwise `airgeddon` won't work
 	<ul>
 		<li>Clone the repository</li>
 		<ul>
-			<li><code>git clone --depth 1 https://github.com/v1s1t0r1sh3r3/airgeddon.git</code></li>
+			<li><code>~$ git clone --depth 1 https://github.com/v1s1t0r1sh3r3/airgeddon.git</code></li>
 		</ul>
 		<li>Go to the newly created directory</li>
 		<ul>
-			<li><code>cd airgeddon</code></li>
+			<li><code>~$ cd airgeddon</code></li>
 		</ul>
 		<li>Run it (remove <strong>sudo</strong> if you already have root permissions)</li>
 		<ul>
-			<li><code>sudo bash airgeddon.sh</code></li>
+			<li><code>~$ sudo bash airgeddon.sh</code></li>
 		</ul>
 	</ul>
 </details>
