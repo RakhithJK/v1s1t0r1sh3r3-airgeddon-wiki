@@ -1,15 +1,15 @@
 The recommended docker run command to be run under Linux host is:
 
-```
-~# docker run --rm \
-              -ti \
-              --name airgeddon \
-              --net=host \
-              --privileged \
-              -p 3000:3000 \
-              -v /path/to/some/dir/on/your/host:/io \
-              -e DISPLAY=$(env | grep DISPLAY | awk -F "=" '{print $2}') \
-              v1s1t0r1sh3r3/airgeddon
+~# docker run \
+          --rm \
+          -ti \
+          --name airgeddon \
+          --net=host \
+          --privileged \
+          -p 3000:3000 \
+          -v /path/to/some/dir/on/your/host:/io \
+          -e DISPLAY=$(env | grep DISPLAY | awk -F "=" '{print $2}') \
+          v1s1t0r1sh3r3/airgeddon
 ```
 
 Parameters explanation:
