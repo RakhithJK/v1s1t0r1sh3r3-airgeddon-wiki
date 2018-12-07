@@ -1,5 +1,6 @@
 The recommended docker run command to be run under Linux host is:
 
+```
 ~# docker run \
           --rm \
           -ti \
