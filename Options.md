@@ -20,7 +20,7 @@ The changes on the options set on the command line will apply only for that sess
 
 Setting these flags on the command line will disable all colorization and the ascii intro animation will be skipped on next launch.
 ```
-AIRGEDDON_AUTO_UPDATE=false AIRGEDDON_5GHZ_ENABLED=false bash airgeddon.sh
+~# AIRGEDDON_AUTO_UPDATE=false AIRGEDDON_5GHZ_ENABLED=false bash airgeddon.sh
 ```
  
 #### From the options menu
