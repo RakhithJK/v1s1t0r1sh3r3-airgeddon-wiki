@@ -18,7 +18,7 @@ The changes on the options set on the command line will apply only for that sess
 
  - Examples
 
-Setting these flags on the command line, there will be no updates for airgeddon and 5Ghz will be disabled on next launch.
+Setting these flags on the command line, there will be no updates and 5Ghz will be disabled on next launch.
 ```
 ~/airgeddon# AIRGEDDON_AUTO_UPDATE=false AIRGEDDON_5GHZ_ENABLED=false bash airgeddon.sh
 ```
