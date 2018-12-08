@@ -1,5 +1,5 @@
 :speech_balloon: You can contact project's staff by
-- Sending an email at [v1s1t0r.1s.h3r3&#64;gmail.com]
+- Sending an email to [v1s1t0r.1s.h3r3&#64;gmail.com]
 - Chatting on our **#airgeddon** channel at **irc.freenode.net** IRC server
 
 ![IRC Channel](https://raw.githubusercontent.com/v1s1t0r1sh3r3/airgeddon/master/imgs/wiki/airgeddon_irc.png)
