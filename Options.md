@@ -1,4 +1,4 @@
-From `airgeddon>=9.0` a new options system is available. It is based on bash substitution fallback environment vars. Options can be set in three different ways:
+From `airgeddon>=9.0` a new options system is available. It is based on bash fallback substitution environment vars. Options can be set in three different ways:
 
 #### From the `.airgeddonrc` file
 
