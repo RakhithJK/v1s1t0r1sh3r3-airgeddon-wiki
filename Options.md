@@ -60,4 +60,4 @@ AIRGEDDON_DEVELOPMENT_MODE=false
 #Enabled true / Disabled false - Debug mode for development printing debug information - Default value false
 AIRGEDDON_DEBUG_MODE=false
 ```
-##### Important note. The last two options `AIRGEDDON_DEVELOPMENT_MODE`and `AIRGEDDON_DEBUG_MODE` are special. Their purpose is development so they are not present on menus to be set. They can be set only modifying the `.airgeddonrc` file or using command line flags.
+##### Important note. The last two options `AIRGEDDON_DEVELOPMENT_MODE`and `AIRGEDDON_DEBUG_MODE` are special. Their purpose is development so they are not present on menus to be modified. They can be set only modifying the `.airgeddonrc` file or using command line flags.
