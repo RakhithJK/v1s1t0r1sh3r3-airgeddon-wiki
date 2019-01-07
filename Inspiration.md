@@ -6,8 +6,10 @@ This page lists the authors who inspired me with their tools.
 - Coeman76 &#8594; Handshaker
 - [vk496] &#8594; Linset
 - [Kcdtv] &#8594; WPSPin and nmk
+- [s0lst1c3] &#8594; EAPHammer
 
 <!-- Github links -->
 [vk496]: https://github.com/vk496
 [MatToufoutu]: https://github.com/mattoufoutu
 [Kcdtv]: https://github.com/kcdtv
+[s0lst1c3]: https://github.com/s0lst1c3
