@@ -7,7 +7,7 @@
 - [MiAl] for Russian translations
 - [xtonousou] for Greek translations, beta testing, suggestions, the help received fixing code warnings and other stuff
 - [salu90] for Italian translations
-- [rdcdt1] for more French translations
+- [rdcdt1] for French translations
 - [dodg3rmaq] for Polish translations
 - [hamperfait] for German translations
 - [UN5T48L3] for Turkish translations
