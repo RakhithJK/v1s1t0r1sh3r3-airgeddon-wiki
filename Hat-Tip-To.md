@@ -12,6 +12,7 @@
 - [hamperfait] for German translations
 - [UN5T48L3] for Turkish translations
 - [mamatb] for help received on development
+- [JBalanza] for French translations and help received on development
 - [OscarAkaElvis] for allowing me to own his body when I visit the earth
 
 #### Others
@@ -63,3 +64,4 @@
 [hamperfait]: https://github.com/hamperfait
 [UN5T48L3]: https://github.com/UN5T48L3
 [mamatb]: https://github.com/mamatb
+[JBalanza]: https://github.com/JBalanza
