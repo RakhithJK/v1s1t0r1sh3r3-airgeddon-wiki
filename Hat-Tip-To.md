@@ -13,7 +13,7 @@
 - [UN5T48L3] for Turkish translations
 - [mamatb] for help received on development
 - [JBalanza] for French translations and help received on development
-- [Kalel51] for beta testing and support received
+- [Kalel51] and [jarilaos] for beta testing and support received
 - [OscarAkaElvis] for allowing me to own his body when I visit the earth
 
 #### Others
@@ -67,3 +67,4 @@
 [mamatb]: https://github.com/mamatb
 [JBalanza]: https://github.com/JBalanza
 [Kalel51]: https://github.com/Kalel51
+[jarilaos]: https://github.com/jarilaos 
