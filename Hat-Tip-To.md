@@ -1,7 +1,7 @@
 #### Collaborators
 
 - [kcdtv] for French translations, beta testing, suggestions about new features and support received since the beginning
-- **USUARIONUEVO** for helping me to improve the script, suggestions about new features and for the support received
+- [USUARIONUEVO] for helping to improve the script, suggestions about new features and for the support received adding it to [Wifislax]
 - **El padrino** and [cLn] for Catalan translations
 - [Luan] for Portuguese translations
 - [MiAl] for Russian translations
@@ -45,6 +45,7 @@
 [Hack&Beers]: https://twitter.com/hackandbeers
 [Br3aking C0de]: https://n0ipr0cs.github.io/br3akingc0de/
 [H-c0n]: https://www.h-c0n.com/p/home.html
+[Wifislax]: https://www.wifislax.com
 
 <!-- Github URLs -->
 [Kcdtv]: https://github.com/kcdtv
@@ -67,4 +68,5 @@
 [mamatb]: https://github.com/mamatb
 [JBalanza]: https://github.com/JBalanza
 [Kalel51]: https://github.com/Kalel51
-[jarilaos]: https://github.com/jarilaos 
+[jarilaos]: https://github.com/jarilaos
+[USUARIONUEVO]: https://github.com/wifislax-ng
