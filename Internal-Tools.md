@@ -18,6 +18,8 @@ Of course, the script also uses many standard basic tools that are supposed to b
 ##### Important tips about ccze
 
 `ccze` decreases performance. It is NOT recommended for **arm** devices.
+  * Version 9.0 or later
+    * Disable from menu, now called extended colorization
   * Version 7.2 or later
     * Disable colorization from menu
   * Version 7.11
