@@ -18,7 +18,6 @@ Different languages can be set from the `airgeddon`'s options and language menu.
 
 It would be great to have it translated to any other language, but we'd like especially:
 - ![Chinese][Chinese] Chinese
-- ![Hindi][Hindi] Hindi
 
 If you want to see `airgeddon` translated to your language, don't hesitate to contact us to make it real!
 
@@ -36,5 +35,4 @@ If you want to see `airgeddon` translated to your language, don't hesitate to co
 [Polish]: https://raw.githubusercontent.com/v1s1t0r1sh3r3/airgeddon/master/imgs/flags/pl.png "Polish"
 [Chinese]: https://raw.githubusercontent.com/v1s1t0r1sh3r3/airgeddon/master/imgs/flags/cn.png "Chinese"
 [German]: https://raw.githubusercontent.com/v1s1t0r1sh3r3/airgeddon/master/imgs/flags/de.png "German"
-[Hindi]: https://raw.githubusercontent.com/v1s1t0r1sh3r3/airgeddon/master/imgs/flags/in.png "Indian"
-[Turkish]: https://raw.githubusercontent.com/v1s1t0r1sh3r3/airgeddon/master/imgs/flags/tr.png "Indian"
+[Turkish]: https://raw.githubusercontent.com/v1s1t0r1sh3r3/airgeddon/master/imgs/flags/tr.png "Turkish"
