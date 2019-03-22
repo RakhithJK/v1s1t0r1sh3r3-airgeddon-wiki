@@ -14,6 +14,7 @@
 - [mamatb] for help received on development
 - [JBalanza] for French translations and help received on development
 - [Kalel51] and [jarilaos] for beta testing and support received
+- [xpz3] for helping on development, bug reporting and support received
 - [OscarAkaElvis] for allowing me to own his body when I visit the earth
 
 #### Others
@@ -70,3 +71,4 @@
 [Kalel51]: https://github.com/Kalel51
 [jarilaos]: https://github.com/jarilaos
 [USUARIONUEVO]: https://github.com/wifislax-ng
+[xpz3]: https://github.com/xpz3
