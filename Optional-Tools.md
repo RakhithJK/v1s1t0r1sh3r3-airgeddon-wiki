@@ -5,7 +5,7 @@
  wpaclean    | aircrack-ng              | &#8901; | ettercap | ettercap \| ettercap-text-only \| ettercap-graphical
  crunch      | crunch                   | &#8901; | etterlog | ettercap \| ettercap-text-only \| ettercap-graphical
  aireplay-ng | aircrack-ng              | &#8901; | sslstrip | sslstrip                                             
- mdk3        | mdk3                     | &#8901; | dhcpd    | isc-dhcp-server \| dhcp-server \| dhcp               
+ mdk4        | mdk4                     | &#8901; | dhcpd    | isc-dhcp-server \| dhcp-server \| dhcp               
  hashcat     | hashcat                  | &#8901; | dnsspoof | dsniff                                               
  hostapd     | hostapd                  | &#8901; | wash     | reaver                                               
  lighttpd    | lighttpd                 | &#8901; | reaver   | reaver                                               
