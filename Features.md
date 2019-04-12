@@ -35,8 +35,9 @@
 - [Docker] image for easy and quick container deployment. Use already built image on [Docker Hub] or build your own
 - Http proxy auto detection for updates
 - Wayland graphic system supported (not only X window system)
+- Tmux support for headless (systems without X window) environments _(Under beta-testing on headless_tmux branch v9.20)_
 - Multiple configurable options based on fallback substitution variables options system which allow to configure many enhancements like enable/disable colors, 5Ghz band, auto updates, hint printing, etc.
-- Compatibility with iptables and nftables.
+- Full compatibility with iptables and nftables with autodetection and possibility to force iptables by setting an option
 
 <!-- Anchors -->
 [Requirements]: https://github.com/v1s1t0r1sh3r3/airgeddon/wiki/Requirements
