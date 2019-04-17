@@ -18,6 +18,7 @@
   - Custom PIN association (bully and reaver)
   - Pixie Dust attacks (bully and reaver)
   - Bruteforce PIN attacks (bully and reaver)
+  - Null PIN attack (reaver)
   - Parameterizable timeouts
   - Known WPS PINs attack (bully and reaver), based on online PIN database with auto-update
   - Integration of the most common PIN generation algorithms (ComputePIN, EasyBox, Arcadyan, etc.)
