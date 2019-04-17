@@ -19,10 +19,10 @@
   - Pixie Dust attacks (bully and reaver)
   - Bruteforce PIN attacks (bully and reaver)
   - Null PIN attack (reaver)
-  - Parameterizable timeouts
   - Known WPS PINs attack (bully and reaver), based on online PIN database with auto-update
   - Integration of the most common PIN generation algorithms (ComputePIN, EasyBox, Arcadyan, etc.)
   - Offline PIN generation and the possibility to search PIN results on database for a target
+  - Parameterizable timeouts for all attacks
 - Enterprise networks attacks. Fake AP using "smooth" and "noisy" modes capturing enterprise hashes and plain passwords.
 - WEP All-in-One attack (combining different techniques: Chop-Chop, Caffe Latte, ARP Replay, Hirte, Fragmentation, Fake association, etc.)
 - Compatibility with many Linux distributions (see [Requirements] section)
