@@ -6,6 +6,7 @@ This page lists all the Linux distributions and repositories in which `airgeddon
 | ![BlackArch](https://raw.githubusercontent.com/v1s1t0r1sh3r3/airgeddon/master/imgs/wiki/blackarch_linux.png) | [2017.01.28 or later] |
 | ![Parrot](https://raw.githubusercontent.com/v1s1t0r1sh3r3/airgeddon/master/imgs/wiki/parrot_linux.png) | [3.7 or later] |
 | ![Wifislax](https://raw.githubusercontent.com/v1s1t0r1sh3r3/airgeddon/master/imgs/wiki/wifislax_linux.png) | [4.12, 64-1.0 or later] |
+| ![Npm](https://raw.githubusercontent.com/v1s1t0r1sh3r3/airgeddon/dev/imgs/wiki/npm.png) | [Npm] |
 
 ***
 ### Wifislax and BlackArch
@@ -20,8 +21,17 @@ Pre installed. Just select it from the menu or execute `airgeddon` command from 
 
 `~$ yaourt -S airgeddon-git` without root permissions.
 
+### Npm (Nodejs installer) <a href="https://www.npmjs.com/package/get-airgeddon" rel="nofollow"><img src="https://camo.githubusercontent.com/da48c9ad00fbd55ed5f9db4e72a59b4bd3e21408/68747470733a2f2f696d672e736869656c64732e696f2f6e706d2f762f6765742d616972676564646f6e2e7376673f7374796c653d666c61742d73717561726526636f6c6f72413d35453734343926636f6c6f72423d433144423844" alt="npm version" data-canonical-src="https://img.shields.io/npm/v/get-airgeddon.svg?style=flat-square&amp;colorA=5E7449&amp;colorB=C1DB8D"></a>
+
+1. `npm install -g get-airgeddon` (remove sudo if you already have root permissions)
+2. Run `get-airgeddon -b`.
+3. Choose from shown branches which you want to fetch the required files.
+4. Insert the directory in which the files will be stored. Leave it blank if you prefer to store the files in the current directory.
+5. Make sure you have the required permissions. Run with sudo as a prefix if you get any errors
+
 <!-- Links -->
 [4.12, 64-1.0 or later]: https://www.wifislax.com
 [2017.01.28 or later]: https://blackarch.org
 [Arch Repository]: https://archstrike.org/wiki
 [3.7 or later]: https://www.parrotsec.org
+[Npm]: https://www.npmjs.com/package/get-airgeddon
