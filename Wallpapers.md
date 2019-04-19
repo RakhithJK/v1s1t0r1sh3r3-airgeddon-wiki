@@ -1,4 +1,4 @@
-Some `airgeddon` wallpapers available to download.
+Some `airgeddon` wallpapers are available to download.
 
 Click on the links to see full size images, then right click and "save image as" to download:
 
