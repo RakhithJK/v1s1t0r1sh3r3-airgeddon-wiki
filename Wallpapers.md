@@ -1,6 +1,10 @@
 Some `airgeddon` wallpapers and scalable vectors graphics are available to download.
 
-Click on the links to see full size images, then right click and "save image as" to download:
+For wallpapers:
+Click on the links to see full size images, then right click and "save image as" to download.
+
+For svg:
+Directly, right click and "save image as" to download.
 
 <div align="center">
 <table>
