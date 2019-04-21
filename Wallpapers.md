@@ -1,4 +1,4 @@
-Some `airgeddon` wallpapers are available to download.
+Some `airgeddon` wallpapers and scalable vectors graphics are available to download.
 
 Click on the links to see full size images, then right click and "save image as" to download:
 
@@ -24,4 +24,24 @@ Click on the links to see full size images, then right click and "save image as"
 </a>
     </td>
   </tr>
-
+  <tr>
+    <td>
+        <b>White - vector - svg</b>
+    </td>
+    <td>
+       <b>Black - vector - svg</b>
+    </td>
+  </tr>
+  <tr>
+    <td>
+        <a href="https://raw.githubusercontent.com/v1s1t0r1sh3r3/airgeddon/dev/imgs/wiki/airgeddon_vector_white.svg">
+	<img src="https://raw.githubusercontent.com/v1s1t0r1sh3r3/airgeddon/dev/imgs/wiki/airgeddon_vector_white.svg" width="384" height="190" title="White - vector - svg" />
+</a>
+    </td>
+    <td>
+       <a href="https://raw.githubusercontent.com/v1s1t0r1sh3r3/airgeddon/dev/imgs/wiki/airgeddon_vector_black.svg">
+	<img src="https://raw.githubusercontent.com/v1s1t0r1sh3r3/airgeddon/dev/imgs/wiki/airgeddon_vector_black.svg" width="384" height="190" title="Black - vector - svg" />
+</a>
+    </td>
+  </tr>
+</table>
