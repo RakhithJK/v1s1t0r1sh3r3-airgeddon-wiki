@@ -62,5 +62,9 @@ AIRGEDDON_DEVELOPMENT_MODE=false
 
 #Enabled true / Disabled false - Debug mode for development printing debug information - Default value false
 AIRGEDDON_DEBUG_MODE=false
+
+#This option is still on beta-testing only available for future v9.20
+#Available values: xterm, tmux - Define the needed tool to be used for windows handling - Default value xterm
+AIRGEDDON_WINDOWS_HANDLING=xterm
 ```
-##### Important note. The last three options `AIRGEDDON_FORCE_IPTABLES`, `AIRGEDDON_DEVELOPMENT_MODE`and `AIRGEDDON_DEBUG_MODE` are special. Because their purpose is a special scenario or development, they are not present on menus to be modified. They can be set only modifying the `.airgeddonrc` file or using command line flags.
+##### Important note. These three options `AIRGEDDON_FORCE_IPTABLES`, `AIRGEDDON_DEVELOPMENT_MODE`and `AIRGEDDON_DEBUG_MODE` are special. Because their purpose is a special scenario or development, they are not present on menus to be modified. They can be set only modifying the `.airgeddonrc` file or using command line flags.
