@@ -29,7 +29,7 @@
 - Easy targeting and selection in every section
 - Drag and drop files on console window for entering file paths
 - Dynamic screen resolution detection and windows auto-sizing for optimal viewing
-- Controlled Exit. Cleaning tasks and temp files. Restoring iptables after an attack that require changes on them. Option to keep monitor mode if desired on exit
+- Controlled Exit. Cleaning tasks and temp files. Restoring nftables/iptables after an attack that require changes on them. Option to keep monitor mode if desired on exit
 - Multilanguage support and autodetect OS language feature (see [Supported Languages] section)
 - Help hints in every zone/menu for easy use
 - Auto-update. Script checks for newer version if possible
