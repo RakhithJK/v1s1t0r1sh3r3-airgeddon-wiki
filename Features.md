@@ -7,7 +7,7 @@
 - Cleaning and optimizing Handshake captured files
 - Offline password decrypting on WPA/WPA2 captured files for personal networks (dictionary, bruteforce and rule based) based on aircrack, crunch and hashcat tools. Enterprise networks captured password decrypting based on john the ripper, crunch, asleap and hashcat tools.
 - Evil Twin attacks (Rogue AP)
-  - Only Rogue/Fake AP version to sniff using external sniffer (Hostapd + DHCP + DoS)
+  - Only Rogue/Fake AP mode to sniff using external sniffer (Hostapd + DHCP + DoS)
   - Simple integrated sniffing (Hostapd + DHCP + DoS + Ettercap)
   - Integrated sniffing, sslstrip (Hostapd + DHCP + DoS + Ettercap + Sslstrip)
   - Integrated sniffing, sslstrip2 and BeEF browser exploitation framework (Hostapd + DHCP + DoS + Bettercap + BeEF)
