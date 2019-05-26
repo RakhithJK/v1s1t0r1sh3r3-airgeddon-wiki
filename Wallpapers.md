@@ -14,13 +14,13 @@ Right click over the desired image and select "save image as" to download it.
   </tr>
   <tr>
     <td>
-        <a href="https://raw.githubusercontent.com/v1s1t0r1sh3r3/airgeddon/dev/imgs/wiki/airgeddon_wallpaper_white_1920x1080.png">
-	<img src="https://raw.githubusercontent.com/v1s1t0r1sh3r3/airgeddon/dev/imgs/wiki/airgeddon_wallpaper_white_1920x1080.png" width="384" height="190" title="White - 1920x1080 - png" />
+        <a href="https://raw.githubusercontent.com/v1s1t0r1sh3r3/airgeddon/master/imgs/wiki/airgeddon_wallpaper_white_1920x1080.png">
+	<img src="https://raw.githubusercontent.com/v1s1t0r1sh3r3/airgeddon/master/imgs/wiki/airgeddon_wallpaper_white_1920x1080.png" width="384" height="190" title="White - 1920x1080 - png" />
 </a>
     </td>
     <td>
-       <a href="https://raw.githubusercontent.com/v1s1t0r1sh3r3/airgeddon/dev/imgs/wiki/airgeddon_wallpaper_black_1920x1080.png">
-	<img src="https://raw.githubusercontent.com/v1s1t0r1sh3r3/airgeddon/dev/imgs/wiki/airgeddon_wallpaper_black_1920x1080.png" width="384" height="190" title="Black - 1920x1080 - png" />
+       <a href="https://raw.githubusercontent.com/v1s1t0r1sh3r3/airgeddon/master/imgs/wiki/airgeddon_wallpaper_black_1920x1080.png">
+	<img src="https://raw.githubusercontent.com/v1s1t0r1sh3r3/airgeddon/master/imgs/wiki/airgeddon_wallpaper_black_1920x1080.png" width="384" height="190" title="Black - 1920x1080 - png" />
 </a>
     </td>
   </tr>
@@ -34,13 +34,13 @@ Right click over the desired image and select "save image as" to download it.
   </tr>
   <tr>
     <td>
-        <a href="https://raw.githubusercontent.com/v1s1t0r1sh3r3/airgeddon/dev/imgs/wiki/airgeddon_vector_white.svg">
-	<img src="https://raw.githubusercontent.com/v1s1t0r1sh3r3/airgeddon/dev/imgs/wiki/airgeddon_vector_white.svg" width="384" height="190" title="White - vector - svg" />
+        <a href="https://raw.githubusercontent.com/v1s1t0r1sh3r3/airgeddon/master/imgs/wiki/airgeddon_vector_white.svg">
+	<img src="https://raw.githubusercontent.com/v1s1t0r1sh3r3/airgeddon/master/imgs/wiki/airgeddon_vector_white.svg" width="384" height="190" title="White - vector - svg" />
 </a>
     </td>
     <td>
-       <a href="https://raw.githubusercontent.com/v1s1t0r1sh3r3/airgeddon/dev/imgs/wiki/airgeddon_vector_black.svg">
-	<img src="https://raw.githubusercontent.com/v1s1t0r1sh3r3/airgeddon/dev/imgs/wiki/airgeddon_vector_black.svg" width="384" height="190" title="Black - vector - svg" />
+       <a href="https://raw.githubusercontent.com/v1s1t0r1sh3r3/airgeddon/master/imgs/wiki/airgeddon_vector_black.svg">
+	<img src="https://raw.githubusercontent.com/v1s1t0r1sh3r3/airgeddon/master/imgs/wiki/airgeddon_vector_black.svg" width="384" height="190" title="Black - vector - svg" />
 </a>
     </td>
   </tr>
