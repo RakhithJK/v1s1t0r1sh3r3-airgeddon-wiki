@@ -6,7 +6,7 @@ This page lists all the Linux distributions and repositories in which `airgeddon
 | ![BlackArch](https://raw.githubusercontent.com/v1s1t0r1sh3r3/airgeddon/master/imgs/wiki/blackarch_linux.png) | [2017.01.28 or later] |
 | ![Parrot](https://raw.githubusercontent.com/v1s1t0r1sh3r3/airgeddon/master/imgs/wiki/parrot_linux.png) | [3.7 or later] |
 | ![Wifislax](https://raw.githubusercontent.com/v1s1t0r1sh3r3/airgeddon/master/imgs/wiki/wifislax_linux.png) | [4.12, 64-1.0 or later] |
-| ![Npm](https://raw.githubusercontent.com/v1s1t0r1sh3r3/airgeddon/dev/imgs/wiki/npm.png) | [Node Package Manager] |
+| ![Npm](https://raw.githubusercontent.com/v1s1t0r1sh3r3/airgeddon/master/imgs/wiki/npm.png) | [Node Package Manager] |
 
 ***
 ### Wifislax and BlackArch
