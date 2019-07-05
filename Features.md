@@ -1,7 +1,7 @@
 `airgeddon` is a living project growing day by day. This is the list of features so far:
 <!-- Each sub list needs 2 additional followed spaces -->
 - Interface mode switcher (Monitor-Managed) keeping selection even on interface name changing
-- DoS over wireless networks using different methods. "DoS Pursuit mode" available to avoid AP channel hopping (available also on DoS performed on Evil Twin attacks)
+- DoS over wireless networks using different methods (mdk3, mdk4, aireplay-ng). "DoS Pursuit mode" available to avoid AP channel hopping (available also on DoS performed on Evil Twin attacks)
 - Full support for 2.4Ghz and 5Ghz bands
 - Assisted WPA/WPA2 personal networks Handshake file capturing
 - Cleaning and optimizing Handshake captured files
