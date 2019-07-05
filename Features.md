@@ -23,7 +23,9 @@
   - Integration of the most common PIN generation algorithms (ComputePIN, EasyBox, Arcadyan, etc.)
   - Offline PIN generation and the possibility to search PIN results on database for a target
   - Parameterizable timeouts for all attacks
-- Enterprise networks attacks. Fake AP using "smooth" and "noisy" modes capturing enterprise hashes and plain passwords.
+- Enterprise networks attacks
+  - Fake AP using "smooth" and "noisy" modes capturing enterprise hashes and plain passwords
+  - Custom certificates creation (under development)
 - WEP All-in-One attack (combining different techniques: Chop-Chop, Caffe Latte, ARP Replay, Hirte, Fragmentation, Fake association, etc.)
 - Compatibility with many Linux distributions (see [Requirements] section)
 - Easy targeting and selection in every section
