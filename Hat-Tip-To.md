@@ -22,7 +22,7 @@
 - The "Spanish pentesting crew"
 - The [Wifislax] staff
 - The [BlackArch] community and specially to [noptrix] for his support
-- The [ArchStrike] staff and the maintainers, specially to [xorond] and [Cthulu201]
+- The [ArchStrike] staff and the maintainers, specially [Cthulu201] and [xorond] who in addition helped on some translations
 - The forum people of [Seguridadwireless.net], [Wifi-libre.com] and [Lampiweb.com]
 - The [Hackware.ru] admins
 - All the people who helped building the online PIN database for WPS
