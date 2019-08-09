@@ -72,5 +72,3 @@ AIRGEDDON_WINDOWS_HANDLING=xterm
 ##### Important notes
 
 ##### These three options `AIRGEDDON_FORCE_IPTABLES`, `AIRGEDDON_DEVELOPMENT_MODE`and `AIRGEDDON_DEBUG_MODE` are special. Because their purpose is a special scenario or development, they are not present on menus to be modified. They can be set only modifying the `.airgeddonrc` file or using command line flags.
-
-##### AIRGEDDON_MDK_VERSION option is already developed and will be released in version 9.21
