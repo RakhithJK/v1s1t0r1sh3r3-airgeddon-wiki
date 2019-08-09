@@ -25,7 +25,7 @@
   - Parameterizable timeouts for all attacks
 - Enterprise networks attacks
   - Fake AP using "smooth" and "noisy" modes capturing enterprise hashes and plain passwords
-  - Custom certificates creation (under development)
+  - Custom certificates creation
 - WEP All-in-One attack (combining different techniques: Chop-Chop, Caffe Latte, ARP Replay, Hirte, Fragmentation, Fake association, etc.)
 - Compatibility with many Linux distributions (see [Requirements] section)
 - Easy targeting and selection in every section
