@@ -9,7 +9,7 @@
  hashcat      | hashcat                  | &#8901; | dnsspoof | dsniff                                               
  hostapd      | hostapd                  | &#8901; | wash     | reaver                                               
  lighttpd     | lighttpd                 | &#8901; | reaver   | reaver                                               
- nft/iptables | nftables/iptables                 | &#8901; | bully    | bully                                                
+ nft/iptables | nftables/iptables        | &#8901; | bully    | bully                                                
  bettercap    | bettercap                | &#8901; | pixiewps | pixiewps                                             
  beef         | beef-xss \| beef-project | &#8901; | unbuffer | expect \| expect-dev                                 
  hostapd-wpe  | hostapd-wpe              | &#8901; | asleap   | asleap                                               
