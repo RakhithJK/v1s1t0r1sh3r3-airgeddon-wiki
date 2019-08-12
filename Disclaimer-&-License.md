@@ -8,4 +8,4 @@ This script is licensed under **GPLv3+**.
 Use it at your own networks and/or with the network owner's permission.
 
 [License File]: http://gplv3.fsf.org/gplv3-127x51.png
-[License]: https://github.com/v1s1t0r1sh3r3/airgeddon/blob/master/License.md
+[License]: https://github.com/v1s1t0r1sh3r3/airgeddon/blob/master/LICENSE
