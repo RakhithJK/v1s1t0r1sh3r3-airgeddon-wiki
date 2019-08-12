@@ -31,7 +31,7 @@ If you enjoyed the script and found it useful, you can support the project makin
 
 <div align="center">
     <a href="https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=7ELM486P7XKKG"><img src="https://raw.githubusercontent.com/v1s1t0r1sh3r3/airgeddon/master/imgs/banners/paypal_donate.png" title="Paypal"/></a>
-    <a href="https://www.buymeacoffee.com/v1s1t0r"><img src="https://raw.githubusercontent.com/v1s1t0r1sh3r3/airgeddon/dev/imgs/banners/buymeacoffee.png" alt="Buy me a coffee" title="Buy me a coffee"/></a>
+    <a href="https://www.buymeacoffee.com/v1s1t0r"><img src="https://raw.githubusercontent.com/v1s1t0r1sh3r3/airgeddon/master/imgs/banners/buymeacoffee.png" alt="Buy me a coffee" title="Buy me a coffee"/></a>
 </div>
 
 <br/>
