@@ -15,7 +15,7 @@ It can run on any Linux distribution that passes the tools validations. Some of 
 #### Tested on these compatible Linux distributions
 - Arch 4.6.2-1 to 5.0.2-arch1-1-ARCH
 - Backbox 4.5.1 to 5.x
-- BlackArch 2016.01.10 to 2018.06.01
+- BlackArch 2016.01.10 to 2019.x
 - CentOS 6 and 7
 - Cyborg Hawk 1.1
 - Debian 7 (Wheezy) to 9 (Stretch)
