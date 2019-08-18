@@ -1,4 +1,4 @@
-- __Incompatible__ with Apple __OSX__ or __MacOS__.
+- __Incompatible__ with Apple __OSX__/__MacOS__.
   - *Bash version* &#8592; OSX/MacOS has older Bash versions. It can be avoided by upgrading it using `brew` or whatever, this is not the real problem :smile:
   - *Aircrack suite* &#8592; this suite does not support `airodump` and `aireplay` for OSX/MacOS
   - *Wireless tools* &#8592; `iwconfig` does not exist in OSX/MacOS, and `airport` command cannot be used. It generates different outputs
