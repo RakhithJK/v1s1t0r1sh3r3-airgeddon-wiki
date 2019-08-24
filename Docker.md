@@ -7,8 +7,8 @@ To run a container based on a Docker image to execute `airgeddon`, bear in mind 
 Depending of the Operating System of your host, check the corresponding section to see the recommended docker run command. The image is going to be automatically downloaded from [airgeddon's Dockerhub] and then a Docker container will be be run launching automatically `airgeddon` script inside it:
 
  - [Linux] <- fully working
- - [Mac OSX] <- alpha phase, still investigating
- - [Windows] <- alpha phase, still investigating
+ - [Mac OSX] <- alpha phase, still investigating, not working yet
+ - [Windows] <- alpha phase, still investigating, not working yet
 
 The default language for docker image is English. Once inside, it can be changed as normal using menu option for that.
 
