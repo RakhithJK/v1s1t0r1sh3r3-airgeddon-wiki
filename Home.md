@@ -13,6 +13,10 @@
 - **Requirements**
   - [Requirements]
   - [Compatibility]
+    - [Cards and Chipsets]
+    - [Wayland]
+    - [Consistent Network Device Naming]
+    - [Kali Nethunter]
   - [Essential Tools]
   - [Optional Tools]
     - [BeEF Tips]
@@ -45,6 +49,10 @@
 [Wallpapers]: https://github.com/v1s1t0r1sh3r3/airgeddon/wiki/Wallpapers
 [Requirements]: https://github.com/v1s1t0r1sh3r3/airgeddon/wiki/Requirements
 [Compatibility]: https://github.com/v1s1t0r1sh3r3/airgeddon/wiki/Compatibility
+[Cards and Chipsets]: https://github.com/v1s1t0r1sh3r3/airgeddon/wiki/Cards%20and%20Chipsets
+[Wayland]: https://github.com/v1s1t0r1sh3r3/airgeddon/wiki/Wayland
+[Consistent Network Device Naming]: https://github.com/v1s1t0r1sh3r3/airgeddon/wiki/Consistent%20Network%20Device%20Naming
+[Kali Nethunter]: https://github.com/v1s1t0r1sh3r3/airgeddon/wiki/Kali%20Nethunter
 [Essential Tools]: https://github.com/v1s1t0r1sh3r3/airgeddon/wiki/Essential%20Tools
 [Optional Tools]: https://github.com/v1s1t0r1sh3r3/airgeddon/wiki/Optional%20Tools
 [BeEF Tips]: https://github.com/v1s1t0r1sh3r3/airgeddon/wiki/BeEF%20Tips
