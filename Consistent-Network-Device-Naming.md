@@ -1,6 +1,6 @@
 For some Linux distributions like Ubuntu or Debian since some versions ago, the default naming for network devices is using the new nomenclature which is causing errors using `airgeddon`.
 
-__How to know if am I affected?__
+__How to know if I am affected?__
 
 If you see your wireless card named as _wlx00c0ca9208dc_ or any similar name, yeah you are affected and probably you'll have some issues using `airgeddon` while changing mode of your card. It's better to have them using the classic name style (wlan0, wlan1, etc.).
 
