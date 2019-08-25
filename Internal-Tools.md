@@ -19,7 +19,7 @@ Of course, the script also uses many standard basic tools that are supposed to b
 
 `ccze` decreases performance. It is NOT recommended for **arm** devices.
   * Version 9.0 or later
-    * Disable from menu, now called extended colorization
+    * Disable from menu, now called extended colorization, it can also be disabled setting `AIRGEDDON_EXTENDED_COLORS=false` in `.airgeddonrc` options file
   * Version 7.2 or later
     * Disable colorization from menu
   * Version 7.11
