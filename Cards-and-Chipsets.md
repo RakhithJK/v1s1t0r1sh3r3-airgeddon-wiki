@@ -4,6 +4,7 @@ __Some known full compatible and fully working chipsets/cards__:
 
  - Ralink RT3070 <- _present at TP-Link TL-WN7200ND or Alfa AWUS036NH (2.4Ghz)_
  - Ralink RT3572 <- _present at Alfa AWUS052NHS (2.4Ghz/5Ghz)_
+ - Ralink RT2770 <- _present at Alfa AWUS051NH (2.4Ghz/5Ghz)_
  - Atheros AR9271 <- _present at Alfa AWUS036NHA (2.4Ghz)_
 
 Of course, there are more compatible and fully working chipsets, these are only some examples.
