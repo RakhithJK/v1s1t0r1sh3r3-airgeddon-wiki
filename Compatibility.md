@@ -18,7 +18,7 @@ It can run on any Linux distribution that passes the tools validations. Some of 
 - BlackArch 2016.01.10 to 2019.x
 - CentOS 6 and 7
 - Cyborg Hawk 1.1
-- Debian 7 (Wheezy) to 9 (Stretch)
+- Debian 7 (Wheezy) to 10 (Buster)
 - Fedora 24 to 28
 - Gentoo 20160514 to 20180206
 - Kali 2.0, 2016.1 to 2019.x and arm versions (Raspberry Pi)
