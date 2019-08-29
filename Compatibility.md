@@ -20,7 +20,7 @@ It can run on any Linux distribution that passes the tools validations. Some of 
 - Cyborg Hawk 1.1
 - Debian 7 (Wheezy) to 10 (Buster)
 - Fedora 24 to 28
-- Gentoo 20160514 to 20180206
+- Gentoo 20160514 to 20190828
 - Kali 2.0, 2016.1 to 2019.x and arm versions (Raspberry Pi)
 - Mint 18.x (Serena to Sylvia)
 - OpenMandriva LX3
