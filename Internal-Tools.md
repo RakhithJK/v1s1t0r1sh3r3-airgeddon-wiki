@@ -4,7 +4,6 @@
 :---------|:---------------------------------------
  xdpyinfo | x11-utils \| xdpyinfo \| xorg-xdpyinfo
  ethtool  | ethtool                                
- lspci    | pciutils                               
  lsusb    | usbutils                               
  rfkill   | rfkill                                 
  wget     | wget                                   
