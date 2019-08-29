@@ -26,6 +26,7 @@ It can run on any Linux distribution that passes the tools validations. Some of 
 - OpenMandriva LX3
 - OpenSUSE Leap 42.1 to 42.3
 - Parrot Security 2.2.1 or higher (3.x, 4.x) and arm versions (Raspberry Pi)
+- Pentoo 2019.x
 - Raspbian 7 (Wheezy) to 9 (Stretch) (Raspberry Pi)
 - Red Hat 7 (Maipo)
 - Ubuntu/Xubuntu 15.10 to 18.04
