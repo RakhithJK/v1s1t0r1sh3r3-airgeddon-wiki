@@ -56,7 +56,7 @@ Or if you prefer, you can directly disable `network-manager`. To do this there a
 `~# service network-manager stop` &#8594; Valid for Kali, Backbox, Ubuntu, Debian, Raspbian, Parrot and Cyborg.<br/>
 `~# service NetworkManager stop` &#8594; Valid for SuSE, CentOS, Fedora, Gentoo and Red Hat.<br/>
 `~# systemctl stop NetworkManager.service` &#8594; Valid for Arch, BlackArch and OpenMandriva.<br/>
-`~# rc-service NetworkManager ` &#8594; Valid for Pentoo.<br/>
+`~# rc-service NetworkManager stop` &#8594; Valid for Pentoo.<br/>
 
 The goal is to see at `hostapd` window something like this:
 
