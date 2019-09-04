@@ -29,7 +29,7 @@
 - WEP All-in-One attack (combining different techniques: Chop-Chop, Caffe Latte, ARP Replay, Hirte, Fragmentation, Fake association, etc.)
 - Compatibility with many Linux distributions (see [Requirements] section)
 - Easy targeting and selection in every section
-- Drag and drop files on console window for entering file paths
+- Drag and drop files on console window for entering file paths or autocomplete using tab key on every path input for easier use
 - Dynamic screen resolution detection and windows auto-sizing for optimal viewing
 - Controlled Exit. Cleaning tasks and temp files. Restoring nftables/iptables after an attack that require changes on them. Option to keep monitor mode if desired on exit
 - Multilanguage support and autodetect OS language feature (see [Supported Languages] section)
@@ -41,7 +41,6 @@
 - Tmux support for headless (systems without X window) environments
 - Multiple configurable options based on fallback substitution variables options system which allow to configure many enhancements like enable/disable colors, 5Ghz band, auto updates, hint printing, etc.
 - Full compatibility with iptables and nftables with autodetection and possibility to force iptables by setting an option
-- Autocomplete using tab key on every path input for easier use
 
 <!-- Anchors -->
 [Requirements]: https://github.com/v1s1t0r1sh3r3/airgeddon/wiki/Requirements
