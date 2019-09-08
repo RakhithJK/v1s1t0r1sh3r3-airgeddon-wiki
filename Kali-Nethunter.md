@@ -13,7 +13,7 @@ __Importante note__: If you reboot your Kali Nethunter, these commands should be
 More info about Kali Nethunter at it's official page: [Kali Nethunter]
 
 <p align="center">
-	<img src="https://raw.githubusercontent.com/v1s1t0r1sh3r3/airgeddon/dev/imgs/wiki/kalinethunter_logo.png" title="Kali Nethunter"/>
+	<img src="https://raw.githubusercontent.com/v1s1t0r1sh3r3/airgeddon/master/imgs/wiki/kalinethunter_logo.png" title="Kali Nethunter"/>
 </p>
 
 [Kali Nethunter]: https://www.kali.org/kali-linux-nethunter/
