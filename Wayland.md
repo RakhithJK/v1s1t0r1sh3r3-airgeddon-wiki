@@ -7,7 +7,7 @@ Doing that, root user (or using `airgeddon` as sudo) is able to detect the scree
 More info about Wayland graphics system at [Wayland official's page].
 
 <p align="center">
-	<img src="https://raw.githubusercontent.com/v1s1t0r1sh3r3/airgeddon/dev/imgs/wiki/wayland_logo.png" title="Wayland"/>
+	<img src="https://raw.githubusercontent.com/v1s1t0r1sh3r3/airgeddon/master/imgs/wiki/wayland_logo.png" title="Wayland"/>
 </p>
 
 [Wayland official's page]: https://wayland.freedesktop.org/
