@@ -30,6 +30,8 @@
   - [Other Sources]
 
 **Project & Development**
+  - [Plugins system]
+    - [Plugins development]
   - [Supported Languages]
   - [Contributing & Code of Conduct]
   - [Changelog]
@@ -65,6 +67,8 @@
 [Mac OSX]: https://github.com/v1s1t0r1sh3r3/airgeddon/wiki/Docker%20Mac%20OSX
 [Windows]: https://github.com/v1s1t0r1sh3r3/airgeddon/wiki/Docker%20Windows
 [Other Sources]: https://github.com/v1s1t0r1sh3r3/airgeddon/wiki/Other%20Sources
+[Plugins system]: https://github.com/v1s1t0r1sh3r3/airgeddon/wiki/Plugins%20System
+[Plugins development]: https://github.com/v1s1t0r1sh3r3/airgeddon/wiki/Plugins%20Development
 [Supported Languages]: https://github.com/v1s1t0r1sh3r3/airgeddon/wiki/Supported%20Languages
 [Contributing & Code of Conduct]: https://github.com/v1s1t0r1sh3r3/airgeddon/wiki/Contributing-&-Code-of-Conduct
 [Changelog]: https://github.com/v1s1t0r1sh3r3/airgeddon/wiki/Changelog
