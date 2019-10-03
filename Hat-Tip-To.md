@@ -31,7 +31,7 @@
 - Zhao Chunsheng and Stefan Viehböck for their wonderful algorithms
 - All the developers who made and designed the third-party tools that `airgeddon` uses
 - [BashSupport] developer [jansorg] for his effort maintaining the Bash plugin for IntelliJ platform
-- [koalaman] and other contributors for awesome [Shellcheck] tool to improve our code
+- [koalaman] and other contributors for creating the useful [Shellcheck] tool to improve our code
 - The [Parrot] crew and specially to [Palinuro] for adding `airgeddon` to their repositories
 - The [Hack&Beers], [Br3aking C0de] and [H-c0n] managers for letting me promote `airgeddon` on their events
 
