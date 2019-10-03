@@ -31,6 +31,7 @@
 - Zhao Chunsheng and Stefan Viehböck for their wonderful algorithms
 - All the developers who made and designed the third-party tools that `airgeddon` uses
 - [BashSupport] developer [jansorg] for his effort maintaining the Bash plugin for IntelliJ platform
+- [koalaman] and other contributors for awesome [Shellcheck] tool to improve our code
 - The [Parrot] crew and specially to [Palinuro] for adding `airgeddon` to their repositories
 - The [Hack&Beers], [Br3aking C0de] and [H-c0n] managers for letting me promote `airgeddon` on their events
 
@@ -48,6 +49,7 @@
 [Br3aking C0de]: https://n0ipr0cs.github.io/br3akingc0de/
 [H-c0n]: https://www.h-c0n.com/p/home.html
 [Wifislax]: https://www.wifislax.com
+[Shellcheck]: https://github.com/koalaman/shellcheck
 
 <!-- Github URLs -->
 [Kcdtv]: https://github.com/kcdtv
@@ -74,3 +76,4 @@
 [USUARIONUEVO]: https://github.com/wifislax-ng
 [xpz3]: https://github.com/xpz3
 [magixgf]: https://github.com/magixgf
+[koalaman]: https://github.com/koalaman
