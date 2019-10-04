@@ -17,4 +17,4 @@ __Chipsets with known problems__:
 
 These cards are causing problems in order to work with `airmon`. As a consequence there are problems also to work with `airgeddon`. There are some reasons: airmon compatibility and available drivers. There are some closed issues talking about the different problems using them. Some people got it working using the driver package available by apt on some Linux distributions like Kali or Parrot Security (`apt install realtek-rtl88xxau-dkms`), but we can't assure that they will work because it depends of many factors (your kernel, version of the driver package, your firmware, etc). We recommend to don't use these cards.
 
-As far as we know, RTL88xx chipsets have similar behavior so they are not recommended to be used with `airgeddon`.
+As far as we know, RTL88xx chipsets have similar behavior so they are not recommended to be used with `airgeddon`. This includes RTL8811AU, RTL8814AU and others similar.
