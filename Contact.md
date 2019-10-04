@@ -4,6 +4,8 @@
 
 ![IRC Channel](https://raw.githubusercontent.com/v1s1t0r1sh3r3/airgeddon/master/imgs/wiki/airgeddon_irc.png)
 
+- Chatting on our **#airgeddon** channel at Discord. Invitation link coming soon...
+
 :beetle: Did you find any bugs? Is something not working as it is supposed to?
 - Create an [issue] reading the Issue Creation Policy on [contributing] section first. Making an issue means that's something is broken and needs to be fixed. If you have any question or any doubts, please consider **NOT** creating an issue, and contact us instead. See the section above.
 
