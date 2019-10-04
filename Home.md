@@ -35,6 +35,7 @@
 - **Project & Development**
   - [Plugins system]
     - [Plugins development]
+    - [Plugins Hall of Fame]
   - [Supported Languages]
   - [Contributing & Code of Conduct]
   - [Changelog]
@@ -71,6 +72,7 @@
 [Other Sources]: https://github.com/v1s1t0r1sh3r3/airgeddon/wiki/Other%20Sources
 [Plugins system]: https://github.com/v1s1t0r1sh3r3/airgeddon/wiki/Plugins%20System
 [Plugins development]: https://github.com/v1s1t0r1sh3r3/airgeddon/wiki/Plugins%20Development
+[Plugins Hall of Fame]: https://github.com/v1s1t0r1sh3r3/airgeddon/wiki/Plugins%20Hall%20of%20Fame
 [Supported Languages]: https://github.com/v1s1t0r1sh3r3/airgeddon/wiki/Supported%20Languages
 [Contributing & Code of Conduct]: https://github.com/v1s1t0r1sh3r3/airgeddon/wiki/Contributing-&-Code-of-Conduct
 [Changelog]: https://github.com/v1s1t0r1sh3r3/airgeddon/wiki/Changelog
