@@ -1,4 +1,4 @@
-:speech_balloon: You can contact project's staff by
+:speech_balloon: You can contact project's staff by:
 
 - Chatting on our **#airgeddon** channel at Discord. Join clicking on the [Public Invitation link](https://discord.gg/sQ9dgt9)
 
@@ -7,6 +7,8 @@
 - Chatting on our **#airgeddon** channel at **irc.freenode.net** IRC server
 
 <a href="https://webchat.freenode.net/" target="_blank"><img src="https://raw.githubusercontent.com/v1s1t0r1sh3r3/airgeddon/master/imgs/wiki/airgeddon_irc.png" title="IRC"/></a>
+
+- Contacting to our Twitter emissary [@OscarAkaElvis](https://twitter.com/OscarAkaElvis)
 
 - Sending an email to [v1s1t0r.1s.h3r3&#64;gmail.com]
 
