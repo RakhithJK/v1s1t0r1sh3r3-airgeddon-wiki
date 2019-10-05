@@ -8,7 +8,7 @@
 
 <a href="https://webchat.freenode.net/" target="_blank"><img src="https://raw.githubusercontent.com/v1s1t0r1sh3r3/airgeddon/master/imgs/wiki/airgeddon_irc.png" title="IRC"/></a>
 
-- Contacting to our Twitter emissary [@OscarAkaElvis](https://twitter.com/OscarAkaElvis)
+- Contacting to our Twitter emissary [@OscarAkaElvis]
 
 - Sending an email to [v1s1t0r.1s.h3r3&#64;gmail.com]
 
@@ -17,3 +17,4 @@
 
 [issue]: https://github.com/v1s1t0r1sh3r3/airgeddon/issues/new
 [contributing]: https://github.com/v1s1t0r1sh3r3/airgeddon/blob/master/CONTRIBUTING.md
+[@OscarAkaElvis]: https://twitter.com/OscarAkaElvis
