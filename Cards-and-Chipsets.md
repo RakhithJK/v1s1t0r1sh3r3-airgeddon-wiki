@@ -2,13 +2,14 @@ In `airgeddon<=8.10`, only `airmon` compatible wireless cards are supported. If 
 
 __Some known full compatible and fully working chipsets/cards__:
 
+ - Ralink RT5572 <- _present at Panda PAU09 (2.4Ghz/5Ghz - USB)_
  - Ralink RT3070 <- _present at TP-Link TL-WN7200ND or Alfa AWUS036NH (2.4Ghz - USB)_
  - Ralink RT3572 <- _present at Alfa AWUS052NHS (2.4Ghz/5Ghz - USB)_
  - Ralink RT2770 <- _present at Alfa AWUS051NH (2.4Ghz/5Ghz - USB)_
  - Atheros AR9271 <- _present at TP-Link TL-WN722N or Alfa AWUS036NHA (2.4Ghz - USB)_
  - Realtek RTL8723BE <- _present at Realtek RTL8723BE card (2.4 Ghz - PCIe)_
 
-Of course, there are more compatible and fully working chipsets, these are only some examples. And of course there are more cards using the chipsets listed as well.
+Of course, there are more compatible and fully working chipsets, these are only some examples. And of course there are more cards and devices using the chipsets listed here as well. We put only some examples of cards to buy with these fully working chipsets.
 
 __Chipsets with known problems__:
 
