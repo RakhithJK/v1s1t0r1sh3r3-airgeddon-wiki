@@ -8,7 +8,7 @@ __Some known full compatible and fully working chipsets/cards__:
  - Atheros AR9271 <- _present at TP-Link TL-WN722N or Alfa AWUS036NHA (2.4Ghz - USB)_
  - Realtek RTL8723BE <- _present at Realtek RTL8723BE card (2.4 Ghz - PCIe)_
 
-Of course, there are more compatible and fully working chipsets, these are only some examples.
+Of course, there are more compatible and fully working chipsets, these are only some examples. And of course there are more cards using the chipsets listed as well.
 
 __Chipsets with known problems__:
 
