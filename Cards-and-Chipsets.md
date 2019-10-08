@@ -10,7 +10,7 @@ __Some known compatible and fully working chipsets/cards__:
  - Ralink RT5572 <- _present in Panda PAU09 (2.4Ghz/5Ghz - USB)_
  - Realtek RTL8723BE <- _present in Realtek RTL8723BE card (2.4 Ghz - PCIe)_
 
-Of course, there are more compatible and fully working chipsets, these are only some examples. And of course there are more cards and devices using the chipsets listed here as well. We put only some examples of cards to buy which are fully compatible working chipsets.
+Of course, there are more compatible and fully working chipsets, these are only some examples. And of course there are more cards and devices using the chipsets listed here as well. We put only some examples of cards to buy which are using fully compatible working chipsets.
 
 __Chipsets with known problems__:
 
