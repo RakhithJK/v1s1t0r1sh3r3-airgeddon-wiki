@@ -1,6 +1,6 @@
 In `airgeddon<=8.10`, only `airmon` compatible wireless cards are supported. If your card is unable to change its mode by performing an `airmon` command out of `airgeddon`, it won't work. From `airgeddon>=8.11` any card can be used if the monitor mode is supported but depending of the driver some problems can be found.
 
-__Some known full compatible and fully working chipsets/cards__:
+__Some known compatible and fully working chipsets/cards__:
 
  - Atheros AR9271 <- _present in TP-Link TL-WN722N or Alfa AWUS036NHA (2.4Ghz - USB)_
  - Ralink RT2770 <- _present in Alfa AWUS051NH (2.4Ghz/5Ghz - USB)_
