@@ -41,9 +41,11 @@
 - Tmux support for headless (systems without X window) environments
 - Multiple configurable options based on fallback substitution variables options system which allow to configure many enhancements like enable/disable colors, 5Ghz band, auto updates, hint printing, etc.
 - Full compatibility with iptables and nftables with autodetection and possibility to force iptables by setting an option
+- Available plugins system to let the community to create their own content. More info at [Plugins System] section
 
 <!-- Anchors -->
 [Requirements]: https://github.com/v1s1t0r1sh3r3/airgeddon/wiki/Requirements
 [Supported Languages]: https://github.com/v1s1t0r1sh3r3/airgeddon/wiki/Supported%20Languages
 [Docker]: https://github.com/v1s1t0r1sh3r3/airgeddon/wiki/Docker
 [Docker Hub]: https://hub.docker.com/r/v1s1t0r1sh3r3/airgeddon/
+[Plugins System]: https://github.com/v1s1t0r1sh3r3/airgeddon/wiki/Plugins%20System
