@@ -1,6 +1,6 @@
 From `airgeddon>=9.0` a new options system is available. It is based on bash fallback substitution environment vars. Options can be set in three different ways:
 
-#### From the `.airgeddonrc` file
+#### From the options file usually locate as `.airgeddonrc` in the same dir, for some distros like Pentoo located at `/etc/airgeddonrc`
 
 Any variable available on this file can be changed to alter the behavior of the script. Changes on this file will take effect on next launch.
 
