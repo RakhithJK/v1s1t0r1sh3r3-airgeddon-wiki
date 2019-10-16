@@ -1,6 +1,6 @@
 From `airgeddon>=9.0` a new options system is available. It is based on bash fallback substitution environment vars. Options can be set in three different ways:
 
-#### From the options file usually locate as `.airgeddonrc` in the same dir, for some distros like Pentoo located at `/etc/airgeddonrc`
+#### 1. From the options file usually locate as `.airgeddonrc` in the same dir, for some distros like Pentoo located at `/etc/airgeddonrc`
 
 Any variable available on this file can be changed to alter the behavior of the script. Changes on this file will take effect on next launch.
 
@@ -12,7 +12,7 @@ AIRGEDDON_BASIC_COLORS=false
 AIRGEDDON_SKIP_INTRO=true
 ```
 
-#### Using "_on the fly_" flags on command line
+#### 2. Using "_on the fly_" flags on command line
 
 The changes on the options set on the command line will apply only for that session and they will override the settings on `.airgeddonrc` file.
 
@@ -23,9 +23,9 @@ Setting these flags on the command line, there will be no updates and 5Ghz will 
 ~/airgeddon# AIRGEDDON_AUTO_UPDATE=false AIRGEDDON_5GHZ_ENABLED=false bash airgeddon.sh
 ```
  
-#### From the options menu
+#### 3. From the options menu
 
-Any change done from the menu is applied instantly. No examples required, menus are intuitive.
+Any change done from the menu is applied instantly excepting a couple of them (airgeddon will remind you about a reboot of the tool required). No examples required, menus are intuitive.
 
 ## List of available options
 
@@ -74,4 +74,4 @@ AIRGEDDON_WINDOWS_HANDLING=xterm
 ```
 ##### Important notes
 
-##### These three options `AIRGEDDON_FORCE_IPTABLES`, `AIRGEDDON_DEVELOPMENT_MODE`and `AIRGEDDON_DEBUG_MODE` are special. Because their purpose is a special scenario or development, they are not present on menus to be modified. They can be set only modifying the `.airgeddonrc` file or using command line flags.
+##### These three options `AIRGEDDON_FORCE_IPTABLES`, `AIRGEDDON_DEVELOPMENT_MODE`and `AIRGEDDON_DEBUG_MODE` are special. Because their purpose is a special scenario or development, they are not present on menus to be modified. They can be set only modifying the options file or using command line flags.
