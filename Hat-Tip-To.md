@@ -33,6 +33,7 @@
 - [BashSupport] developer [jansorg] for his effort maintaining the Bash plugin for IntelliJ platform
 - [koalaman] and other contributors for creating the useful [Shellcheck] tool to improve our code
 - The [Parrot] crew and specially to [Palinuro] for adding `airgeddon` to their repositories
+- [Pentoo] staff for adding the tool to their repositories and specially to [ZeroChaos]
 - The [Hack&Beers], [Br3aking C0de] and [H-c0n] managers for letting me promote `airgeddon` on their events
 
 <!-- URLs -->
@@ -50,6 +51,7 @@
 [H-c0n]: https://www.h-c0n.com/p/home.html
 [Wifislax]: https://www.wifislax.com
 [Shellcheck]: https://github.com/koalaman/shellcheck
+[Pentoo]: https://www.pentoo.ch
 
 <!-- Github URLs -->
 [Kcdtv]: https://github.com/kcdtv
@@ -77,3 +79,4 @@
 [xpz3]: https://github.com/xpz3
 [magixgf]: https://github.com/magixgf
 [koalaman]: https://github.com/koalaman
+[ZeroChaos]: https://github.com/ZeroChaos-
