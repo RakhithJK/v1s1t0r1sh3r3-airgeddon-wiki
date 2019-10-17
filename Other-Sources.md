@@ -30,6 +30,10 @@ Pre installed. Just select it from the menu or execute `airgeddon` command from 
 
 Pre installed. Just select it from the menu or execute `airgeddon` command from anywhere. If you have an old Parrot version, you can install it executing `~# apt install airgeddon` and then it can be executed from anywhere using `airgeddon` command.
 
+### Pentoo
+
+`~$ emerge airgeddon` and then it can be executed from anywhere using airgeddon command.
+
 ### Wifislax
 
 Pre installed. Just select it from the menu or execute `airgeddon` command from anywhere.
