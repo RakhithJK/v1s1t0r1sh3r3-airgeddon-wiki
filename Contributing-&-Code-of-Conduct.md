@@ -5,9 +5,10 @@ You can contribute to airgeddon by
 - Adding and suggesting new features
 - Adding pins and improving the database for WPS
 - Testing and sending feedback
+- Developing plugins
 - Donating
 
-Read the [Contributing File] for more details on the process of project collaborating and on our [Code of Conduct].
+Read the [Contributing File] for more details on the process of project collaborating and on our [Code of Conduct]. If you are interested on plugins development, read the Wiki [Plugins Development] section.
 
 ***
 
@@ -100,3 +101,4 @@ If you want to be here, send me some data (mail, link, twitter account, etc) wit
 
 [Contributing File]: https://github.com/v1s1t0r1sh3r3/airgeddon/blob/master/CONTRIBUTING.md
 [Code of Conduct]: https://github.com/v1s1t0r1sh3r3/airgeddon/blob/master/CODE_OF_CONDUCT.md
+[Plugins Development]: https://github.com/v1s1t0r1sh3r3/airgeddon/wiki/Plugins%20Development
