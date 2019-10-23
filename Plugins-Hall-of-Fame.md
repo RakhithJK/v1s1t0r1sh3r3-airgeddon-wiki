@@ -11,6 +11,8 @@ They are external plugins and of course, we are not responsible of the software 
  - _Author_: [v1s1t0r]
  - _Link_: N/A (developed by `airgeddon` staff)
 
+### How to be added to this section
+
 Did you developed a nice plugin? Do you want to be here? Contact us on [IRC], on [Discord] channel, by mail at [v1s1t0r.1s.h3r3@gmail.com] or by Twitter at [@OscarAkaElvis]. **Please, don't open an issue to present your plugin!!**
 
 [v1s1t0r]: https://github.com/v1s1t0r1sh3r3
