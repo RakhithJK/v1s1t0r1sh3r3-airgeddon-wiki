@@ -8,6 +8,10 @@ __How to change them to the classic names style?__
 
 To do that you must modify grub configuration. You should modify your `/etc/default/grub` file in order to add this `net.ifnames=0 biosdevname=0` to your `GRUB_CMDLINE_LINUX` line.
 
-For example: `GRUB_CMDLINE_LINUX="net.ifnames=0 biosdevname=0"` or `GRUB_CMDLINE_LINUX="find_preseed=/preseed.cfg auto noprompt priority=critical locale=en_US net.ifnames=0 biosdevname=0"`. Just add `net.ifnames=0 biosdevname=0` to your existing options keeping what you already have there, just adding the `net.ifnames=0 biosdevname=0` stuff.
+For example:
+ - `GRUB_CMDLINE_LINUX="net.ifnames=0 biosdevname=0"`
+ - `GRUB_CMDLINE_LINUX="find_preseed=/preseed.cfg auto noprompt priority=critical locale=en_US net.ifnames=0 biosdevname=0"`.
 
-After modifying the file, execute `grub-update` and then reboot. After that, your wireless interface cards will be named again as always (wlan0, wlan1, etc.).
+Just add `net.ifnames=0 biosdevname=0` to your existing options keeping what you already have there.
+
+After modifying the file, execute `grub-update` and then reboot. After that, your wireless interface cards will be named again as always (wlan0, wlan1, etc.) ans you'll be able to work with airgeddon.
