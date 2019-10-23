@@ -4,7 +4,7 @@
 
 Here are the best known plugins developed for `airgeddon`. Plugins are available from `airgeddon>=10.0`.
 
-They are external plugins and of course, we are not responsible of the software developed by the community. Only one plugin was developed by airgeddon staff, the first one which was created as example to show how to develop a plugin.
+They are external plugins and of course, we are not responsible of the software developed by the community. Only one plugin was developed by `airgeddon` staff, the first one which was created as example to show how to develop a plugin.
 
  - _Plugin name_: Missing dependencies auto-installation
  - _Description_: A plugin to autoinstall missing dependencies on some Operating Systems (Kali, Parrot, BlackArch)
