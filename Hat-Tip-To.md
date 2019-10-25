@@ -34,7 +34,7 @@
 - [koalaman] and other contributors for creating the useful [Shellcheck] tool to improve our code
 - The [Parrot] crew and specially to [Palinuro] for adding `airgeddon` to their repositories
 - [Pentoo] staff for adding the tool to their repositories and specially to [ZeroChaos]
-- The [Hack&Beers], [Br3aking C0de] and [H-c0n] managers for letting me promote `airgeddon` on their events
+- The [Hack&Beers] and [H-c0n] managers for letting me promote `airgeddon` on their events
 
 <!-- URLs -->
 [Wifislax]: https://www.wifislax.com
@@ -47,7 +47,6 @@
 [BashSupport]: https://github.com/jansorg/BashSupport
 [Parrot]: https://www.parrotsec.org/
 [Hack&Beers]: https://twitter.com/hackandbeers
-[Br3aking C0de]: https://n0ipr0cs.github.io/br3akingc0de/
 [H-c0n]: https://www.h-c0n.com/p/home.html
 [Wifislax]: https://www.wifislax.com
 [Shellcheck]: https://github.com/koalaman/shellcheck
