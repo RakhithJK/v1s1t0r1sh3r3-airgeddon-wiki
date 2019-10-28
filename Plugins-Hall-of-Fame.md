@@ -13,7 +13,7 @@ They are external plugins and of course, we are not responsible for the software
 
 ### How to be added to this section
 
-Did you develop a nice plugin? Do you want to be here? Contact us on [IRC], on [Discord] channel, by mail at [v1s1t0r.1s.h3r3@gmail.com] or by Twitter at [@OscarAkaElvis]. **Please, don't open an issue to present your plugin!!**
+Did you develop a nice plugin? Do you want to be here? Contact us on [IRC], on [Discord] channel, by mail at [v1s1t0r.1s.h3r3@gmail.com] or by Twitter at [@OscarAkaElvis]. **Please, don't open an issue to present your plugin and don't do a pull request!!**
 
 [v1s1t0r]: https://github.com/v1s1t0r1sh3r3
 [Discord]: https://discord.gg/sQ9dgt9
