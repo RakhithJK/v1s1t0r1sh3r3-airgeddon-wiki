@@ -2,7 +2,7 @@
 
 ### Plugins Hall of Fame
 
-Here are the best known plugins developed for `airgeddon`. Plugins are available from `airgeddon>=10.0`.
+`airgeddon` repository is not storing plugins. They must keep external. Due this mandatory condition, on this Wiki section there are the best known plugins developed for `airgeddon`. Plugins system exist and are available from `airgeddon>=10.0`.
 
 They are external plugins and of course, we are not responsible for the software developed by the community. Only one plugin was developed by `airgeddon` staff, the first one which was created as example to show how to develop a plugin.
 
