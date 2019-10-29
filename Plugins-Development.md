@@ -65,6 +65,12 @@ The explanation of this section is simple. It's just to create your new custom f
 #They can be called from the plugin itself. They are different than the "hooked" functions (explained on the next section)
 ```
 
+This section can be avoided if you only need to hook functions.
+
+___
+
+##### 2.4 Function Overriding
+
 ## Under construction
 
 [Missing Dependencies]: https://github.com/v1s1t0r1sh3r3/airgeddon/blob/dev/plugins/missing_dependencies.sh
