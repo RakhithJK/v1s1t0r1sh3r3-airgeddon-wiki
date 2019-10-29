@@ -1,6 +1,6 @@
 ## This section is still under construction until v10.0 is released
 
-1. ### Plugins Development
+### Plugins Development
 
 First of all, to understand what is discussed on this Section, is mandatory to read first the section called [Plugins System]. Otherwise you'll miss the basics and probably will not understand what is explained here. On that section there is a simple explanation and an overview about how the plugins system works. **After reading that, you can continue reading here...**
 
@@ -8,15 +8,15 @@ On this Wiki section, we assume you've read the overview and you know about the 
 
 Here, we'll provide the needed info to be able to create a custom plugin for `airgeddon`. The explanations will be based on an example plugin which was already created and is existing on this repository. The plugin was created as a PoC (Proof Of Concept) about how to develop a plugin. It is called [Missing Dependencies] and it is included directly into `airgeddon`. You can check it anytime if you have doubts about how a plugin should be developed. It is available from `airgeddon>=10.0`.
 
-2. #### Where to start
+#### 1. Where to start
 
 A plugin creation template will be provided in order to ease the task. The [Plugin Creation Template] can be used as "skeleton" of your plugin. Rename or copy it to any other name on the same plugins directory keeping the _.sh_ extension.
 
 The plugin template contains detailed instructions about how to proceed. Read them carefully. It is separated by sections.
 
-3. #### Sections of the Plugin Template
+#### 2. Sections of the Plugin Template
 
-3.1 First lines of the template are to set some basic vars:
+2.1 First lines of the template are to set some basic vars:
 
 ```
 ###### GENERIC PLUGIN VARS ######
@@ -33,9 +33,7 @@ ___
 
 Each plugin can be enabled/disabled setting `plugin_enabled` var to `1`or `0`, but bear in mind tha the plugins system can be enabled/disabled globally using the `AIRGEDDON_PLUGINS_ENABLED` option. More info at Wiki [Options Section]
 
-___
-
-3.2 Then, next section will be used to set some requirements for the plugin. It means that the plugin will be active only if the requirements are met:
+2.2 Then, next section will be used to set some requirements for the plugin. It means that the plugin will be active only if the requirements are met:
 
 ```
 ###### PLUGIN REQUIREMENTS ######
@@ -50,7 +48,9 @@ plugin_distros_supported=("*")
 
 The complete list of the available Linux distributions can be found at `airgeddon.sh` file in an array called `known_compatible_distros`.
 
-Next section is just to create your new custom functions. We must differentiate between new custom functions and "hooked" functions. 
+___
+
+2.3 Next section is just to create your new custom functions. We must differentiate between new custom functions and "hooked" functions. 
 
 ```
 ###### CUSTOM FUNCTIONS ######
@@ -60,7 +60,6 @@ Next section is just to create your new custom functions. We must differentiate 
 ```
 
 ## Under construction
-
 
 [Missing Dependencies]: https://github.com/v1s1t0r1sh3r3/airgeddon/blob/dev/plugins/missing_dependencies.sh
 [Plugins System]: https://github.com/v1s1t0r1sh3r3/airgeddon/wiki/Plugins%20System
