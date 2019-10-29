@@ -1,5 +1,5 @@
-`airgeddon` is a living project growing day by day. This is the list of features so far:
-<!-- Each sub list needs 2 additional followed spaces -->
+`airgeddon` is an alive project growing day by day. This is the list of features so far:
+<!-- Each sub list needs 2 additional preceding spaces -->
 - Interface mode switcher (Monitor-Managed) keeping selection even on interface name changing
 - DoS over wireless networks using different methods (mdk3, mdk4, aireplay-ng). "DoS Pursuit mode" available to avoid AP channel hopping (available also on DoS performed on Evil Twin attacks)
 - Full support for 2.4Ghz and 5Ghz bands
@@ -41,7 +41,7 @@
 - Tmux support for headless (systems without X window) environments
 - Multiple configurable options based on fallback substitution variables options system which allow to configure many enhancements like enable/disable colors, 5Ghz band, auto updates, hint printing, etc.
 - Full compatibility with iptables and nftables with autodetection and possibility to force iptables by setting an option
-- Available plugins system to let the community to create their own content. More info at [Plugins System] section
+- Available plugins system to let the community create their own content. More info at [Plugins System] section
 
 <!-- Anchors -->
 [Requirements]: https://github.com/v1s1t0r1sh3r3/airgeddon/wiki/Requirements
