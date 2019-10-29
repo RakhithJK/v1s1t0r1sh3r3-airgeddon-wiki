@@ -10,7 +10,7 @@ It is based in a "hook" system which can be used to modify parts of airgeddon wi
 
 Existing files with **.sh** extension inside _plugins_ dir will be parsed and treated as a plugin. Only a file called `plugin_template.sh` will be ignored. The reason is this file is not a real plugin, just a template to be used for plugins development.
 
-There are three basic operations:
+There are three basic "hooking" operations:
  - Prehooking a function: this will execute code before target function start its execution
  - Overriding a function: this will execute code instead of the original target function
  - Posthooking a function: this will execute after target function finish its execution
