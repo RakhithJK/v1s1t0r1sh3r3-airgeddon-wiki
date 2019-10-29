@@ -14,6 +14,8 @@ A plugin creation template will be provided in order to ease the task. The [Plug
 
 The plugin template contains detailed instructions about how to proceed. Read them carefully. It is separated by sections.
 
+#### Sections of the Plugin Template
+
 First lines of the template are to set some basic vars which will be used by the plugin or to disable it (so each plugin can be enabled/disabled setting `plugin_enabled` var):
 
 ```
@@ -41,7 +43,7 @@ Next section is just to create your new custom functions. We must differentiate 
 ```
 ###### CUSTOM FUNCTIONS ######
 #Just create here new custom functions if they are needed
-#They can be called from the plugin itself. They are different than the "hooked" functions (present on the next section)
+#They can be called from the plugin itself. They are different than the "hooked" functions (explained on the next section)
 ```
 
 ## Under construction
