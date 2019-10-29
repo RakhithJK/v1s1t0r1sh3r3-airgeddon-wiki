@@ -29,9 +29,9 @@ plugin_author="Set your nick/name here"
 plugin_enabled=1
 ```
 
-___
-
 Each plugin can be enabled/disabled setting `plugin_enabled` var to `1`or `0`, but bear in mind tha the plugins system can be enabled/disabled globally using the `AIRGEDDON_PLUGINS_ENABLED` option. More info at Wiki [Options Section]
+
+___
 
 2.2 Then, next section will be used to set some requirements for the plugin. It means that the plugin will be active only if the requirements are met:
 
