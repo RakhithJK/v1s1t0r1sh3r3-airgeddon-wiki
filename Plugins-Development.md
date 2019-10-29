@@ -16,7 +16,7 @@ The plugin template contains detailed instructions about how to proceed. Read th
 
 #### 2. Sections of the Plugin Template
 
-2.1 First lines of the template are to set some basic vars:
+##### 2.1 First lines of the template are to set some basic vars:
 
 ```
 ###### GENERIC PLUGIN VARS ######
@@ -33,7 +33,7 @@ Each plugin can be enabled/disabled setting `plugin_enabled` var to `1`or `0`, b
 
 ___
 
-2.2 Then, next section will be used to set some requirements for the plugin. It means that the plugin will be active only if the requirements are met:
+##### 2.2 Then, next section will be used to set some requirements for the plugin. It means that the plugin will be active only if the requirements are met:
 
 ```
 ###### PLUGIN REQUIREMENTS ######
@@ -50,7 +50,7 @@ The complete list of the available Linux distributions can be found at `airgeddo
 
 ___
 
-2.3 Next section is just to create your new custom functions. We must differentiate between new custom functions and "hooked" functions. 
+##### 2.3 Next section is just to create your new custom functions. We must differentiate between new custom functions and "hooked" functions. 
 
 ```
 ###### CUSTOM FUNCTIONS ######
