@@ -95,9 +95,11 @@ Under construction
 
 ___
 
-#### 3 Troubleshooting
+#### 3. Troubleshooting
 
-If you have problems during your plugin development, please consider to contact us on [IRC] or [Discord] channel. More info at Wiki [Contact Section]. **Don't open an issue for this! Remember that we are not going to teach you about how to be a developer!**. 
+`airgeddon` has some mechanisms to avoid errors during plugins development. It can detect if you try to "hook" a non existing function and an error will be shown. If you try to "hook" to perform same action over a function (prehook for example) from two different plugins, `airgeddon` will show you an error alerting to you about that untenable situation.
+
+If you have problems during your plugin development, please consider to contact us on [IRC] or [Discord] channel. More info at Wiki [Contact Section]. **Don't open an issue for this! Remember that we are not going to teach you about how to be a developer!**.
 
 ## Under construction
 
