@@ -1,4 +1,4 @@
-In `airgeddon<=8.10`, only `airmon` compatible wireless cards are supported. If your card is unable to change its mode by performing an `airmon` command out of `airgeddon`, it won't work. From `airgeddon>=8.11` any card can be used if the monitor mode is supported but depending of the driver some problems can be found.
+In `airgeddon<=8.10`, only `airmon` compatible wireless cards are supported. If your card is unable to change its mode by performing an `airmon` command out of `airgeddon`, it won't work. From `airgeddon>=8.11` any card can be used if the monitor mode is supported, but depending on the driver, some problems may occur.
 
 __Some known compatible and fully working chipsets/cards__:
 
@@ -10,13 +10,13 @@ __Some known compatible and fully working chipsets/cards__:
  - Ralink RT5572 <- _present in Panda PAU09 (2.4Ghz/5Ghz - USB)_
  - Realtek RTL8723BE <- _present in Realtek RTL8723BE card (2.4 Ghz - PCIe)_
 
-Of course, there are more compatible and fully working chipsets, these are only some examples. And of course there are more cards and devices using the chipsets listed here as well. We put only some examples of cards to buy which are using fully compatible working chipsets.
+Of course, there are more compatible and fully working chipsets, these are only some examples. Moreover, there are more cards and devices using the chipsets listed here as well. We list only some examples of cards to buy which are using fully compatible working chipsets.
 
 __Chipsets with known problems__:
 
  - MediaTek MT7610U <- _present in TP-Link Archer T2UH (2.4Ghz/5Ghz - USB)_
  - Realtek RTL8812AU <- _present in Alfa AWUS036ACH (2.4Ghz/5Ghz - USB)_
 
-These cards are causing problems in order to work with `airmon`. As a consequence there are problems also to work with `airgeddon`. There are some reasons: airmon compatibility and available drivers. There are some closed issues talking about the different problems using them. Some people got it working using the driver package available by apt on some Linux distributions like Kali or Parrot Security (`apt install realtek-rtl88xxau-dkms`), but we can't assure that they will work because it depends of many factors (your kernel, version of the driver package, your firmware, etc). We recommend to don't use these cards.
+These cards are causing problems when working with `airmon`. As a consequence there are problems when working with `airgeddon` too. There are some reasons: airmon compatibility and available drivers. There are some closed issues discussing different problems while using them. Some people got it working using the driver package available by apt on some Linux distributions like Kali or Parrot Security (`apt install realtek-rtl88xxau-dkms`), but we can't assure that they will work because it depends on many factors (your kernel, version of the driver package, your firmware, etc). We recommend not to use these cards.
 
-As far as we know, RTL88xx chipsets have similar behavior so they are not recommended to be used with `airgeddon`. This includes RTL8811AU, RTL8814AU and others similar.
+As far as we know, RTL88xx chipsets have similar behavior so they are not recommended to be used with `airgeddon`. This includes RTL8811AU, RTL8814AU and other similar.
