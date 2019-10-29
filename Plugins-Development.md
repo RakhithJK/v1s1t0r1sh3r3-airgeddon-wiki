@@ -97,11 +97,19 @@ ___
 
 #### 3. Troubleshooting
 
-`airgeddon` has some mechanisms to avoid errors during plugins development. It can detect if you try to "hook" a non existing function and an error will be shown. If you try to "hook" to perform same action over a function (prehook for example) from two different plugins, `airgeddon` will show you an error alerting to you about that untenable situation.
+Here you can find some tips about how to get helped on development.
 
-If you have problems during your plugin development, please consider to contact us on [IRC] or [Discord] channel. More info at Wiki [Contact Section]. **Don't open an issue for this! Remember that we are not going to teach you about how to be a developer!**.
+##### 3.1 Security Mechanisms and Validations
 
-## Under construction
+`airgeddon` has some mechanisms to avoid errors during plugins development. It can detect if you try to "hook" a non existing function and an error will be shown.
+
+If you try to "hook" to perform same action over a function (prehook for example) from two different plugins, `airgeddon` will show you an error alerting to you about that untenable situation.
+
+##### 3.2 Help on Development
+
+If you have problems during your plugin development, please consider to contact us on [IRC] or [Discord] channel. More info at Wiki [Contact Section]. The staff can guide you or give you advice about what to do or which function should be modified for your plugin, but in anycase we are going to develop for you.
+
+**Don't open an issue for this! Remember that we are not going to teach you about how to be a developer!**.
 
 [Missing Dependencies]: https://github.com/v1s1t0r1sh3r3/airgeddon/blob/dev/plugins/missing_dependencies.sh
 [Plugins System]: https://github.com/v1s1t0r1sh3r3/airgeddon/wiki/Plugins%20System
