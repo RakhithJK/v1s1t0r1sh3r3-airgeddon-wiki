@@ -133,6 +133,8 @@ Here you can find some tips about how to get helped on development.
 
 If you try to "hook" to perform same action over a function (prehook for example) from two different plugins, `airgeddon` will show you an error alerting to you about that untenable situation.
 
+Remember that is a good practice to encode always your plugin file using UTF-8 and keeping Linux ending lines style (use LF and never CRLF). If you edit your `.sh` plugin file from Windows O.S. maybe you could be using CRLF as ending line style and of course that will generate errors during the execution.
+
 ##### 3.2 Help on Development
 
 If you have problems during your plugin development, please consider to contact us on [IRC] or [Discord] channel. More info at Wiki [Contact Section]. The staff can guide you or give you advice about what to do or which function should be modified for your plugin, but in anycase we are going to develop for you.
