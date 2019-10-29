@@ -16,7 +16,7 @@ The plugin template contains detailed instructions about how to proceed. Read th
 
 #### Sections of the Plugin Template
 
-First lines of the template are to set some basic vars which will be used by the plugin or to disable it (so each plugin can be enabled/disabled setting `plugin_enabled` var):
+First lines of the template are to set some basic vars:
 
 ```
 ###### GENERIC PLUGIN VARS ######
@@ -28,6 +28,8 @@ plugin_author="Set your nick/name here"
 #Enabled 1 / Disabled 0 - Set this plugin as enabled - Default value 1
 plugin_enabled=1
 ```
+
+Each plugin can be enabled/disabled setting `plugin_enabled` var to `1`or `0`, but bear in mind tha the plugins system can be enabled/disabled globally using the `AIRGEDDON_PLUGINS_ENABLED` option. More info at Wiki [Options Section]
 
 Then, next section will be used to set some requirements for the plugin. It means that the plugin will be active only if the requirements are met:
 
@@ -59,3 +61,4 @@ Next section is just to create your new custom functions. We must differentiate 
 [Missing Dependencies]: https://github.com/v1s1t0r1sh3r3/airgeddon/blob/dev/plugins/missing_dependencies.sh
 [Plugins System]: https://github.com/v1s1t0r1sh3r3/airgeddon/wiki/Plugins%20System
 [Plugin Creation Template]: https://github.com/v1s1t0r1sh3r3/airgeddon/blob/dev/plugins/plugin_template.sh
+[Options Section]: https://github.com/v1s1t0r1sh3r3/airgeddon/wiki/Options
