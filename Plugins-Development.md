@@ -16,7 +16,9 @@ The plugin template contains detailed instructions about how to proceed. Read th
 
 #### 2. Sections of the Plugin Template
 
-##### 2.1 First lines of the template are to set some basic vars:
+##### 2.1 Generic Plugin Vars
+
+First lines of the template are to set some basic vars. The description of each one is self explanatory:
 
 ```
 ###### GENERIC PLUGIN VARS ######
@@ -33,7 +35,9 @@ Each plugin can be enabled/disabled setting `plugin_enabled` var to `1`or `0`, b
 
 ___
 
-##### 2.2 Then, next section will be used to set some requirements for the plugin. It means that the plugin will be active only if the requirements are met:
+##### 2.2 Plugin Requirements
+
+This section will be used to set some requirements for the plugin. It means that the plugin will be active only if the requirements are met. This is useful to apply changes of the plugin only to some airgeddon versions or a concrete Linux distribution:
 
 ```
 ###### PLUGIN REQUIREMENTS ######
@@ -46,11 +50,13 @@ plugin_maximum_ag_affected_version=""
 plugin_distros_supported=("*")
 ```
 
-The complete list of the available Linux distributions can be found at `airgeddon.sh` file in an array called `known_compatible_distros`.
+The complete list of the available Linux distributions can be found in `airgeddon.sh` file at arrays called `known_compatible_distros` and `known_arm_compatible_distros`.
 
 ___
 
-##### 2.3 Next section is just to create your new custom functions. We must differentiate between new custom functions and "hooked" functions. 
+##### 2.3 Custom Functions
+
+The explanation of this section is simple. It's just to create your new custom functions. We must differentiate between new custom functions and "hooked" functions (explained on the next section). 
 
 ```
 ###### CUSTOM FUNCTIONS ######
