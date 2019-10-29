@@ -74,7 +74,15 @@ ___
 This kind of hooking will prevent the original code from an `airgeddon` function to be executed. The defined code here will be executed instead.
 
 ```
-Under construction
+#Overridden function example
+#This will replace an existing function in main airgeddon script to change its behavior in order to execute this content instead of the original
+#In this template the existing function is called "somefunction" but of course this is not existing in airgeddon. You should replace "somefunction" with the real name of the function you want to override
+#Remember also to modify the starting part of the function "plugin_template" to set your plugin short name (filename without .sh) "my_super_pr0_plugin" if you renamed this template file to my_super_pr0_plugin.sh
+#Example name: function my_super_pr0_plugin_override_set_chipset() { <- this will override the content of the chosen function
+function plugin_template_override_somefunction() {
+
+	echo "Here comes my custom code content which will replace the original source code of the overridden function"
+}
 ```
 
 ___
@@ -84,7 +92,15 @@ ___
 Using prehooking, the custom code will be executed just before the target function execution.
 
 ```
-Under construction
+#Prehook function example
+#This will execute this content before the chosen function
+#In this template the existing function is called "somefunction" but of course this is not existing in airgeddon. You should replace "somefunction" with the real name of the function you want to prehook
+#Remember also to modify the starting part of the function "plugin_template" to set your plugin short name (filename without .sh) "my_super_pr0_plugin" if you renamed this template file to my_super_pr0_plugin.sh
+#Example name: function my_super_pr0_plugin_prehook_clean_tmpfiles() { <- this will execute the custom code just before executing the content of the chosen function
+function plugin_template_prehook_somefunction() {
+
+	echo "Here comes my custom code which will be executed just before starting to execute the content of the chosen function"
+}
 ```
 
 ___
@@ -94,7 +110,15 @@ ___
 Using posthooking, the custom code will be executed just after the target function execution.
 
 ```
-Under construction
+#Posthook function example
+#This will execute this content just after the chosen function
+#In this template the existing function is called "somefunction" but of course this is not existing in airgeddon. You should replace "somefunction" with the real name of the function you want to posthook
+#Remember also to modify the starting part of the function "plugin_template" to set your plugin short name (filename without .sh) "my_super_pr0_plugin" if you renamed this template file to my_super_pr0_plugin.sh
+#Example name: function my_super_pr0_plugin_posthook_clean_tmpfiles() { <- this will execute the custom code just after executing the content of the chosen function
+function plugin_template_posthook_somefunction() {
+
+	echo "Here comes my custom code which will be executed just after finish executing the content of the chosen function"
+}
 ```
 
 ___
