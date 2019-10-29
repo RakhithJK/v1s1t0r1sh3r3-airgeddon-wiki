@@ -69,7 +69,35 @@ This section can be avoided if you only need to hook functions.
 
 ___
 
-##### 2.4 Function Overriding
+##### 2.4 Function Overriding (first kind of "hooking")
+
+This kind of hooking will prevent the original code from an `airgeddon` function to be executed. The defined code here will be executed instead.
+
+```
+
+```
+
+___
+
+##### 2.5 Function Prehooking (second kind of "hooking")
+
+```
+
+```
+
+___
+
+##### 2.6 Function Posthooking (third kind of "hooking")
+
+```
+
+```
+
+___
+
+#### 3 Troubleshooting
+
+If you have problems during your plugin development, please consider to contact us on [IRC] or [Discord] channel. More info at Wiki [Contact Section]. **Don't open an issue for this! Remember that we are not going to teach you about how to be a developer!**. 
 
 ## Under construction
 
@@ -77,3 +105,6 @@ ___
 [Plugins System]: https://github.com/v1s1t0r1sh3r3/airgeddon/wiki/Plugins%20System
 [Plugin Creation Template]: https://github.com/v1s1t0r1sh3r3/airgeddon/blob/dev/plugins/plugin_template.sh
 [Options Section]: https://github.com/v1s1t0r1sh3r3/airgeddon/wiki/Options
+[Contact Section]: https://github.com/v1s1t0r1sh3r3/airgeddon/wiki/Contact
+[Discord]: https://discord.gg/sQ9dgt9
+[IRC]: https://webchat.freenode.net/
