@@ -81,6 +81,8 @@ ___
 
 ##### 2.5 Function Prehooking (second kind of "hooking")
 
+Using prehooking, the custom code will be executed just before the target function execution.
+
 ```
 Under construction
 ```
@@ -88,6 +90,8 @@ Under construction
 ___
 
 ##### 2.6 Function Posthooking (third kind of "hooking")
+
+Using posthooking, the custom code will be executed just after the target function execution.
 
 ```
 Under construction
