@@ -37,7 +37,7 @@ ___
 
 ##### 2.2 Plugin Requirements
 
-This section will be used to set some requirements for the plugin. It means that the plugin will be active only if the requirements are met. This is useful to apply changes of the plugin only to some airgeddon versions or a concrete Linux distribution:
+This section will be used to set some requirements for the plugin. It means that the plugin will be active only if the requirements are met. This is useful to apply plugin effects only to some `airgeddon` versions or to a concrete Linux distribution:
 
 ```
 ###### PLUGIN REQUIREMENTS ######
