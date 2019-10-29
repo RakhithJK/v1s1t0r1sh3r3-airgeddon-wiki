@@ -74,6 +74,12 @@ ___
 This kind of hooking will prevent the original code from an `airgeddon` function to be executed. The defined code here will be executed instead.
 
 ```
+###### FUNCTION HOOKING: OVERRIDE ######
+
+#To override airgeddon functions, just define them following this nomenclature name: <plugin_short_name>_override_<function_name>
+#plugin_short_name: This is the name of the plugin filename without extension (.sh)
+#function_name: This is the name of the airgeddon function you want to rewrite with new content
+
 #Overridden function example
 #This will replace an existing function in main airgeddon script to change its behavior in order to execute this content instead of the original
 #In this template the existing function is called "somefunction" but of course this is not existing in airgeddon. You should replace "somefunction" with the real name of the function you want to override
@@ -92,6 +98,12 @@ ___
 Using prehooking, the custom code will be executed just before the target function execution.
 
 ```
+###### FUNCTION HOOKING: PREHOOK ######
+
+#To prehook airgeddon functions, just define them following this nomenclature name: <plugin_short_name>_prehook_<function_name>
+#plugin_short_name: This is the name of the plugin filename without extension (.sh)
+#function_name: This is the name of the airgeddon function where you want to launch your stuff before
+
 #Prehook function example
 #This will execute this content before the chosen function
 #In this template the existing function is called "somefunction" but of course this is not existing in airgeddon. You should replace "somefunction" with the real name of the function you want to prehook
@@ -110,6 +122,12 @@ ___
 Using posthooking, the custom code will be executed just after the target function execution.
 
 ```
+###### FUNCTION HOOKING: POSTHOOK ######
+
+#To posthook airgeddon functions, just define them following this nomenclature name: <plugin_short_name>_posthook_<function_name>
+#plugin_short_name: This is the name of the plugin filename without extension (.sh)
+#function_name: This is the name of the airgeddon function where you want to launch your stuff after
+
 #Posthook function example
 #This will execute this content just after the chosen function
 #In this template the existing function is called "somefunction" but of course this is not existing in airgeddon. You should replace "somefunction" with the real name of the function you want to posthook
