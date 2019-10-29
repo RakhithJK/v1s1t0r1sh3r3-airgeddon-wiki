@@ -74,7 +74,7 @@ ___
 This kind of hooking will prevent the original code from an `airgeddon` function to be executed. The defined code here will be executed instead.
 
 ```
-
+Under construction
 ```
 
 ___
@@ -82,7 +82,7 @@ ___
 ##### 2.5 Function Prehooking (second kind of "hooking")
 
 ```
-
+Under construction
 ```
 
 ___
@@ -90,7 +90,7 @@ ___
 ##### 2.6 Function Posthooking (third kind of "hooking")
 
 ```
-
+Under construction
 ```
 
 ___
