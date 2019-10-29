@@ -1,6 +1,6 @@
 `airgeddon` needs Bash **4.2** or later
 
-Compatible with any Linux distribution that has installed the tools needed. The script checks for them at the beginning.
+Compatible with any Linux distribution that has the needed tools installed. The script checks for them at the beginning.
 
  - [Essential Tools]: The script does not work if you don't have installed all of them.
 
