@@ -6,11 +6,11 @@ First of all, to understand what is discussed on this Section, is mandatory to r
 
 On this Wiki section, we assume you've read the overview and you know about the existence of the different "hooking" methods.
 
-Here, we'll provide the needed info to be able to create a custom plugin for `airgeddon`. The explanations will be based on an example plugin which was already created and is existing on this repository. The plugin was created as a PoC (Proof Of Concept) about how to develop a plugin. It is called [Missing Dependencies] and it is included directly into `airgeddon`. You can check it anytime if you have doubts about how a plugin should be developed. It is available from `airgeddon>=10.0`.
+Here, we'll provide the needed info to be able to create a custom plugin for `airgeddon`. The explanations will be based on an example plugin which was already created and is existing on this repository. The plugin was created as a PoC (Proof Of Concept) on how to develop a plugin. It is called [Missing Dependencies] and it is included directly into `airgeddon`. You can check it anytime if you have doubts about how a plugin should be developed. It is available from `airgeddon>=10.0`.
 
 #### 1. Where to start
 
-A plugin creation template will be provided in order to ease the task. The [Plugin Creation Template] can be used as "skeleton" of your plugin. Rename or copy it to any other name on the same plugins directory keeping the _.sh_ extension.
+A plugin creation template will be provided in order to ease the task. The [Plugin Creation Template] can be used as a "skeleton" of your plugin. Rename or copy it to any other name on the same plugins directory keeping the _.sh_ extension.
 
 The plugin template contains detailed instructions about how to proceed. Read them carefully. It is separated by sections.
 
@@ -143,15 +143,15 @@ ___
 
 #### 3. Troubleshooting
 
-Here you can find some tips about how to get helped on development.
+Here you can find some tips about how to get help on development.
 
 ##### 3.1 Security Mechanisms and Validations
 
 `airgeddon` has some mechanisms to avoid errors during plugins development. It can detect if you try to "hook" a non existing function and an error will be shown.
 
-If you try to "hook" to perform same action over a function (prehook for example) from two different plugins, `airgeddon` will show you an error alerting to you about that untenable situation.
+If you try to "hook" to perform same action over a function (prehook for example) from two different plugins, `airgeddon` will show you an error alerting you about that untenable situation.
 
-Remember that is a good practice to encode always your plugin file using UTF-8 and keeping Linux ending lines style (use _LF_ and never _CRLF_). If you edit your `.sh` plugin file from Windows O.S. maybe you could be using _CRLF_ as ending line style and of course that will generate errors during the execution. It's recommended develop using Linux O.S. to avoid errors.
+Remember that it is a good practice to always encode your plugin file using UTF-8 and keeping Linux ending lines style (use _LF_ and never _CRLF_). If you edit your `.sh` plugin file from Windows O.S. maybe you could be using _CRLF_ as line ending line style and of course that will generate errors during the execution. It's recommended to develop using Linux O.S. to avoid errors.
 
 ##### 3.2 Help on Development
 
