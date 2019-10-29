@@ -155,7 +155,7 @@ Remember that it is a good practice to always encode your plugin file using UTF-
 
 ##### 3.2 Help on Development
 
-If you have problems during your plugin development, please consider to contact us on [IRC] or [Discord] channel. More info at Wiki [Contact Section]. The staff can guide you or give you advice about what to do or which function should be modified for your plugin, but in anycase we are going to develop for you.
+If you have problems during your plugin development, please consider to contact us on [IRC] or [Discord] channel. More info at Wiki [Contact Section]. The staff can guide you or give you advice about what to do or which function should be modified for your plugin, but in no case we are going to develop for you.
 
 **Don't open an issue for this! Remember that we are not going to teach you about how to be a developer!**
 
