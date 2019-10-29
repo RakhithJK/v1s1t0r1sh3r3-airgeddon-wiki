@@ -20,6 +20,7 @@ First lines of the template are to set some basic vars which will be used by the
 
 ```
 ###### GENERIC PLUGIN VARS ######
+
 plugin_name="Set your plugin name here"
 plugin_description="Set a short description of your plugin"
 plugin_author="Set your nick/name here"
@@ -32,6 +33,7 @@ Then, next section will be used to set some requirements for the plugin. It mean
 
 ```
 ###### PLUGIN REQUIREMENTS ######
+
 #Set airgeddon versions to apply this plugin (leave blank to set no limits, minimum version recommended is 10.0 on which plugins feature was added)
 plugin_minimum_ag_affected_version="10.0"
 plugin_maximum_ag_affected_version=""
@@ -44,6 +46,7 @@ Next section is just to create your new custom functions. We must differentiate 
 
 ```
 ###### CUSTOM FUNCTIONS ######
+
 #Just create here new custom functions if they are needed
 #They can be called from the plugin itself. They are different than the "hooked" functions (explained on the next section)
 ```
