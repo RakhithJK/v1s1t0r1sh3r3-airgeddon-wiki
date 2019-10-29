@@ -69,7 +69,7 @@ This section can be avoided if you only need to hook functions.
 
 ___
 
-##### 2.4 Function Overriding (first kind of "hooking")
+##### 2.4 Function Hooking: Override
 
 This kind of hooking will prevent the original code from an `airgeddon` function to be executed. The defined code here will be executed instead.
 
@@ -87,7 +87,7 @@ function plugin_template_override_somefunction() {
 
 ___
 
-##### 2.5 Function Prehooking (second kind of "hooking")
+##### 2.5 Function Hooking: Prehook
 
 Using prehooking, the custom code will be executed just before the target function execution.
 
@@ -105,7 +105,7 @@ function plugin_template_prehook_somefunction() {
 
 ___
 
-##### 2.6 Function Posthooking (third kind of "hooking")
+##### 2.6 Function Hooking: Posthook
 
 Using posthooking, the custom code will be executed just after the target function execution.
 
