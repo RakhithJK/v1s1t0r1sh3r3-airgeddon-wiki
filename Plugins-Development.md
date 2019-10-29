@@ -42,6 +42,8 @@ plugin_maximum_ag_affected_version=""
 plugin_distros_supported=("*")
 ```
 
+The complete list of the available Linux distributions can be found at `airgeddon.sh` file in an array called `known_compatible_distros`.
+
 Next section is just to create your new custom functions. We must differentiate between new custom functions and "hooked" functions. 
 
 ```
