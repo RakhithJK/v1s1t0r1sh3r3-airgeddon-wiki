@@ -12,4 +12,4 @@
 Without the tools above, airgeddon **won't work** at all.
 Appropriate checks are done at the beginning, if you have those tools installed, you will be able to use airgeddon.
 
-**NOTE**: Regarding xterm and tmux, only one of them is really needed. `airgeddon` will use only one of them, which you configure in its options file (_.airgeddonrc usually located in the same dir as the main script but for some distros like Pentoo located at /etc/airgeddonrc_) and only the selected one will be validated on dependency checks.
+**NOTE**: Regarding xterm and tmux, only one of them is really needed. `airgeddon` will use only one of them, which you configure in its options file and only the selected one will be validated on dependency checks. Options file can be located as _.airgeddonrc_ usually in the same dir as the main script but for some distros like Pentoo it is located at _/etc/airgeddonrc_.
