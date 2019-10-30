@@ -8,7 +8,7 @@ It is based on a "hook" system which can be used to modify parts of airgeddon wi
 
 #### Basic Overview
 
-Existing files with **.sh** extension inside _plugins_ dir will be parsed and treated as a plugin. Only a file called `plugin_template.sh` will be ignored. The reason is that this file is not a real plugin, it's just a template to be used for plugins development.
+Existing files with **.sh** extension inside _plugins_ dir will be parsed and treated as a plugin. Only a file called `plugin_template.sh` will be ignored. The reason is that this file is not a real plugin, it's just a template to be used for plugins development. Plugins dir can be located as `plugins/`_ usually at the same dir as the main script but for some distros like Pentoo it is located at `$HOME/.airgeddon/plugins/`.
 
 There are three basic "hooking" operations:
  - Prehooking a function: this will execute code before target function starts its execution
