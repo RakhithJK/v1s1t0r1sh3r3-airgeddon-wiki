@@ -9,6 +9,7 @@ The recommended docker run command to be run under Linux host is:
           --privileged \
           -p 3000:3000 \
           -v /path/to/some/dir/on/your/host:/io \
+          -v /path/to/another/dir/on/your/host:/opt/airgeddon/plugins \
           -e DISPLAY=$(env | grep DISPLAY | awk -F "=" '{print $2}') \
           v1s1t0r1sh3r3/airgeddon
 ```
@@ -21,7 +22,8 @@ Parameters explanation:
  - `--net=host` &#8594; Is needed to have access to the host network interfaces inside the container.
  - `--privileged` &#8594; Needed to have permissions over network interfaces (mode switching).
  - `-p 3000:3000` &#8594; Open port to access to BeEF control panel from the host.
- - `-v /path/to/some/dir/on/your/host:/io` &#8594; It maps a directory from host to the container. Useful to use external files like dictionaries or whatever.
+ - `-v /path/to/some/dir/on/your/host:/io` &#8594; It maps a directory from host to the container. Useful to use external files like dictionaries, get pots after successfull attacks or whatever.
+ - `-v /path/to/another/dir/on/your/host:/opt/airgeddon/plugins` &#8594; It maps another directory from host to the container. Useful if you want to run a plugin inside the container.
  - `-e DISPLAY=$(env | grep DISPLAY | awk -F "=" '{print $2}')` &#8594; It overwrites the needed var to connect to local X Window system. DISPLAY=:0 is used by default so you can avoid this parameter if you already have set DISPLAY=:0 var on your host system.
  - `v1s1t0r1sh3r3/airgeddon` &#8594; Is the name and tag of the image. `v1s1t0r1sh3r3/airgeddon` is the stable version and is the same as `v1s1t0r1sh3r3/airgeddon:latest`. Alternatively you can use `v1s1t0r1sh3r3/airgeddon:beta` for development version.
 
@@ -30,6 +32,8 @@ Parameters explanation:
 #### Volume mapping
 
 Don't forget to replace on docker command the string "/path/to/some/dir/on/your/host" with a path of an existing directory of your choice on your host machine. That directory will be the "input/output" point for the script. For example, if you place a dictionary.txt file there, inside the script you must access to it as "/io/dictionary.txt". If you capture a trophy or a Handshake file, save it at "/io/" dir to access it from the host.
+
+Regarding the second volume "/path/to/another/dir/on/your/host", it is optional and it shoulde be set only if you want to run a plugin for airgeddon. Check [here](https://github.com/v1s1t0r1sh3r3/airgeddon/wiki/Plugins%20System) what plugins can do for you.
 
 #### Display problems (resolution detection)
 
