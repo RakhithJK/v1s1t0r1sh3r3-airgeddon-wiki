@@ -139,6 +139,8 @@ function plugin_template_posthook_somefunction() {
 }
 ```
 
+__Explanation about returning codes on functions after posthooking__ **Under construction**
+
 ___
 
 #### 3. Troubleshooting
