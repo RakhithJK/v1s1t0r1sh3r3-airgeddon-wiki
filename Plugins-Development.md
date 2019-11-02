@@ -139,7 +139,9 @@ function plugin_template_posthook_somefunction() {
 }
 ```
 
-__Explanation about returning codes on functions after posthooking__ **Under construction**
+__Important notes about returning codes on posthooking__
+
+If the function you are posthooking has a returning code, that value is available on the posthook function as `${1}`. The return done on the posthook function will be the final return value for the function. If there is no return value on the posthook function, then the default 0 will be used, so the posthook _ALWAYS_ override the return value.
 
 ___
 
