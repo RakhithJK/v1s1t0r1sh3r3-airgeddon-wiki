@@ -2,7 +2,7 @@
 
 - Chatting on our **#airgeddon** channel at Discord. Join clicking on the [Public Invitation link](https://discord.gg/sQ9dgt9)
 
-<a href="https://discord.gg/sQ9dgt9" target="_blank"><img src="https://raw.githubusercontent.com/v1s1t0r1sh3r3/airgeddon/dev/imgs/wiki/airgeddon_discord.png" title="Discord"/></a>
+<a href="https://discord.gg/sQ9dgt9" target="_blank"><img src="https://raw.githubusercontent.com/v1s1t0r1sh3r3/airgeddon/master/imgs/wiki/airgeddon_discord.png" title="Discord"/></a>
 
 - Chatting on our **#airgeddon** channel at **irc.freenode.net** IRC server
 
