@@ -7,7 +7,7 @@
  airmon-ng   | aircrack-ng           | &#8901; | airodump-ng | aircrack-ng                     
  aircrack-ng | aircrack-ng           | &#8901; | xterm       | xterm                           
  ip          | iproute2              | &#8901; | tmux        | tmux                            
- lspci       | pciutils              | &#8901; | ps          | procps | procps-ng              
+ lspci       | pciutils              | &#8901; | ps          | procps \| procps-ng             
 
 Without the tools above, airgeddon **won't work** at all.
 Appropriate checks are done at the beginning, if you have those tools installed, you will be able to use airgeddon.
