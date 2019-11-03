@@ -1,5 +1,3 @@
-## This section is still under construction until v10.0 is released
-
 ### Plugins System
 
 The plugins system is a new ambitious feature to provide to users the ability to perform custom modifications on `airgeddon` in an easy and quick way. It is available from `airgeddon>=10.0`.
