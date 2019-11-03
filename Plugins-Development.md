@@ -1,5 +1,3 @@
-## This section is still under construction until v10.0 is released
-
 ### Plugins Development
 
 First of all, to understand what is discussed on this Section, is mandatory to read first the section called [Plugins System]. Otherwise you'll miss the basics and probably will not understand what is explained here. On that section there is a simple explanation and an overview about how the plugins system works. **After reading that, you can continue reading here...**
