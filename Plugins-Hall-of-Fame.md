@@ -1,5 +1,3 @@
-## This section is still under construction until v10.0 is released
-
 ### Plugins Hall of Fame
 
 `airgeddon` repository is not storing plugins. They must keep external. Due this mandatory condition, on this Wiki section there are the best known plugins developed for `airgeddon`. Plugins system exist and are available from `airgeddon>=10.0`.
