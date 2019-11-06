@@ -92,7 +92,7 @@ If you enjoyed the script and found it useful, you can support the project makin
 
 Top donors:
 
- - Luděk Kasterko
+ - Kasper - [kasper@inmail.cz]
  - [@_Barriuso](https://twitter.com/_Barriuso)
  - Armando Hernandez
  - Antonii_30
