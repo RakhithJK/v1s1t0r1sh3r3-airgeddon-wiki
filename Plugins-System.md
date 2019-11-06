@@ -19,6 +19,10 @@ So basically, to create a plugin, you should follow these three steps:
 2. After selecting a function to interact with, the developer should decide which action will take over that function (prehook, override, posthook).
 3. Then, create the function, "hooking" it inside the plugin file.
 
+#### Can I develop using other programming languages?
+
+Sure you can! just follow the steps to add a plugin adding the bash template and then from bash filet you can perform calls to external stuff in python, ruby or whatever.
+
 #### More information
 
 More info and technical details about how to develop a plugin at [Wiki Plugins Development Section].
