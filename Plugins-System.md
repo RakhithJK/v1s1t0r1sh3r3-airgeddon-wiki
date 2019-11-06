@@ -21,7 +21,7 @@ So basically, to create a plugin, you should follow these three steps:
 
 #### Can I develop a plugin using other programming languages?
 
-Sure you can! just follow the steps to add a plugin adding the bash template and then from bash filet you can perform calls to external stuff in python, ruby or whatever.
+Sure you can! just follow the steps to add a plugin adding the bash template and then from bash file you can perform calls to external stuff in python, ruby or whatever.
 
 #### More information
 
