@@ -23,6 +23,26 @@ So basically, to create a plugin, you should follow these three steps:
 
 Sure you can! just follow the steps to add a plugin adding the bash template and then from bash file you can perform calls to external stuff in python, ruby or whatever.
 
+#### How can I install a plugin already done by somebody?
+
+Easy task, just take the `.sh` file and place it at plugins dir. Be sure that the plugin will match your airgeddon version and your Linux distribution. You can find that info inside the plugin itself at the beginning of the file set in some vars. This is an example on which a plugin will support only some Linux and from airgeddon v10.0 or higher: 
+
+```
+plugin_minimum_ag_affected_version="10.0"
+plugin_maximum_ag_affected_version=""
+plugin_distros_supported=("Kali" "Parrot" "BlackArch")
+```
+
+Another example on which a plugin will support only a specific version v10.0 for any Linux:
+
+```
+plugin_minimum_ag_affected_version="10.0"
+plugin_maximum_ag_affected_version="10.0"
+plugin_distros_supported=("*")
+```
+
+If the plugin is not supporting your Linux or version it is just ignored.
+
 #### More information
 
 More info and technical details about how to develop a plugin at [Wiki Plugins Development Section].
