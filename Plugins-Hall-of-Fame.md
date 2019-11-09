@@ -16,7 +16,7 @@ Did you develop a nice plugin? Do you want to be here? Contact us on [IRC], on [
  - _Link_: N/A (developed by `airgeddon` staff and directly included in airgeddon)
 ____
  - _Plugin name_: Realtek chipset fixer <- **Still under development, coming soon**
- - _Description_: A plugin to fix some problematic Realtek chipsets
+ - _Description_: A plugin to fix some problematic Realtek chipsets like RTL8812AU and others
  - _Author_: [OscarAkaElvis]
  - _Link_: [Realtek Chipset Fixer](https://github.com/OscarAkaElvis/airgeddon_realtek_chipset_fixer)
 
