@@ -13,9 +13,15 @@ Did you develop a nice plugin? Do you want to be here? Contact us on [IRC], on [
  - _Plugin name_: Missing dependencies auto-installation
  - _Description_: A plugin to autoinstall missing dependencies on some Operating Systems (Kali, Parrot, BlackArch)
  - _Author_: [v1s1t0r]
- - _Link_: N/A (developed by `airgeddon` staff)
+ - _Link_: N/A (developed by `airgeddon` staff and directly included in airgeddon)
+____
+ - _Plugin name_: Realtek chipset fixer <- **Still under development, coming soon**
+ - _Description_: A plugin to fix some problematic Realtek chipsets
+ - _Author_: [OscarAkaElvis]
+ - _Link_: [Realtek Chipset Fixer](https://github.com/OscarAkaElvis/airgeddon_realtek_chipset_fixer)
 
 [v1s1t0r]: https://github.com/v1s1t0r1sh3r3
+[OscarAkaElvis]: https://github.com/OscarAkaElvis
 [Discord]: https://discord.gg/sQ9dgt9
 [IRC]: https://webchat.freenode.net/
 [@OscarAkaElvis]: https://twitter.com/OscarAkaElvis
