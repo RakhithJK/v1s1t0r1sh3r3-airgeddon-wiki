@@ -23,6 +23,6 @@ As far as we know, RTL88xx chipsets have similar behavior so they are not recomm
 
 __Realtek fix__
 
-One community member worked hard in a solution for Realtek chipset based cards creating a plugin. It was already released. Check [Wiki Plugins Hall of Fame Section] for more info.
+One community member worked hard in a solution for Realtek chipset based cards creating a plugin to fix the different behavior of these cards due the drivers. It was already released. Check [Wiki Plugins Hall of Fame Section] for more info.
 
 [Wiki Plugins Hall of Fame Section]: https://github.com/v1s1t0r1sh3r3/airgeddon/wiki/Plugins%20Hall%20of%20Fame
