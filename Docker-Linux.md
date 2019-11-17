@@ -71,4 +71,4 @@ The goal is to see at `hostapd` window something like this:
 
 #### Kernel and drivers
 
-It's understood that your Linux host has the needed drivers for your wireless card and its kernel support all the needed features for wireless operations (changing mode managed/monitor) in the same way as is needed to run it in native mode on any Linux system.
+It's understood that your Linux host has the needed drivers for your wireless card and its kernel support all the needed features for wireless operations (switching mode managed/monitor) in the same way as is needed to run it in native mode on any Linux system.
