@@ -3,6 +3,7 @@ In `airgeddon<=8.10`, only `airmon` compatible wireless cards are supported. If 
 __Some known compatible and fully working chipsets/cards__:
 
  - Atheros AR9271 <- _present in TP-Link TL-WN722N or Alfa AWUS036NHA (2.4Ghz - USB)_
+ - Intel Centrino Advanced-N 6205 <- _present integrated in many laptops (2.4Ghz/5Ghz - PCIe)_
  - Ralink RT2770 <- _present in Alfa AWUS051NH (2.4Ghz/5Ghz - USB)_
  - Ralink RT3070 <- _present in TP-Link TL-WN7200ND or Alfa AWUS036NH (2.4Ghz - USB)_
  - Ralink RT3572 <- _present in Alfa AWUS052NHS (2.4Ghz/5Ghz - USB)_
@@ -16,11 +17,12 @@ Of course, there are more compatible and fully working chipsets, these are only 
 __Chipsets with known problems__:
 
  - MediaTek MT7610U <- _present in TP-Link Archer T2UH (2.4Ghz/5Ghz - USB)_
+ - Realtek RTL8188EU <- _present in TP-Link TL-WN722N _(2.4Ghz - USB)_
  - Realtek RTL8812AU <- _present in Alfa AWUS036ACH (2.4Ghz/5Ghz - USB)_
+ - Realtek RTL8812BU <- _present in Comfast CF-913AC (2.4Ghz/5Ghz - USB)_
+ - Realtek RTL8814AU <- _present in Alfa AWUS1900 (2.4Ghz/5Ghz - USB)_
 
-These cards are causing problems when working with `airmon`. As a consequence there are problems when working with `airgeddon` too. There are some reasons: airmon compatibility and available drivers. There are some closed issues discussing different problems while using them. Some people got it working using the driver package available by apt on some Linux distributions like Kali or Parrot Security (`apt install realtek-rtl88xxau-dkms`), but we can't assure that they will work because it depends on many factors (your kernel, version of the driver package, your firmware, etc). We recommend not to use these cards.
-
-As far as we know, RTL88xx chipsets have similar behavior so they are not recommended to be used with `airgeddon`. This includes RTL8811AU, RTL8814AU, RTL8812BU and other similar.
+These cards are causing problems when working with `airmon`. As a consequence there are problems when working with `airgeddon` too. There are some reasons: airmon compatibility and available drivers. There are some closed issues discussing different problems while using them. We recommend to don't use these cards.
 
 __Realtek fix__
 
