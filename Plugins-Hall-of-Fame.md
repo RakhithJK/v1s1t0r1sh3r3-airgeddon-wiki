@@ -19,6 +19,7 @@ ____
  - _Description_: A plugin to fix some problematic Realtek chipsets like RTL8812AU and others
  - _Author/s_: [OscarAkaElvis]
  - _Link_: [Realtek Chipset Fixer](https://github.com/OscarAkaElvis/airgeddon_realtek_chipset_fixer)
+____
 
 [v1s1t0r]: https://github.com/v1s1t0r1sh3r3
 [OscarAkaElvis]: https://github.com/OscarAkaElvis
