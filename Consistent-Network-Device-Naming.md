@@ -14,4 +14,4 @@ For example:
 
 Just add `net.ifnames=0 biosdevname=0` to your existing options keeping what you already have there.
 
-After modifying the file, execute `grub-update` and then reboot. After that, your wireless interface cards will be named again as always (wlan0, wlan1, etc.) and you'll be able to make them work with `airgeddon`.
+After modifying the file, execute `update-grub` and then reboot. After that, your wireless interface cards will be named again as always (wlan0, wlan1, etc.) and you'll be able to make them work with `airgeddon`.
