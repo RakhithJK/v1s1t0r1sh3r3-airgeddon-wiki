@@ -14,11 +14,13 @@ Did you develop a nice plugin? Do you want to be here? Contact us on [IRC], on [
  - _Description_: A plugin to autoinstall missing dependencies on some Operating Systems (Kali, Parrot, BlackArch)
  - _Author/s_: [v1s1t0r]
  - _Link_: N/A (developed by `airgeddon` staff and directly included in airgeddon)
+ - _Staff comments_: Very useful to save some time installing dependencies
 ____
  - _Plugin name_: Realtek chipset fixer
  - _Description_: A plugin to fix some problematic Realtek chipsets like RTL8812AU and others
  - _Author/s_: [OscarAkaElvis]
  - _Link_: [Realtek Chipset Fixer](https://github.com/OscarAkaElvis/airgeddon_realtek_chipset_fixer)
+ - _Staff comments_: Useful for v10.0 and not needed if your version is >= v10.01
 ____
 
 [v1s1t0r]: https://github.com/v1s1t0r1sh3r3
