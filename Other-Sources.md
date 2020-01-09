@@ -32,7 +32,7 @@ Pre installed. Just select it from the menu or execute `airgeddon` command from 
 
 ### Pentoo
 
-`~# emerge airgeddon` and then it can be executed from anywhere using airgeddon command.
+`~# emerge airgeddon` and then it can be executed from anywhere using `airgeddon` command.
 
 ### Wifislax
 
