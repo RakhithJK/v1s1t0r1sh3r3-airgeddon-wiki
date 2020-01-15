@@ -6,7 +6,7 @@ If you see your wireless card named as _wlx00c0ca9208dc_ or any similar name, ye
 
 __How to change them to the classic names style?__
 
-To do that you must modify grub configuration. You should modify your `/etc/default/grub` file in order to add this `net.ifnames=0 biosdevname=0` to your `GRUB_CMDLINE_LINUX` line. On some Linux, the path could be different like in Parrot Linux where you can locate the right file to modify here: `etc/default/grub.d/parrot.cfg`.
+To do that you must modify grub configuration. You should modify your `/etc/default/grub` file in order to add this `net.ifnames=0 biosdevname=0` to your `GRUB_CMDLINE_LINUX` line. On some Linux, the path could be different like in Parrot Linux where you can locate the right file to modify here: `/etc/default/grub.d/parrot.cfg`.
 
 For example:
  - `GRUB_CMDLINE_LINUX="net.ifnames=0 biosdevname=0"`
