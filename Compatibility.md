@@ -15,12 +15,12 @@ It can run on any Linux distribution that passes the tools validations. Some of 
 #### Tested on these compatible Linux distributions
 - Arch 4.6.2-1 to 5.0.2-arch1-1-ARCH
 - Backbox 4.5.1 to 5.x
-- BlackArch 2016.01.10 to 2019.x
+- BlackArch 2016.01.10 to 2020.x
 - CentOS 6 and 7
 - Cyborg Hawk 1.1
 - Debian 7 (Wheezy) to 10 (Buster)
-- Fedora 24 to 28
-- Gentoo 20160514 to 20190828
+- Fedora 24 to 31
+- Gentoo 20160514 to 20200205
 - Kali 2.0, 2016.1 to 2020.x and arm versions (Raspberry Pi)
 - Mint 18.x (Serena to Sylvia)
 - OpenMandriva LX3
