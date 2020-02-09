@@ -22,6 +22,7 @@ It can run on any Linux distribution that passes the tools validations. Some of 
 - Fedora 24 to 31
 - Gentoo 20160514 to 20200205
 - Kali 2.0, 2016.1 to 2020.x and arm versions (Raspberry Pi)
+- Manjaro 18.x
 - Mint 18.x (Serena to Sylvia)
 - OpenMandriva LX3
 - OpenSUSE Leap 42.1 to 42.3
