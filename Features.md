@@ -3,7 +3,7 @@
 - Interface mode switcher (Monitor-Managed) keeping selection even on interface name changing
 - DoS over wireless networks using different methods (mdk3, mdk4, aireplay-ng). "DoS Pursuit mode" available to avoid AP channel hopping (available also on DoS performed on Evil Twin attacks)
 - Full support for 2.4Ghz and 5Ghz bands
-- Assisted WPA/WPA2 personal networks Handshake file capturing
+- Assisted WPA/WPA2 personal networks Handshake file and PMKID capturing (this last under development)
 - Cleaning and optimizing Handshake captured files
 - Offline password decrypting on WPA/WPA2 captured files for personal networks (dictionary, bruteforce and rule based) based on aircrack, crunch and hashcat tools. Enterprise networks captured password decrypting based on john the ripper, crunch, asleap and hashcat tools.
 - Evil Twin attacks (Rogue AP)
