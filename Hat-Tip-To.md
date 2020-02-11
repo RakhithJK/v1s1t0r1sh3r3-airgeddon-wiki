@@ -13,7 +13,7 @@
 - [UN5T48L3] for Turkish translations
 - [mamatb] for help received on development
 - [JBalanza] for French translations and help received on development
-- [Kalel51] and [jarilaos] for beta testing and support received
+- [Kalel51] and [Laox] for beta testing and support received
 - [xpz3] for helping on development, bug reporting and support received
 - [magixgf] for programming advice and collaboration on plugins system development
 - [OscarAkaElvis] for allowing me to own his body when I visit the earth
@@ -73,7 +73,7 @@
 [mamatb]: https://github.com/mamatb
 [JBalanza]: https://github.com/JBalanza
 [Kalel51]: https://github.com/Kalel51
-[jarilaos]: https://github.com/jarilaos
+[Laox]: https://github.com/jarilaos
 [USUARIONUEVO]: https://github.com/wifislax-ng
 [xpz3]: https://github.com/xpz3
 [magixgf]: https://github.com/magixgf
