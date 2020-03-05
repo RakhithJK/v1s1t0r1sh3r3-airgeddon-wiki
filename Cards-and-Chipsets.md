@@ -2,7 +2,7 @@ In `airgeddon<=8.10`, only `airmon` compatible wireless cards are supported. If 
 
 __Some known compatible and fully working chipsets/cards__:
 
- - Atheros AR9271 <- _present in TP-Link TL-WN722N or Alfa AWUS036NHA (2.4Ghz - USB)_
+ - Atheros AR9271 <- _present in TP-Link TL-WN722N v1 or Alfa AWUS036NHA (2.4Ghz - USB)_
  - Intel Centrino Advanced-N 6205 <- _present integrated in many laptops (2.4Ghz/5Ghz - PCIe)_
  - Ralink RT2770 <- _present in Alfa AWUS051NH (2.4Ghz/5Ghz - USB)_
  - Ralink RT3070 <- _present in TP-Link TL-WN7200ND or Alfa AWUS036NH (2.4Ghz - USB)_
