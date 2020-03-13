@@ -72,6 +72,10 @@ AIRGEDDON_DEBUG_MODE=false
 #Available values: xterm, tmux - Define the needed tool to be used for windows handling - Default value xterm
 AIRGEDDON_WINDOWS_HANDLING=xterm
 ```
+
+##### About tmux usage
+To run airgeddon on a headless system (without X Window system) this option (`AIRGEDDON_WINDOWS_HANDLING`) needs to be set to `tmux`. Then just run airgeddon as normal and tmux will be opened by airgeddon. No need to open tmux first.
+
 ##### Important notes
 
 ##### These three options `AIRGEDDON_FORCE_IPTABLES`, `AIRGEDDON_DEVELOPMENT_MODE`and `AIRGEDDON_DEBUG_MODE` are special. Because their purpose is a special scenario or development, they are not present on menus to be modified. They can be set only modifying the options file or using command line flags.
