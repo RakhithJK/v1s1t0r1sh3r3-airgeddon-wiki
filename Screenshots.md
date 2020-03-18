@@ -55,4 +55,4 @@ Here there are some `airgeddon` screenshots. Click on them to see full sized ima
 [Screenshot8]: https://raw.githubusercontent.com/v1s1t0r1sh3r3/airgeddon/master/imgs/wiki/airgeddon_scrs8.png "Enterprise attacks menu"
 [Screenshot9]: https://raw.githubusercontent.com/v1s1t0r1sh3r3/airgeddon/master/imgs/wiki/airgeddon_scrs9.png "Enterprise Offline decryption menu"
 [Screenshot10]: https://raw.githubusercontent.com/v1s1t0r1sh3r3/airgeddon/master/imgs/wiki/airgeddon_scrs10.png "Options menu"
-[Screenshot11]: https://raw.githubusercontent.com/v1s1t0r1sh3r3/airgeddon/dev/imgs/wiki/airgeddon_scrs10.png "Personal Offline decryption menu"
+[Screenshot11]: https://raw.githubusercontent.com/v1s1t0r1sh3r3/airgeddon/dev/imgs/wiki/airgeddon_scrs11.png "Personal Offline decryption menu"
