@@ -22,9 +22,16 @@ ____
  - _Link_: [Realtek Chipset Fixer](https://github.com/OscarAkaElvis/airgeddon_realtek_chipset_fixer)
  - _Staff comments_: Useful for v10.0 and not needed if your version is >= v10.01
 ____
+ - _Plugin name_: UI-Boost
+ - _Description_: Speed up user interface by making a specifc language strings file
+ - _Author/s_: [KeyofBlueS]
+ - _Link_: [UI-Boost](https://github.com/KeyofBlueS/airgeddon-plugins/blob/master/ui_boost.sh)
+ - _Staff comments_: Useful if you have an old computer which is having performance issues printing menus. This plugin makes airgeddon really fast to print the screens
+____
 
 [v1s1t0r]: https://github.com/v1s1t0r1sh3r3
 [OscarAkaElvis]: https://github.com/OscarAkaElvis
+[KeyofBlueS]: https://github.com/KeyofBlueS
 [Discord]: https://discord.gg/sQ9dgt9
 [IRC]: https://webchat.freenode.net/
 [@OscarAkaElvis]: https://twitter.com/OscarAkaElvis
