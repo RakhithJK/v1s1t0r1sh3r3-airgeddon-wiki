@@ -31,7 +31,7 @@ ____
  - _Description_: Speed up user interface by making a specifc language strings file
  - _Author/s_: [KeyofBlueS]
  - _Link_: [UI-Boost](https://github.com/KeyofBlueS/airgeddon-plugins/blob/master/ui_boost.sh)
- - _Staff comments_: Useful if you have an old computer which is having performance issues printing menus or if you are running airgeddon on an ARM device like Raspberry Pi. This plugin makes airgeddon really fast to print the screens
+ - _Staff comments_: Useful if you have an old computer which is having performance issues printing menus or if you are running airgeddon on an ARM device like Raspberry Pi. This plugin makes airgeddon really faster printing the screens
 ____
 
 [v1s1t0r]: https://github.com/v1s1t0r1sh3r3
