@@ -9,7 +9,7 @@ __Some known compatible and fully working chipsets/cards__:
  - Ralink RT3572 <- _present in Alfa AWUS052NHS (2.4Ghz/5Ghz - USB)_
  - Ralink RT5372 <- _present in D-Link DWA-137 (2.4Ghz - USB)_
  - Ralink RT5572 <- _present in Panda PAU09 (2.4Ghz/5Ghz - USB)_
- - Realtek RTL8187 <- _present in Alfa AWUS036H (2.4Ghz - USB)_
+ - Realtek RTL8187 <- _present in Alfa AWUS036H (2.4Ghz - USB)(may require patched driver)_
  - Realtek RTL8723BE <- _present in Realtek RTL8723BE card (2.4Ghz - PCIe)_
 
 Of course, there are more compatible and fully working chipsets, these are only some examples. Moreover, there are more cards and devices using the chipsets listed here as well. We list only some examples of cards to buy which are using fully compatible working chipsets.
