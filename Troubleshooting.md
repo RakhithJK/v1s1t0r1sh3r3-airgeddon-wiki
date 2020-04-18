@@ -1,5 +1,3 @@
-## Section still under construction
-
 This section is to clarify the typical problems and some common doubts as well. Here you can find answers for them. Remember that you can join to our Discord channel clicking on the [Public Invitation link](https://discord.gg/sQ9dgt9).
 
 ____
