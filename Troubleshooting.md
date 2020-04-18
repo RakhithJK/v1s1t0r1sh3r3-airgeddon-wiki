@@ -26,6 +26,14 @@ The captive portal page files (html, css and js) are created during the attack i
 
 The second (more elegant) method is to create a plugin to perform this task. You can hook the _set_captive_portal_page_ function overriding the content to create your custom webpage. Just fill the plugin template file (plugin_template.sh) in plugins dir. More info about plugin creation [on this link](https://github.com/v1s1t0r1sh3r3/airgeddon/wiki/Plugins%20System).
 
+#### Once connected to the Evil Twin fake network, captive portal is not triggered. What am I doing wrong?
+
+Once connected to the fake network, it depends of the type of your device. On mobile devices (Android and Apple iOS) it should be triggered automatically showing a push notification.
+
+Then (for standard computers and mobile devices), opening a browser and trying to open a page should make the captive portal to be opened while you don't try to open a SSL page. If you try to open a page that starts with "https" or if you try a very famous page like Google, Facebook or similar (they are opened using SSL by default even if you don't type https) it will not work and is completely normal. You must try to open "http" pages.
+
+The reason for this behavior is that to trigger captive portal for SSL pages, a SSL certificate is needed at the portal. And the free self-signed certificates are not an option due the warning messages they generate when a page using them is visited. The free Let's encrypt 90 days valid SSL certificate is not also an option due the constant need of renewal and the maintenance it needs. So airgeddon staff decided to let it as is. It's better to have a "page not shown" error than a "warning unsecure page" message shown because of a self-signed SSL certificate.
+
 #### What is DoS Pursuit Mode exactly?
 
 During a standard Evil Twin attack, your wireless physical card is splitted into two logical interfaces. One to create the fake Access Point and another to perform the DoS in monitor mode. During the attack, if the target AP is configured in channel "Auto" and the victim reset it due the lack of connectivity because of the DoS attack, once rebooted, it may switch to another channel letting our attack performing DoS over a wrong channel and the victim will recover the connectivity.
