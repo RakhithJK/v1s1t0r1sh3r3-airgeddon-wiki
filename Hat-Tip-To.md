@@ -15,7 +15,7 @@
 - [JBalanza] for French translations and help received on development
 - [Kalel51] and [Laox] for beta testing and support received
 - [xpz3] for helping on development, bug reporting and support received
-- [magixgf] for programming advice and collaboration on plugins system development
+- [magixgf] for programming advice, collaboration on plugins system development and other stuff
 - [OscarAkaElvis] for allowing me to own his body when I visit the earth
 
 #### Others
