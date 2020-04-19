@@ -10,7 +10,7 @@ You should see on fake AP hostapd (xterm upper left) window "AP-ENABLED". If you
 
 Probably the chipset of your card is not compatible or you have one of the "blacklisted" cards with known problems (mainly Realtek RTL chipsets). Check the list of fully working cards and the cards with known problems [on this link](https://github.com/v1s1t0r1sh3r3/airgeddon/wiki/Cards%20and%20Chipsets).
 
-#### DoS(Deauth) is not working, what can I do?
+#### DoS (Deauth) is not working, what can I do?
 
 First of all you must be sure about that. Sometimes it is hard to detect that it's not working. The best option is to test DoS on your own network before performing the real audit. Anyway, Denial Of Service is tricky, it is not an exact science.
 
