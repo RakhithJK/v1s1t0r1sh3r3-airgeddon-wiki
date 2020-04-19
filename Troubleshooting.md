@@ -14,7 +14,7 @@ Probably the chipset of your card is not compatible or you have one of the "blac
 
 First of all you must be sure about that. Sometimes it is hard to detect that it's not working. The best option is to test DoS on your own network before performing the real audit. Anyway, Denial Of Service is tricky, it is not an exact science.
 
-Not all attacks work against every APs and its clients. Sometimes, only clients are taken down only partially, while others remain unaffected even on the same AP. It depends of many factors and variables: Chipset used to perform the attack, type of client (Android, computer, Apple device, etc), Access Point, distance and signal to the target, etc. The signal is of greater significance, which must be powerful enough. If you think it is not working, you should try a different mode of attack: mdk4, aireplay or even mdk3 modifying the configuration options ".airgeddonrc" file. More info about the available options [on this link](https://github.com/v1s1t0r1sh3r3/airgeddon/wiki/Options).
+Not all attacks work against every APs and its clients. Sometimes, clients are taken down only partially, while others remain unaffected even on the same AP. It depends of many factors and variables: Chipset used to perform the attack, type of client (Android, computer, Apple device, etc), Access Point, distance and signal to the target, etc. The signal is of greater significance, which must be powerful enough. If you think it is not working, you should try a different mode of attack: mdk4, aireplay or even mdk3 modifying the configuration options ".airgeddonrc" file. More info about the available options [on this link](https://github.com/v1s1t0r1sh3r3/airgeddon/wiki/Options).
 
 #### Can be the Evil Twin Captive Portal page be customized? How?
 
