@@ -1,4 +1,4 @@
-This section is to clarify some common doubts (Frequently Asked Questions) and the typical problems (Troubleshooting) as well. Here you can find answers for them. Remember that you can join to our Discord channel clicking on the [Public Invitation link](https://discord.gg/sQ9dgt9) where you can find more help.
+This section is to clarify some common doubts (Frequently Asked Questions) and the typical problems as well (Troubleshooting). Here you can find answers for them. Remember that you can join to our Discord channel clicking on the [Public Invitation link](https://discord.gg/sQ9dgt9) where you can find more help.
 
 ____
 
