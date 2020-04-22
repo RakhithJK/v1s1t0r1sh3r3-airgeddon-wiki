@@ -8,7 +8,7 @@ __Known Evil Twin captive portal problem__: If you experience a problem on webse
 ~# ln -s /proc/self/fd/2 /dev/stderr
 ```
 
-__Importante note__: If you reboot your Kali Nethunter, these commands should be launched again. Probably it could be a good idea to set them to be launched automatically on each reboot in some startup script.
+__Important note__: If you reboot your Kali Nethunter, these commands should be launched again. Probably it could be a good idea to set them to be launched automatically on each reboot in some startup script.
 
 More info about Kali Nethunter at it's official page: [Kali Nethunter]
 
