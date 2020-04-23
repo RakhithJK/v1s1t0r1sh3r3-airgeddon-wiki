@@ -4,17 +4,39 @@ ____
 
 ## Common problems and doubts
 
+#### I am missing some dependencies. What can I do?
+
+You should try to install it. How? It depends of your Linux distribution.
+
+For example, let's suppose that you saw during dependencies check this message:
+
+`dhcpd .... Error (Possible package name : isc-dhcp-server / dhcp-server / dhcp)`
+
+It means that you are missing command `dhcpd` and airgeddon is suggesting to you that the package you need to install could be named `isc-dhcp-server`, `dhcp-server` or `dhcp`. The name of the package depends of your Linux distribution. Remember that airgeddon is compatible to many of them.
+
+Now let's suppose that you are running an Ubuntu Linux. It is a Debian based Linux distribution so you should try first to install it using `apt` tool. As simple as this command: `apt install isc-dhcp-server`.
+
+In addition, if you are running one of these three Linux distributions: `Kali, Parrot-Security, BlackArch`, airgeddon will ask you to try to install the missing dependencies automatically. This is done by a plugin already included in airgeddon. Why only on these three Linux? because they are the unique containing all the needed packages on their repositories. Is 100% effective? No, sometimes there could be connectivity problems or maybe the repositories could be down, so airgeddon cant assure to you 100% to be able to install always all the dependencies successfully. Anyway, usually it is done correctly.
+
+Here is a repository which will help to many people to install missing dependencies _ONLY_ for Debian based Linux distributions. It contains all the needed by airgeddon deb packages and some of their dependencies. They can be easily isntalled using `dpkg -i <file.deb>` in the right order to avoid dependencies problems: https://github.com/v1s1t0r1sh3r3/airgeddon_deb_packages
+
+____
+
 #### My fake AP is not working on any Evil Twin attack. Why?
 
 You should see on fake AP hostapd (xterm upper left) window "AP-ENABLED". If you can see "AP-DISABLED", then something went wrong.
 
 Probably the chipset of your card is not compatible or you have one of the "blacklisted" cards with known problems (mainly Realtek RTL chipsets). Check the list of fully working cards and the cards with known problems [on this link](https://github.com/v1s1t0r1sh3r3/airgeddon/wiki/Cards%20and%20Chipsets).
 
+____
+
 #### DoS (Deauth) is not working, what can I do?
 
 First of all you must be sure about that. Sometimes it is hard to detect that it's not working. The best option is to test DoS on your own network before performing the real audit. Anyway, Denial Of Service is tricky, it is not an exact science.
 
 Not all attacks work against every APs and its clients. Sometimes, clients are taken down only partially, while others remain unaffected even on the same AP. It depends of many factors and variables: Chipset used to perform the attack, type of client (Android, computer, Apple device, etc), Access Point, distance and signal to the target, etc. The signal is of greater significance, which must be powerful enough. If you think it is not working, you should try a different mode of attack: mdk4, aireplay or even mdk3 modifying the configuration options ".airgeddonrc" file. More info about the available options [on this link](https://github.com/v1s1t0r1sh3r3/airgeddon/wiki/Options).
+
+____
 
 #### Can be the Evil Twin Captive Portal page be customized? How?
 
@@ -24,6 +46,8 @@ The genetic captive portal page files (html, css and js) are created during the 
 
 The second (more elegant) method is to create a plugin to perform this task. You can hook the _set_captive_portal_page_ function overriding the content to create your custom webpage. Just fill the plugin template file (plugin_template.sh) in plugins dir. More info about plugin creation [on this link](https://github.com/v1s1t0r1sh3r3/airgeddon/wiki/Plugins%20System).
 
+____
+
 #### Once connected to the Evil Twin fake network, captive portal is not triggered. What am I doing wrong?
 
 Once connected to the fake network, it depends on the type of your device. On mobile devices (Android and Apple iOS) it should be triggered automatically showing a push notification.
@@ -31,6 +55,8 @@ Once connected to the fake network, it depends on the type of your device. On mo
 Then (for standard computers and mobile devices), opening a browser and trying to open a page should make the captive portal to be opened while you don't try to open a SSL page. If you try to open a page that starts with "https" or if you try a very famous page like Google, Facebook or similar (they are opened using SSL by default even if you don't type https) it will not work and is completely normal. You must try to open "http" pages.
 
 The reason for this behavior is that, to trigger captive portal for SSL pages, a SSL certificate is needed at the portal. And the free self-signed certificates are not an option due to the warning messages they generate when a page using them is visited. The free Let's encrypt 90 days valid SSL certificate is not also an option due the constant need of renewal and the maintenance it needs. So airgeddon staff decided to let it as it is. It's better to have a "page not shown" error than a "insecure page warning" message shown because of a self-signed SSL certificate.
+
+____
 
 #### What is DoS Pursuit Mode exactly?
 
