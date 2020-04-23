@@ -8,7 +8,7 @@ The last compatible version (1.6.2) can be downloaded and compiled from the offi
 	<img src="https://raw.githubusercontent.com/v1s1t0r1sh3r3/airgeddon/master/imgs/wiki/bettercap_logo.png" title="Bettercap"/>
 </p>
 
-Anyway, there is an available **deb** package ready to be installed on a Debian based Linux distribution. Here is the link: https://github.com/v1s1t0r1sh3r3/bettercap1.6.2
+Anyway, there is an available **deb** package ready to be installed on a Debian based Linux distribution. Here is the link: https://github.com/v1s1t0r1sh3r3/airgeddon_deb_packages/blob/master/x64/bettercap_1.6.2-0parrot1_all.deb
 
 #### Donwgrade instructions for Debian based Linux distributions
 
@@ -26,7 +26,7 @@ If you have chosen the legacy deb package, follow this instructions to install i
 	</ul>
 	<li>Download the legacy deb bettercap package</li>
 	<ul>
-		<li><code>~# wget https://github.com/v1s1t0r1sh3r3/bettercap1.6.2/raw/master/bettercap_1.6.2-0parrot1_all.deb</code></li>
+		<li><code>~# wget https://github.com/v1s1t0r1sh3r3/airgeddon_deb_packages/raw/master/x64/bettercap_1.6.2-0parrot1_all.deb</code></li>
 	</ul>
 	<li>Install the downloaded package</li>
 	<ul>
