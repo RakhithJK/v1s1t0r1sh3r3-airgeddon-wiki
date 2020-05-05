@@ -6,12 +6,19 @@ If you see your wireless card named as _wlx00c0ca9208dc_ or any similar name, ye
 
 __How to change them to the classic names style?__
 
-To do that you must modify grub configuration. You should modify your `/etc/default/grub` file in order to add this `net.ifnames=0 biosdevname=0` to your `GRUB_CMDLINE_LINUX` line. On some Linux, the path could be different like in Parrot Linux where you can locate the right file to modify here: `/etc/default/grub.d/parrot.cfg`. On other Linux like raspberries, the file `/etc/default/grub` is not existing. In this case you can edit the file `/boot/cmdline.txt` to add there the needed `net.ifnames=0 biosdevname=0`.
+To do that you must modify grub configuration. You should modify your `/etc/default/grub` file in order to add this `net.ifnames=0 biosdevname=0` to your `GRUB_CMDLINE_LINUX` line.
 
-For example:
+__I don't have that  `/etc/default/grub` file, now what?__
+
+On some Linux, the path could be different like in modern Parrot Linux where you can locate the right file to modify here: `/etc/default/grub.d/parrot.cfg`.
+
+On other Linux like installed on Raspberries, the file `/etc/default/grub` is not existing. In this case you can edit the file `/boot/cmdline.txt` to add there the needed `net.ifnames=0 biosdevname=0` options.
+
+__Examples__
+
  - `GRUB_CMDLINE_LINUX="net.ifnames=0 biosdevname=0"`
  - `GRUB_CMDLINE_LINUX="find_preseed=/preseed.cfg auto noprompt priority=critical locale=en_US net.ifnames=0 biosdevname=0"`.
 
 Just add `net.ifnames=0 biosdevname=0` to your existing options keeping what you already have there.
 
-After modifying the file, execute `update-grub` and then reboot. After that, your wireless interface cards will be named again as always (wlan0, wlan1, etc.) and you'll be able to make them work with `airgeddon`.
+After modifying the file, execute `update-grub` and then reboot or directly reboot if you modified `/boot/cmdline.txt` as explained above (probably only for Raspberries). After that, your wireless interface cards will be named again as always (wlan0, wlan1, etc.) and you'll be able to make them work with `airgeddon`.
