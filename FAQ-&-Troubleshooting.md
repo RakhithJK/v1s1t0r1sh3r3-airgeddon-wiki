@@ -63,3 +63,9 @@ ____
 During a standard Evil Twin attack, your wireless physical card is split into two logical interfaces. One to create the fake Access Point and another to perform the DoS in monitor mode. During the attack, if the target AP is configured in channel "Auto" and if the victim resets it due to lack of connectivity resulting from the DoS attack, once rebooted, it may switch to another channel rendering our attack perform DoS over a wrong channel and the victim re-establish the connectivity.
 
 To avoid the situation explained above, airgeddon implemented the DoS Pursuit Mode. To enable this mode for Evil Twin attacks you'll need an additional (a second one) wireless card that supports monitor mode. The first card will be used as normal and the second one will be used to scan in background looking for the target AP changing channel. If the situation described before happens and the target AP switch its channel, it will be detected by airgeddon and the attack will re-launch the DoS over the new channel alerting us about this. In this way, the target AP is "pursued" even on channel hopping making the Evil Twin a much more effective attack.
+
+____
+
+#### My linux has weird interface names like `wlx00c0ca9208dc` instead of `wlan0` and I'm getting erros. What can I do?
+
+For some Linux distributions like Ubuntu or Debian since some versions, the default naming for network devices is using the new nomenclature which is causing errors while using `airgeddon`. Follow the instructions [on this link](https://github.com/v1s1t0r1sh3r3/airgeddon/wiki/Consistent-Network-Device-Naming)
