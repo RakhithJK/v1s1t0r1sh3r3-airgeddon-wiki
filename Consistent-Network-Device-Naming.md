@@ -21,4 +21,6 @@ __Examples__
 
 Just add `net.ifnames=0 biosdevname=0` to your existing options keeping what you already have there.
 
-After modifying the file, execute `update-grub` and then reboot or directly reboot if you modified `/boot/cmdline.txt` as explained above (probably only for Raspberries). After that, your wireless interface cards will be named again as always (wlan0, wlan1, etc.) and you'll be able to make them work with `airgeddon`.
+__After modification, to apply changes__
+
+After modifying the `/etc/default/grub` file, execute `update-grub` and then reboot or directly reboot if you modified `/boot/cmdline.txt` as explained above (probably only for Raspberries). After that, your wireless interface cards will be named again as always (wlan0, wlan1, etc.) and you'll be able to make them work with `airgeddon`.
