@@ -41,6 +41,6 @@ Additionally, you may want as optional to mark the package as "hold" to avoid it
 
 #### Important note. This downgrade method was tested only on Kali and Parrot Security Linux. If you have another non-Debian based Linux distribution, then keep reading...
 
-Bettercap was migrated from ruby to go language. Last ruby released version was 1.6.2 so it can be installed as ruby gem. Just uninstall your bettercap 2.x however: yum, emerge, pacman or whatever package manager depending of your Linux distribution and then execute `gem install bettercap`. This will install the needed 1.6.2 version for `airgeddon`.
+Bettercap was migrated from _ruby_ to _go_ programming language. Last ruby based version was released as _1.6.2_ so it can be installed as ruby gem. Just uninstall your bettercap 2.x using yum, emerge, yast, pacman or any package manager depending of your Linux distribution, and then execute `gem install bettercap`. This will install the needed 1.6.2 version for `airgeddon`.
 
 [Bettercap official's page]: https://www.bettercap.org/
