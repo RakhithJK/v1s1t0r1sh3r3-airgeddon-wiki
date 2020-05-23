@@ -27,7 +27,7 @@ If you have chosen the legacy deb package, follow this instructions to install i
 	<ul>If you have some troubles with the ruby dependencies, there are also available packages for them here: <a href="https://github.com/v1s1t0r1sh3r3/airgeddon_deb_packages">https://github.com/v1s1t0r1sh3r3/airgeddon_deb_packages</a></ul>
 	<li>Download the legacy deb bettercap package</li>
 	<ul>
-		<li><code>~# wget https://github.com/v1s1t0r1sh3r3/airgeddon_deb_packages/raw/master/x64/bettercap_1.6.2-0parrot1_all.deb</code></li>
+		<li><code>~# wget https://github.com/v1s1t0r1sh3r3/airgeddon_deb_packages/raw/master/arm64/bettercap_1.6.2-0parrot1_all.deb</code></li>
 	</ul>
 	<li>Install the downloaded package</li>
 	<ul>
