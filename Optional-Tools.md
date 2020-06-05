@@ -14,7 +14,6 @@
  beef         | beef-xss \| beef-project | &#8901; | asleap      | asleap                                               
  hostapd-wpe  | hostapd-wpe              | &#8901; | openssl     | openssl                                              
  hcxdumptool  | hcxdumptool              | &#8901; | hcxpcaptool | hcxtools                                             
-              |                          | &#8901; | tshark      | tshark \| wireshark-cli \| wireshark                 
-
+ tshark       | tshark \| wireshark-cli \| wireshark | &#8901; |                                                        
 
 Appropriate checks are done at the beginning to determine if you are able to use some features. Optional but recommended to have. `airgeddon` will block the ability to use some features if the needed optional tool is not present.
