@@ -39,6 +39,14 @@ Regarding the second volume "/path/to/another/dir/on/your/host", it is optional 
 
 On some distros like Ubuntu, in order to open the possibility of connecting `airgeddon` xterm windows to your host X Window system, you must launch first `~# xhost +` command. You can check if you need it easily. The resolution should be detected inside `airgeddon` on initial checks. If not is detected, you have a problem with your DISPLAY var. You should launch `~# xhost +` command or adjust DISPLAY var on docker run command.
 
+#### Setting Options
+
+As described in [Options wiki section](https://github.com/v1s1t0r1sh3r3/airgeddon/wiki/Options), it is possible to set up some available options. Running `airgeddon` in docker still allow this. Let's suppose that you want to run airgeddon without any color. The `AIRGEDDON_BASIC_COLORS` must be set to "false" to perform this. We can set it as another environment var just using another `-e` parameter on docker run command. Example:
+
+`docker run --rm -ti --name airgeddon --net=host --privileged -p 3000:3000 -v /path/to/some/dir/on/your/host:/io -v /path/to/another/dir/on/your/host:/opt/airgeddon/plugins -e DISPLAY=$(env | grep DISPLAY | awk -F "=" '{print $2}') -e AIRGEDDON_BASIC_COLORS=true v1s1t0r1sh3r3/airgeddon`
+
+You can add as many as you want setting a `-e` for each option.
+
 #### Hostapd possible conflict with host network-manager
 
 Evil Twin attacks are using `hostapd` to create fake AP which usually are in conflict with `network-manager`. In native mode `airgeddon` handle this to solve process conflicts, but when launched in a Docker container is not possible because the conflicting network-manager is on the Linux host (not on container). Anyway, `airgeddon` will show you a warning as a reminder of this while running on Docker before launch `hostapd`. So, before launching any Evil Twin Attack, be sure of killing conflicting processes or disabling/stopping `network-manager` if you have it installed on Linux host or you'll get an error like this:
