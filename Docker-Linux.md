@@ -25,7 +25,7 @@ Parameters explanation:
  - `-v /path/to/some/dir/on/your/host:/io` &#8594; It maps a directory from host to the container. Useful to use external files like dictionaries, get pots after successfull attacks or whatever.
  - `-v /path/to/another/dir/on/your/host:/opt/airgeddon/plugins` &#8594; It maps another directory from host to the container. Useful if you want to run a plugin inside the container.
  - `-e DISPLAY=$(env | grep DISPLAY | awk -F "=" '{print $2}')` &#8594; It overwrites the needed var to connect to local X Window system. DISPLAY=:0 is used by default so you can avoid this parameter if you already have set DISPLAY=:0 var on your host system.
- - `v1s1t0r1sh3r3/airgeddon` &#8594; Is the name and tag of the image. `v1s1t0r1sh3r3/airgeddon` is the stable version and is the same as `v1s1t0r1sh3r3/airgeddon:latest`. Alternatively you can use `v1s1t0r1sh3r3/airgeddon:beta` for development version.
+ - `v1s1t0r1sh3r3/airgeddon` &#8594; Is the name and tag of the image. `v1s1t0r1sh3r3/airgeddon` is the stable version built from _master_ branch and is the same as `v1s1t0r1sh3r3/airgeddon:latest`. Alternatively you can use `v1s1t0r1sh3r3/airgeddon:beta` for development version built from _dev_ branch.
 
 ### Linux Tips
 
