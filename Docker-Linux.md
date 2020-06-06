@@ -45,7 +45,7 @@ As described in [Options wiki section](https://github.com/v1s1t0r1sh3r3/airgeddo
 
 `docker run --rm -ti --name airgeddon --net=host --privileged -p 3000:3000 -v /path/to/some/dir/on/your/host:/io -v /path/to/another/dir/on/your/host:/opt/airgeddon/plugins -e DISPLAY=$(env | grep DISPLAY | awk -F "=" '{print $2}') -e AIRGEDDON_BASIC_COLORS=true v1s1t0r1sh3r3/airgeddon`
 
-You can add as many as you want setting a `-e` for each option.
+You can add as many options as you want setting a `-e` parameter for each one.
 
 #### Hostapd possible conflict with host network-manager
 
