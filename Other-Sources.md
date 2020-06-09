@@ -4,11 +4,11 @@ This page lists all the Linux distributions and repositories in which `airgeddon
 |:-------:|:-----:|
 | ![ArchStrike](https://raw.githubusercontent.com/v1s1t0r1sh3r3/airgeddon/master/imgs/wiki/archstrike.png) | [ArchStrike Repository] |
 | ![Arch AUR](https://raw.githubusercontent.com/v1s1t0r1sh3r3/airgeddon/dev/imgs/wiki/arch_aur.png) | [Arch AUR Repository] |
-| ![BlackArch](https://raw.githubusercontent.com/v1s1t0r1sh3r3/airgeddon/dev/imgs/wiki/blackarch_linux.png) | [2017.01.28 or later] |
+| ![BlackArch](https://raw.githubusercontent.com/v1s1t0r1sh3r3/airgeddon/dev/imgs/wiki/blackarch_linux.png) | [BlackArch 2017.01.28 or later] |
 | ![Npm](https://raw.githubusercontent.com/v1s1t0r1sh3r3/airgeddon/master/imgs/wiki/npm.png) | [Node Package Manager] |
-| ![Parrot](https://raw.githubusercontent.com/v1s1t0r1sh3r3/airgeddon/master/imgs/wiki/parrot_linux.png) | [3.7 or later] |
+| ![Parrot](https://raw.githubusercontent.com/v1s1t0r1sh3r3/airgeddon/master/imgs/wiki/parrot_linux.png) | [Parrot Security 3.7 or later] |
 | ![Pentoo](https://raw.githubusercontent.com/v1s1t0r1sh3r3/airgeddon/master/imgs/wiki/pentoo_linux.png) | [Pentoo Repository] |
-| ![Wifislax](https://raw.githubusercontent.com/v1s1t0r1sh3r3/airgeddon/master/imgs/wiki/wifislax_linux.png) | [4.12, 64-1.0 or later] |
+| ![Wifislax](https://raw.githubusercontent.com/v1s1t0r1sh3r3/airgeddon/master/imgs/wiki/wifislax_linux.png) | [Wifislax 4.12, 64-1.0 or later] |
 
 ***
 ### Arch Linux [![](https://img.shields.io/aur/version/airgeddon-git.svg?style=flat-square&colorA=3F3F3F&colorB=1793D1)](https://aur.archlinux.org/packages/airgeddon-git)
@@ -40,10 +40,10 @@ Pre installed. Just select it from the menu or execute `airgeddon` command from 
 Pre installed. Just select it from the menu or execute `airgeddon` command from anywhere.
 
 <!-- Links -->
-[4.12, 64-1.0 or later]: https://www.wifislax.com
-[2017.01.28 or later]: https://blackarch.org
+[Wifislax 4.12, 64-1.0 or later]: https://www.wifislax.com
+[BlackArch 2017.01.28 or later]: https://blackarch.org
 [ArchStrike Repository]: https://archstrike.org/packages/airgeddon-git
 [Arch AUR Repository]: https://aur.archlinux.org/packages/airgeddon-git/
-[3.7 or later]: https://www.parrotsec.org
+[Parrot Security 3.7 or later]: https://www.parrotsec.org
 [Node Package Manager]: https://www.npmjs.com/package/get-airgeddon
 [Pentoo Repository]: https://www.pentoo.ch
