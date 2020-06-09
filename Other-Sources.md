@@ -2,7 +2,8 @@ This page lists all the Linux distributions and repositories in which `airgeddon
 
 | Source  | Link  |
 |:-------:|:-----:|
-| ![ArchStrike](https://raw.githubusercontent.com/v1s1t0r1sh3r3/airgeddon/master/imgs/wiki/archstrike.png) | [Arch Repository] |
+| ![ArchStrike](https://raw.githubusercontent.com/v1s1t0r1sh3r3/airgeddon/master/imgs/wiki/archstrike.png) | [ArchStrike Repository] |
+| ![Arch AUR](https://raw.githubusercontent.com/v1s1t0r1sh3r3/airgeddon/dev/imgs/wiki/arch_aur.png) | [Arch AUR Repository] |
 | ![BlackArch](https://raw.githubusercontent.com/v1s1t0r1sh3r3/airgeddon/master/imgs/wiki/blackarch_linux.png) | [2017.01.28 or later] |
 | ![Npm](https://raw.githubusercontent.com/v1s1t0r1sh3r3/airgeddon/master/imgs/wiki/npm.png) | [Node Package Manager] |
 | ![Parrot](https://raw.githubusercontent.com/v1s1t0r1sh3r3/airgeddon/master/imgs/wiki/parrot_linux.png) | [3.7 or later] |
@@ -41,7 +42,8 @@ Pre installed. Just select it from the menu or execute `airgeddon` command from 
 <!-- Links -->
 [4.12, 64-1.0 or later]: https://www.wifislax.com
 [2017.01.28 or later]: https://blackarch.org
-[Arch Repository]: https://archstrike.org/wiki
+[ArchStrike Repository]: https://archstrike.org/packages/airgeddon-git
+[Arch AUR Repository]: https://aur.archlinux.org/packages/airgeddon-git/
 [3.7 or later]: https://www.parrotsec.org
 [Node Package Manager]: https://www.npmjs.com/package/get-airgeddon
 [Pentoo Repository]: https://www.pentoo.ch
