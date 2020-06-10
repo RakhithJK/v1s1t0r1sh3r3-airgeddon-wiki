@@ -4,7 +4,7 @@ __Some known compatible and fully working chipsets/cards__:
 
  - Atheros AR9271 <- _present in TP-Link TL-WN722N v1 or Alfa AWUS036NHA (2.4Ghz - USB)_
  - Intel Centrino Advanced-N 6205 <- _present integrated in many laptops (2.4Ghz/5Ghz - PCIe)_
- - Mediatek MT7612U <- _present in Alfa AWUS036ACM (2.4Ghz/5Ghz - USB)_
+ - MediaTek MT7612U <- _present in Alfa AWUS036ACM (2.4Ghz/5Ghz - USB)_
  - Ralink RT2770 <- _present in Alfa AWUS051NH (2.4Ghz/5Ghz - USB)_
  - Ralink RT3070 <- _present in TP-Link TL-WN7200ND or Alfa AWUS036NH (2.4Ghz - USB)_
  - Ralink RT3572 <- _present in Alfa AWUS052NHS (2.4Ghz/5Ghz - USB)_
