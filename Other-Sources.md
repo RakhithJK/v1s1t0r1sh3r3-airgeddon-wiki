@@ -3,8 +3,8 @@ This page lists all the Linux distributions and repositories in which `airgeddon
 | Source  | Link  |
 |:-------:|:-----:|
 | ![ArchStrike](https://raw.githubusercontent.com/v1s1t0r1sh3r3/airgeddon/master/imgs/wiki/archstrike.png) | [ArchStrike Repository] |
-| ![Arch AUR](https://raw.githubusercontent.com/v1s1t0r1sh3r3/airgeddon/dev/imgs/wiki/arch_aur.png) | [Arch AUR Repository] |
-| ![BlackArch](https://raw.githubusercontent.com/v1s1t0r1sh3r3/airgeddon/dev/imgs/wiki/blackarch_linux.png) | [BlackArch 2017.01.28 or later] |
+| ![Arch AUR](https://raw.githubusercontent.com/v1s1t0r1sh3r3/airgeddon/master/imgs/wiki/arch_aur.png) | [Arch AUR Repository] |
+| ![BlackArch](https://raw.githubusercontent.com/v1s1t0r1sh3r3/airgeddon/master/imgs/wiki/blackarch_linux.png) | [BlackArch 2017.01.28 or later] |
 | ![Npm](https://raw.githubusercontent.com/v1s1t0r1sh3r3/airgeddon/master/imgs/wiki/npm.png) | [Node Package Manager] |
 | ![Parrot](https://raw.githubusercontent.com/v1s1t0r1sh3r3/airgeddon/master/imgs/wiki/parrot_linux.png) | [Parrot Security 3.7 or later] |
 | ![Pentoo](https://raw.githubusercontent.com/v1s1t0r1sh3r3/airgeddon/master/imgs/wiki/pentoo_linux.png) | [Pentoo Repository] |
