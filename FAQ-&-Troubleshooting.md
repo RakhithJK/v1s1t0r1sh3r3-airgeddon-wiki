@@ -14,7 +14,7 @@ For example, let's suppose that you saw during dependencies check this message:
 
 It means that you are missing command/binary `dhcpd` and airgeddon is suggesting that the package you need to install could be named `isc-dhcp-server`, `dhcp-server` or `dhcp`. The name of the package depends on your Linux distribution. Remember that airgeddon is compatible with many of them.
 
-Now let's suppose that you are running Ubuntu Linux. It is a Debian based Linux distribution so you should try first to install it using `apt` tool. On Debian based, in this case the right package name is `isc-dhcp-server`. So, as simple as launching this command to install the dependency: `apt install isc-dhcp-server`.
+Now let's suppose that you are running Ubuntu Linux. It is a Debian based Linux distribution so you should try first to install it using `apt` tool. For Debian based, the right package name is `isc-dhcp-server`. So, as simple as launching this command to install the dependency: `apt install isc-dhcp-server`.
 
 In addition, if you are running one of these three Linux distributions: `Kali, Parrot-Security, BlackArch`, airgeddon will prompt you to let it try installing the missing dependencies automatically. This is done by a plugin already included in airgeddon. Why only on these three Linux variants is because they are unique containing all the needed packages on their repositories. Is the auto dependency install plugin 100% effective? No, sometimes there could be connectivity problems or maybe the repositories could be down, so airgeddon can't assure you 100% to be able to install always, all the dependencies successfully. Anyway, most of the time, they do get installed automatically.
 
