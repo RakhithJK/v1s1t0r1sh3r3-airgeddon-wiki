@@ -32,7 +32,7 @@ Or maybe you just need to reboot. Seems obvious but sometimes, if your card is f
 
 ____
 
-#### DoS (Deauth) is not working, what can I do?
+#### DoS (Deauth) is not working. What can I do?
 
 First of all you must be sure about that. Sometimes it is hard to detect that it's not working. The best option is to test DoS on your own network before performing the real audit. Anyway, Denial Of Service is tricky, it is not an exact science.
 
