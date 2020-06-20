@@ -16,6 +16,7 @@
 - [Kalel51] and [Laox] for beta testing and support received
 - [xpz3] for helping on development, bug reporting and support received
 - [magixgf] for programming advice, collaboration on plugins system development and other stuff
+- [marcosjimenez] for programming advice, Github Discord bot integration and creation of [AirgeddonLanguageFactory] tool (still private repo on development)
 - [OscarAkaElvis] for allowing me to own his body when I visit the earth
 
 #### Others
@@ -51,6 +52,7 @@
 [Wifislax]: https://www.wifislax.com
 [Shellcheck]: https://github.com/koalaman/shellcheck
 [Pentoo]: https://www.pentoo.ch
+[AirgeddonLanguageFactory]: https://github.com/marcosjimenez/AirgeddonLanguageFactory
 
 <!-- Github URLs -->
 [Kcdtv]: https://github.com/kcdtv
@@ -79,3 +81,4 @@
 [magixgf]: https://github.com/magixgf
 [koalaman]: https://github.com/koalaman
 [ZeroChaos]: https://github.com/ZeroChaos-
+[marcosjimenez]: https://github.com/marcosjimenez
