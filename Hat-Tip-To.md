@@ -17,6 +17,7 @@
 - [xpz3] for helping on development, bug reporting and support received
 - [magixgf] for programming advice, collaboration on plugins system development and other stuff
 - [marcosjimenez] for programming advice, Github Discord bot integration and creation of [AirgeddonLanguageFactory] tool (still private repo on development)
+- [darthvader-htb] for Arabic translations and helping me on other hacking stuff
 - [OscarAkaElvis] for allowing me to own his body when I visit the earth
 
 #### Others
@@ -82,3 +83,4 @@
 [koalaman]: https://github.com/koalaman
 [ZeroChaos]: https://github.com/ZeroChaos-
 [marcosjimenez]: https://github.com/marcosjimenez
+[darthvader-htb]: https://github.com/darthvader-htb
