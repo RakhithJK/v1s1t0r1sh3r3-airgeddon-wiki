@@ -4,6 +4,7 @@ Different languages can be set from the `airgeddon`'s options and language menu.
 
 `airgeddon` is currently available in:
 
+- ![Arabic][Arabic] Arabic
 - ![Catalan][Catalan] Catalan
 - ![English][English] English
 - ![French][French] French
@@ -24,6 +25,7 @@ If you want to see `airgeddon` translated to your language, don't hesitate to co
 <!-- Links To WiKi -->
 [contributing]: https://github.com/v1s1t0r1sh3r3/airgeddon/wiki/Contributing-&-Code-of-Conduct
 <!-- Links To Images -->
+[Arabic]: https://raw.githubusercontent.com/v1s1t0r1sh3r3/airgeddon/dev/imgs/flags/ma.png "Arabic"
 [English]: https://raw.githubusercontent.com/v1s1t0r1sh3r3/airgeddon/master/imgs/flags/us.png "English"
 [Spanish]: https://raw.githubusercontent.com/v1s1t0r1sh3r3/airgeddon/master/imgs/flags/es.png "Spanish"
 [French]: https://raw.githubusercontent.com/v1s1t0r1sh3r3/airgeddon/master/imgs/flags/fr.png "French"
