@@ -4,7 +4,7 @@ Different languages can be set from the `airgeddon`'s options and language menu.
 
 `airgeddon` is currently available in:
 
-- ![Arabic][Arabic] Arabic
+- ![Arabic][Arabic] Arabic (working on it for v10.30)
 - ![Catalan][Catalan] Catalan
 - ![English][English] English
 - ![French][French] French
