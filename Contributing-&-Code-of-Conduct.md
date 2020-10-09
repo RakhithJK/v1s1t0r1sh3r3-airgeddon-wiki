@@ -1,3 +1,5 @@
+<img src="https://starchart.cc/v1s1t0r1sh3r3/airgeddon.svg" width="670" height="340" align="right" title="Stargazers"/>
+
 You can contribute to airgeddon by
 
 - Translating into other languages
@@ -7,8 +9,11 @@ You can contribute to airgeddon by
 - Testing and sending feedback
 - Developing plugins
 - Donating
+- Just adding a star to our Github project
 
 Read the [Contributing File] for more details on the process of project collaborating and on our [Code of Conduct]. If you are interested on plugins development, read the Wiki [Plugins Development] section.
+
+
 
 ***
 
