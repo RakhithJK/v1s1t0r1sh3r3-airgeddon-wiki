@@ -1,4 +1,4 @@
-<img src="https://starchart.cc/v1s1t0r1sh3r3/airgeddon.svg" width="570" height="300" align="right" title="Stargazers"/>
+<img src="https://starchart.cc/v1s1t0r1sh3r3/airgeddon.svg" width="570" height="300" align="right" title="airgeddon stargazers"/>
 
 You can contribute to airgeddon by
 
