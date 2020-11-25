@@ -78,4 +78,4 @@ To run airgeddon on a headless system (without X Window system) this option (`AI
 
 ##### Important notes
 
-##### These three options `AIRGEDDON_FORCE_IPTABLES`, `AIRGEDDON_DEVELOPMENT_MODE`and `AIRGEDDON_DEBUG_MODE` are special. Because their purpose is a special scenario or development, they are not present on menus to be modified. They can be set only modifying the options file or using command line flags.
+##### These three options `AIRGEDDON_FORCE_IPTABLES`, `AIRGEDDON_DEVELOPMENT_MODE`and `AIRGEDDON_DEBUG_MODE` are special. Because their purpose is a special scenario or development, they are not present on menus to be modified. They can be set only modifying the options hidden file or using command line flags.
