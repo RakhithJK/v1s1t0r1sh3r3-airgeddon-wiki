@@ -71,3 +71,11 @@ ____
 #### My linux has weird interface names like `wlx00c0ca9208dc` instead of `wlan0` and I'm getting erros. What can I do?
 
 For some Linux distributions like Ubuntu or Debian since some versions, the default naming for network devices is using the new nomenclature which is causing errors while using `airgeddon`. To fix it, follow the instructions [on this link](https://github.com/v1s1t0r1sh3r3/airgeddon/wiki/Consistent-Network-Device-Naming).
+
+____
+
+#### When I start airgeddon, I see this message "A graphical X window system has not been detected. If you already have one, check it's working properly. It's essential for airgeddon. The script can't continue"
+
+That message is shown when airgeddon is not able to connect to your X Windows System for some reason. Maybe you have a restricted configuration. Try to launch the command `xhost +` before launching airgeddon. That should fix the problem.
+
+Maybe your system is headless (without X Window System), or maybe you just want to not use it. In that case, other option is available. Tmux can be used instead of xterm. It can be set in hidden options `.airgeddonrc` file. More info about it in [this link](https://github.com/v1s1t0r1sh3r3/airgeddon/wiki/Options).
