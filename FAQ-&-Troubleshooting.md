@@ -78,4 +78,4 @@ ____
 
 That message is shown when airgeddon is not able to connect to your X Windows System for some reason. Maybe you have a restricted configuration. Try to launch the command `xhost +` before launching airgeddon. That should fix the problem.
 
-Maybe your system is headless (without X Window System), or maybe you just want to not use it. In that case, other option is available. Tmux can be used instead of xterm. It can be set in hidden options `.airgeddonrc` file. More info about it in [this link](https://github.com/v1s1t0r1sh3r3/airgeddon/wiki/Options).
+Maybe your system is headless (without X Window System), or maybe you just want to not use it. In that case, other option is available. Tmux can be used instead of xterm. It can be set in hidden options `.airgeddonrc` file. More info about it [on this link](https://github.com/v1s1t0r1sh3r3/airgeddon/wiki/Options).
