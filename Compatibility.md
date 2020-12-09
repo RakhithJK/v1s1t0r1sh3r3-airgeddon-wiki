@@ -13,22 +13,22 @@ It can run on any Linux distribution that passes the tools validations. Some of 
 ***
 
 #### Tested on these compatible Linux distributions
-- Arch 4.6.2-1 to 5.0.2-arch1-1-ARCH
-- Backbox 4.5.1 to 5.x
-- BlackArch 2016.01.10 to 2020.x
+- Arch 4.6.2-1 or higher
+- Backbox 4.5.1 or higher
+- BlackArch 2016.01.10 or higher
 - CentOS 6 or higher
 - Cyborg Hawk 1.1
-- Debian 7 (Wheezy) to 10 (Buster)
-- Fedora 24 to 31
-- Gentoo 20160514 to 20200205
-- Kali 2.0, 2016.1 to 2020.x and arm versions (Raspberry Pi)
+- Debian 7 (Wheezy) or higher
+- Fedora 24 or higher
+- Gentoo 20160514 or higher
+- Kali 2.0, 2016.1 or higher and arm versions (Raspberry Pi)
 - Manjaro 18.x
 - Mint 18.x (Serena to Sylvia)
 - OpenMandriva LX3
-- OpenSUSE Leap 42.1 to 42.3
-- Parrot Security 2.2.1 or higher (3.x, 4.x) and arm versions (Raspberry Pi)
-- Pentoo 2019.x
-- Raspbian 7 (Wheezy) to 9 (Stretch) (Raspberry Pi)
-- Red Hat 7 (Maipo)
-- Ubuntu/Xubuntu 15.10 to 18.04
-- Wifislax 4.11.1 to 64-2.0
+- OpenSUSE Leap 42.1 or higher
+- Parrot Security 2.2.1 or higher and arm versions (Raspberry Pi)
+- Pentoo 2019.x or higher
+- Raspbian 7 (Wheezy) or higher (Raspberry Pi)
+- Red Hat 7 (Maipo) or higher
+- Ubuntu/Xubuntu 15.10 or higher
+- Wifislax 4.11.1 or higher
