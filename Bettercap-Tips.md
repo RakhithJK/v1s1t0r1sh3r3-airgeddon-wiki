@@ -1,22 +1,28 @@
 ##### Important tips about bettercap
 
-`bettercap` is used by `airgeddon` to perform a special Evil Twin attack. The last supported `bettercap` version is 1.6.2. It was updated on most popular Linux distributions repositories to 2.x version which is not compatible. On this 2.x versions, the program suffered major changes which make it uncompatible to `airgeddon`.
-
-The last compatible version (1.6.2) can be downloaded and compiled from the official author's page. More info at [Bettercap official's page].
+`bettercap` is used by `airgeddon` to perform a special Evil Twin attack. Until `airgeddon<=10.30`, the unique supported version was `bettercap 1.x`. After the release of `airgeddon>=10.31` now `bettercap 2.x` is supported since _2.28_ was released fixing the sslstrip problems. So you can choose to use the oldest `bettercap<=1.6.2` or the newest `bettercap>=2.28`.
 
 <p align="center">
 	<img src="https://raw.githubusercontent.com/v1s1t0r1sh3r3/airgeddon/master/imgs/wiki/bettercap_logo.png" title="Bettercap"/>
 </p>
 
-Anyway, there is an available **deb** package ready to be installed on a Debian based Linux distribution. Here is the link: https://github.com/v1s1t0r1sh3r3/airgeddon_deb_packages/blob/master/amd64/bettercap_1.6.2-0parrot1_all.deb
+##### Bettercap 2.x (>=2.28)
 
-#### Donwgrade instructions for Debian based Linux distributions
+The easiest choice. Just download it from [Bettercap official's Github repo] or install it from repositories of your Linux distribution as always.
+
+##### Bettercap 1.x (<=1.6.2)
+
+If you are going to use old `bettercap 1.x`, the recommended version is _1.6.2_. If you have already `bettercap 2.x` installed, probably you'll need to downgrade it. Here, a method to do it is explained.
+
+###### Donwgrade instructions for Debian based Linux distributions
+
+There is an available **deb** package ready to be installed on a Debian based Linux distribution. Here is the link: https://github.com/v1s1t0r1sh3r3/airgeddon_deb_packages/blob/master/amd64/bettercap_1.6.2-0parrot1_all.deb
 
 If you have chosen the legacy deb package, follow this instructions to install it:
 
 <sub>Requirements: <code>wget</code></sub>
 <ul>
-	<li>Uninstall latest 2.x bettercap package</li>
+	<li>Uninstall bettercap 2.x package</li>
 	<ul>
 		<li><code>~# apt remove bettercap</code></li>
 	</ul>
@@ -39,8 +45,8 @@ Additionally, you may want as optional to mark the package as "hold" to avoid it
 
 `~# apt-mark hold bettercap`
 
-#### Important note. This downgrade method was tested only on Kali and Parrot Security Linux. If you have another non-Debian based Linux distribution, then keep reading...
+###### Important note. This downgrade method was tested only on Kali and Parrot Security Linux. If you have another non-Debian based Linux distribution and want to downgrade, then keep reading...
 
-Bettercap was migrated from _ruby_ to _go_ programming language. Last ruby based version was released as _1.6.2_ so it can be installed as ruby gem. Just uninstall your bettercap 2.x using yum, emerge, yast, pacman or any package manager depending of your Linux distribution, and then execute `gem install bettercap`. This will install the needed 1.6.2 version for `airgeddon`.
+Bettercap was migrated from _ruby_ to _go_ programming language. Last ruby based version was released as _1.6.2_ so it can be installed as ruby gem. Just uninstall your `bettercap 2.x` using yum, emerge, yast, pacman or any package manager depending of your Linux distribution, and then execute `gem install bettercap`. This will install _1.6.2_ version.
 
-[Bettercap official's page]: https://www.bettercap.org/
+[Bettercap official's Github repo]: https://github.com/bettercap/bettercap
