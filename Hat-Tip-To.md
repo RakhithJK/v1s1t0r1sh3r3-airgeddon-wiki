@@ -24,9 +24,9 @@
 
 - The "Spanish pentesting crew"
 - The [Wifislax] staff
-- The [BlackArch] community and specially to [noptrix] for his support
+- The [BlackArch] community and specially to [noptrix] and [Edu4rdSHL] for his support
 - The [ArchStrike] staff and the maintainers, specially [Cthulu201] and [xorond] who in addition helped on some translations
-- The forum people of [Seguridadwireless.net], [Wifi-libre.com] and [Lampiweb.com]
+- The forum people of [Seguridadwireless.net], [Wifi-libre.com] and old deleted Lampiweb.com site
 - The [Hackware.ru] admins
 - All the people who helped building the online PIN database for WPS
 - Dominique Bongard for creating Pixie Dust attacks and [wiire] for developing pixiewps tool
@@ -44,7 +44,6 @@
 [ArchStrike]: https://archstrike.org/wiki
 [Seguridadwireless.net]: https://foro.seguridadwireless.net
 [Wifi-libre.com]: https://www.wifi-libre.com
-[Lampiweb.com]: https://lampiweb.com/foro
 [Hackware.ru]: https://hackware.ru
 [BashSupport]: https://github.com/jansorg/BashSupport
 [Parrot]: https://www.parrotsec.org/
@@ -84,3 +83,4 @@
 [ZeroChaos]: https://github.com/ZeroChaos-
 [marcosjimenez]: https://github.com/marcosjimenez
 [darthvader-htb]: https://github.com/darthvader-htb
+[Edu4rdSHL]: https://github.com/Edu4rdSHL
