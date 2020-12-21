@@ -49,7 +49,7 @@ airgeddon should be launched with **bash** `~# bash /path/to/airgeddon.sh` and n
 
 
 If you launch the script using another shell, there will be *Syntax errors* and faulty results.
-Even with no initial errors, they will appear later. Always launch with **bash**!
+Even with no initial errors, they will appear later. Always launch using **bash**!
 
 ### Binary installation
 
