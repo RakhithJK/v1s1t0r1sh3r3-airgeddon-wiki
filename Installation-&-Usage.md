@@ -1,3 +1,7 @@
+Check first if `airgeddon` is already installed on your Linux. Some pentest Linux distributions have it preinstalled or it is available on their repositories. Check [Other Sources wiki section] first before doing this.
+
+***
+
 It is essential to run this script as **root**, otherwise `airgeddon` won't work properly.
 
 ***
@@ -60,3 +64,4 @@ This section lists the binaries that are available for you to download and insta
   2. Install it using `~# pacman -U airgeddon-git-x.x-y-any.pkg.tar.xz`
 
 [latest tarball for Arch Linux]: https://github.com/v1s1t0r1sh3r3/airgeddon/tree/master/binaries/arch
+[Other Sources wiki section]: https://github.com/v1s1t0r1sh3r3/airgeddon/wiki/Other%20Sources
