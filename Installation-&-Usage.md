@@ -59,9 +59,4 @@ This section lists the binaries that are available for you to download and insta
   1. Download the [latest tarball for Arch Linux]
   2. Install it using `~# pacman -U airgeddon-git-x.x-y-any.pkg.tar.xz`
 
-- Kali Linux
-  1. Download the [latest deb package for Kali Linux]
-  2. Install it using `~# dpkg -i airgeddon_x.x-x_all.deb`
-
 [latest tarball for Arch Linux]: https://github.com/v1s1t0r1sh3r3/airgeddon/tree/master/binaries/arch
-[latest deb package for Kali Linux]: https://github.com/v1s1t0r1sh3r3/airgeddon/tree/master/binaries/kali
