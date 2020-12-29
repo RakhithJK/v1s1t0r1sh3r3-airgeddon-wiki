@@ -31,7 +31,7 @@ Parameters explanation:
 
 Don't forget to replace on docker command the string "/path/to/some/dir/on/your/host" with a path of an existing directory of your choice on your host machine. That directory will be the "input/output" point for the script. For example, if you place a dictionary.txt file there, inside the script you must access to it as "/io/dictionary.txt". If you capture a trophy or a Handshake file, save it at "/io/" dir to access it from the host.
 
-Regarding the second volume "/path/to/another/dir/on/your/host", it is optional and it shoulde be set only if you want to run a plugin for airgeddon. Check [here](https://github.com/v1s1t0r1sh3r3/airgeddon/wiki/Plugins%20System) what plugins can do for you.
+Regarding the second volume "/path/to/another/dir/on/your/host", it is optional and it should be set only if you want to run a plugin for airgeddon. Check [here](https://github.com/v1s1t0r1sh3r3/airgeddon/wiki/Plugins%20System) what plugins can do for you.
 
 #### Display problems (resolution detection)
 
