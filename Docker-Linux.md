@@ -41,7 +41,7 @@ On some distros like Ubuntu, in order to open the possibility of connecting `air
 
 As described in [Options wiki section](https://github.com/v1s1t0r1sh3r3/airgeddon/wiki/Options), it is possible to set up some available options. Running `airgeddon` in docker still allow this. Let's suppose that you want to run airgeddon without any color. The `AIRGEDDON_BASIC_COLORS` must be set to "false" to perform this. We can set it as another environment var just using another `-e` parameter on docker run command. Example:
 
-`docker run --rm -ti --name airgeddon --net=host --privileged -p 3000:3000 -v /path/to/some/dir/on/your/host:/io -v /path/to/another/dir/on/your/host:/opt/airgeddon/plugins -e DISPLAY=$(env | grep DISPLAY | awk -F "=" '{print $2}') -e AIRGEDDON_BASIC_COLORS=false v1s1t0r1sh3r3/airgeddon`
+`docker run --rm -ti --name airgeddon --net=host --privileged -v /path/to/some/dir/on/your/host:/io -v /path/to/another/dir/on/your/host:/opt/airgeddon/plugins -e DISPLAY=$(env | grep DISPLAY | awk -F "=" '{print $2}') -e AIRGEDDON_BASIC_COLORS=false v1s1t0r1sh3r3/airgeddon`
 
 You can add as many options as you want setting a `-e` parameter for each one.
 
