@@ -27,11 +27,12 @@ ____
 ____
 <img src="https://avatars0.githubusercontent.com/u/45725677?s=460&u=58e6515ddd2e224da7d5614ff2f3db2dd316214f&v=4" width="80" height="80" align="right" hspace="10" vspace="6"/>
 
- - _Plugin name_: **UI-Boost**
- - _Description_: Speed up user interface by making a specifc language strings file
+ - _Plugin name_: **Multiple plugins**
+ - _Description_: Different plugins for multiple purposes
  - _Author/s_: [KeyofBlueS]
- - _Link_: [UI-Boost](https://github.com/KeyofBlueS/airgeddon-plugins/blob/master/ui_boost.sh)
- - _Staff comments_: Useful if you have an old computer which is having performance issues printing menus or if you are running airgeddon on an ARM device like Raspberry Pi. This plugin makes airgeddon really faster printing the screens. Works for airgeddon <= v10.11. Not needed if your version is >= v10.20 due some changes performed in main core airgeddon source code. From v10.20 airgeddon is also printing the screens pretty fast without the plugin
+ - _Link_: [UI-Boost](https://github.com/KeyofBlueS/airgeddon-plugins)
+ - _Staff comments_: Useful plugins useful to perform different actions (custom captive portal, ui-boost, etc)
+
 ____
 
 [v1s1t0r]: https://github.com/v1s1t0r1sh3r3
