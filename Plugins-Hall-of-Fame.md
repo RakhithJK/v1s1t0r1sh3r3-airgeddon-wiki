@@ -31,7 +31,7 @@ ____
  - _Description_: Different plugins for multiple purposes
  - _Author/s_: [KeyofBlueS]
  - _Link_: [UI-Boost](https://github.com/KeyofBlueS/airgeddon-plugins)
- - _Staff comments_: Useful plugins useful to perform different actions (custom captive portal, ui-boost, etc)
+ - _Staff comments_: Useful plugins to perform different actions (custom captive portal, ui-boost, etc)
 
 ____
 
