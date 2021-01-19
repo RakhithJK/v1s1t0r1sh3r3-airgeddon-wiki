@@ -5,7 +5,7 @@
 - Full support for 2.4Ghz and 5Ghz bands
 - Assisted WPA/WPA2 personal networks Handshake file and PMKID capturing
 - Cleaning and optimizing Handshake captured files
-- Offline password decrypting on WPA/WPA2 captured files for personal networks (handshakes and PMKIDs) using dictionary, bruteforce and rule based attacks with aircrack, crunch and hashcat tools. Enterprise networks captured password decrypting based on john the ripper, crunch, asleap and hashcat tools.
+- Offline password decrypting on WPA/WPA2 captured files for personal networks (Handshakes and PMKIDs) using dictionary, bruteforce and rule based attacks with aircrack, crunch and hashcat tools. Enterprise networks captured password decrypting based on john the ripper, crunch, asleap and hashcat tools.
 - Evil Twin attacks (Rogue AP)
   - Only Rogue/Fake AP mode to sniff using external sniffer (Hostapd + DHCP + DoS)
   - Simple integrated sniffing (Hostapd + DHCP + DoS + Ettercap)
