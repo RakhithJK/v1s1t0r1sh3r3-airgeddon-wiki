@@ -22,7 +22,7 @@
 
 #### Others
 
-- The "Spanish pentesting crew"
+- The "Spanish pentesting crew" friends group
 - The [Wifislax] staff
 - The [BlackArch] community and specially to [noptrix] and [Edu4rdSHL] for his support
 - The [ArchStrike] staff and the maintainers, specially [Cthulu201] and [xorond] who in addition helped on some translations
