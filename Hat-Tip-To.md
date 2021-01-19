@@ -14,7 +14,7 @@
 - [mamatb] for help received on development
 - [JBalanza] for French translations and help received on development
 - [Kalel51] and [Laox] for beta testing and support received
-- [xpz3] for helping on development, bug reporting and support received
+- [xpz3] for helping on development, bug reporting, Discord channel management and support received
 - [magixgf] for programming advice, collaboration on plugins system development and other stuff
 - [marcosjimenez] for programming advice, Github Discord bot integration and creation of [AirgeddonLanguageFactory] tool (still private repo on development)
 - [darthvader-htb] for Arabic translations and helping me on other hacking stuff
