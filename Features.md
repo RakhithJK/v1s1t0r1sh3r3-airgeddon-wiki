@@ -9,8 +9,8 @@
 - Evil Twin attacks (Rogue AP)
   - Only Rogue/Fake AP mode to sniff using external sniffer (Hostapd + DHCP + DoS)
   - Simple integrated sniffing (Hostapd + DHCP + DoS + Ettercap)
-  - Integrated sniffing, sslstrip (Hostapd + DHCP + DoS + Ettercap + Sslstrip)
-  - Integrated sniffing, sslstrip2 and BeEF browser exploitation framework (Hostapd + DHCP + DoS + Bettercap + BeEF)
+  - Integrated sniffing, sslstrip2 (Hostapd + DHCP + DoS + Bettercap)
+  - Integrated sniffing, sslstrip2 and BeEF Browser Exploitation Framework (Hostapd + DHCP + DoS + Bettercap + BeEF)
   - Captive portal with "DNS blackhole" to capture wifi passwords (Hostapd + DHCP + DoS + Dnsspoff + Lighttpd)
   - Optional MAC spoofing for all Evil Twin attacks
 - WPS features
