@@ -36,6 +36,7 @@
 - [koalaman] and other contributors for creating the useful [Shellcheck] tool to improve our code
 - The [Parrot] crew and specially to [Palinuro] for adding `airgeddon` to their repositories
 - [Pentoo] staff for adding the tool to their repositories and specially to [ZeroChaos]
+- [Kali] team for at last adding airgeddon to their repositories and specially to [g0tmi1k] and [sbrun]
 - The [Hack&Beers] and [H-c0n] managers for letting me promote `airgeddon` on their events
 
 <!-- URLs -->
@@ -53,6 +54,7 @@
 [Shellcheck]: https://github.com/koalaman/shellcheck
 [Pentoo]: https://www.pentoo.ch
 [AirgeddonLanguageFactory]: https://github.com/marcosjimenez/AirgeddonLanguageFactory
+[Kali]:https://www.kali.org/
 
 <!-- Github URLs -->
 [Kcdtv]: https://github.com/kcdtv
@@ -84,3 +86,5 @@
 [marcosjimenez]: https://github.com/marcosjimenez
 [darthvader-htb]: https://github.com/darthvader-htb
 [Edu4rdSHL]: https://github.com/Edu4rdSHL
+[g0tmi1k]: https://github.com/g0tmi1k
+[sbrun]: https://github.com/sbrun
