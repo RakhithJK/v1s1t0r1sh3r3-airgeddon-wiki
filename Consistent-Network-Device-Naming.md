@@ -2,7 +2,7 @@ For some Linux distributions like Ubuntu or Debian since some versions, the defa
 
 __How to know if I am affected?__
 
-If you see your wireless card named as _wlx00c0ca9208dc_ or any similar name, yeah you are affected and probably you'll face some issues using `airgeddon` while changing mode of your card. It's better to have them using the classic naming style (wlan0, wlan1, etc.).
+If you see your wireless card named as _wlx00c0ca9208dc_ or any similar name, yeah you are affected and probably you'll face some issues using `airgeddon` while changing mode of your card. It's better to have them using the classic naming style (_wlan0_, _wlan1_, etc.).
 
 __How to change them to the classic names style?__
 
@@ -23,4 +23,4 @@ Just add `net.ifnames=0 biosdevname=0` to your existing options keeping what you
 
 __After modification, to apply changes__
 
-After modifying the `/etc/default/grub` file, execute `update-grub` and then reboot or directly reboot if you modified `/boot/cmdline.txt` as explained above (probably only for Raspberries). After that, your wireless interface cards will be named again as always (wlan0, wlan1, etc.) and you'll be able to make them work with `airgeddon`.
+After modifying the `/etc/default/grub` file, execute `update-grub` and then reboot or directly reboot if you modified `/boot/cmdline.txt` as explained above (probably only for Raspberries). After that, your wireless interface cards will be named again as always (_wlan0_, _wlan1_, etc.) and you'll be able to make them work with `airgeddon`.
