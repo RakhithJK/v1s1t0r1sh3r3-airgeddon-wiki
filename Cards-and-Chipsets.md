@@ -17,6 +17,7 @@ Of course, there are more compatible and fully working chipsets, these are only 
 
 __Chipsets with known problems__:
 
+ - MediaTek MT7601U <- _present in some unbranded Chinese cheap dongles (2.4Ghz - USB)_
  - MediaTek MT7610U <- _present in TP-Link Archer T2UH (2.4Ghz/5Ghz - USB)_
  - Realtek RTL8188EU <- _present in TP-Link TL-WN722N (2.4Ghz - USB)_
  - Realtek RTL8812AU <- _present in Alfa AWUS036ACH (2.4Ghz/5Ghz - USB)_
