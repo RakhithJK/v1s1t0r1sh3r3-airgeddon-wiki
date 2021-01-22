@@ -9,6 +9,7 @@ You can contribute to airgeddon by
 - Testing and sending feedback
 - Developing plugins
 - Donating
+- Discord Server Boosting
 - Just adding a star to our Github project
 
 Read the [Contributing File] for more details on the process of project collaborating and on our [Code of Conduct]. If you are interested on plugins development, read the Wiki [Plugins Development] section.
