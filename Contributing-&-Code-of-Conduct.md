@@ -103,6 +103,7 @@ Top donors:
  - Armando Hernandez
  - Antonii_30
  - Roberto Val
+ - [masi](https://github.com/masipro)
 
 If you want to be here, send me some data (mail, link, twitter account, etc) with your donation.
 
