@@ -18,6 +18,7 @@
 - [magixgf] for programming advice, collaboration on plugins system development and other stuff
 - [marcosjimenez] for programming advice, Github Discord bot integration and creation of [AirgeddonLanguageFactory] tool (still private repo on development)
 - [darthvader-htb] for Arabic translations and helping me on other hacking stuff
+- [cjb900] for his hard work helping the community on issues/Discord
 - [OscarAkaElvis] for allowing me to own his body when I visit the earth
 
 #### Others
@@ -88,3 +89,4 @@
 [Edu4rdSHL]: https://github.com/Edu4rdSHL
 [g0tmi1k]: https://github.com/g0tmi1k
 [sbrun]: https://github.com/sbrun
+[cjb900]: https://github.com/cjb900
