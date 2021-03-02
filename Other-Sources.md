@@ -52,4 +52,4 @@ Pre installed. Just select it from the menu or execute `airgeddon` command from 
 [Parrot Security 3.7 or later]: https://www.parrotsec.org
 [Node Package Manager]: https://www.npmjs.com/package/get-airgeddon
 [Pentoo Repository]: https://www.pentoo.ch
-[Kali 2020.4 or later]: https://www.kali.org/
+[Kali 2021.1 or later]: https://www.kali.org/
