@@ -6,7 +6,7 @@
  crunch       | crunch                   | &#8901; | etterlog      | ettercap \| ettercap-text-only \| ettercap-graphical 
  aireplay-ng  | aircrack-ng              | &#8901; | tshark        | tshark \| wireshark-cli                              
  mdk3/mdk4    | mdk3/mdk4                | &#8901; | dhcpd         | isc-dhcp-server \| dhcp-server \| dhcp               
- hashcat      | hashcat                  | &#8901; | dnsspoof      | dsniff                                               
+ hashcat      | hashcat                  | &#8901; | dnsmasq       | dnsmasq                                              
  hostapd      | hostapd                  | &#8901; | wash          | reaver                                               
  lighttpd     | lighttpd                 | &#8901; | reaver        | reaver                                               
  nft/iptables | nftables/iptables        | &#8901; | bully         | bully                                                
