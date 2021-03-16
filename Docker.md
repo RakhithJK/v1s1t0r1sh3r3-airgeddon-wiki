@@ -1,6 +1,6 @@
 <img src="https://raw.githubusercontent.com/v1s1t0r1sh3r3/airgeddon/master/imgs/banners/airgeddon_docker.png" align="left" hspace="10" vspace="6" title="airgeddon loves docker"/>
 
-`airgeddon` Docker image is based on Arch Linux using an ArchStrike image as base.
+`airgeddon` Docker image is based on Arch Linux using an ArchStrike image as base (temporarily is Parrot based right now).
 
 To run a container based on a Docker image to execute `airgeddon`, bear in mind that it should be run on a system running X Window (for example Xorg for Linux, XQuartz for Mac or XMing for Windows) because it runs xterm windows used for some features.
 
