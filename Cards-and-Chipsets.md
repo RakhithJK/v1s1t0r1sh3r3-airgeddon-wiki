@@ -3,7 +3,7 @@ In `airgeddon<=8.10`, only `airmon` compatible wireless cards are supported. If 
 __Some known compatible and fully working chipsets/cards__:
 
  - Atheros AR9271 <- _present in TP-Link TL-WN722N v1 or Alfa AWUS036NHA (2.4Ghz - USB)_
- - MediaTek MT7612U <- _present in Alfa AWUS036ACM (2.4Ghz/5Ghz - USB) (not recommended to be used on Virtual Machines, but it works very well on native Linux. This card has issues with Rpi2/3. The recommended Linux kernel version is 5.3 or greater)_
+ - MediaTek MT7612U <- _present in Alfa AWUS036ACM (2.4Ghz/5Ghz - USB) (not recommended to be used on Virtual Machines, but it works very well on native Linux. The recommended Linux kernel version is 5.3 or greater). For Rpi 2/3 run this command to get the card working ```echo "options mt76_usb disable_usb_sg=1" > /etc/modprobe.d/mt76_usb.conf```_
  - Ralink RT2770 <- _present in Alfa AWUS051NH (2.4Ghz/5Ghz - USB)_
  - Ralink RT3070 <- _present in TP-Link TL-WN7200ND or Alfa AWUS036NH (2.4Ghz - USB)_
  - Ralink RT3572 <- _present in Alfa AWUS052NHS (2.4Ghz/5Ghz - USB)_
