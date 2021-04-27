@@ -70,7 +70,7 @@ To avoid the situation explained above, airgeddon implemented the DoS Pursuit Mo
 
 ____
 
-#### My linux has weird interface names like `wlx00c0ca9208dc` instead of `wlan0` and I'm getting erros. What can I do?
+#### My linux has weird interface names like `wlx00c0ca9208dc` instead of `wlan0` and I'm getting errors. What can I do?
 
 For some Linux distributions like Ubuntu or Debian since some versions, the default naming for network devices is using the new nomenclature which is causing errors while using `airgeddon`. To fix it, follow the instructions [on this link](https://github.com/v1s1t0r1sh3r3/airgeddon/wiki/Consistent-Network-Device-Naming).
 
