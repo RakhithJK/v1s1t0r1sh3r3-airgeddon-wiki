@@ -8,7 +8,7 @@ __Some known compatible and fully working chipsets/cards__:
  - Ralink RT3070 <- _present in TP-Link TL-WN7200ND or Alfa AWUS036NH (2.4Ghz - USB)_
  - Ralink RT3572 <- _present in Alfa AWUS052NHS (2.4Ghz/5Ghz - USB)_
  - Ralink RT5372 <- _present in D-Link DWA-137 (2.4Ghz - USB)_
- - Ralink RT5572 <- _present in Panda PAU09 (2.4Ghz/5Ghz - USB)_
+ - Ralink RT5572 <- _present in Panda PAU07 or Panda PAU09 (2.4Ghz/5Ghz - USB)_
  - Realtek RTL8187 <- _present in Alfa AWUS036H (2.4Ghz - USB) (may require patched driver)_
  - Realtek RTL8723BE <- _present in Realtek RTL8723BE card (2.4Ghz - PCIe)_
 
