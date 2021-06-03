@@ -40,6 +40,12 @@ First of all you must be sure about that. Sometimes it is hard to detect that it
 
 Not all attacks work against every APs and its clients. Sometimes, clients are taken down only partially, while others remain unaffected even on the same AP. It depends of many factors and variables: Chipset used to perform the attack, type of client (Android, computer, Apple device, etc), Access Point, distance and signal to the target, etc. The signal is of greater significance, which must be powerful enough. If you think it is not working, you should try a different mode of attack: mdk4, aireplay or even mdk3 modifying the configuration options ".airgeddonrc" file. More info about the available options [on this link](https://github.com/v1s1t0r1sh3r3/airgeddon/wiki/Options).
 
+If your DoS is not effective only during Evil Twin attacks, probably is because your card is not supporting VIF (Virtual Interface). Probably the chipset of your card is not compatible or you have one of the "blacklisted" cards with known problems (mainly Realtek RTL chipsets). To perform correctly Evil Twin attacks, VIF feature is needed on your card. Not all cards are supporting this.
+
+To check if your card is supporting VIF launch this command `iw list | grep "Supported interface modes" -A 8` and you should see in the output `AP/VLAN` (just `AP` is not enough), otherwise your card is not supporting the required VIF. From `airgeddon>=10.42` there is an integrated check for it before launching any Evil Twin attack. Check the list of fully working cards and the cards with known problems [on this link](https://github.com/v1s1t0r1sh3r3/airgeddon/wiki/Cards%20and%20Chipsets).
+
+If your card is supporting VIF and it is still not working for you, maybe it is buggy and you need to unplug the card and then plug it again, or maybe you just need to reboot. Seems obvious but sometimes, if your card is frozen for some reason, it works.
+
 ____
 
 #### Can be the Evil Twin Captive Portal page be customized? How?
