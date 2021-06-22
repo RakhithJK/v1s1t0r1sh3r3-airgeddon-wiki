@@ -1,6 +1,6 @@
 :speech_balloon: You can contact project's staff by:
 
-- Chatting on our **#airgeddon** channel at Discord. Join clicking on the [Public Invitation link](https://discord.gg/sQ9dgt9)
+- Chatting on our **#airgeddon** channel at Discord. Join clicking on the Public Invitation link: https://discord.gg/sQ9dgt9
 
 <a href="https://discord.gg/sQ9dgt9" target="_blank"><img src="https://raw.githubusercontent.com/v1s1t0r1sh3r3/airgeddon/master/imgs/wiki/airgeddon_discord.png" title="Discord"/></a>
 
