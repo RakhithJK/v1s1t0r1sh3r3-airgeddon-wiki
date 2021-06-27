@@ -32,12 +32,21 @@ ____
  - _Author/s_: [KeyofBlueS]
  - _Link_: [Multiple plugins](https://github.com/KeyofBlueS/airgeddon-plugins)
  - _Staff comments_: Useful plugins to perform different actions (custom captive portal, ui-boost, etc)
+____
+<img src="https://avatars.githubusercontent.com/u/46419195?v=4" width="80" height="80" align="right" hspace="10" vspace="6"/>
+
+ - _Plugin name_: **Multiple plugins**
+ - _Description_: Different plugins for multiple purposes
+ - _Author/s_: [xpz3]
+ - _Link_: [Multiple plugins](https://github.com/xpz3/airgeddonplugins)
+ - _Staff comments_: Useful plugins to perform different actions (multiple interface on evil-twin attack, avoid use of airmon, etc)
 
 ____
 
 [v1s1t0r]: https://github.com/v1s1t0r1sh3r3
 [OscarAkaElvis]: https://github.com/OscarAkaElvis
 [KeyofBlueS]: https://github.com/KeyofBlueS
+[xpz3]: https://github.com/xpz3
 [Discord]: https://discord.gg/sQ9dgt9
 [IRC]: https://webchat.freenode.net/
 [@OscarAkaElvis]: https://twitter.com/OscarAkaElvis
