@@ -19,11 +19,11 @@ Did you develop a nice plugin? Do you want to be here? Contact us on [IRC], on [
 ____
 <img src="https://avatars1.githubusercontent.com/u/5803348?s=460&u=d8ebe54df1b836b7892d14436ad89e48759ace51&v=4" width="80" height="80" align="right" hspace="10" vspace="6"/>
 
- - _Plugin name_: **Realtek chipset fixer**
- - _Description_: A plugin to fix some problematic Realtek chipsets like RTL8812AU and others
+ - _Plugin name_: **Multiple plugins**
+ - _Description_: Different plugins for multiple purposes
  - _Author/s_: [OscarAkaElvis]
- - _Link_: [Realtek Chipset Fixer](https://github.com/OscarAkaElvis/airgeddon_realtek_chipset_fixer)
- - _Staff comments_: Useful only for v10.0. Not needed if your version is >= v10.01 due the inclusion of the plugin functionality in main core airgeddon source code
+ - _Link_: [Multiple plugins](https://github.com/OscarAkaElvis/airgeddon-plugins)
+ - _Staff comments_: A plugin to accept all chars as part of the password for Evil Twin Captive Portal attack, and a plugin to fix some problematic Realtek chipsets like RTL8812AU and others.
 ____
 <img src="https://avatars0.githubusercontent.com/u/45725677?s=460&u=58e6515ddd2e224da7d5614ff2f3db2dd316214f&v=4" width="80" height="80" align="right" hspace="10" vspace="6"/>
 
