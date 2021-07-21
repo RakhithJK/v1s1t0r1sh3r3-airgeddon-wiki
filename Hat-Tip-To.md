@@ -5,6 +5,7 @@
 - **El padrino** and [cLn] for Catalan translations
 - [Luan] for Portuguese translations
 - [MiAl] for Russian translations
+- [xS13rra] for Russian translations
 - [xtonousou] for Greek translations, beta testing, suggestions, the help received fixing code warnings and other stuff
 - [salu90] for Italian translations
 - [rdcdt1] for French translations
@@ -18,6 +19,7 @@
 - [magixgf] for programming advice, collaboration on plugins system development and other stuff
 - [marcosjimenez] for programming advice, Github Discord bot integration and creation of [AirgeddonLanguageFactory] tool (still private repo on development)
 - [darthvader-htb] for Arabic translations and helping me on other hacking stuff
+- [AkumaBiNoTori] for Arabic translations
 - [cjb900] for his hard work helping the community on issues/Discord
 - [OscarAkaElvis] for allowing me to own his body when I visit the earth
 
@@ -90,3 +92,5 @@
 [g0tmi1k]: https://github.com/g0tmi1k
 [sbrun]: https://github.com/sbrun
 [cjb900]: https://github.com/cjb900
+[AkumaBiNoTori]: https://github.com/AkumaBiNoTori
+[xS13rra]: https://github.com/xS13rra
