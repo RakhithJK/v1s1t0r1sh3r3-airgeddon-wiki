@@ -12,7 +12,7 @@
 
 - Sending an email to [v1s1t0r.1s.h3r3&#64;gmail.com]
 
-:beetle: Did you find any bugs? Is something not working as it is supposed to?
+🐞 Did you find any bugs? Is something not working as it is supposed to?
 - Create an [issue] reading the Issue Creation Policy on [contributing] section first. Making an issue means that's something is broken and needs to be fixed. If you have any question or any doubts, please consider **NOT** creating an issue, and contact us instead. See the section above.
 
 [issue]: https://github.com/v1s1t0r1sh3r3/airgeddon/issues/new
