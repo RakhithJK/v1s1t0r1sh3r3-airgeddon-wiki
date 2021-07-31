@@ -5,8 +5,8 @@
  iw          | iw                    | &#8901; | awk         | awk \| gawk                     
  airmon-ng   | aircrack-ng           | &#8901; | airodump-ng | aircrack-ng                     
  aircrack-ng | aircrack-ng           | &#8901; | xterm       | xterm                           
- ip          | iproute2              | &#8901; | tmux        | tmux                            
- ps          | procps \| procps-ng   | &#8901; |             |                                  
+ ip          | iproute2              | &#8901; | lspci       | pciutils                        
+ ps          | procps \| procps-ng   | &#8901; | tmux        | tmux                            
 
 Without the tools above, airgeddon **won't work** at all.
 Appropriate checks are done at the beginning, if you have those tools installed, you will be able to use airgeddon.
