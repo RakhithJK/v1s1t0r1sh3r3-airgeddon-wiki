@@ -19,7 +19,7 @@ __Chipsets with known problems__:
  - Intel Centrino Advanced-N 6205 <- _present integrated in many laptops (2.4Ghz/5Ghz - PCIe)_
  - MediaTek MT7601U <- _present in some unbranded cheap chinese dongles (2.4Ghz - USB)_
  - MediaTek MT7610U <- _present in TP-Link Archer T2UH (2.4Ghz/5Ghz - USB)_
- - Realtek RTL8188EU <- _present in TP-Link TL-WN722N (2.4Ghz - USB)_
+ - Realtek RTL8188EU/S <- _present in TP-Link TL-WN722N v2 (2.4Ghz - USB)_
  - Realtek RTL8812AU <- _present in Alfa AWUS036ACH (2.4Ghz/5Ghz - USB)_
  - Realtek RTL8812BU <- _present in Comfast CF-913AC (2.4Ghz/5Ghz - USB)_
  - Realtek RTL8814AU <- _present in Alfa AWUS1900 (2.4Ghz/5Ghz - USB)_
