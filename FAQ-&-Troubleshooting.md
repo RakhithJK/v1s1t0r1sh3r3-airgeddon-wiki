@@ -26,7 +26,7 @@ ____
 
 You should see on fake AP hostapd (xterm upper left) window "AP-ENABLED". If you can see "AP-DISABLED", then something went wrong.
 
-Probably the chipset of your card is not compatible or you have one of the "blacklisted" cards with known problems (mainly Realtek RTL chipsets). To perform correctly Evil Twin attacks, VIF (Virtual Interface) feature is needed on your card. Not all cards are supporting this.
+Probably the chipset of your card is not compatible or you have one of the "blacklisted" cards with known problems (mainly Realtek RTL chipsets). To perform correctly Evil Twin attacks, VIF (Virtual Interface) feature is needed on your card. Not all cards are supporting this. VIF is the ability to split a physical card into logical cards. This is used during Evil Twin attack to keep one acting as an AP and other at the same time performing DoS in monitor mode.
 
 To check if your card is supporting VIF launch this command `iw list | grep "Supported interface modes" -A 8` and you should see in the output `AP/VLAN` (just `AP` is not enough), otherwise your card is not supporting the required VIF. From `airgeddon>=10.42` there is an integrated check for it before launching any Evil Twin attack. Check the list of fully working cards and the cards with known problems [on this link](https://github.com/v1s1t0r1sh3r3/airgeddon/wiki/Cards%20and%20Chipsets).
 
