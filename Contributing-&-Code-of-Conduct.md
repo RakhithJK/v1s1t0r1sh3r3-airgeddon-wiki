@@ -18,7 +18,7 @@ Read the [Contributing File] for more details on the process of project collabor
 
 If you enjoyed the script and found it useful, you can support the project making a donation. Through Paypal or sending a fraction of any of these cryptocurrencies. Any amount, not matter how small (1, 2, 5 $/€) is welcome.
 
-Check the [Sponsorship page](https://github.com/sponsors/v1s1t0r1sh3r3) or directly donate using any of the next methods:
+Check the [Sponsorship page](https://github.com/sponsors/v1s1t0r1sh3r3) or directly donate using any of the following methods:
 
 <table>
   <tr>
@@ -91,6 +91,12 @@ Check the [Sponsorship page](https://github.com/sponsors/v1s1t0r1sh3r3) or direc
   </tr>
 </table>
 </div>
+
+***
+
+### Sponsors/Supporters
+
+To be here, you must collaborate with the project sponsoring [here](https://github.com/sponsors/v1s1t0r1sh3r3).
 
 ***
 
