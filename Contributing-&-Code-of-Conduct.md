@@ -96,7 +96,7 @@ Check the [Sponsorship page](https://github.com/sponsors/v1s1t0r1sh3r3) or direc
 
 ### Sponsors/Supporters
 
-To be here, you must collaborate sponsoring the project [here](https://github.com/sponsors/v1s1t0r1sh3r3).
+To be here, you must collaborate [sponsoring the project](https://github.com/sponsors/v1s1t0r1sh3r3).
 
 ***
 
