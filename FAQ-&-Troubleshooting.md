@@ -64,7 +64,7 @@ Once connected to the fake network, it depends on the type of your device. On mo
 
 Then (for standard computers and mobile devices), opening a browser and trying to open a page should make the captive portal to be opened while you don't try to open a SSL page. If you try to open a page that starts with "https" or if you try a very famous page like Google, Facebook or similar (they are opened using SSL by default even if you don't type https) it will not work and is completely normal. You must try to open "http" pages.
 
-The reason for this behavior is that, to trigger captive portal for SSL pages, a SSL certificate is needed at the portal. And the free self-signed certificates are not an option due to the warning messages they generate when a page using them is visited. The free Let's encrypt 90 days valid SSL certificate is not also an option due to the constant need of renewal and the maintenance it needs. So airgeddon staff decided to let it as it is. It's better to have a "page not shown" error than a "insecure page warning" message shown because of a self-signed SSL certificate.
+The reason for this behavior is that, to trigger captive portal for SSL pages, a SSL certificate is needed at the portal. And the free self-signed certificates are not an option due to the warning messages they generate when a page using them is visited making the captive portal untrusted. The free Let's encrypt 90 days valid SSL certificate is not also an option due to the constant need of renewal and the maintenance it needs. So airgeddon staff decided to let it as it is. It's better to have a "page not shown" error than a "insecure page warning" message shown because of a self-signed SSL certificate.
 
 ____
 
