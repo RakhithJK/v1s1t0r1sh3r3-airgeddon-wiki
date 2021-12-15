@@ -8,6 +8,7 @@ __Some known compatible and fully working chipsets/cards (Whitelist)__:
  - Ralink RT2770 <- _present in Alfa AWUS051NH (2.4Ghz/5Ghz - USB)_
  - Ralink RT3070 <- _present in TP-Link TL-WN7200ND or Alfa AWUS036NH (2.4Ghz - USB)_
  - Ralink RT3572 <- _present in Alfa AWUS052NHS (2.4Ghz/5Ghz - USB)_
+ - Ralink RT5370 <- _present in some some unbranded cheap chinese dongles (2.4Ghz - USB)_
  - Ralink RT5372 <- _present in D-Link DWA-137 (2.4Ghz - USB)_
  - Ralink RT5378 <- _present in some some unbranded cheap chinese dongles (2.4Ghz - USB)_
  - Ralink RT5572 <- _present in Panda PAU07 or Panda PAU09 (2.4Ghz/5Ghz - USB)_
