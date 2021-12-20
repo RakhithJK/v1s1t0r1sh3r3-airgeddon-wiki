@@ -19,7 +19,9 @@ __Examples__
  - `GRUB_CMDLINE_LINUX="net.ifnames=0 biosdevname=0"`
  - `GRUB_CMDLINE_LINUX="find_preseed=/preseed.cfg auto noprompt priority=critical locale=en_US net.ifnames=0 biosdevname=0"`.
 
-Just add `net.ifnames=0 biosdevname=0` to your existing options keeping what you already have there. Just need now to apply changes following the last point of this section.
+Just add `net.ifnames=0 biosdevname=0` to your existing options keeping what you already have there.
+
+Just need now to apply changes following the last point of this section.
 
 __After modification, to apply changes (IT WILL NOT BE EFFECTIVE WITHOUT THIS LAST STEP!!)__
 
