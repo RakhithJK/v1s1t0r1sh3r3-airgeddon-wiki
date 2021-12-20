@@ -21,7 +21,7 @@ __Examples__
 
 Just add `net.ifnames=0 biosdevname=0` to your existing options keeping what you already have there.
 
-Just need now to apply changes following the last point of this section.
+Now just need to apply changes following the last point of this section.
 
 __After modification, to apply changes (IT WILL NOT BE EFFECTIVE WITHOUT THIS LAST STEP!!)__
 
