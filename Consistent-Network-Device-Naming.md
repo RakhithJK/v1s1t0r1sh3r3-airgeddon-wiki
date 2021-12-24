@@ -2,7 +2,7 @@ For some Linux distributions like Ubuntu or Debian since some versions, the defa
 
 __How to know if I am affected?__
 
-If you see your wireless card named as _wlx00c0ca9208dc_ or any similar name, yeah you are affected and probably you'll face some issues using `airgeddon` while changing mode of your card. It's better to have them using the classic naming style (_wlan0_, _wlan1_, etc.).
+If you see your wireless card named as _wlx00c0ca9208dc_ or any similar name, yeah you are affected and probably you'll face some issues using `airgeddon` while changing mode of your card (it can happen depending of your airmon-ng version). It's better to have them using the classic naming style (_wlan0_, _wlan1_, etc.).
 
 __How to change them to the classic names style?__
 
