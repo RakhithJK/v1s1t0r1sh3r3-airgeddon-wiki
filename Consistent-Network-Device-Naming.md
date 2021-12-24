@@ -1,4 +1,4 @@
-For some Linux distributions like Ubuntu or Debian since some versions, the default naming for network devices is using the new nomenclature which is causing errors while using `airgeddon`.
+For some Linux distributions like Ubuntu or Debian since some versions, the default naming for network devices is using the new nomenclature which is causing errors while using `airgeddon`. This is because a bug in airmon-ng which is already solved in modern versions. But if you are using s.
 
 __How to know if I am affected?__
 
