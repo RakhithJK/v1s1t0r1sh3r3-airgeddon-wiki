@@ -17,7 +17,7 @@
 - [Kalel51] and [Laox] for beta testing and support received
 - [xpz3] for helping on development, bug reporting, Discord channel management and support received
 - [magixgf] for programming advice, collaboration on plugins system development and other stuff
-- [marcosjimenez] for programming advice, Github Discord bot integration and creation of [AirgeddonLanguageFactory] tool (still private repo on development)
+- [marcosjimenez] for programming advice and Github Discord bot integration
 - [darthvader-htb] for Arabic translations and helping me on other hacking stuff
 - [AkumaBiNoTori] for Arabic translations
 - [cjb900] for his hard work helping the community on issues/Discord
