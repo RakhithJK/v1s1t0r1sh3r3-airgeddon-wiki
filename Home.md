@@ -87,7 +87,7 @@
 <!-- Links To Images -->
 [Banner]: https://raw.githubusercontent.com/v1s1t0r1sh3r3/airgeddon/master/imgs/banners/airgeddon_banner.png "We will conquer the earth!!"
 <!-- Badges URLs -->
-[Master-Version-shield]: https://img.shields.io/badge/master%20version-10.42-blue.svg?style=flat-square&colorA=273133&colorB=0093ee "Master version"
+[Master-Version-shield]: https://img.shields.io/badge/master%20version-11.0-blue.svg?style=flat-square&colorA=273133&colorB=0093ee "Master version"
 [Dev-Version-shield]: https://img.shields.io/badge/dev%20version-11.0-blue.svg?style=flat-square&colorA=273133&colorB=0093ee "Dev version"
 [Bash4.2-shield]: https://img.shields.io/badge/bash-4.2%2B-blue.svg?style=flat-square&colorA=273133&colorB=00db00 "Bash 4.2 or later"
 [License-shield]: https://img.shields.io/badge/license-GPL%20v3%2B-blue.svg?style=flat-square&colorA=273133&colorB=bd0000 "GPL v3+"
