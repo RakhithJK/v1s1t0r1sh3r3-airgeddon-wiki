@@ -167,4 +167,4 @@ If you have problems during your plugin development, please consider to contact 
 [Options Section]: https://github.com/v1s1t0r1sh3r3/airgeddon/wiki/Options
 [Contact Section]: https://github.com/v1s1t0r1sh3r3/airgeddon/wiki/Contact
 [Discord]: https://discord.gg/sQ9dgt9
-[IRC]: https://webchat.freenode.net/
+[IRC]: https://web.libera.chat/
