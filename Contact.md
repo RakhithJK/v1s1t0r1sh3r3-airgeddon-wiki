@@ -4,7 +4,7 @@
 
 <a href="https://discord.gg/sQ9dgt9" target="_blank"><img src="https://raw.githubusercontent.com/v1s1t0r1sh3r3/airgeddon/master/imgs/wiki/airgeddon_discord.png" title="Discord"/></a>
 
-- Chatting on our **#airgeddon** channel at **irc.freenode.net** IRC server
+- Chatting on our **#airgeddon** channel at **web.libera.chat** [IRC] server
 
 <a href="https://webchat.freenode.net/" target="_blank"><img src="https://raw.githubusercontent.com/v1s1t0r1sh3r3/airgeddon/master/imgs/wiki/airgeddon_irc.png" title="IRC"/></a>
 
@@ -18,3 +18,4 @@
 [issue]: https://github.com/v1s1t0r1sh3r3/airgeddon/issues/new
 [contributing]: https://github.com/v1s1t0r1sh3r3/airgeddon/blob/master/CONTRIBUTING.md
 [@OscarAkaElvis]: https://twitter.com/OscarAkaElvis
+[IRC]: https://web.libera.chat/
