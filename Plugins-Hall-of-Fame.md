@@ -48,5 +48,5 @@ ____
 [KeyofBlueS]: https://github.com/KeyofBlueS
 [xpz3]: https://github.com/xpz3
 [Discord]: https://discord.gg/sQ9dgt9
-[IRC]: https://webchat.freenode.net/
+[IRC]: https://web.libera.chat/
 [@OscarAkaElvis]: https://twitter.com/OscarAkaElvis
