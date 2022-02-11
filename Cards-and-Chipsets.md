@@ -1,23 +1,25 @@
 In `airgeddon<=8.10`, only `airmon` compatible wireless cards are supported. If your card is unable to change its mode by performing an `airmon` command out of `airgeddon`, it won't work. From `airgeddon>=8.11` any card can be used if the monitor mode is supported, but depending on the driver, some problems may occur.
 
-__Some known compatible and fully working chipsets/cards (Whitelist)__:
+__Some known compatible and fully working chipsets/cards (Whitelist, recommended)__:
 
- - Atheros AR9271 <- _present in TP-Link TL-WN722N v1 or Alfa AWUS036NHA (2.4Ghz - USB)_
- - MediaTek MT7610U <- _present in TP-Link Archer T2UH (2.4Ghz/5Ghz - USB)_
- - MediaTek MT7612U <- _present in Alfa AWUS036ACM (2.4Ghz/5Ghz - USB) (not recommended to be used on Virtual Machines, but it works very well on native Linux. The recommended Linux kernel version is 5.3 or greater). For Rpi 2/3 run this command to get the card working ```echo "options mt76_usb disable_usb_sg=1" > /etc/modprobe.d/mt76_usb.conf```_
- - Ralink RT2770 <- _present in Alfa AWUS051NH (2.4Ghz/5Ghz - USB)_
- - Ralink RT3070 <- _present in TP-Link TL-WN7200ND or Alfa AWUS036NH (2.4Ghz - USB)_
- - Ralink RT3572 <- _present in Alfa AWUS052NHS (2.4Ghz/5Ghz - USB)_
- - Ralink RT5370 <- _present in some some unbranded cheap chinese dongles (2.4Ghz - USB)_
- - Ralink RT5372 <- _present in D-Link DWA-137 (2.4Ghz - USB)_
- - Ralink RT5378 <- _present in some some unbranded cheap chinese dongles (2.4Ghz - USB)_
- - Ralink RT5572 <- _present in Panda PAU07 or Panda PAU09 (2.4Ghz/5Ghz - USB)_
- - Realtek RTL8187 <- _present in Alfa AWUS036H (2.4Ghz - USB) (may require patched driver)_
- - Realtek RTL8723BE <- _present in Realtek RTL8723BE card (2.4Ghz - PCIe)_
+Chipset | Example of card/s containing it | Band/s | Interface | Link to buy | Additional comments
+:-------|:--------------------------------|:------:|:---------:|:-----------:|:-------------------
+Atheros AR9271 | Alfa AWUS036NHA / TP-Link TL-WN722N v1 | 2.4Ghz | USB | [Link](https://amzn.to/3JlAZti) | 
+MediaTek MT7610U | TP-Link Archer T2UH | 2.4Ghz/5Ghz | USB | [Link](https://amzn.to/3Lra7Kc) | 
+MediaTek MT7612U | Alfa AWUS036ACM | 2.4Ghz/5Ghz | USB | [Link](https://amzn.to/3oGaiYk) | Not recommended for Virtual Machines, only Native Linux. Recommended kernel >= 5.3 . For Rpi 2/3 run this command to get it working ```echo "options mt76_usb disable_usb_sg=1" > /etc/modprobe.d/mt76_usb.conf``` 
+Ralink RT2770 | Alfa AWUS051NH | 2.4Ghz/5Ghz | USB | | 
+Ralink RT3070 | TP-Link TL-WN7200ND / Alfa AWUS036NH | 2.4Ghz | USB | [Link](https://amzn.to/34ryHdq) | 
+Ralink RT3572 | Alfa AWUS052NHS | 2.4Ghz/5Ghz | USB | [Link](https://amzn.to/3JeHiP8) | 
+Ralink RT5370 | Some unbranded cheap chinese dongles | 2.4Ghz | USB | [Link](https://amzn.to/3Bc8Kdu) | 
+Ralink RT5372 | D-Link DWA-137 | 2.4Ghz | USB | | 
+Ralink RT5378 | Some unbranded cheap chinese dongles | 2.4Ghz | USB | | 
+Ralink RT5572 | Panda PAU07 / Panda PAU09 | 2.4Ghz/5Ghz| USB | [Link](https://amzn.to/36aP3aR) | 
+Realtek RTL8187 | Alfa AWUS036H | 2.4Ghz | USB | | May require patched driver
+Realtek RTL8723BE | Realtek RTL8723BE card | 2.4Ghz | PCIe | [Link](https://amzn.to/3rJP0ep) | 
 
 Of course, there are more compatible and fully working chipsets, these are only some examples. Moreover, there are more cards and devices using the chipsets listed here as well. We list only some examples of cards to buy which are using fully compatible working chipsets.
 
-__Chipsets with known problems (Blacklist)__:
+__Chipsets with known problems (Blacklist, not recommended)__:
 
  - Intel Centrino Advanced-N 6205 <- _present integrated in many laptops (2.4Ghz/5Ghz - PCIe)_
  - MediaTek MT7601U <- _present in some unbranded cheap chinese dongles (2.4Ghz - USB)_
