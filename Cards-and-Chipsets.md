@@ -4,7 +4,7 @@ __Some known compatible and fully working VIF capable chipsets/cards (Whitelist,
 
 Chipset | Card/s using it | Band/s | Interface | Link/Buy | Additional comments
 :-------|:--------------------------------|:------:|:---------:|:-----------:|:-------------------
-Atheros AR9271 | Alfa AWUS036NHA / TP-Link TL-WN722N v1 | 2.4Ghz | USB | [Link](https://www.amazon.com/Alfa-AWUS036NHA-Wireless-USB-Adaptor/dp/B004Y6MIXS/ref=sr_1_5?crid=PAEHNIXBN67W&keywords=AWUS036NHA&qid=1644778001&sprefix=awus036nha+%2Caps%2C149&sr=8-5&airgeddon-20) | 
+Atheros AR9271 | Alfa AWUS036NHA / TP-Link TL-WN722N v1 | 2.4Ghz | USB | [Link](https://www.amazon.com/gp/product/B004Y6MIXS/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B004Y6MIXS&linkCode=as2&tag=airgeddon-20&linkId=37cb2a63ac233903fc710e3f45abd136) | 
 MediaTek MT7610U | TP-Link Archer T2UH | 2.4Ghz/5Ghz | USB | [Link](https://amzn.to/3Lra7Kc) | 
 MediaTek MT7612U | Alfa AWUS036ACM | 2.4Ghz/5Ghz | USB | [Link](https://amzn.to/3oGaiYk) | Not recommended for Virtual Machines, only Native Linux. Recommended kernel >= 5.3 . For Rpi 2/3 run this command to get it working ```echo "options mt76_usb disable_usb_sg=1" > /etc/modprobe.d/mt76_usb.conf``` 
 Ralink RT2770 | Alfa AWUS051NH | 2.4Ghz/5Ghz | USB | | 
