@@ -15,7 +15,7 @@ Ralink RT5372 | D-Link DWA-137 / Panda PAU06 | 2.4Ghz | USB | [Link](https://www
 Ralink RT5378 | Some unbranded cheap chinese dongles | 2.4Ghz | USB | | 
 Ralink RT5572 | Panda PAU07 / Panda PAU09 | 2.4Ghz/5Ghz| USB | [Link](https://www.amazon.com/gp/product/B01LY35HGO/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B01LY35HGO&linkCode=as2&tag=airgeddon-20&linkId=bd3d75a045577ef11ea17ccb3fe2cb2c) | 
 Realtek RTL8187 | Alfa AWUS036H | 2.4Ghz | USB | | May require patched driver
-Realtek RTL8723BE | Realtek RTL8723BE card | 2.4Ghz | PCIe | [Link](https://www.amazon.es/gp/product/B082KVNKDH/ref=as_li_tl?ie=UTF8&camp=3638&creative=24630&creativeASIN=B082KVNKDH&linkCode=as2&tag=airgeddon-21&linkId=5110a33b64523eb74f6a62e72b038d09) | 
+Realtek RTL8723BE | Realtek RTL8723BE card | 2.4Ghz | PCIe | [Link](https://www.amazon.com/gp/product/B00URB0HEQ/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B00URB0HEQ&linkCode=as2&tag=airgeddon-20&linkId=5530b8ee2a6c6f2aafa8630dbb70a2ad) | 
 
 Of course, there are more compatible and fully working chipsets, these are only some examples. Moreover, there are more cards and devices using the chipsets listed here as well. We list only some examples of cards to buy which are using fully compatible working chipsets.
 
