@@ -13,7 +13,7 @@ Ralink RT3572 | Alfa AWUS052NHS | 2.4Ghz/5Ghz | USB | [Link](https://amzn.to/3Je
 Ralink RT5370 | Some unbranded cheap chinese dongles | 2.4Ghz | USB | [Link](https://amzn.to/3Bc8Kdu) | 
 Ralink RT5372 | D-Link DWA-137 | 2.4Ghz | USB | | 
 Ralink RT5378 | Some unbranded cheap chinese dongles | 2.4Ghz | USB | | 
-Ralink RT5572 | Panda PAU07 / Panda PAU09 | 2.4Ghz/5Ghz| USB | [Link](https://amzn.to/36aP3aR) | 
+Ralink RT5572 | Panda PAU07 / Panda PAU09 | 2.4Ghz/5Ghz| USB | [Link](https://www.amazon.com/gp/product/B01LY35HGO/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B01LY35HGO&linkCode=as2&tag=airgeddon-20&linkId=0bb32f366bb2a07baa7a2ddb6aefc09b) | 
 Realtek RTL8187 | Alfa AWUS036H | 2.4Ghz | USB | | May require patched driver
 Realtek RTL8723BE | Realtek RTL8723BE card | 2.4Ghz | PCIe | [Link](https://amzn.to/3rJP0ep) | 
 
