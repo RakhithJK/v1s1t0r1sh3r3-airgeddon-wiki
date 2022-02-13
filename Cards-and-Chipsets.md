@@ -9,7 +9,7 @@ MediaTek MT7610U | TP-Link Archer T2UH | 2.4Ghz/5Ghz | USB | [Link](https://www.
 MediaTek MT7612U | Alfa AWUS036ACM | 2.4Ghz/5Ghz | USB | [Link](https://www.amazon.com/gp/product/B08BJS8FXD/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B08BJS8FXD&linkCode=as2&tag=airgeddon-20&linkId=56edb5c5dfe7fe46c71584731ad0c443) | Not recommended for Virtual Machines, only Native Linux. Recommended kernel >= 5.3 . For Rpi 2/3 run this command to get it working ```echo "options mt76_usb disable_usb_sg=1" > /etc/modprobe.d/mt76_usb.conf``` 
 Ralink RT2770 | Alfa AWUS051NH | 2.4Ghz/5Ghz | USB | | 
 Ralink RT3070 | TP-Link TL-WN7200ND / Alfa AWUS036NH | 2.4Ghz | USB | [Link](https://www.amazon.com/gp/product/B00NAXX40C/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B00NAXX40C&linkCode=as2&tag=airgeddon-20&linkId=74c1d2235afe3c450c3ac0a5d8960344) | 
-Ralink RT3572 | Alfa AWUS052NHS | 2.4Ghz/5Ghz | USB | [Link](https://amzn.to/3JeHiP8) | 
+Ralink RT3572 | Alfa AWUS052NHS / Linksys AE1000 | 2.4Ghz/5Ghz | USB | [Link](https://www.amazon.com/gp/product/B003B20F5E/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B003B20F5E&linkCode=as2&tag=airgeddon-20&linkId=d79f0804ba9e6bb7cf17da395e846f58) | 
 Ralink RT5370 | Some unbranded cheap chinese dongles | 2.4Ghz | USB | [Link](https://www.amazon.com/gp/product/B019XUDHFC/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B019XUDHFC&linkCode=as2&tag=airgeddon-20&linkId=a0c1b62569477ccbcd4bc858eaad4b5d) | 
 Ralink RT5372 | D-Link DWA-137 | 2.4Ghz | USB | | 
 Ralink RT5378 | Some unbranded cheap chinese dongles | 2.4Ghz | USB | | 
