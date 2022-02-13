@@ -10,7 +10,7 @@ MediaTek MT7612U | Alfa AWUS036ACM | 2.4Ghz/5Ghz | USB | [Link](https://www.amaz
 Ralink RT2770 | Alfa AWUS051NH | 2.4Ghz/5Ghz | USB | | 
 Ralink RT3070 | TP-Link TL-WN7200ND / Alfa AWUS036NH | 2.4Ghz | USB | [Link](https://www.amazon.com/gp/product/B00NAXX40C/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B00NAXX40C&linkCode=as2&tag=airgeddon-20&linkId=74c1d2235afe3c450c3ac0a5d8960344) | 
 Ralink RT3572 | Alfa AWUS052NHS | 2.4Ghz/5Ghz | USB | [Link](https://amzn.to/3JeHiP8) | 
-Ralink RT5370 | Some unbranded cheap chinese dongles | 2.4Ghz | USB | [Link](https://www.amazon.com/gp/product/B00W52Y6G0/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B00W52Y6G0&linkCode=as2&tag=airgeddon-20&linkId=049842b3bd8cde280ebd6eb342839715) | 
+Ralink RT5370 | Some unbranded cheap chinese dongles | 2.4Ghz | USB | [Link](https://www.amazon.com/gp/product/B019XUDHFC/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B019XUDHFC&linkCode=as2&tag=airgeddon-20&linkId=a0c1b62569477ccbcd4bc858eaad4b5d) | 
 Ralink RT5372 | D-Link DWA-137 | 2.4Ghz | USB | | 
 Ralink RT5378 | Some unbranded cheap chinese dongles | 2.4Ghz | USB | | 
 Ralink RT5572 | Panda PAU07 / Panda PAU09 | 2.4Ghz/5Ghz| USB | [Link](https://www.amazon.com/gp/product/B01LY35HGO/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B01LY35HGO&linkCode=as2&tag=airgeddon-20&linkId=0bb32f366bb2a07baa7a2ddb6aefc09b) | 
