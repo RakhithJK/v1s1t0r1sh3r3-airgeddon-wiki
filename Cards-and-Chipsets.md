@@ -1,6 +1,6 @@
 In `airgeddon<=8.10`, only `airmon` compatible wireless cards are supported. If your card is unable to change its mode by performing an `airmon` command out of `airgeddon`, it won't work. From `airgeddon>=8.11` any card can be used if the monitor mode is supported, but depending on the driver, some problems may occur.
 
-__Some known compatible and fully working VIF capable chipsets/cards (Whitelist, recommended)__:
+__Ordered alphabetically, some known compatible and fully working VIF capable chipsets/cards (Whitelist, recommended)__:
 
 Chipset | Card/s using it | Band/s | Interface | Link/Buy | Additional comments
 :-------|:--------------------------------|:------:|:---------:|:-----------:|:-------------------
@@ -19,7 +19,7 @@ Realtek RTL8723BE | Realtek RTL8723BE card | 2.4Ghz | PCIe | [Link](https://www.
 
 Of course, there are more compatible and fully working chipsets, these are only some examples. Moreover, there are more cards and devices using the chipsets listed here as well. We list only some examples of cards to buy which are using fully compatible working chipsets.
 
-__Chipsets with known problems (Blacklist, not recommended)__:
+__Ordered alphabetically, chipsets with known problems (Blacklist, not recommended)__:
 
  - Intel Centrino Advanced-N 6205 <- _present integrated in many laptops (2.4Ghz/5Ghz - PCIe)_
  - MediaTek MT7601U <- _present in some unbranded cheap chinese dongles (2.4Ghz - USB)_
