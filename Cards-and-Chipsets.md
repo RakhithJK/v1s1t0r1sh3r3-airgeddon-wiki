@@ -13,7 +13,7 @@ Ralink RT3572 | Alfa AWUS052NHS / Linksys AE1000 | 2.4Ghz/5Ghz | USB | [Link](ht
 Ralink RT5370 | Some unbranded cheap chinese dongles | 2.4Ghz | USB | [Link](https://www.amazon.com/gp/product/B019XUDHFC/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B019XUDHFC&linkCode=as2&tag=airgeddon-20&linkId=a0c1b62569477ccbcd4bc858eaad4b5d) | 
 Ralink RT5372 | D-Link DWA-137 / Panda PAU06 | 2.4Ghz | USB | [Link](https://www.amazon.com/gp/product/B00JDVRCI0/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B00JDVRCI0&linkCode=as2&tag=airgeddon-20&linkId=8443ac110dc1d471411b8505cd0728bc) | 
 Ralink RT5378 | Some unbranded cheap chinese dongles | 2.4Ghz | USB | | 
-Ralink RT5572 | Panda PAU07 / Panda PAU09 | 2.4Ghz/5Ghz| USB | [Link](https://www.amazon.com/gp/product/B01LY35HGO/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B01LY35HGO&linkCode=as2&tag=airgeddon-20&linkId=0bb32f366bb2a07baa7a2ddb6aefc09b) | 
+Ralink RT5572 | Panda PAU07 / Panda PAU09 | 2.4Ghz/5Ghz| USB | [Link](https://www.amazon.com/gp/product/B01LY35HGO/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B01LY35HGO&linkCode=as2&tag=airgeddon-20&linkId=bd3d75a045577ef11ea17ccb3fe2cb2c) | 
 Realtek RTL8187 | Alfa AWUS036H | 2.4Ghz | USB | | May require patched driver
 Realtek RTL8723BE | Realtek RTL8723BE card | 2.4Ghz | PCIe | [Link](https://amzn.to/3rJP0ep) | 
 
