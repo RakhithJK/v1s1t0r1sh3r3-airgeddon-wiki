@@ -2,7 +2,7 @@ In `airgeddon<=8.10`, only `airmon` compatible wireless cards are supported. If 
 
 __Ordered alphabetically, some known compatible and fully working VIF capable chipsets/cards (Whitelist, recommended)__:
 
-Chipset | Card/s using it | Band/s | Interface | Link/Buy (Links temporarily unavailable) | Additional comments
+Chipset | Card/s using it | Band/s | Interface | Link/Buy | Additional comments
 :-------|:--------------------------------|:------:|:---------:|:-----------:|:-------------------
 Atheros AR9271 | Alfa AWUS036NHA / TP-Link TL-WN722N v1 | 2.4Ghz | USB | [Link](https://amzn.to/3sRWE6L) | 
 MediaTek MT7610U | TP-Link Archer T2UH | 2.4Ghz/5Ghz | USB | [Link](https://amzn.to/3tFfaP8) | 
