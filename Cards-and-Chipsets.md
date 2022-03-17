@@ -10,7 +10,7 @@ MediaTek MT7612U | Alfa AWUS036ACM | 2.4Ghz/5Ghz | USB | [Link](https://amzn.to/
 Ralink RT2770 | Alfa AWUS051NH | 2.4Ghz/5Ghz | USB | [Link](https://amzn.to/3tBq5JA) | 
 Ralink RT3070 | TP-Link TL-WN7200ND / Alfa AWUS036NH | 2.4Ghz | USB | [Link](https://amzn.to/360ZtcO) | 
 Ralink RT3572 | Alfa AWUS052NHS / Linksys AE1000 | 2.4Ghz/5Ghz | USB | [Link](https://amzn.to/3vRLwc6) | 
-Ralink RT5370 | Some unbranded cheap chinese dongles | 2.4Ghz | USB | [Link](https://amzn.to/3HUhruI) | 
+Ralink RT5370 | Panda PAU04 | 2.4Ghz | USB | [Link](https://amzn.to/3MV7fGf) | 
 Ralink RT5372 | D-Link DWA-137 / Panda PAU06 | 2.4Ghz | USB | [Link](https://amzn.to/3HYJBF0) | 
 Ralink RT5572 | Panda PAU07 / Panda PAU09 | 2.4Ghz/5Ghz| USB | [Link](https://amzn.to/3IYOWgM) | 
 Realtek RTL8187 | Alfa AWUS036H / Alfa AWUS036EW | 2.4Ghz | USB | [Link](https://amzn.to/3KnkvkE) | May require patched driver
