@@ -8,7 +8,7 @@ Users rating | Chipset | Card/s using it | Band/s | Interface | Link/Buy | Addit
 :neutral_face: | Intel L716NA02 | Intel Wireless-AC 9560 card | 2.4Ghz/5Ghz | PCIe | [Link](https://amzn.to/3iBPb62) | 
 :smile: | MediaTek MT7610U | TP-Link Archer T2UH | 2.4Ghz/5Ghz | USB | [Link](https://amzn.to/3tFfaP8) | 
 :heart_eyes: | MediaTek MT7612U | Alfa AWUS036ACM | 2.4Ghz/5Ghz | USB | [Link](https://amzn.to/3pJNpnp) | Not recommended for Virtual Machines, only Native Linux. Recommended kernel >= 5.3 . For Rpi 2/3 run this command to get it working ```echo "options mt76_usb disable_usb_sg=1" > /etc/modprobe.d/mt76_usb.conf``` 
-:smile: | Ralink RT2770 | Alfa AWUS051NH | 2.4Ghz/5Ghz | USB | [Link](https://amzn.to/3tBq5JA) | 
+:neutral_face: | Ralink RT2770 | Alfa AWUS051NH | 2.4Ghz/5Ghz | USB | [Link](https://amzn.to/3tBq5JA) | 
 :relaxed: | Ralink RT3070 | TP-Link TL-WN7200ND / Alfa AWUS036NH | 2.4Ghz | USB | [Link](https://amzn.to/360ZtcO) | 
 :relaxed: | Ralink RT3572 | Alfa AWUS052NHS / Linksys AE1000 | 2.4Ghz/5Ghz | USB | [Link](https://amzn.to/3vRLwc6) | 
 :smile: | Ralink RT5370 | Panda PAU04 | 2.4Ghz | USB | [Link](https://amzn.to/3MV7fGf) | 
