@@ -5,6 +5,7 @@ __Ordered alphabetically, some known compatible and fully working VIF capable ch
 Chipset | Card/s using it | Band/s | Interface | Link/Buy | Additional comments
 :-------|:--------------------------------|:------:|:---------:|:-----------:|:-------------------
 Atheros AR9271 | Alfa AWUS036NHA / TP-Link TL-WN722N v1 | 2.4Ghz | USB | [Link](https://amzn.to/3sRWE6L) | 
+Intel L716NA02 | Intel Wireless-AC 9560 card | 2.4Ghz/5Ghz | PCIe | [Link](https://amzn.to/3iBPb62) | 
 MediaTek MT7610U | TP-Link Archer T2UH | 2.4Ghz/5Ghz | USB | [Link](https://amzn.to/3tFfaP8) | 
 MediaTek MT7612U | Alfa AWUS036ACM | 2.4Ghz/5Ghz | USB | [Link](https://amzn.to/3pJNpnp) | Not recommended for Virtual Machines, only Native Linux. Recommended kernel >= 5.3 . For Rpi 2/3 run this command to get it working ```echo "options mt76_usb disable_usb_sg=1" > /etc/modprobe.d/mt76_usb.conf``` 
 Ralink RT2770 | Alfa AWUS051NH | 2.4Ghz/5Ghz | USB | [Link](https://amzn.to/3tBq5JA) | 
