@@ -27,6 +27,7 @@
   - Fake AP using "smooth" and "noisy" modes capturing enterprise hashes and plain passwords
   - Custom certificates creation
 - WEP All-in-One attack (combining different techniques: Chop-Chop, Caffe Latte, ARP Replay, Hirte, Fragmentation, Fake association, etc.)
+- Adaptation of WAP2 attacks to work with WPA2/WPA3 networks working in "Mixed Mode"
 - Compatibility with many Linux distributions (see [Requirements] section)
 - Easy targeting and selection in every section
 - Drag and drop files on console window for entering file paths or autocomplete using tab key on every path input for easier use
