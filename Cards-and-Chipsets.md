@@ -1,5 +1,7 @@
 In `airgeddon<=8.10`, only `airmon` compatible wireless cards are supported. If your card is unable to change its mode by performing an `airmon` command out of `airgeddon`, it won't work. From `airgeddon>=8.11` any card can be used if the monitor mode is supported, but depending on the driver, some problems may occur.
 
+_Rating legend_: --- Best --- :heart_eyes: :smile: :relaxed: :neutral_face: :disappointed: --- Worst ---
+
 __Ordered alphabetically, some known compatible and fully working VIF capable chipsets/cards (Whitelist, recommended)__:
 
 Users rating | Chipset | Card/s using it | Band/s | Interface | Link/Buy | Additional comments
