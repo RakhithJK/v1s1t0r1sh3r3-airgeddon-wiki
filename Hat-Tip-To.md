@@ -57,7 +57,6 @@
 [Wifislax]: https://www.wifislax.com
 [Shellcheck]: https://github.com/koalaman/shellcheck
 [Pentoo]: https://www.pentoo.ch
-[AirgeddonLanguageFactory]: https://github.com/marcosjimenez/AirgeddonLanguageFactory
 [Kali]:https://www.kali.org/
 
 <!-- Github URLs -->
