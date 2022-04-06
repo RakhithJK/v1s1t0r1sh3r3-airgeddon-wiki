@@ -16,14 +16,14 @@ Read the [Contributing File] for more details on the process of project collabor
 
 ***
 
-If you enjoyed the script and found it useful, you can support the project making a donation. Through Paypal or sending a fraction of any of these cryptocurrencies. Any amount, not matter how small (1, 2, 5 $/€) is welcome.
+If you enjoyed the script and found it useful, you can support the project making a donation. Through PayPal or sending a fraction of any of these cryptocurrencies. Any amount, not matter how small (1, 2, 5 $/€) is welcome.
 
 Check the [Sponsorship page](https://github.com/sponsors/v1s1t0r1sh3r3) or directly donate using any of the following methods:
 
 <table>
   <tr>
     <td>
-      <b>Paypal</b>: <em>v1s1t0r.1s.h3r3&#64;gmail.com</em> <br/>
+      <b>PayPal</b>: <em>v1s1t0r.1s.h3r3&#64;gmail.com</em> <br/>
       <b>Bitcoin</b>: <em>1NSzwqtBBdo4CrvynPZmd85xfbL7hw3Ptu</em> <br/>
       <b>Bitcoin Cash</b>: <em>1GyUesBgwHKZBeFvkT5nfteecPdH6bAEaL</em> <br/>
       <b>Dash</b>: <em>XgKL8GTsdKAL2fypiMRFFL8m4wWTm1Netn</em> <br/>
