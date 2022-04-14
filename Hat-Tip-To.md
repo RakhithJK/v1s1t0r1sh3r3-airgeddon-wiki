@@ -21,7 +21,7 @@
 - [darthvader-htb] for Arabic translations and helping me on other hacking stuff
 - [AkumaBiNoTori] for Arabic translations
 - [cjb900] for his hard work helping the community on issues/Discord
-- [BoBeR182] for helping on maintenance of airgeddon's Arch AUR package
+- [BoBeR182] for helping on maintenance of airgeddon's Arch AUR package and other AUR dependencies packages
 - [OscarAkaElvis] for allowing me to own his body when I visit the earth
 
 #### Others
