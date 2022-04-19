@@ -19,7 +19,7 @@ Users rating | Chipset | Card/s using it | Band/s | Interface | Link/Buy | Addit
 :disappointed: | Realtek RTL8187 | Alfa AWUS036H / Alfa AWUS036EW | 2.4Ghz | USB | [Link](https://amzn.to/3KnkvkE) | May require patched driver
 :neutral_face: | Realtek RTL8723BE | Realtek RTL8723BE card | 2.4Ghz | PCIe | [Link](https://amzn.to/3vRQp56) | 
 
-Of course, there are more compatible and fully working chipsets, these are only some examples. Moreover, there are more cards and devices using the chipsets listed here as well. We list only some examples of cards to buy which are using fully compatible working chipsets.
+Of course, there are more compatible and fully working chipsets, these are only some examples. Moreover, there are more cards and devices using the chipsets listed here as well. We list only some examples of cards to buy which are using fully working VIF capable chipsets.
 
 __Ordered alphabetically, chipsets with known problems (Blacklist, not recommended)__:
 
