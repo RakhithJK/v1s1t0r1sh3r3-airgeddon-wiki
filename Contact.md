@@ -6,7 +6,7 @@
 
 - Chatting on our **#airgeddon** channel at **web.libera.chat** [IRC] server
 
-<a href="https://web.libera.chat/" target="_blank"><img src="https://raw.githubusercontent.com/v1s1t0r1sh3r3/airgeddon/dev/imgs/wiki/airgeddon_irc.png" title="IRC"/></a>
+<a href="https://web.libera.chat/" target="_blank"><img src="https://raw.githubusercontent.com/v1s1t0r1sh3r3/airgeddon/master/imgs/wiki/airgeddon_irc.png" title="IRC"/></a>
 
 - Contacting to our Twitter emissary [@OscarAkaElvis]
 
