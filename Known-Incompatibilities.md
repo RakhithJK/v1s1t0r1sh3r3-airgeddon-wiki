@@ -12,6 +12,6 @@ Anyway, you can try to run airgeddon on OSX/MacOS using Docker container (is in 
   - *Bash* &#8592; By default, they have no Bash. It can be installed, so this is not the real problem again :sweat_smile:
   - *Wireless tools* &#8592; `iwconfig` does not exist in these systems, they use `ifconfig` instead and it generates different outputs
 
-- __Incompatible__ with any Linux distribution run under __Windows subsystem__.
+- __Incompatible__ with any Linux distribution run under __Windows subsystem__ also called WSL __Windows Linux Subsystem__.
 
 [Docker]: https://github.com/v1s1t0r1sh3r3/airgeddon/wiki/Docker
