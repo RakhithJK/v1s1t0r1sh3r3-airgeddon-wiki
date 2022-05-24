@@ -7,6 +7,7 @@ The recommended docker run command to be run under Linux host is:
           --name airgeddon \
           --net=host \
           --privileged \
+          --userns=host \
           -v /path/to/some/dir/on/your/host:/io \
           -v /path/to/another/dir/on/your/host:/opt/airgeddon/plugins \
           -e DISPLAY=$(env | grep DISPLAY | awk -F "=" '{print $2}') \
@@ -20,6 +21,7 @@ Parameters explanation:
  - `--name airgeddon` &#8594; Name for the container.
  - `--net=host` &#8594; Is needed to have access to the host network interfaces inside the container.
  - `--privileged` &#8594; Needed to have permissions over network interfaces (mode switching).
+ - `--userns=host` &#8594; Needed to disable user namespaces. Mandatory when combined with `--privileged` since some docker versions ago.
  - `-v /path/to/some/dir/on/your/host:/io` &#8594; It maps a directory from host to the container. Useful to use external files like dictionaries, get pots after successfull attacks or whatever.
  - `-v /path/to/another/dir/on/your/host:/opt/airgeddon/plugins` &#8594; It maps another directory from host to the container. Useful if you want to run a plugin inside the container.
  - `-e DISPLAY=$(env | grep DISPLAY | awk -F "=" '{print $2}')` &#8594; It overwrites the needed var to connect to local X Window system. DISPLAY=:0 is used by default so you can avoid this parameter if you already have set DISPLAY=:0 var on your host system.
