@@ -27,6 +27,6 @@ __After modification, to apply changes (IT WILL NOT BE EFFECTIVE WITHOUT THIS LA
 
 After modifying the `/etc/default/grub` file, execute `update-grub` and then reboot or directly reboot if you modified `/boot/cmdline.txt` as explained above (used usually for Raspberries). After that, your wireless interface cards will be named again as always (_wlan0_, _wlan1_, etc.) and you'll be able to make them work correctly in `airgeddon`.
 
-__If using Parrot OS and the above options do not work, do this__
+__If using Parrot OS or other Linux distro and the above options do not work, try this__
 
 Run this in a terminal `sudo ln -s /dev/null /etc/udev/rules.d/80-net-setup-link.rules` then reboot and your wireless interface should show as `wlan0`, `wlan1` or similar. 
