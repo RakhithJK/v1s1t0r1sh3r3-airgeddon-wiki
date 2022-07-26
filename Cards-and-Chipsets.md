@@ -25,6 +25,7 @@ __Ordered alphabetically, chipsets with known problems (Blacklist, not recommend
 
  - Intel Centrino Advanced-N 6205 <- _present integrated in many laptops (2.4Ghz/5Ghz - PCIe)_
  - MediaTek MT7601U <- _present in some unbranded cheap chinese dongles (2.4Ghz - USB)_
+ - MediaTek MT7921 <- _present integrated in many laptops (2.4Ghz/5Ghz - PCIe)_
  - Realtek RTL8188EU/S <- _present in TP-Link TL-WN722N v2/v3 / Alfa AWUS036NHV (2.4Ghz - USB)_
  - Realtek RTL8811AU <- _present in some unbranded cheap chinese dongles (2.4Ghz/5Ghz - USB)_
  - Realtek RTL8812AU <- _present in Alfa AWUS036ACH (2.4Ghz/5Ghz - USB)_
