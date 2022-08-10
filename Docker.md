@@ -4,7 +4,7 @@
 
 To run a container based on a Docker image to execute `airgeddon`, bear in mind that it should be run on a system running X Window (for example Xorg for Linux, XQuartz for Mac or XMing for Windows) because it runs xterm windows used for some features.
 
-Depending of the Operating System of your host, check the corresponding section to see the recommended docker run command. The image is going to be automatically downloaded from [airgeddon's Dockerhub] and then a Docker container will be be run launching automatically `airgeddon` script inside it:
+Depending on the Operating System of your host, check the corresponding section to see the recommended docker run command. The image is going to be automatically downloaded from [airgeddon's Dockerhub] and then a Docker container will be be run launching automatically `airgeddon` script inside it:
 
  - [Linux] <- fully working
  - [Mac OSX] <- alpha phase, not working yet (investigations abandoned due lack of help)
