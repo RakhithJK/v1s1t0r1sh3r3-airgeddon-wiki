@@ -47,6 +47,6 @@ Additionally, you may want as optional to mark the package as "hold" to avoid it
 
 ###### Important note. This downgrade method was tested only on Kali and Parrot Security Linux. If you have another non-Debian based Linux distribution and want to downgrade, then keep reading...
 
-Bettercap was migrated from _ruby_ to _go_ programming language. Last ruby based version was released as _1.6.2_ so it can be installed as ruby gem. Just uninstall your `bettercap 2.x` using yum, emerge, yast, pacman or any package manager depending of your Linux distribution, and then execute `gem install bettercap`. This will install _1.6.2_ version.
+Bettercap was migrated from _ruby_ to _go_ programming language. Last ruby based version was released as _1.6.2_ so it can be installed as ruby gem. Just uninstall your `bettercap 2.x` using yum, emerge, yast, pacman or any package manager depending on your Linux distribution, and then execute `gem install bettercap`. This will install _1.6.2_ version.
 
 [Bettercap official's Github repo]: https://github.com/bettercap/bettercap
