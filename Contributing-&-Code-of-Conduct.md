@@ -96,7 +96,9 @@ Check the [Sponsorship page](https://github.com/sponsors/v1s1t0r1sh3r3) or direc
 
 ### Sponsors/Supporters
 
-Thanks to our first supporter [ReajulHasanRaju](https://github.com/ReajulHasanRaju)
+ - Thanks to our first one shot supporter [ReajulHasanRaju](https://github.com/ReajulHasanRaju) (account disappeared :pensive:)
+
+ - Thanks to [Raleigh2016](https://github.com/Raleigh2016) for his sponsorship (one shot and Alien sponsor tier) :pray:
 
 To be here, you must collaborate [sponsoring the project](https://github.com/sponsors/v1s1t0r1sh3r3).
 
