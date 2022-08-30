@@ -6,7 +6,8 @@
 - Assisted WPA/WPA2 personal networks Handshake file and PMKID capturing
 - Cleaning and optimizing Handshake captured files
 - Offline password decrypting on WPA/WPA2 captured files for personal networks (Handshakes and PMKIDs) using dictionary, bruteforce and rule based attacks with aircrack, crunch and hashcat tools. Enterprise networks captured password decrypting based on john the ripper, crunch, asleap and hashcat tools. GPU support available for hashcat.
-- Evil Twin attacks (Rogue AP)
+- WPA3 online dictionary attack ([plugin](https://github.com/OscarAkaElvis/airgeddon-plugins) based) 
+- Evil Twin attacks (Rogue AP) - WPA/WPA2/WPA3
   - Only Rogue/Fake AP mode to sniff using external sniffer (Hostapd + DHCP + DoS)
   - Simple integrated sniffing (Hostapd + DHCP + DoS + Ettercap)
   - Integrated sniffing, sslstrip2 (Hostapd + DHCP + DoS + Bettercap)
@@ -23,7 +24,7 @@
   - Integration of the most common PIN generation algorithms (ComputePIN, EasyBox, Arcadyan, etc.)
   - Offline PIN generation and the possibility to search PIN results on database for a target
   - Parameterizable timeouts for all attacks
-- Enterprise networks attacks
+- Enterprise networks attacks - WPA/WPA2/WPA3
   - Fake AP using "smooth" and "noisy" modes capturing enterprise hashes and plain passwords
   - Custom certificates creation
 - WEP All-in-One attack (combining different techniques: Chop-Chop, Caffe Latte, ARP Replay, Hirte, Fragmentation, Fake association, etc.)
