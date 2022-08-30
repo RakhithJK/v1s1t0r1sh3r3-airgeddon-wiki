@@ -23,7 +23,7 @@ ____
  - _Description_: Different plugins for multiple purposes
  - _Author/s_: [OscarAkaElvis]
  - _Link_: [Multiple plugins](https://github.com/OscarAkaElvis/airgeddon-plugins)
- - _Staff comments_: A plugin to accept all chars as part of the password for Evil Twin Captive Portal attack, and a plugin to fix some problematic Realtek chipsets like RTL8812AU and others.
+ - _Staff comments_: A plugin to attack WPA3 networks, a plugin to accept all chars as part of the password for Evil Twin Captive Portal attack, and a plugin to fix some problematic Realtek chipsets like RTL8812AU and others.
 ____
 <img src="https://avatars0.githubusercontent.com/u/45725677?s=460&u=58e6515ddd2e224da7d5614ff2f3db2dd316214f&v=4" width="80" height="80" align="right" hspace="10" vspace="6"/>
 
