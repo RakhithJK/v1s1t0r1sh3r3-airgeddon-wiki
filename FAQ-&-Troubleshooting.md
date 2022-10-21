@@ -89,3 +89,17 @@ ____
 That message is shown when airgeddon is not able to connect to your X Windows System for some reason. Maybe you have a restricted configuration. Try to launch the command `xhost +` before launching airgeddon. That should fix the problem.
 
 Maybe your system is headless (without X Window System), or maybe you just want to not use it. In that case, other option is available. Tmux can be used instead of xterm. It can be set in hidden options `.airgeddonrc` file. More info about it [on this link](https://github.com/v1s1t0r1sh3r3/airgeddon/wiki/Options).
+
+____
+
+#### When I scan for wireless networks, no networks are found
+
+That sometimes can be happening to anybody just due to a frozen wireless adapter and usually it is solved just unplugging and replugging again your USB wireless card. But sometimes it is happening under special circumstances. The most probably scenario where this is happening is when you are using `airgeddon` inside a VM (Virtual Machine) and typically this is happening in VirtualBox environments for some adapters (typically some Ralink RTxxxx chipsets).
+
+Quick (and painful) fixes:
+ - Use native Linux
+ - Use VMware
+
+This problem is not arising in VMWare and if you use native Linux of course it will work like a charm.
+
+Another workaround could be to try some tweaking with the USB speed. Sometimes is enough to plug physically your card into a different speed USB port (from 2.0 to 3.0, or to 1.1 or viceversa). Sometimes it works modifying the VM config setting a different speed for USB. It is recommended to poweroff the VM to do the changes.
