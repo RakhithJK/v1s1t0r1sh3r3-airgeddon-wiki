@@ -43,7 +43,7 @@
 - [Pentoo] staff for adding the tool to their repositories and specially to [ZeroChaos]
 - [Kali] team for at last adding airgeddon to their repositories and specially to [g0tmi1k] and [sbrun]
 - The [Hack&Beers] and [H-c0n] managers for letting me promote `airgeddon` on their events
-- The staff of the [Ermine] tool for their contribution donating free use of their awesome statifier tool used in the [WPA3 online attack plugin](https://github.com/OscarAkaElvis/airgeddon-plugins)
+- The staff of the [Ermine] tool for their contribution donating free use of their awesome statifier tool used in the [WPA3 online attack plugin](https://github.com/OscarAkaElvis/airgeddon-plugins) to make executable portable
 
 <!-- URLs -->
 [Wifislax]: https://www.wifislax.com
