@@ -33,7 +33,7 @@ __Ordered alphabetically, chipsets with known problems (Blacklist, not recommend
  - Realtek RTL8814AU <- _present in TP-LINK Archer T9UH / Alfa AWUS1900 (2.4Ghz/5Ghz - USB)_
  - Realtek RTL8821CE <- _present in Realtek RTL8821CE card (2.4Ghz/5Ghz - PCIe)_
 
-These cards are causing problems when working with `airmon`. As a consequence there are problems when working with `airgeddon` too. There are some reasons: airmon compatibility and available drivers. There are some closed issues discussing different problems while using them. We recommend to don't use these cards.
+These chipsets/cards are causing problems when working with `airmon`. As a consequence there are problems when working with `airgeddon` too. There are some reasons: airmon compatibility and available drivers. There are some closed issues discussing different problems while using them. We recommend to don't use these cards.
 
 __Realtek fix__
 
