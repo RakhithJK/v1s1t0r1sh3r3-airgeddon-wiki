@@ -17,7 +17,7 @@ Users rating | Chipset | Card/s using it | Band/s | Interface | Link/Buy | Addit
 :smile: | Ralink RT5372 | D-Link DWA-137 / Panda PAU06 | 2.4Ghz | USB | [Link](https://amzn.to/3HYJBF0) | 
 :heart_eyes: | Ralink RT5572 | Panda PAU07 / Panda PAU09 | 2.4Ghz/5Ghz| USB | [Link](https://amzn.to/3IYOWgM) | 
 :disappointed: | Realtek RTL8187 | Alfa AWUS036H / Alfa AWUS036EW | 2.4Ghz | USB | [Link](https://amzn.to/3KnkvkE) | May require patched driver
-:neutral_face: | Realtek RTL8723BE | Realtek RTL8723BE card | 2.4Ghz | PCIe | [Link](https://amzn.to/3vRQp56) | 
+:neutral_face: | Realtek RTL8723BE | Realtek RTL8723BE card | 2.4Ghz | PCIe | [Link](https://amzn.to/3ibZP6E) | 
 
 Of course, there are more compatible and fully working chipsets, these are only some examples. Moreover, there are more cards and devices using the chipsets listed here as well. We list only some examples of cards to buy which are using fully working VIF capable chipsets.
 
