@@ -9,7 +9,7 @@ Users rating | Chipset | Card/s using it | Band/s | Interface | Link/Buy | Addit
 :smile: | Atheros AR9271 | Alfa AWUS036NHA / TP-Link TL-WN722N v1 | 2.4Ghz | USB | [Link](https://amzn.to/3sRWE6L) | 
 :neutral_face: | Intel L716NA02 | Intel Wireless-AC 9560 card | 2.4Ghz/5Ghz | PCIe | [Link](https://amzn.to/3iBPb62) | 
 :relaxed: | MediaTek MT7610U | TP-Link Archer T2UH | 2.4Ghz/5Ghz | USB | [Link](https://amzn.to/3tFfaP8) | 
-:heart_eyes: | MediaTek MT7612U | Alfa AWUS036ACM | 2.4Ghz/5Ghz | USB | [Link](https://amzn.to/3P4wc35) | Not recommended for Virtual Machines if your host is Windows, only Native Linux or Linux vm at Linux host. Recommended kernel >= 5.3 . For Rpi 2/3 run this command to get it working ```echo "options mt76_usb disable_usb_sg=1" > /etc/modprobe.d/mt76_usb.conf``` 
+:heart_eyes: | MediaTek MT7612U | Alfa AWUS036ACM | 2.4Ghz/5Ghz | USB | [Link](https://amzn.to/3P4wc35) | Not recommended for Virtual Machines if your host is Windows, only Native Linux or Linux VM at Linux host. Recommended kernel >= 5.3 . For Rpi 2/3 run this command to get it working ```echo "options mt76_usb disable_usb_sg=1" > /etc/modprobe.d/mt76_usb.conf``` 
 :neutral_face: | Ralink RT2770 | Alfa AWUS051NH | 2.4Ghz/5Ghz | USB | [Link](https://amzn.to/3tBq5JA) | 
 :relaxed: | Ralink RT3070 | TP-Link TL-WN7200ND / Alfa AWUS036NH | 2.4Ghz | USB | [Link](https://amzn.to/360ZtcO) | 
 :relaxed: | Ralink RT3572 | Alfa AWUS052NHS / Linksys AE1000 | 2.4Ghz/5Ghz | USB | [Link](https://amzn.to/3vRLwc6) | 
