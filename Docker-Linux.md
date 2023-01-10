@@ -10,7 +10,7 @@ The recommended docker run command to be run under Linux host is:
           --userns=host \
           -v /path/to/some/dir/on/your/host:/io \
           -v /path/to/another/dir/on/your/host:/opt/airgeddon/plugins \
-          -e DISPLAY=$(env | grep DISPLAY | awk -F "=" '{print $2}') \
+          -e DISPLAY="$(env | grep DISPLAY | awk -F "=" '{print $2}')" \
           v1s1t0r1sh3r3/airgeddon
 ```
 
