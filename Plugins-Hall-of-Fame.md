@@ -12,7 +12,7 @@ Did you develop a nice plugin? Do you want to be here? Contact us on [IRC], on [
 <img src="https://avatars2.githubusercontent.com/u/17899365?s=400&u=5ac100b245b38d50f84efccef2a972722e1da04a&v=4" width="80" height="80" align="right" hspace="10" vspace="6"/>
 
  - _Plugin name_: **Missing dependencies auto-installation**
- - _Description_: A plugin to autoinstall missing dependencies on some Operating Systems (Kali, Parrot, BlackArch and Pentoo)
+ - _Description_: A plugin to autoinstall missing dependencies on some Operating Systems (Kali, Parrot and BlackArch)
  - _Author/s_: [v1s1t0r]
  - _Link_: N/A (developed by `airgeddon` staff and directly included in airgeddon)
  - _Staff comments_: Very useful to save some time installing dependencies
