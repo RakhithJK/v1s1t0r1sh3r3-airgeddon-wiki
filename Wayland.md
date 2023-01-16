@@ -2,7 +2,7 @@ Some people don't even know if they are using Wayland instead of X window system
 
 In order to work with Wayland graphic system (instead on using X window system), you must add permissions to root user in this way:
 
-`~$ xhost si:localuser:root`
+`~$ xhost +SI:localuser:root`
 
 Doing that, root user (or using `airgeddon` as sudo) is able to detect the screen resolution flawlessly.
 
