@@ -1,4 +1,4 @@
-The recommended docker run command to be run under Linux host is:
+The recommended docker run command to be run under Linux host if you are using a standard X window system is:
 
 ```
 ~# docker run \
@@ -14,6 +14,38 @@ The recommended docker run command to be run under Linux host is:
           v1s1t0r1sh3r3/airgeddon
 ```
 
+The recommended docker run command to be run under Linux host if you are using Wayland graphics is:
+
+```
+~# docker run \
+          --rm \
+          -ti \
+          --name airgeddon \
+          --net=host \
+          --privileged \
+          --userns=host \
+          -v /path/to/some/dir/on/your/host:/io \
+          -v /path/to/another/dir/on/your/host:/opt/airgeddon/plugins \
+          -e WAYLAND_DISPLAY=$WAYLAND_DISPLAY \
+          v1s1t0r1sh3r3/airgeddon
+```
+
+The recommended docker run command to be run under a headless Linux host:
+
+```
+~# docker run \
+          --rm \
+          -ti \
+          --name airgeddon \
+          --net=host \
+          --privileged \
+          --userns=host \
+          -v /path/to/some/dir/on/your/host:/io \
+          -v /path/to/another/dir/on/your/host:/opt/airgeddon/plugins \
+          -e AIRGEDDON_WINDOWS_HANDLING=tmux \
+          v1s1t0r1sh3r3/airgeddon
+```
+
 Parameters explanation:
 
  - `--rm` &#8594; Ephemeral containter. It will be removed on exit.
@@ -25,6 +57,8 @@ Parameters explanation:
  - `-v /path/to/some/dir/on/your/host:/io` &#8594; It maps a directory from host to the container. Useful to use external files like dictionaries, get pots after successfull attacks or whatever.
  - `-v /path/to/another/dir/on/your/host:/opt/airgeddon/plugins` &#8594; It maps another directory from host to the container. Useful if you want to run a plugin inside the container.
  - `-e DISPLAY=$(env | grep DISPLAY | awk -F "=" '{print $2}')` &#8594; It overwrites the needed var to connect to local X Window system. DISPLAY=:0 is used by default so you can avoid this parameter if you already have set DISPLAY=:0 var on your host system.
+ - `-e WAYLAND_DISPLAY=$WAYLAND_DISPLAY` &#8594; It overwrites the needed var to connect to Wayland graphics system.
+ - `-e AIRGEDDON_WINDOWS_HANDLING=tmux` &#8594; It sets the airgeddon option to use tmux instead of using any graphics system.
  - `v1s1t0r1sh3r3/airgeddon` &#8594; Is the name and tag of the image. `v1s1t0r1sh3r3/airgeddon` is the stable version built from _master_ branch and is the same as `v1s1t0r1sh3r3/airgeddon:latest`. Alternatively you can use `v1s1t0r1sh3r3/airgeddon:beta` for development version built from _dev_ branch.
 
 ### Linux Tips
@@ -37,13 +71,13 @@ Regarding the second volume "/path/to/another/dir/on/your/host", it is optional 
 
 #### Display problems (resolution detection)
 
-On some distros like Ubuntu, in order to open the possibility of connecting `airgeddon` xterm windows to your host X Window system, you must launch first `~# xhost +` command. You can check if you need it easily. The resolution should be detected inside `airgeddon` on initial checks. If not is detected, you have a problem with your DISPLAY var. You should launch `~# xhost +` command or adjust DISPLAY var on docker run command.
+On some distros, in order to open the possibility of connecting `airgeddon` xterm windows to your host X Window system, you must launch first `~# xhost +` command or `xhost +SI:localuser:root` if you are using Wayland. You can check if you need it easily. The resolution should be detected inside `airgeddon` on initial checks. If not is detected, you have a problem with your DISPLAY var. You should launch `~# xhost +` command, or launch `xhost +SI:localuser:root` if you are using Wayland, or adjust DISPLAY var on docker run command.
 
 #### Setting Options
 
 As described in [Options wiki section](https://github.com/v1s1t0r1sh3r3/airgeddon/wiki/Options), it is possible to set up some available options. Running `airgeddon` in docker still allow this. Let's suppose that you want to run airgeddon without any color. The `AIRGEDDON_BASIC_COLORS` must be set to "false" to perform this. We can set it as another environment var just using another `-e` parameter on docker run command. Example:
 
-`docker run --rm -ti --name airgeddon --net=host --privileged -v /path/to/some/dir/on/your/host:/io -v /path/to/another/dir/on/your/host:/opt/airgeddon/plugins -e DISPLAY=$(env | grep DISPLAY | awk -F "=" '{print $2}') -e AIRGEDDON_BASIC_COLORS=false v1s1t0r1sh3r3/airgeddon`
+`docker run --rm -ti --name airgeddon --net=host --privileged --userns=host -v /path/to/some/dir/on/your/host:/io -v /path/to/another/dir/on/your/host:/opt/airgeddon/plugins -e DISPLAY=$(env | grep DISPLAY | awk -F "=" '{print $2}') -e AIRGEDDON_BASIC_COLORS=false v1s1t0r1sh3r3/airgeddon`
 
 You can add as many options as you want setting a `-e` parameter for each one.
 
