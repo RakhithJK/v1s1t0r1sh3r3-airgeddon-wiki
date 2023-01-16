@@ -56,9 +56,9 @@ Parameters explanation:
  - `--userns=host` &#8594; Needed to disable user namespaces. Mandatory when combined with `--privileged` since some docker versions ago.
  - `-v /path/to/some/dir/on/your/host:/io` &#8594; It maps a directory from host to the container. Useful to use external files like dictionaries, get pots after successfull attacks or whatever.
  - `-v /path/to/another/dir/on/your/host:/opt/airgeddon/plugins` &#8594; It maps another directory from host to the container. Useful if you want to run a plugin inside the container.
- - `-e DISPLAY=$(env | grep DISPLAY | awk -F "=" '{print $2}')` &#8594; It overwrites the needed var to connect to local X Window system. DISPLAY=:0 is used by default so you can avoid this parameter if you already have set DISPLAY=:0 var on your host system.
- - `-e WAYLAND_DISPLAY=$WAYLAND_DISPLAY` &#8594; It overwrites the needed var to connect to Wayland graphics system.
- - `-e AIRGEDDON_WINDOWS_HANDLING=tmux` &#8594; It sets the airgeddon option to use tmux instead of using any graphics system.
+ - `-e DISPLAY=$(env | grep DISPLAY | awk -F "=" '{print $2}')` &#8594; It overwrites the needed var to connect to local X Window system. This parameter should be used only if you are using X window system. DISPLAY=:0 is used by default so you can avoid this parameter if you already have set DISPLAY=:0 var on your host system.
+ - `-e WAYLAND_DISPLAY=$WAYLAND_DISPLAY` &#8594; It overwrites the needed var to connect to Wayland graphics system. This parameter should be used only if you are using Wayland graphics.
+ - `-e AIRGEDDON_WINDOWS_HANDLING=tmux` &#8594; It sets the airgeddon option to use tmux instead of using any graphics system. This parameter should be used only if you are running airgeddon on a headless Linux system.
  - `v1s1t0r1sh3r3/airgeddon` &#8594; Is the name and tag of the image. `v1s1t0r1sh3r3/airgeddon` is the stable version built from _master_ branch and is the same as `v1s1t0r1sh3r3/airgeddon:latest`. Alternatively you can use `v1s1t0r1sh3r3/airgeddon:beta` for development version built from _dev_ branch.
 
 ### Linux Tips
@@ -71,7 +71,7 @@ Regarding the second volume "/path/to/another/dir/on/your/host", it is optional 
 
 #### Display problems (resolution detection)
 
-On some distros, in order to open the possibility of connecting `airgeddon` xterm windows to your host X Window system, you must launch first `~# xhost +` command or `xhost +SI:localuser:root` if you are using Wayland. You can check if you need it easily. The resolution should be detected inside `airgeddon` on initial checks. If not is detected, you have a problem with your DISPLAY var. You should launch `~# xhost +` command, or launch `xhost +SI:localuser:root` if you are using Wayland, or adjust DISPLAY var on docker run command.
+On some distros, in order to open the possibility of connecting `airgeddon` xterm windows to your host X Window system, you must launch first `~# xhost +` command or `xhost +SI:localuser:root` if you are using Wayland graphics. You can check if you need it easily. The resolution should be detected inside `airgeddon` on initial checks. If not is detected, you have a problem with your DISPLAY var. You should launch `~# xhost +` command, or launch `xhost +SI:localuser:root` if you are using Wayland, or adjust DISPLAY var on docker run command.
 
 #### Setting Options
 
