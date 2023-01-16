@@ -14,7 +14,7 @@ The recommended docker run command to be run under Linux host if you are using a
           v1s1t0r1sh3r3/airgeddon
 ```
 
-The recommended docker run command to be run under Linux host if you are using Wayland graphics is:
+This is the recommended docker run command to be run under Linux host if you are using Wayland graphics (if you don't know if you are using Wayland graphics instead of standard X window system, check [this](https://github.com/v1s1t0r1sh3r3/airgeddon/wiki/Wayland)):
 
 ```
 ~# docker run \
