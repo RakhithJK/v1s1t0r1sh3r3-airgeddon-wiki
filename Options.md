@@ -77,7 +77,7 @@ AIRGEDDON_WINDOWS_HANDLING=xterm
 ```
 
 ##### About tmux usage
-To run airgeddon on a headless system (without X Window system) this option (`AIRGEDDON_WINDOWS_HANDLING`) needs to be set to `tmux`. Then just run airgeddon as normal and tmux will be opened by airgeddon. No need to open tmux first. To navigate tmux windows(tabs) created by airgeddon, press `Ctrl+b` and then `n` for next window or `p` for previous window.
+To run airgeddon on a headless system (without X Window or Wayland graphics system) this option (`AIRGEDDON_WINDOWS_HANDLING`) needs to be set to `tmux`. Then just run airgeddon as normal and tmux will be opened by airgeddon. No need to open tmux first. To navigate tmux windows(tabs) created by airgeddon, press `Ctrl+b` and then `n` for next window or `p` for previous window.
 
 ##### Important notes
 
