@@ -5,7 +5,7 @@
  xdpyinfo    | x11-utils \| xdpyinfo \| xorg-xdpyinfo | &#8901; | ethtool     | ethtool                         
  lsusb       | usbutils                               | &#8901; | rfkill      | rfkill                          
  wget        | wget                                   | &#8901; | ccze        | ccze                            
- xset        | x11-xserver-utils \| xorg-xset         | &#8901; |             |                                 
+ xset        | x11-xserver-utils \| xorg-xset         | &#8901; | loginctl    | systemd                         
 
 It is highly recommended to have the internal tools installed. These tools are not checked as validation at the  beginning, `airgeddon` will check internally if they are available before using them. They improve functionality and performance. For example, `xdpyinfo` allows the script to detect the display resolution in order to print on windows in a better way (size and position). Or `ccze`, package that will colorize some outputs for a better user experience.
 
