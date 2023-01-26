@@ -90,7 +90,7 @@ That message is shown when airgeddon is not able to connect to your X Windows Sy
 
 Or maybe you are using Wayland Graphics. If that is the case, check the [Wayland section at wiki](https://github.com/v1s1t0r1sh3r3/airgeddon/wiki/Wayland).
 
-Maybe your system is headless (without X Window System), or maybe you just want to not use it. In that case, other option is available. Tmux can be used instead of xterm. It can be set in hidden options `.airgeddonrc` file. More info about it [on this link](https://github.com/v1s1t0r1sh3r3/airgeddon/wiki/Options).
+Maybe your system is headless (without X Window System), or maybe you just want to not use it. In that case, other option is available. Tmux can be used instead of xterm. It can be set in options hidden `.airgeddonrc` file. More info about it [on this link](https://github.com/v1s1t0r1sh3r3/airgeddon/wiki/Options).
 
 ____
 
