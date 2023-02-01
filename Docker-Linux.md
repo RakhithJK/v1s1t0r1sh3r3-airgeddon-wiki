@@ -1,7 +1,10 @@
-The recommended docker run command to be run under Linux host if you are using a standard X window system is:
+For standard X window system or Wayland graphics the docker command is the same. Just only one difference. For X windows system it can be launched as root or as standard user using `sudo`. But for Wayland graphics, it is not recommended to launch it as root. It's better to launch it using `sudo`. If you don't know if you are using Wayland graphics instead of standard X window system, check this [link](https://github.com/v1s1t0r1sh3r3/airgeddon/wiki/Wayland) prior launching the command.
+
+This is the recommended command:
 
 ```
-~# docker run \
+~# docker run \ <- used for X windows system (root)
+~$ sudo docker run \ <- used for Wayland graphics or X windows system (root or using sudo)
           --rm \
           -ti \
           --name airgeddon \
@@ -10,23 +13,8 @@ The recommended docker run command to be run under Linux host if you are using a
           --userns=host \
           -v /path/to/some/dir/on/your/host:/io \
           -v /path/to/another/dir/on/your/host:/opt/airgeddon/plugins \
-          -e DISPLAY="$(env | grep DISPLAY | awk -F "=" '{print $2}')" \
-          v1s1t0r1sh3r3/airgeddon
-```
-
-This is the recommended docker run command to be run under Linux host if you are using Wayland graphics (if you don't know if you are using Wayland graphics instead of standard X window system, check [this](https://github.com/v1s1t0r1sh3r3/airgeddon/wiki/Wayland)):
-
-```
-~# docker run \
-          --rm \
-          -ti \
-          --name airgeddon \
-          --net=host \
-          --privileged \
-          --userns=host \
-          -v /path/to/some/dir/on/your/host:/io \
-          -v /path/to/another/dir/on/your/host:/opt/airgeddon/plugins \
-          -e WAYLAND_DISPLAY=$WAYLAND_DISPLAY \
+          -e DISPLAY="${DISPLAY}" \
+          -e XDG_SESSION_TYPE="${XDG_SESSION_TYPE}" \
           v1s1t0r1sh3r3/airgeddon
 ```
 
@@ -56,8 +44,8 @@ Parameters explanation:
  - `--userns=host` &#8594; Needed to disable user namespaces. Mandatory when combined with `--privileged` since some docker versions ago.
  - `-v /path/to/some/dir/on/your/host:/io` &#8594; It maps a directory from host to the container. Useful to use external files like dictionaries, get pots after successfull attacks or whatever.
  - `-v /path/to/another/dir/on/your/host:/opt/airgeddon/plugins` &#8594; It maps another directory from host to the container. Useful if you want to run a plugin inside the container.
- - `-e DISPLAY=$(env | grep DISPLAY | awk -F "=" '{print $2}')` &#8594; It overwrites the needed var to connect to local X Window system. This parameter should be used only if you are using X window system. DISPLAY=:0 is used by default so you can avoid this parameter if you already have set DISPLAY=:0 var on your host system.
- - `-e WAYLAND_DISPLAY=$WAYLAND_DISPLAY` &#8594; It overwrites the needed var to connect to Wayland graphics system. This parameter should be used only if you are using Wayland graphics.
+ - `-e DISPLAY="${DISPLAY}` &#8594; It overwrites the needed var to connect to local graphics system.
+ - `-e XDG_SESSION_TYPE="${XDG_SESSION_TYPE}"` &#8594; It overwrites the needed var to connect to local graphics system.
  - `-e AIRGEDDON_WINDOWS_HANDLING=tmux` &#8594; It sets the airgeddon option to use tmux instead of using any graphics system. This parameter should be used only if you are running airgeddon on a headless Linux system.
  - `v1s1t0r1sh3r3/airgeddon` &#8594; Is the name and tag of the image. `v1s1t0r1sh3r3/airgeddon` is the stable version built from _master_ branch and is the same as `v1s1t0r1sh3r3/airgeddon:latest`. Alternatively you can use `v1s1t0r1sh3r3/airgeddon:beta` for development version built from _dev_ branch.
 
