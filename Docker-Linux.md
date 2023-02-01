@@ -71,7 +71,7 @@ Regarding the second volume "/path/to/another/dir/on/your/host", it is optional 
 
 #### Display problems (resolution detection)
 
-On some distros, in order to open the possibility of connecting `airgeddon` xterm windows to your host X Window system, you must launch first `~# xhost +` command or `xhost +SI:localuser:root` if you are using Wayland graphics. You can check if you need it easily. The resolution should be detected inside `airgeddon` on initial checks. If not is detected, you have a problem with your DISPLAY var. You should launch `~# xhost +` command, or launch `xhost +SI:localuser:root` if you are using Wayland, or adjust DISPLAY var on docker run command.
+On some Linux distributions, in order to open the possibility of connecting `airgeddon` xterm windows to your host's graphics system, you must launch first a command. You can check if you need to do it easily. The resolution should be detected inside `airgeddon` on initial checks. If not is detected, you have a problem with your DISPLAY var. You should launch `~# xhost +` command if you are using X windows system, or launch `xhost +SI:localuser:root` command if you are using Wayland graphics, or just adjust DISPLAY var on docker run command if you have any other special configuration.
 
 #### Setting Options
 
