@@ -4,7 +4,7 @@ This is the recommended command:
 
 ```
 ~# docker run \ <- used for X windows system (root)
-~$ sudo docker run \ <- used for Wayland graphics or X windows system (root or using sudo)
+~$ sudo docker run \ <- used for Wayland graphics or X windows system (using sudo)
           --rm \
           -ti \
           --name airgeddon \
