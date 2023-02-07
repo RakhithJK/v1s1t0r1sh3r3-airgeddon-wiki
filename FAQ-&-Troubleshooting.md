@@ -46,7 +46,7 @@ To check if your card is supporting VIF launch this command `iw list | grep "Sup
 
 If your card is supporting VIF and it is still not working for you, maybe it is buggy and you need to unplug the card and then plug it again, or maybe you just need to reboot. Seems obvious but sometimes, if your card is frozen for some reason, it works.
 
-If your problem is happening only over 5Ghz networks, maybe is because your region is not set. Use command `iw reg get` to check what is configured, and `iw reg set XX` to set it where XX is your country code. Example: for Spain, the command should be `iw reg set ES`. After setting it, check again using `iw reg get` and if is set correctly, then try again to deauth on your 5Ghz target network.
+If your problem is happening only over 5Ghz networks, maybe is because your region is not set. Use command `iw reg get` to check what is configured, and `iw reg set XX` to set it where XX is your country code. Example: for Spain, the command should be `iw reg set ES`. After setting it, check again using `iw reg get` and if is set correctly, then try again to deauth on your 5Ghz target network. Bear in mind that even with the country code set, the 5Ghz band has several channels that may not be available for operation due to country restrictions (DFS channels). If the target network uses one of these channels, the attack may not be successful.
 
 ____
 
