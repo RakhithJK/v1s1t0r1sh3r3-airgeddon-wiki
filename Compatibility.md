@@ -28,7 +28,7 @@ It can run on any Linux distribution that passes the tools validations. Some of 
 - OpenSUSE Leap 42.1 or higher
 - Parrot Security 2.2.1 or higher and arm versions (Raspberry Pi)
 - Pentoo 2019.x or higher
-- Raspbian 7 (Wheezy) or higher (Raspberry Pi)
+- Raspberry Pi OS 7 (Wheezy) or higher (Raspberry Pi)
 - Red Hat 7 (Maipo) or higher
 - Ubuntu/Xubuntu 15.10 or higher
 - Wifislax 4.11.1 or higher
