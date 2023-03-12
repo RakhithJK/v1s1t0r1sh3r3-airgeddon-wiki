@@ -29,7 +29,7 @@
 
 - The "Spanish pentesting crew" friends group
 - The [Wifislax] staff
-- The [BlackArch] community and specially to [noptrix], [Edu4rdSHL] and [noraj] for his support
+- The [BlackArch] community and specially to [noptrix], [Edu4rdSHL] and [noraj] for their support
 - The [ArchStrike] staff and the maintainers, specially [Cthulu201] and [xorond] who in addition helped on some translations
 - The forum people of [Seguridadwireless.net], [Wifi-libre.com] and old deleted Lampiweb.com site
 - The [Hackware.ru] admins
