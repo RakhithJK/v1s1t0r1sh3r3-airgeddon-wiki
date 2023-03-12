@@ -20,15 +20,16 @@
 - [marcosjimenez] for programming advice and Github Discord bot integration
 - [darthvader-htb] for Arabic translations and helping me on other hacking stuff
 - [AkumaBiNoTori] for Arabic translations
-- [cjb900] for his hard work helping the community on issues/Discord
+- [cjb900] for his hard work helping the community on issues/Discord and his infinite patience
 - [BoBeR182] for helping on maintenance of airgeddon's Arch AUR package and other AUR dependencies packages
+- [masi] for help received on development
 - [OscarAkaElvis] for allowing me to own his body when I visit the earth
 
 #### Others
 
 - The "Spanish pentesting crew" friends group
 - The [Wifislax] staff
-- The [BlackArch] community and specially to [noptrix] and [Edu4rdSHL] for his support
+- The [BlackArch] community and specially to [noptrix], [Edu4rdSHL] and [noraj] for his support
 - The [ArchStrike] staff and the maintainers, specially [Cthulu201] and [xorond] who in addition helped on some translations
 - The forum people of [Seguridadwireless.net], [Wifi-libre.com] and old deleted Lampiweb.com site
 - The [Hackware.ru] admins
@@ -98,3 +99,5 @@
 [AkumaBiNoTori]: https://github.com/AkumaBiNoTori
 [xS13rra]: https://github.com/xS13rra
 [BoBeR182]: https://github.com/BoBeR182
+[masi]: https://github.com/masipro
+[noraj]: https://github.com/noraj
