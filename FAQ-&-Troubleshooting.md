@@ -84,13 +84,15 @@ For some Linux distributions like Ubuntu or Debian since some versions, the defa
 
 ____
 
-#### When I start airgeddon, I see this message "A graphical X window system has not been detected. If you already have one, check it's working properly. It's essential for airgeddon. The script can't continue"
+#### When I start airgeddon, I see an error message related to graphics
 
-That message is shown when airgeddon is not able to connect to your X Windows System for some reason. Maybe you have a restricted configuration. Try to launch the command `xhost +` before launching airgeddon. That should fix the problem.
+That message is shown when airgeddon is not able to connect to your X Windows System for some reason. Maybe you have a restricted configuration. From `airgeddon>=11.11` the message is self-explanatory. The tool will detect if there is an existing graphics system (X windows or Wayland) and it will suggest a command to be executed before launching `airgeddon`.
 
-Or maybe you are using Wayland Graphics. If that is the case, check the [Wayland section at wiki](https://github.com/v1s1t0r1sh3r3/airgeddon/wiki/Wayland).
+Try to launch the command `xhost +` before launching airgeddon if you have X Windows system. Try to launch the command `xhost +SI:localuser:root` before launching airgeddon if you have Wayland graphics. That should fix the problem.
 
-Maybe your system is headless (without X Window System), or maybe you just want to not use it. In that case, other option is available. Tmux can be used instead of xterm. It can be set in options hidden `.airgeddonrc` file. More info about it [on this link](https://github.com/v1s1t0r1sh3r3/airgeddon/wiki/Options).
+For Wayland graphics, there are more details available: [Wayland section at wiki](https://github.com/v1s1t0r1sh3r3/airgeddon/wiki/Wayland).
+
+Maybe your system is headless (without graphics system), or maybe you just want to not use it. In that case, other option is available. Tmux can be used instead of xterm. It can be set in options hidden `.airgeddonrc` file. More info about it [on this link](https://github.com/v1s1t0r1sh3r3/airgeddon/wiki/Options).
 
 ____
 
