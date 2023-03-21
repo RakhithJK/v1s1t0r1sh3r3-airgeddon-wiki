@@ -88,9 +88,7 @@ ____
 
 That message is shown when airgeddon is not able to connect to your X Windows System for some reason. Maybe you have a restricted configuration. From `airgeddon>=11.11` the message is self-explanatory. The tool will detect if there is an existing graphics system (X windows or Wayland) and it will suggest a command to be executed before launching `airgeddon`.
 
-Try to launch the command `xhost +` before launching airgeddon if you have X Windows system. Try to launch the command `xhost +SI:localuser:root` before launching airgeddon if you have Wayland graphics. That should fix the problem.
-
-For Wayland graphics, there are more details available: [Wayland section at wiki](https://github.com/v1s1t0r1sh3r3/airgeddon/wiki/Wayland).
+Try to launch the command `xhost +` before launching airgeddon if you have X Windows system. Try to launch the command `xhost +SI:localuser:root` before launching airgeddon if you have Wayland graphics. That should fix the problem. More details available at [Wayland section at wiki](https://github.com/v1s1t0r1sh3r3/airgeddon/wiki/Wayland).
 
 Maybe your system is headless (without graphics system), or maybe you just want to not use it. In that case, other option is available. Tmux can be used instead of xterm. It can be set in options hidden `.airgeddonrc` file. More info about it [on this link](https://github.com/v1s1t0r1sh3r3/airgeddon/wiki/Options).
 
