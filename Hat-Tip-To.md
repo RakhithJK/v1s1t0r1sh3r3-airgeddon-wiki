@@ -38,7 +38,7 @@
 - Zhao Chunsheng and Stefan Viehböck for their wonderful algorithms
 - All the developers who made and designed the third-party tools that `airgeddon` uses
 - All the plugin makers who are contributing to extend the features and functionality of `airgeddon`
-- [BashSupport] developer [jansorg] for his effort maintaining the Bash plugin for IntelliJ platform
+- [BashSupport] & [BashSupport Pro] developer [jansorg] for his effort maintaining the Bash plugin for IntelliJ platform
 - [koalaman] and other contributors for creating the useful [Shellcheck] tool to improve our code
 - The [Parrot] crew and specially to [Palinuro] for adding `airgeddon` to their repositories
 - [Pentoo] staff for adding the tool to their repositories and specially to [ZeroChaos]
@@ -54,6 +54,7 @@
 [Wifi-libre.com]: https://www.wifi-libre.com
 [Hackware.ru]: https://hackware.ru
 [BashSupport]: https://github.com/jansorg/BashSupport
+[BashSupport Pro]: https://www.bashsupport.com/
 [Parrot]: https://www.parrotsec.org/
 [Hack&Beers]: https://twitter.com/hackandbeers
 [H-c0n]: https://www.h-c0n.com/p/home.html
