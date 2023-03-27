@@ -20,7 +20,7 @@
 - [marcosjimenez] for programming advice and Github Discord bot integration
 - [darthvader-htb] for Arabic translations and helping me on other hacking stuff
 - [AkumaBiNoTori] for Arabic translations
-- [cjb900] for his hard work helping the community on issues/Discord and his infinite patience
+- [cjb900] for his hard work helping the community on issues/Discord/wiki and his infinite patience
 - [BoBeR182] for helping on maintenance of airgeddon's Arch AUR package and other AUR dependencies packages
 - [masi] for help received on development
 - [OscarAkaElvis] for allowing me to own his body when I visit the earth
