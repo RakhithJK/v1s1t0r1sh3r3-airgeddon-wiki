@@ -80,7 +80,9 @@ ____
 
 #### My linux has weird interface names like `wlx00c0ca9208dc` instead of `wlan0` and I'm getting errors. What can I do?
 
-For some Linux distributions like Ubuntu or Debian since some versions, the default naming for network devices is using the new nomenclature which is causing errors while using `airgeddon` because some of the third party tools that airgeddon uses are not compatible with this device name nomenclature. It's better to use the old names which are fully compatible with all the tools. To fix it, follow the instructions [on this link](https://github.com/v1s1t0r1sh3r3/airgeddon/wiki/Consistent-Network-Device-Naming).
+For some Linux distributions like Ubuntu or Debian since some versions, the default naming for network devices is using the new nomenclature which is causing errors while using `airgeddon` because some of the third party tools that airgeddon uses are not compatible with this device name nomenclature. 
+
+It's better to use the old names which are fully compatible with all the tools. From `airgeddon>=11.20` there is an integrated check showing a warning and the recommendation for the change. To do the change in order to use old device nomenclature names, follow the instructions [on this link](https://github.com/v1s1t0r1sh3r3/airgeddon/wiki/Consistent-Network-Device-Naming).
 
 ____
 
