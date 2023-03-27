@@ -2,7 +2,7 @@ For some Linux distributions like Ubuntu or Debian, and Parrot OS, the default n
 
 __How to know if I am affected?__
 
-If you see your wireless card named as _wlx00c0ca9208dc_ or any similar name, yeah you are affected and probably you'll face some issues using `airgeddon` while changing the mode of your card (it can happen depending on your airmon-ng version). It's better to have them using the classic naming style (_wlan0_, _wlan1_, etc.).
+If you see your wireless card named as _wlx00c0ca9208dc_ or any similar name, yeah you are affected and probably you'll face some issues using `airgeddon` while changing the mode of your card (it can happen depending on your airmon-ng version) or using some airgeddon features. It's better to have them using the classic naming style (_wlan0_, _wlan1_, etc.). From `airgeddon>=11.20` there is an integrated check showing a warning and the recommendation for the change upon interface selection.
 
 __How to change them to the classic names style?__
 
