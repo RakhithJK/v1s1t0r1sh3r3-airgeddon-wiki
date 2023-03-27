@@ -1,4 +1,4 @@
-For some Linux distributions like Ubuntu or Debian, and Parrot OS, the default naming for network devices is using the new nomenclature which is causing errors while using `airgeddon`. This is because of a bug in airmon-ng which is already solved in modern versions. But if you are still using an old airmon-ng version and or you are experiencing problems, you can just change your interface names to "old" style. Just keep reading.
+For some Linux distributions like Ubuntu or Debian, and Parrot OS, the default naming for network devices is using the new nomenclature which is causing errors while using `airgeddon`. This can be for different reasons. One of them is that some of the third party tools that airgeddon uses are not compatible with this device names nomenclature. Another reason could be the presence of a bug in airmon-ng which is already solved in modern versions. But if you are still using an old airmon-ng version and or you are experiencing problems, you can just change your interface names to "old" style. Just keep reading.
 
 __How to know if I am affected?__
 
