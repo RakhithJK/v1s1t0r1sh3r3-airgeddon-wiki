@@ -30,3 +30,7 @@ After modifying the `/etc/default/grub` file, execute `update-grub` and then reb
 __If using Parrot OS or other Linux distro and the above options do not work, try this__
 
 Run this in a terminal `sudo ln -s /dev/null /etc/udev/rules.d/80-net-setup-link.rules` then reboot and your wireless interface should show as `wlan0`, `wlan1` or similar. 
+
+__Temporary fix__
+
+If you don't want to modify your grub or your system permanently for any reason, you can do a temporarily interface renaming which will work until next reboot or until the card is unplugged and re-plugged, but we recommend the persistent solution explained above modifying grub. Anyway, here are the commands to do it: `ip link set wlx00c0ca9208dc down && ip link set wlx00c0ca9208dc name wlan0 && ip link set wlan0 up`
