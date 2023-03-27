@@ -42,7 +42,7 @@
 - [koalaman] and other contributors for creating the useful [Shellcheck] tool to improve our bash code
 - The [Parrot] crew and specially to [Palinuro] for adding `airgeddon` to their repositories
 - [Pentoo] staff for adding the tool to their repositories and specially to [ZeroChaos]
-- [Kali] team for at last adding airgeddon to their repositories and specially to [g0tmi1k] and [sbrun]
+- [Kali] team for adding airgeddon to their repositories and specially to [g0tmi1k] and [sbrun]
 - The [Hack&Beers] and [H-c0n] managers for letting me promote `airgeddon` on their events
 - The staff of the [Ermine] tool for their contribution donating free use of their awesome statifier tool used in the [WPA3 online attack plugin](https://github.com/OscarAkaElvis/airgeddon-plugins) to make executable portable
 
