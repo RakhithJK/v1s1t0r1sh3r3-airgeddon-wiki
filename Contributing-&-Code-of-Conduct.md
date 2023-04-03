@@ -19,7 +19,7 @@ Read the [Contributing File] for more details on the process of project collabor
 
 If you enjoyed the script and found it useful, you can support the project making a donation. Through PayPal or sending a fraction of any of the cryptocurrencies listed below. Any amount, not matter how small (1, 2, 5 $/€) is welcome.
 
-Another way to contribute is buying some merchandising (mugs, T-shirts, etc.). A little portion of each payment (after deduct material, printing and shipping) will be to support the project. Check the [merchandising-online-shop].
+Another way to contribute is buying some merchandising (mugs, T-shirts, etc.). A little portion of each payment (after deducting material, printing and shipping) will be to support the project. Check the [merchandising-online-shop].
 
 Check the [Sponsorship page](https://github.com/sponsors/v1s1t0r1sh3r3) or directly donate using any of the following methods:
 
