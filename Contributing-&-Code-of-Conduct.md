@@ -9,6 +9,7 @@ You can contribute to airgeddon by
 - Testing and sending feedback
 - Developing plugins
 - Donating
+- Buying merchandising
 - Discord Server Boosting
 - Just adding a star to our Github project
 
@@ -16,7 +17,9 @@ Read the [Contributing File] for more details on the process of project collabor
 
 ***
 
-If you enjoyed the script and found it useful, you can support the project making a donation. Through PayPal or sending a fraction of any of these cryptocurrencies. Any amount, not matter how small (1, 2, 5 $/€) is welcome.
+If you enjoyed the script and found it useful, you can support the project making a donation. Through PayPal or sending a fraction of any of the cryptocurrencies listed below. Any amount, not matter how small (1, 2, 5 $/€) is welcome.
+
+Another way to contribute is buying some merchandising (mugs, T-shirts, etc.). A little portion of each payment (after deduct material, printing and shipping) will be to support the project. Check the [merchandising-online-shop].
 
 Check the [Sponsorship page](https://github.com/sponsors/v1s1t0r1sh3r3) or directly donate using any of the following methods:
 
@@ -123,3 +126,4 @@ If you want to be here, send me some data (mail, link, twitter account, etc) wit
 [Contributing File]: https://github.com/v1s1t0r1sh3r3/airgeddon/blob/master/CONTRIBUTING.md
 [Code of Conduct]: https://github.com/v1s1t0r1sh3r3/airgeddon/blob/master/CODE_OF_CONDUCT.md
 [Plugins Development]: https://github.com/v1s1t0r1sh3r3/airgeddon/wiki/Plugins%20Development
+[merchandising-online-shop]: https://airgeddon.creator-spring.com/
