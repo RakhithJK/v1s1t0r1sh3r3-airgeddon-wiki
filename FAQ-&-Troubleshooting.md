@@ -88,7 +88,7 @@ It's better to use the old wifi interface naming that is fully compatible with a
 
 ____
 
-#### When I start airgeddon, I see this message "A graphical X window system has not been detected. If you already have one, check it's working properly. It's essential for airgeddon. The script can't continue"
+#### When I start airgeddon, I see this message "No graphics system was detected"
 
 This message appears when airgeddon can't connect to your X Windows System for whatever reason. Maybe you have a restricted configuration. From `airgeddon>=11.11` the message is self-explanatory. The tool will detect if there is an existing graphics system (X windows or Wayland) and it will suggest a command to be executed before launching `airgeddon`.
 
