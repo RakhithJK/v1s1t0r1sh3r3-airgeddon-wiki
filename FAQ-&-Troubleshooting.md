@@ -94,7 +94,7 @@ This message appears when airgeddon can't connect to your X Windows System for w
 
 Try; launching the command `xhost +` before launching airgeddon if you have an X Windows system. Try; to launch the command `xhost +SI:localuser:root` before launching airgeddon if you have Wayland graphics. That should fix the problem. More details are available here: [Wayland section at wiki](https://github.com/v1s1t0r1sh3r3/airgeddon/wiki/Wayland).
 
-Maybe your system is headless (without a graphical system), or maybe you just want not to use it. In that case, other options are available. Tmux can be used instead of xterm. It can be set in the hidden `.airgeddonrc` file. More info about it [on this link](https://github.com/v1s1t0r1sh3r3/airgeddon/wiki/Options).
+Maybe your system is headless (without a graphical system), or maybe you just want not to use it. In that case, other options are available. Tmux can be used instead of xterm. It can be set in the hidden `.airgeddonrc` file. More info about it [here](https://github.com/v1s1t0r1sh3r3/airgeddon/wiki/Options).
 
 ____
 
