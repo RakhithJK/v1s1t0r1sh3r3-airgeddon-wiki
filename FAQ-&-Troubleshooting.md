@@ -18,7 +18,7 @@ Now let's suppose that you are running Ubuntu Linux. It is a Debian-based Linux 
 
 In addition, if you are running one of these three Linux distributions: `Kali, Parrot-Security, BlackArch`, airgeddon will prompt you to allow it to try installing the missing dependencies automatically. This is done by a plugin included in airgeddon. Why only on these three Linux variants? It's because they are unique and contain all the needed packages in their repositories out of the box. Is the auto dependency install plugin 100% effective? No, there could be connectivity problems, or repositories could be down. So airgeddon can't assure you a 100% installation on the dependencies. Anyway, most of the time, they do get installed automatically.
 
-Here is a repository that will help many people to install missing dependencies manually, and it's _ONLY_ for Debian-based Linux distributions. It contains all the needed airgeddon dependencies in a .deb package and some sub-dependencies. They can easily be installed using `dpkg -i <file.deb>` in the right order to avoid dependencies problems: https://github.com/v1s1t0r1sh3r3/airgeddon_deb_packages
+Here is a repository that will help many people to install missing dependencies manually, and it's _ONLY_ for Debian-based Linux distributions. It contains all the needed airgeddon dependencies in a .deb package and some sub-dependencies. They can easily be installed using `sudo dpkg -i <file.deb>` in the right order to avoid dependencies problems: https://github.com/v1s1t0r1sh3r3/airgeddon_deb_packages
 
 ____
 
