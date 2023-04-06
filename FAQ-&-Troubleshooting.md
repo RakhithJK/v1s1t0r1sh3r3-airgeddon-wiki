@@ -62,7 +62,7 @@ The second (more elegant) method is to create a plugin to perform this task. You
 
 ____
 
-#### Once connected to the fake AP created by an evil twin attack the captive portal is not automatically triggered or asked for. What am I doing wrong?
+#### Once connected to the fake AP created by an Evil Twin attack the captive portal is not automatically triggered or asked for. What am I doing wrong?
 
 Once connected to the fake network, most devices and operating systems (Windows, Mac, iOS, Linux, and Android) should automatically populate the captive portal or prompt that a login to the AP is needed. But there can be varying factors (OS version and manufacture) why some will not, which may be beyond the control of airgeddon.
 
