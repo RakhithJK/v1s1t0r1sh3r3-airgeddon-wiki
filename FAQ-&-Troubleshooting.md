@@ -1,4 +1,4 @@
-This section is to help clarify some common doubts and problems (Frequently Asked Questions) along with some common troubleshooting steps. Remember that you can also join our Discord channel by clicking on the public invitation link [here](https://discord.gg/sQ9dgt9) to find and receive more help not answered here.
+This section is to help clarify some common doubts and problems (Frequently Asked Questions) along with some common troubleshooting steps. Remember that you can also join our Discord server by clicking on the public invitation link [here](https://discord.gg/sQ9dgt9) to find and receive more help not answered here.
 
 ____
 
@@ -84,7 +84,7 @@ ____
 
 For some Linux distributions like Ubuntu, Parrot OS, and Debian, the default naming for network devices uses the new nomenclature. This can cause errors while using `airgeddon` because some third-party tools that airgeddon uses aren't compatible with this wireless device name nomenclature. 
 
-It's better to use the old wifi interface naming that is fully compatible with all the dependencies in airgeddon. From `airgeddon>=11.20` there is an integrated check showing a warning and the recommendation for the change upon interface selection. Information on this can be found here: [on this link](https://github.com/v1s1t0r1sh3r3/airgeddon/wiki/Consistent-Network-Device-Naming).
+It's better to use the old wifi interface naming that is fully compatible with all the dependencies in airgeddon. From `airgeddon>=11.20` there is an integrated check showing a warning and the recommendation for the change upon interface selection. Information on this can be found [here](https://github.com/v1s1t0r1sh3r3/airgeddon/wiki/Consistent-Network-Device-Naming).
 
 ____
 
