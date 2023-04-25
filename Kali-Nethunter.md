@@ -10,6 +10,8 @@ __Known Evil Twin captive portal problem__: If you experience a problem on webse
 
 __Important note__: If you reboot your Kali Nethunter, these commands should be launched again. Probably it could be a good idea to set them to be launched automatically on each reboot in some startup script.
 
+__Other Evil Twin captive portal problem on redirection__: If captive portal is not appearing automatically or not redirecting well, probably it is caused by your kernel due to a non-nftables compatibility. Just force iptables to be used and it will work smoothly. To do that, enable the option setting it to true `AIRGEDDON_FORCE_IPTABLES=true` in the hidden configuration options ".airgeddonrc" file. More info about the available options in the .airgedonrc file is found [here](https://github.com/v1s1t0r1sh3r3/airgeddon/wiki/Options).
+
 More info about Kali Nethunter at it's official page: [Kali Nethunter]
 
 <p align="center">
