@@ -8,7 +8,7 @@
 
 ##### Bettercap 2.x (>=2.28)
 
-The easiest choice. Just download it from [Bettercap official's Github repo] or install it from repositories of your Linux distribution as always.
+The easiest choice. Just download it from [Bettercap official's Github repo] or install it from repositories of your Linux distribution as always. If you are experiencing some kind of problem and Bettercap is showing errors like `error while running caplet` or similar, it also could be related to the Golang version installed in your system. Users reported that using go1.20.1, it should be fine.
 
 ##### Bettercap 1.x (<=1.6.2)
 
