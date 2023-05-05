@@ -14,6 +14,7 @@
   - Integrated sniffing, sslstrip2 and BeEF Browser Exploitation Framework (Hostapd + DHCP + DoS + Bettercap + BeEF)
   - Captive portal with "DNS blackhole" to capture wifi passwords (Hostapd + DHCP + DoS + Dnsspoff + Lighttpd)
   - Optional MAC spoofing for all Evil Twin attacks
+  - Optional advanced captive portal including vendor logos
 - WPS features
   - WPS scanning (wash). Self parameterization to avoid *"bad fcs"* problem
   - Custom PIN association (bully and reaver)
