@@ -12,13 +12,13 @@ For example, let's suppose that you saw during dependencies check this message:
 
 `dhcpd .... Error (Possible package name: isc-dhcp-server / dhcp-server / dhcp)`
 
-It means you are missing the command/binary `dhcpd` and airgeddon suggested the package you need to install could be named `isc-dhcp-server`, `dhcp-server`, or `dhcp`. The name of the package depends on your Linux distribution. Remember that airgeddon is compatible with many of them. See the list of supported and tested Linux distros [here](https://github.com/v1s1t0r1sh3r3/airgeddon/wiki/Compatibility).  
+It means you are missing the command/binary `dhcpd` and `airgeddon` suggested the package you need to install could be named `isc-dhcp-server`, `dhcp-server`, or `dhcp`. The name of the package depends on your Linux distribution. Remember that `airgeddon` is compatible with many of them. See the list of supported and tested Linux distros [here](https://github.com/v1s1t0r1sh3r3/airgeddon/wiki/Compatibility).  
 
 Now let's suppose that you are running Ubuntu Linux. It is a Debian-based Linux distribution, so you should try installing it using the `apt` command. For Debian based, the correct package name is `isc-dhcp-server`. So, it's as simple as launching this command to install the dependency: `sudo apt install isc-dhcp-server`.
 
-In addition, if you are running one of these three Linux distributions: `Kali, Parrot-Security, BlackArch`, airgeddon will prompt you to allow it to try installing the missing dependencies automatically. This is done by a plugin included in airgeddon. Why only on these three Linux variants? It's because they are unique and contain all the needed packages in their repositories out of the box. Is the auto dependency install plugin 100% effective? No, there could be connectivity problems, or repositories could be down. So airgeddon can't assure you a 100% installation on the dependencies. Anyway, most of the time, they do get installed automatically.
+In addition, if you are running one of these three Linux distributions: `Kali, Parrot-Security, BlackArch`, `airgeddon` will prompt you to allow it to try installing the missing dependencies automatically. This is done by a plugin included in `airgeddon`. Why only on these three Linux variants? It's because they are unique and contain all the needed packages in their repositories out of the box. Is the auto dependency install plugin 100% effective? No, there could be connectivity problems, or repositories could be down. So `airgeddon` can't assure you a 100% installation on the dependencies. Anyway, most of the time, they do get installed automatically.
 
-Here is a repository that will help many people to install missing dependencies manually, and it's _ONLY_ for Debian-based Linux distributions. It contains all the needed airgeddon dependencies in a .deb package and some sub-dependencies. They can easily be installed using `sudo dpkg -i <file.deb>` in the right order to avoid dependencies problems: https://github.com/v1s1t0r1sh3r3/airgeddon_deb_packages
+Here is a repository that will help many people to install missing dependencies manually, and it's _ONLY_ for Debian-based Linux distributions. It contains all the needed `airgeddon` dependencies in a .deb package and some sub-dependencies. They can easily be installed using `sudo dpkg -i <file.deb>` in the right order to avoid dependencies problems: https://github.com/v1s1t0r1sh3r3/airgeddon_deb_packages
 
 ____
 
@@ -30,7 +30,7 @@ To check manually if your card is supporting VIF, launch this command `sudo iw l
 
 Usually, Realtek (RTL) chipsets are non-VIF capable and not recommended for wireless hacking. Don't confuse them with Ralink chipsets (RT), these last are usually VIF capable and recommended. Check the list of fully working VIF capable chipsets/cards [here](https://github.com/v1s1t0r1sh3r3/airgeddon/wiki/Cards-and-Chipsets).
 
-If you have more than one wifi card and neither support VIF and or are a blacklisted card or chipset but at least one supports AP mode and both support monitor mode you can try using this [plugin](https://github.com/xpz3/airgeddonplugins/blob/main/multint.sh) to use 2 cards in airgeddon instead of one VIF capable card. One for the fake AP and one to perform DoS. Information on using plugins can be found [here](https://github.com/v1s1t0r1sh3r3/airgeddon/wiki/Plugins%20System).
+If you have more than one wifi card and neither support VIF and or are a blacklisted card or chipset but at least one supports AP mode and both support monitor mode you can try using this [plugin](https://github.com/xpz3/airgeddonplugins/blob/main/multint.sh) to use 2 cards in `airgeddon` instead of one VIF capable card. One for the fake AP and one to perform DoS. Information on using plugins can be found [here](https://github.com/v1s1t0r1sh3r3/airgeddon/wiki/Plugins%20System).
 
 ____
 
@@ -38,7 +38,7 @@ ____
 
 You should see on the fake AP hostapd (xterm upper left) window "AP-ENABLED". If you can see "AP-DISABLED", then something went wrong.
 
-Your wifi chipset probably is not compatible or you have one of the "blacklisted" cards with known problems (mainly Realtek RTL chipsets). To perform an Evil Twin attack, VIF (Virtual Interface) and AP mode features are required on your wifi chipset. Not all wifi chipsets support these modes. You can check what VIF is and how to check if your card is supporting it [here](https://github.com/v1s1t0r1sh3r3/airgeddon/wiki/FAQ%20&%20Troubleshooting#what-is-vif)
+Your wifi chipset probably is not compatible or you have one of the "blacklisted" cards with known problems (mainly Realtek RTL chipsets). To perform an Evil Twin attack, VIF (Virtual Interface) and AP mode features are required on your wifi chipset. Not all wifi chipsets support these modes. You can check what VIF is and how to check if your card is supporting it [here](https://github.com/v1s1t0r1sh3r3/airgeddon/wiki/FAQ%20&%20Troubleshooting#what-is-vif).
 
 If your card is supporting VIF and AP mode and it is still not working for you, maybe it has become buggy and you need to unplug the card and then plug it in again, or maybe you just need to reboot your whole computer. Seems obvious, but sometimes, if your card becomes frozen for some reason, it works.
 
@@ -60,7 +60,7 @@ ____
 
 #### Can the Evil Twin Captive Portal page be customized? If so how?
 
-airgeddon is using by default a neutral nas "less suspicious as possible" captive portal, and from `airgeddon>=11.20` there is also the possibility to use the advanced captive portal which will change color of the portal (but using always the same colour for a target) and showing also a vendor logo based on target AP's BSSID. Anyway, yes, the captive portal page can be customized which can help with tailored attacks. There are two ways to do this.
+`airgeddon` is using by default a neutral and "less suspicious as possible" captive portal, and from `airgeddon>=11.20` there is also the possibility to use the advanced captive portal which will change color of the portal (but using always the same colour for a target) and showing also a vendor logo based on target AP's BSSID. Anyway, yes, the captive portal page can be customized which can help with tailored attacks. There are two ways to do this.
 
 The generic captive portal page files (HTML, CSS, and js) are created during the attack in the `/tmp/www` dir. You can get that files, perform offline customization and then when they are ready, launch the attack again and while the attack is running, copy your customized files to that `/tmp/www` location to overwrite the existing ones. The portal will load showing your custom web page.
 
@@ -70,11 +70,11 @@ ____
 
 #### Once connected to the fake AP created by an Evil Twin attack the captive portal is not automatically triggered or asked for. What am I doing wrong?
 
-Once connected to the fake network, most devices and operating systems (Windows, Mac, iOS, Linux, and Android) should automatically populate the captive portal or prompt that a login to the AP is needed. But there can be varying factors (OS version and manufacture) why some will not, which may be beyond the control of airgeddon.
+Once connected to the fake network, most devices and operating systems (Windows, Mac, iOS, Linux, and Android) should automatically populate the captive portal or prompt that a login to the AP is needed. But there can be varying factors (OS version and manufacture) why some will not, which may be beyond the control of `airgeddon`.
 
 For devices and operating systems that do not automatically open or ask for the captive portal one may need to open a browser to a non https:// (eg. http://example.com) page. Going to an https:// page (google.com, facebook.com, etc...) will not work and is normal because they are https:// by default and do not support http://.
 
-The reason for this behavior is that to trigger a captive portal for SSL/TLS (https://) pages, an SSL/TLS certificate is needed at the portal. And the free self-signed certificates are not an option due to the warning messages they generate when a page using them is visited making the captive portal untrusted. The free Let's Encrypt 90 days valid SSL/TLS certificate is also not an option due to the constant need for renewal and the maintenance required. So airgeddon staff decided to let it as it is. It's better to have a "page not shown" error than an "insecure page warning" message shown because of a self-signed SSL/TLS certificate.
+The reason for this behaviour is that to trigger a captive portal for SSL/TLS (https://) pages, an SSL/TLS certificate is needed at the portal. And the free self-signed certificates are not an option due to the warning messages they generate when a page using them is visited making the captive portal untrusted. The free Let's Encrypt 90 days valid SSL/TLS certificate is also not an option due to the constant need for renewal and the maintenance required. So `airgeddon` staff decided to let it as it is. It's better to have a "page not shown" error than an "insecure page warning" message shown because of a self-signed SSL/TLS certificate.
 
 ____
 
@@ -82,23 +82,23 @@ ____
 
 During a standard Evil Twin attack, your wireless VIF capable card is split into two logical interfaces. One to create the fake Access Point and another to perform the DoS in monitor mode. During the attack, if the target AP is configured in channel "Auto" and if the victim resets/reboots it due to lack of connectivity resulting from the Denial of Service (DoS) attack, once reset/rebooted, it may switch to another channel rendering our attack performing DoS over the wrong channel and the victim re-establish the connectivity.
 
-To avoid the above situation, airgeddon implemented DoS Pursuit Mode. To enable this mode in Evil Twin attacks you'll need an additional (second) wireless card that supports monitor mode. The first card will be used as normal (DoS and fake AP) and it needs to be VIF capable. For more information about what VIF is, check [here](https://github.com/v1s1t0r1sh3r3/airgeddon/wiki/FAQ%20&%20Troubleshooting#what-is-vif). The second one (no need to be VIF capable) will be used to scan in the background and check if the target AP changed the channel it's on. If the situation described before happens and the target AP switches its channel, it will be detected by airgeddon, and the attack will re-launch the DoS and the fake AP over the new channel alerting us about this. In this way, the target AP is "pursued" even on channel hopping making the Evil Twin a much more effective attack. DoS Pursuit Mode is also available in the DoS attack menu. 
+To avoid the above situation, `airgeddon` implemented DoS Pursuit Mode. To enable this mode in Evil Twin attacks you'll need an additional (second) wireless card that supports monitor mode. The first card will be used as normal (DoS and fake AP) and it needs to be VIF capable. For more information about what VIF is, check [here](https://github.com/v1s1t0r1sh3r3/airgeddon/wiki/FAQ%20&%20Troubleshooting#what-is-vif). The second one (no need to be VIF capable) will be used to scan in the background and check if the target AP changed the channel it's on. If the situation described before happens and the target AP switches its channel, it will be detected by `airgeddon`, and the attack will re-launch the DoS and the fake AP over the new channel alerting us about this. In this way, the target AP is "pursued" even on channel hopping making the Evil Twin a much more effective attack. DoS Pursuit Mode is also available in the DoS attack menu. 
 
 ____
 
 #### My Linux has a weird wireless interface name like `wlx00c0ca9208dc` instead of `wlan0`, and I'm getting errors. What can I do?
 
-For some Linux distributions like Ubuntu, Parrot OS, and Debian, the default naming for network devices uses the new nomenclature. This can cause errors while using `airgeddon` because some third-party tools that airgeddon uses aren't compatible with this wireless device name nomenclature. 
+For some Linux distributions like Ubuntu, Parrot OS, and Debian, the default naming for network devices uses the new nomenclature. This can cause errors while using `airgeddon` because some third-party tools that `airgeddon` uses aren't compatible with this wireless device name nomenclature. 
 
-It's better to use the old wifi interface naming that is fully compatible with all the dependencies in airgeddon. From `airgeddon>=11.20` there is an integrated check showing a warning and the recommendation for the change upon interface selection. Information on this can be found [here](https://github.com/v1s1t0r1sh3r3/airgeddon/wiki/Consistent-Network-Device-Naming).
+It's better to use the old wifi interface naming that is fully compatible with all the dependencies in `airgeddon`. From `airgeddon>=11.20` there is an integrated check showing a warning and the recommendation for the change upon interface selection. Information on this can be found [here](https://github.com/v1s1t0r1sh3r3/airgeddon/wiki/Consistent-Network-Device-Naming).
 
 ____
 
 #### When I start airgeddon, I see this message "No graphics system was detected"
 
-This message appears when airgeddon can't connect to your X Windows System for whatever reason. Maybe you have a restricted configuration. From `airgeddon>=11.11` the message is self-explanatory. The tool will detect if there is an existing graphics system (X windows or Wayland) and it will suggest a command to be executed before launching `airgeddon`.
+This message appears when `airgeddon` can't connect to your X Windows System for whatever reason. Maybe you have a restricted configuration. From `airgeddon>=11.11` the message is self-explanatory. The tool will detect if there is an existing graphics system (X windows or Wayland) and it will suggest a command to be executed before launching `airgeddon`.
 
-Try; launching the command `xhost +` before launching airgeddon if you have an X Windows system. Try; to launch the command `xhost +SI:localuser:root` before launching airgeddon if you have Wayland graphics. That should fix the problem. More details are available here: [Wayland section at wiki](https://github.com/v1s1t0r1sh3r3/airgeddon/wiki/Wayland).
+Try; launching the command `xhost +` before launching `airgeddon` if you have an X Windows system. Try; to launch the command `xhost +SI:localuser:root` before launching `airgeddon` if you have Wayland graphics. That should fix the problem. More details are available here: [Wayland section at wiki](https://github.com/v1s1t0r1sh3r3/airgeddon/wiki/Wayland).
 
 Maybe your system is headless (without a graphical system), or maybe you just want not to use it. In that case, other options are available. Tmux can be used instead of xterm. It can be set in the hidden `.airgeddonrc` file. More info about it [here](https://github.com/v1s1t0r1sh3r3/airgeddon/wiki/Options).
 
