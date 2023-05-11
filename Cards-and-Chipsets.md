@@ -2,6 +2,8 @@ In `airgeddon<=8.10`, only `airmon` compatible wireless cards are supported. If 
 
 _Rating legend_: --- Best --- :heart_eyes: :smile: :relaxed: :neutral_face: :disappointed: --- Worst ---
 
+## Whitelist
+
 __Ordered alphabetically, some known compatible and fully working VIF capable chipsets/cards (Whitelist, recommended)__:
 
 Users rating | Chipset | Card/s using it | Band/s | Interface | Link/Buy | Additional comments
@@ -21,7 +23,9 @@ Users rating | Chipset | Card/s using it | Band/s | Interface | Link/Buy | Addit
 
 Of course, there are more compatible and fully working chipsets, these are only some examples. Moreover, there are more cards and devices using the chipsets listed here as well. We list only some examples of cards to buy which are using fully working VIF capable chipsets.
 
-__Ordered alphabetically, chipsets with known problems (Blacklist, not recommended)__:
+## Blacklist
+
+__Ordered alphabetically, chipsets with known problems or non-VIF capable chipsets/cards (Blacklist, not recommended)__:
 
  - Intel Centrino Advanced-N 6205 <- _present integrated in many laptops (2.4Ghz/5Ghz - PCIe)_
  - MediaTek MT7601U <- _present in some unbranded cheap chinese dongles (2.4Ghz - USB)_
