@@ -18,14 +18,20 @@ Users rating | Chipset | Card/s using it | Band/s | Interface | Link/Buy | Addit
 :smile: | Ralink RT5370 | Panda PAU04 | 2.4Ghz | USB | [Link](https://amzn.to/3MV7fGf) | 
 :smile: | Ralink RT5372 | D-Link DWA-137 / Panda PAU06 | 2.4Ghz | USB | [Link](https://amzn.to/3HYJBF0) | 
 :heart_eyes: | Ralink RT5572 | Panda PAU07 / Panda PAU09 | 2.4Ghz/5Ghz| USB | [Link](https://amzn.to/3IYOWgM) | 
-:disappointed: | Realtek RTL8187 | Alfa AWUS036H / Alfa AWUS036EW | 2.4Ghz | USB | [Link](https://amzn.to/3KnkvkE) | May require patched driver
 :neutral_face: | Realtek RTL8723BE | Realtek RTL8723BE card | 2.4Ghz | PCIe | [Link](https://amzn.to/3ibZP6E) | 
 
-Of course, there are more compatible and fully working chipsets, these are only some examples. Moreover, there are more cards and devices using the chipsets listed here as well. We list only some examples of cards to buy which are using fully working VIF capable chipsets.
+Of course, there are more compatible and fully working chipsets, these are only some examples. Moreover, there are more cards and devices using the chipsets listed here as well. We list only some examples of cards to buy which are using fully working VIF (Multiple Virtual Interface) capable chipsets.
+
+## Greylist
+
+__Ordered alphabetically, VIF capable chipsets but they are giving some problems and depending on driver and kernel can work. They require patched drivers (Greylist, not recommended)__:
+
+ - Realtek RTL8187 <- _present in Alfa AWUS036H / Alfa AWUS036EW (2.4Ghz - USB)_
+ - Realtek RTL8821CE <- present in Realtek RTL8821CE card (2.4Ghz/5Ghz - PCIe)
 
 ## Blacklist
 
-__Ordered alphabetically, chipsets with known problems or non-VIF capable chipsets/cards (Blacklist, not recommended)__:
+__Ordered alphabetically, chipsets with known problems or non-VIF capable chipsets/cards (Blacklist, not recommended at all)__:
 
  - Intel Centrino Advanced-N 6205 <- _present integrated in many laptops (2.4Ghz/5Ghz - PCIe)_
  - MediaTek MT7601U <- _present in some unbranded cheap chinese dongles (2.4Ghz - USB)_
@@ -35,7 +41,6 @@ __Ordered alphabetically, chipsets with known problems or non-VIF capable chipse
  - Realtek RTL8812AU <- _present in Alfa AWUS036ACH (2.4Ghz/5Ghz - USB)_
  - Realtek RTL8812BU <- _present in Comfast CF-913AC (2.4Ghz/5Ghz - USB)_
  - Realtek RTL8814AU <- _present in TP-LINK Archer T9UH / Alfa AWUS1900 (2.4Ghz/5Ghz - USB)_
- - Realtek RTL8821CE <- _present in Realtek RTL8821CE card (2.4Ghz/5Ghz - PCIe)_
 
 These chipsets/cards are causing problems when working with `airmon`. As a consequence there are problems when working with `airgeddon` too. There are some reasons: airmon compatibility and available drivers. There are some closed issues discussing different problems while using them. We recommend to don't use these cards.
 
