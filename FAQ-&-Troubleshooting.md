@@ -60,6 +60,7 @@ ____
 
 #### Can the Evil Twin Captive Portal page be customized? If so how?
 
+airgeddon is using by default
 Yes, the captive portal page can be customized which can help with tailored attacks. There are two ways to do this.
 
 The genetic captive portal page files (HTML, CSS, and js) are created during the attack in the `/tmp/www` dir. You can get that file, perform offline customization and then when they are ready, launch the attack again and while the attack is running, copy your customized files to that `/tmp/www` location to overwrite the existing ones. The portal will load showing your custom web page.
@@ -114,4 +115,4 @@ Quick (and painful) fixes:
 
 This problem does not usually occur in VMWare or using native Linux running on hardware, not in a VM.
 
-Another workaround would be to try changing the USB speed. Either plug your USB wifi card into a different USB port (from 2.0 to 3.0, or to 1.1 or vice versa if available) or change the USB speed settings within your VM (from 2.0 to 3.0). It's also recommended to power off the VM to do these changes. If using VirtualBox, its also recommended to install the Extension Pack from [here](https://www.virtualbox.org/wiki/Downloads).
+Another workaround would be to try changing the USB speed. Either plug your USB wifi card into a different USB port (from 2.0 to 3.0, or to 1.1 or vice versa if available) or change the USB speed settings within your VM (from 2.0 to 3.0 or vice versa). It's also recommended to power off the VM to do these changes. If using VirtualBox, its also recommended to install the Extension Pack from [here](https://www.virtualbox.org/wiki/Downloads).
