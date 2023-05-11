@@ -22,6 +22,18 @@ Here is a repository that will help many people to install missing dependencies 
 
 ____
 
+#### What is VIF?
+
+VIF (Virtual Interface) is the ability to split one physical card into 2 logical cards. This is used during the Evil Twin attack to keep one acting as an AP and the other performing DoS in monitor mode. From `airgeddon>=10.42` there is an integrated check for this before launching any Evil Twin attack. 
+
+To check manually if your card is supporting VIF, launch this command `sudo iw list | grep "Supported interface modes" -A 8` (this command is case sensitive and typed wrong will result in the wrong output or none at all) and you should see in the output AP/VLAN (just AP is not enough), otherwise, your card is not supporting the required VIF. 
+
+Usually, Realtek (RTL) chipsets are non-VIF capable and not recommended for wireless hacking. Don't confuse them with Ralink chipsets (RT), these last are usually VIF capable and recommended. Check the list of fully working VIF capable chipsets/cards [here](https://github.com/v1s1t0r1sh3r3/airgeddon/wiki/Cards-and-Chipsets).
+
+If you have more than one wifi card and neither support VIF and or are a blacklisted card or chipset but at least one supports AP mode and both support monitor mode you can try using this [plugin](https://github.com/xpz3/airgeddonplugins/blob/main/multint.sh) to use 2 cards in airgeddon instead of one VIF capable card. One for the fake AP and one to perform DoS. Information on using plugins can be found [here](https://github.com/v1s1t0r1sh3r3/airgeddon/wiki/Plugins%20System).
+
+____
+
 #### My fake AP is not working on any Evil Twin attack. Why?
 
 You should see on the fake AP hostapd (xterm upper left) window "AP-ENABLED". If you can see "AP-DISABLED", then something went wrong.
