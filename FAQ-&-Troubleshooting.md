@@ -1,4 +1,4 @@
-This section is to help clarify some common doubts and problems (Frequently Asked Questions) along with some common troubleshooting steps. Remember that you can also join our Discord server by clicking on the public invitation link [here](https://discord.gg/sQ9dgt9) to find and receive more help not answered here.
+This section is to help clarify some common doubts and problems (Frequently Asked Questions) along with some common troubleshooting steps. Remember that you can also join our **Discord server** by clicking on the public invitation link [here](https://discord.gg/sQ9dgt9) to find and receive more help not answered here.
 
 ____
 
@@ -38,9 +38,7 @@ ____
 
 You should see on the fake AP hostapd (xterm upper left) window "AP-ENABLED". If you can see "AP-DISABLED", then something went wrong.
 
-Your wifi chipset probably is not compatible or you have one of the "blacklisted" cards with known problems (mainly Realtek RTL chipsets). To perform an Evil Twin attack, VIF (Virtual Interface) and AP mode features are required on your wifi chipset. Not all wifi chipsets support these modes. VIF is the ability to split a physical card into logical cards. This is used during an Evil Twin attack to keep one acting as an AP and the other performing DoS in monitor mode.
-
-To check if your card is supporting VIF and AP mode launch this command `iw list | grep "Supported interface modes" -A 8` (this command is case sensitive and incorrectly typed will result in the wrong output or none at all), and you should see in the output `AP/VLAN` (just `AP` is not enough), otherwise, your card is not supporting the required VIF and or AP mode. From `airgeddon>=10.42` an integrated check for your wifi chipset supporting VIF was included before launching any Evil Twin attack. Check the list of fully working cards/chipsets and the cards/chipsets with known problems [here](https://github.com/v1s1t0r1sh3r3/airgeddon/wiki/Cards%20and%20Chipsets).
+Your wifi chipset probably is not compatible or you have one of the "blacklisted" cards with known problems (mainly Realtek RTL chipsets). To perform an Evil Twin attack, VIF (Virtual Interface) and AP mode features are required on your wifi chipset. Not all wifi chipsets support these modes. You can check what VIF is and how to check if your card is supporting it [here](https://github.com/v1s1t0r1sh3r3/airgeddon/wiki/FAQ%20&%20Troubleshooting#what-is-vif)
 
 If your card is supporting VIF and AP mode and it is still not working for you, maybe it has become buggy and you need to unplug the card and then plug it in again, or maybe you just need to reboot your whole computer. Seems obvious, but sometimes, if your card becomes frozen for some reason, it works.
 
