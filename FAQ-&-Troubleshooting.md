@@ -60,10 +60,9 @@ ____
 
 #### Can the Evil Twin Captive Portal page be customized? If so how?
 
-airgeddon is using by default
-Yes, the captive portal page can be customized which can help with tailored attacks. There are two ways to do this.
+airgeddon is using by default a neutral nas "less suspicious as possible" captive portal, and from `airgeddon>=11.20` there is also the possibility to use the advanced captive portal which will change color of the portal (but using always the same colour for a target) and showing also a vendor logo based on target AP's BSSID. Anyway, yes, the captive portal page can be customized which can help with tailored attacks. There are two ways to do this.
 
-The genetic captive portal page files (HTML, CSS, and js) are created during the attack in the `/tmp/www` dir. You can get that file, perform offline customization and then when they are ready, launch the attack again and while the attack is running, copy your customized files to that `/tmp/www` location to overwrite the existing ones. The portal will load showing your custom web page.
+The generic captive portal page files (HTML, CSS, and js) are created during the attack in the `/tmp/www` dir. You can get that files, perform offline customization and then when they are ready, launch the attack again and while the attack is running, copy your customized files to that `/tmp/www` location to overwrite the existing ones. The portal will load showing your custom web page.
 
 The second (more elegant) method is to create a plugin to perform this task. You can hook the _set_captive_portal_page_ function overriding the content to create your custom webpage. Just fill the plugin template file (plugin_template.sh) in the plugins dir. More info about plugins creation and creating custom captive portals can be found [here](https://github.com/v1s1t0r1sh3r3/airgeddon/wiki/Plugins%20System), [here](https://github.com/KeyofBlueS/airgeddon-plugins/blob/master/custom_portals.sh) and [here](https://github.com/KeyofBlueS/airgeddon-plugins/issues/15).
 
