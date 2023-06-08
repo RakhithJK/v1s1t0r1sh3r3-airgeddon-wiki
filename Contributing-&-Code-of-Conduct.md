@@ -99,11 +99,11 @@ Check the [Sponsorship page](https://github.com/sponsors/v1s1t0r1sh3r3) or direc
 
 ### Sponsors/Supporters
 
- - Thanks to our first one shot supporter [ReajulHasanRaju](https://github.com/ReajulHasanRaju) (account disappeared :pensive:)
+ - Thanks to our first one shot supporter [ReajulHasanRaju](https://github.com/ReajulHasanRaju) (GitHub account disappeared :pensive:)
 
  - Thanks to [Raleigh2016](https://github.com/Raleigh2016) for his sponsorship (one shot and Alien sponsor tier) :pray:
 
- - Thanks to [hmmlaple](https://github.com/hmmlaple) (Twitter [@hmmlopl](https://twitter.com/hmmlopl)) and [codythebeast89](https://github.com/codythebeast89) for their one shot sponsorships
+ - Thanks to [hmmlaple](https://github.com/hmmlaple) (GitHub account disappeared) (Twitter [@hmmlopl](https://twitter.com/hmmlopl)) and [codythebeast89](https://github.com/codythebeast89) for their one shot sponsorships
 
 To be here, you must collaborate [sponsoring the project](https://github.com/sponsors/v1s1t0r1sh3r3).
 
