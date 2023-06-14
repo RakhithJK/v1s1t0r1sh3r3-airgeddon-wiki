@@ -40,7 +40,7 @@
 - All the plugin makers who are contributing to extend the features and functionality of `airgeddon`
 - [BashSupport] & [BashSupport Pro] developer [jansorg] for his effort maintaining the Bash plugin for IntelliJ platform
 - [koalaman] and other contributors for creating the useful [Shellcheck] tool to improve our bash code
-- The [Parrot] crew and specially to [Palinuro] for adding `airgeddon` to their repositories
+- The [Parrot] crew and specially to [Palinuro] for adding `airgeddon` to their repositories and [danterolle] for his help maintaining it
 - [Pentoo] staff for adding the tool to their repositories and specially to [ZeroChaos]
 - [Kali] team for adding airgeddon to their repositories and specially to [g0tmi1k] and [sbrun]
 - The [Hack&Beers] and [H-c0n] managers for letting me promote `airgeddon` on their events
@@ -102,3 +102,4 @@
 [BoBeR182]: https://github.com/BoBeR182
 [masi]: https://github.com/masipro
 [noraj]: https://github.com/noraj
+[danterolle]: https://github.com/danterolle
