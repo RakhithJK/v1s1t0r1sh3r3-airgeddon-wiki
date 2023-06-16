@@ -17,7 +17,7 @@ Different languages can be set from the `airgeddon`'s options and language menu.
 - ![Spanish][Spanish] Spanish
 - ![Turkish][Turkish] Turkish
 
-It would be great to have it translated to any other language, but we'd like especially:
+Working in progress to translate it to:
 - ![Chinese][Chinese] Chinese
 
 If you want to see `airgeddon` translated to your language, don't hesitate to contact us to make it real!
