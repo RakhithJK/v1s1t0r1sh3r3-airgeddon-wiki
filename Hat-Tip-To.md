@@ -23,6 +23,7 @@
 - [cjb900] for his hard work helping the community on issues/Discord/wiki and his infinite patience
 - [BoBeR182] for helping on maintenance of airgeddon's Arch AUR package and other AUR dependencies packages
 - [masi] for help received on development
+- [Z cb] for Chinese translations
 - [OscarAkaElvis] for allowing me to own his body when I visit the earth
 
 #### Others
@@ -103,3 +104,4 @@
 [masi]: https://github.com/masipro
 [noraj]: https://github.com/noraj
 [danterolle]: https://github.com/danterolle
+[Z cb]: https://github.com/zcbxxx1
