@@ -118,7 +118,7 @@ Another workaround would be to try changing the USB speed. Either plug your USB 
 
 ____
 
-#### When I use a non-latin chars language like chinese, I see odd chars on xterm windows
+#### When I use a non-latin-chars language like chinese, I see odd chars on xterm windows
 
 This happens due to your xterm configuration. It has a very easy fix. Edit `/etc/X11/app-defaults/XTerm` file and add this line to the end of the file:
 
