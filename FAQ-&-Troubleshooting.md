@@ -115,3 +115,13 @@ Quick (and painful) fixes:
 This problem does not usually occur in VMWare or using native Linux running on hardware, not in a VM.
 
 Another workaround would be to try changing the USB speed. Either plug your USB wifi card into a different USB port (from 2.0 to 3.0, or to 1.1 or vice versa if available) or change the USB speed settings within your VM (from 2.0 to 3.0 or vice versa). It's also recommended to power off the VM to do these changes. If using VirtualBox, its also recommended to install the Extension Pack from [here](https://www.virtualbox.org/wiki/Downloads).
+
+____
+
+#### When I use a non-latin chars language like chinese, I see odd chars on xterm windows
+
+This happens due to your xterm configuration. It has a very easy fix. Edit `/etc/X11/app-defaults/XTerm` file and add this line to the end of the file:
+
+```
+xterm*faceName: DejaVu Sans Mono:antialias=True:pixelsize=10
+```
