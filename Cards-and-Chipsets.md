@@ -46,7 +46,7 @@ __Ordered alphabetically, chipsets with known problems or non-VIF capable chipse
 
 These chipsets/cards are causing problems when working with `airmon`. As a consequence there are problems when working with `airgeddon` too. There are some reasons: airmon compatibility and available drivers. There are some closed issues discussing different problems while using them. We recommend to don't use these cards.
 
-__Realtek fix__
+__Realtek partial fix__
 
 One community member worked hard in a solution for Realtek chipset based cards creating a plugin to fix the different behavior of these cards due the drivers. It was already released. Check [Wiki Plugins Hall of Fame Section] for more info. The plugin is valid for `airgeddon=v10.0` but if you have `airgeddon>=10.01` the plugin is not needed anymore because the fix was already included in the core code. Anyway, the plugin fixes the known problems for mode switching but there still are other problems not related to airgeddon that may consist in WPS failure, errors creating fake APs or non effective DoS during Evil Twin attacks due to lack of VIF capability. That problems are directly related to the hardware or the driver and airgeddon can't do anything to deal with that.
 
