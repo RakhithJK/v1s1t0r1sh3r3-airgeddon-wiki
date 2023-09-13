@@ -7,8 +7,8 @@
  aireplay-ng  | aircrack-ng              | &#8901; | tshark        | tshark \| wireshark-cli                              
  mdk3/mdk4    | mdk3/mdk4                | &#8901; | dhcpd         | isc-dhcp-server \| dhcp-server \| dhcp               
  hashcat      | hashcat                  | &#8901; | dnsmasq       | dnsmasq                                              
- hostapd      | hostapd                  | &#8901; | wash          | reaver                                               
- lighttpd     | lighttpd                 | &#8901; | reaver        | reaver                                               
+ hostapd      | hostapd                  | &#8901; | wash/reaver   | reaver                                               
+ lighttpd     | lighttpd                 | &#8901; | tcpdump       | tcpdump                                              
  nft/iptables | nftables/iptables        | &#8901; | bully         | bully                                                
  bettercap    | bettercap                | &#8901; | pixiewps      | pixiewps                                             
  beef         | beef-xss \| beef-project | &#8901; | asleap        | asleap                                               
