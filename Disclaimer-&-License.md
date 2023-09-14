@@ -5,7 +5,9 @@ This script is licensed under **GPLv3+**.
 
 `airgeddon` should be used for authorized penetration testing and/or nonprofit educational purposes only.
 **Any misuse of this software will not be the responsibility of the author or of any other collaborator**.
-Use it at your own networks and/or with the network owner's permission.
+Use it ONLY at your own networks and/or with the network owner's permission.
+
+This project is created to help cybersecurity professionals to save time during wireless assessments.
 
 [License File]: http://gplv3.fsf.org/gplv3-127x51.png
 [License]: https://github.com/v1s1t0r1sh3r3/airgeddon/blob/master/LICENSE
