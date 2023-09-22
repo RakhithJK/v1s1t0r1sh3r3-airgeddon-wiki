@@ -25,7 +25,7 @@ Sure you can! just follow the steps to add a plugin adding the bash template and
 
 #### How can I install a plugin already done by somebody?
 
-Easy task, just take the `.sh` file and place it at plugins dir. Be sure that the plugin will match your airgeddon version and your Linux distribution. You can find that info inside the plugin itself at the beginning of the file set in some vars. This is an example on which a plugin will support only some Linux and from airgeddon v10.0 or higher: 
+Easy task, just take the `.sh` file and place it at plugins dir. Be sure that the plugin will match your airgeddon version and your Linux distribution. You can find that info inside the plugin itself at the beginning of the file set in some vars. This is an example on which a plugin will support only some Linux distributions and airgeddon v10.0 or higher: 
 
 ```
 plugin_minimum_ag_affected_version="10.0"
