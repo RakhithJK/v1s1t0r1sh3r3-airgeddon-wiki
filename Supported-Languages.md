@@ -6,6 +6,7 @@ Different languages can be set from the `airgeddon`'s options and language menu.
 
 - ![Arabic][Arabic] Arabic
 - ![Catalan][Catalan] Catalan
+- ![Chinese][Chinese] Chinese
 - ![English][English] English
 - ![French][French] French
 - ![German][German] German
@@ -16,9 +17,6 @@ Different languages can be set from the `airgeddon`'s options and language menu.
 - ![Russian][Russian] Russian
 - ![Spanish][Spanish] Spanish
 - ![Turkish][Turkish] Turkish
-
-Already translated, not released yet. Available on v10.21 (dev branch):
-- ![Chinese][Chinese] Chinese
 
 If you want to see `airgeddon` translated to your language, don't hesitate to contact us to make it real!
 
