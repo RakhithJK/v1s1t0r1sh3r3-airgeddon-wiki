@@ -27,6 +27,7 @@ Of course, there are more compatible and fully working chipsets, these are only 
 __Ordered alphabetically, VIF capable chipsets but they are giving some problems and depending on driver and kernel can work. They require patched drivers (Greylist, not recommended)__:
 
  - Atheros AR9170 <- _present in TP-Link TL-WN822N v1 (2.4Ghz - USB)_
+ - Intel AX201 <- _present integrated in many laptops (2.4Ghz/5Ghz - PCIe)_
  - Realtek RTL8187 <- _present in Alfa AWUS036H / Alfa AWUS036EW (2.4Ghz - USB)_
  - Realtek RTL8821CE <- _present in Realtek RTL8821CE card (2.4Ghz/5Ghz - PCIe)_
  - Realtek RTL8822CE <- _present in Realtek RTL8822CE card (2.4Ghz/5Ghz - PCIe)_
