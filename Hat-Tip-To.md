@@ -32,7 +32,7 @@
 - The [Wifislax] staff
 - The [BlackArch] community and specially to [noptrix], [Edu4rdSHL] and [noraj] for their support
 - The [ArchStrike] staff and the maintainers, specially [Cthulu201] and [xorond] who in addition helped on some translations
-- The forum people of [Seguridadwireless.net], [Wifi-libre.com] and old deleted Lampiweb.com site
+- The forum people of [Seguridadwireless.net], [Wifi-libre.com] (before 2023 when it was still a good forum before restrictions) and old deleted Lampiweb.com site
 - The [Hackware.ru] admins
 - All the people who helped building the online PIN database for WPS
 - Dominique Bongard for creating Pixie Dust attacks and [wiire] for developing pixiewps tool
