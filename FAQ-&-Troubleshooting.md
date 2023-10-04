@@ -106,7 +106,7 @@ ____
 
 #### When I scan for wireless networks, no networks are found
 
-This can happen to anybody due to a frozen wireless adapter and is usually solved by unplugging and replugging your USB wireless card. But it can also happen under special circumstances. The most probable scenario where this is happening is when you are using `airgeddon` inside a VM (Virtual Machine) and typically this happens in VirtualBox for some adapters (typically some Ralink RTxxxx chipsets).
+This can happen to anybody due to a frozen wireless adapter and is usually solved by unplugging and replugging your USB wireless card. Sometimes could mean that the chipset of your adapter is not a good one. But it can also happen for well working and compatible chipsets under special circumstances: the most probable scenario where this is happening while using a working and compatible chipset is when you are using `airgeddon` inside a VM (Virtual Machine) and typically this happens in VirtualBox for some adapters (typically some Ralink RTxxxx chipsets).
 
 Quick (and painful) fixes:
  - Use native Linux
