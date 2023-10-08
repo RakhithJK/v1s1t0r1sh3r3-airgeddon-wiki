@@ -48,7 +48,7 @@ ____
 
 First of all, you must be sure about that. Sometimes it is hard to detect that it's not working. The best option is to test DoS on your own network before performing the real audit. Anyway, Denial Of Service is tricky, it is not an exact science.
 
-If the target network is using pure WPA3 encryption (SAE), deauth attacks will not work. You can find also 802.11w protections which will make your deauth to fail but that kind of protections are very uncommon unless you are on a corporate environment (devices supporting this are usually expensive).
+If the target network is using pure WPA3 encryption (SAE), deauth attacks will not work. WPA3 includes by default 802.11w (PMF, Protected Management Frames). You can find also 802.11w protections against deauth on WPA2 but that kind of protections on WPA2 are very uncommon unless you are on a corporate environment (devices supporting this are usually expensive).
 
 Regarding WPA/WPA2, not all attacks work against every APs and its clients. Sometimes, clients are taken down only partially, while others remain unaffected even on the same Access Point. It depends on many factors and variables: Chipset used to perform the attack, type of client (Android, computer, Apple device, etc), Access Point, distance and signal to the target, etc. The signal strength is of greater significance, which must be powerful enough. If you think it is not working, you should try a different DoS attack: mdk4, aireplay, or even mdk3 which can be set instead of mdk4 modifying the configuration options. More info about the available options can be found [here](https://github.com/v1s1t0r1sh3r3/airgeddon/wiki/Options).
 
