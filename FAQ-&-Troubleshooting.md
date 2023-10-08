@@ -46,7 +46,7 @@ ____
 
 #### DoS (Deauth) is not working. What can I do?
 
-First of all, you must be sure about that. Sometimes it is hard to detect that it's not working. The best option is to test DoS on your own network before performing the real audit. Anyway, Denial Of Service is tricky, it is not an exact science.
+First of all, you must be sure about that. Sometimes it is hard to detect that it's not working. The best option is to test DoS on your own network before performing the real assessment. Anyway, Denial Of Service is tricky, it is not an exact science.
 
 If the target network is using pure WPA3 encryption (SAE), deauth attacks will not work. WPA3 includes by default 802.11w (PMF, Protected Management Frames). You can find also 802.11w protections against deauth on WPA2 but that kind of protections on WPA2 are very uncommon unless you are on a corporate environment (devices supporting this are usually expensive).
 
