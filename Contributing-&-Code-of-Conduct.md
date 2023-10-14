@@ -103,7 +103,7 @@ Check the [Sponsorship page](https://github.com/sponsors/v1s1t0r1sh3r3) or direc
 
  - Thanks to [Raleigh2016](https://github.com/Raleigh2016) for his sponsorship (one shot and Alien sponsor tier) :pray:
 
- - Thanks to [hmmlaple](https://github.com/hmmlaple) (GitHub account disappeared) (Twitter [@hmmlopl](https://twitter.com/hmmlopl)) and [codythebeast89](https://github.com/codythebeast89) for their one shot sponsorships
+ - Thanks to [hmmlaple](https://github.com/hmmlaple) (GitHub account disappeared) (Twitter X [@hmmlopl](https://twitter.com/hmmlopl)) and [codythebeast89](https://github.com/codythebeast89) for their one shot sponsorships
 
 To be here, you must collaborate [sponsoring the project](https://github.com/sponsors/v1s1t0r1sh3r3).
 
@@ -121,7 +121,7 @@ Top donors:
  - Roberto Val
  - [masi](https://github.com/masipro)
 
-If you want to be here, send me some data (mail, link, twitter account, etc) with your donation.
+If you want to be here, send me some data (mail, link, Twitter X account, etc) with your donation.
 
 [Contributing File]: https://github.com/v1s1t0r1sh3r3/airgeddon/blob/master/CONTRIBUTING.md
 [Code of Conduct]: https://github.com/v1s1t0r1sh3r3/airgeddon/blob/master/CODE_OF_CONDUCT.md
