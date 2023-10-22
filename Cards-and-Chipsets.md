@@ -8,7 +8,7 @@ __Ordered by users' rating, some known compatible and fully working VIF capable 
 
 Users' rating | Chipset | Card/s using it | Band/s | Interface | Link/Buy | Additional comments
 :------------|:--------|:----------------|:------:|:---------:|:--------:|:-------------------
-:heart_eyes: | Mediatek MT7921AUN | Alfa AWUS036AXML | 2.4Ghz / 5Ghz / 6Ghz | USB | [Link](https://amzn.to/3tAFmOz) | Not working on Parrot OS (vm or native) |
+:heart_eyes: | Mediatek MT7921AUN | Alfa AWUS036AXML | 2.4Ghz / 5Ghz / 6Ghz | USB | [Link](https://amzn.to/3tAFmOz) | Includes bluetooth chipset. Not working on Parrot OS (vm or native) |
 :heart_eyes: | Mediatek MT7921AUN | Alfa AWUS036AXM | 2.4Ghz / 5Ghz / 6Ghz | USB | [Link](https://amzn.to/3MaWW27) | Not working on Parrot OS (vm or native) |
 :heart_eyes: | MediaTek MT7612U | Alfa AWUS036ACM | 2.4Ghz / 5Ghz | USB | [Link](https://amzn.to/3P4wc35) | Not recommended for Virtual Machines if your host is Windows, only Native Linux or Linux VM at Linux host. Recommended kernel >= 5.3 . For Rpi 2/3 run this command to get it working ```echo "options mt76_usb disable_usb_sg=1" > /etc/modprobe.d/mt76_usb.conf``` |
 :heart_eyes: | Ralink RT5572 | Panda PAU07 / Panda PAU09 | 2.4Ghz / 5Ghz| USB | [Link](https://amzn.to/3IYOWgM) |
