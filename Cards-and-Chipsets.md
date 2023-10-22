@@ -12,7 +12,7 @@ Users rating | Chipset | Card/s using it | Band/s | Interface | Link/Buy | Addit
 :heart_eyes: | Mediatek MT7921AUN | Alfa AWUS036AXM | 2.4Ghz / 5Ghz / 6Ghz | USB | [Link](https://amzn.to/3MaWW27) |
 :heart_eyes: | MediaTek MT7612U | Alfa AWUS036ACM | 2.4Ghz / 5Ghz | USB | [Link](https://amzn.to/3P4wc35) | Not recommended for Virtual Machines if your host is Windows, only Native Linux or Linux VM at Linux host. Recommended kernel >= 5.3 . For Rpi 2/3 run this command to get it working ```echo "options mt76_usb disable_usb_sg=1" > /etc/modprobe.d/mt76_usb.conf``` |
 :heart_eyes: | Ralink RT5572 | Panda PAU07 / Panda PAU09 | 2.4Ghz / 5Ghz| USB | [Link](https://amzn.to/3IYOWgM) |
-:smile: | Atheros AR9271 | Alfa AWUS036NHA / TP-Link TL-WN722N v1 | 2.4Ghz | USB | [Link](https://amzn.to/3sRWE6L) | 
+:smile: | Atheros AR9271 | Alfa AWUS036NHA / TP-Link TL-WN722N v1 | 2.4Ghz | USB | [Link](https://amzn.to/3sRWE6L) | Works like a charm, but is old stuff |
 :smile: | Ralink RT5370 | Panda PAU04 | 2.4Ghz | USB | [Link](https://amzn.to/3MV7fGf) | 
 :smile: | Ralink RT5372 | D-Link DWA-137 / Panda PAU06 | 2.4Ghz | USB | [Link](https://amzn.to/3HYJBF0) | 
 :relaxed: | MediaTek MT7610U | Alfa AWUS036ACHM / TP-Link Archer T2UH | 2.4Ghz / 5Ghz | USB | [Link](https://amzn.to/44tBPic) |
