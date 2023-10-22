@@ -16,8 +16,8 @@ Users' rating | Chipset | Card/s using it | Band/s | Interface | Link/Buy | Addi
 :smile: | Ralink RT5370 | Panda PAU04 | 2.4Ghz | USB | [Link](https://amzn.to/3MV7fGf) | Works like a charm, but is old stuff |
 :smile: | Ralink RT5372 | D-Link DWA-137 / Panda PAU06 | 2.4Ghz | USB | [Link](https://amzn.to/3HYJBF0) | Works like a charm, but is old stuff |
 :relaxed: | MediaTek MT7610U | Alfa AWUS036ACHM / TP-Link Archer T2UH | 2.4Ghz / 5Ghz | USB | [Link](https://amzn.to/44tBPic) |
-:relaxed: | Ralink RT3070 | TP-Link TL-WN7200ND / Alfa AWUS036NH | 2.4Ghz | USB | [Link](https://amzn.to/3pyO9ii) | 
 :relaxed: | Ralink RT3572 | Alfa AWUS052NHS / Linksys AE1000 | 2.4Ghz / 5Ghz | USB | [Link](https://amzn.to/3vRLwc6) | 
+:relaxed: | Ralink RT3070 | TP-Link TL-WN7200ND / Alfa AWUS036NH | 2.4Ghz | USB | [Link](https://amzn.to/3pyO9ii) | 
 :neutral_face: | Ralink RT2770 | Alfa AWUS051NH | 2.4Ghz / 5Ghz | USB | [Link](https://amzn.to/3tBq5JA) | 
 :neutral_face: | Intel L716NA02 | Intel Wireless-AC 9560 card | 2.4Ghz / 5Ghz | PCIe | [Link](https://amzn.to/3iBPb62) |
 :neutral_face: | Realtek RTL8723BE | Realtek RTL8723BE card | 2.4Ghz | PCIe | [Link](https://amzn.to/3JHgNof) | 
