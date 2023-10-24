@@ -6,7 +6,7 @@ _Rating legend_: --- Best --- :heart_eyes: :smile: :relaxed: :neutral_face: :dis
 
 __Ordered by users' rating, some known compatible and fully working VIF capable chipsets/cards (Whitelist, recommended)__:
 
-Users' rating | Gen | Chipset | Card/s using it | Band/s | Interface | Link/Buy | Additional comments
+Users' rating | Gen | Chipset | Card/s using it | Band/s | Interface | Link / Buy | Additional comments
 :-------------|:----|:--------|:----------------|:------:|:---------:|:--------:|:-------------------
 :heart_eyes: | Wifi6e | Mediatek MT7921AUN | Alfa AWUS036AXML | 2.4Ghz / 5Ghz / 6Ghz | USB | [Link](https://amzn.to/3tAFmOz) | Includes bluetooth chipset. Not working on Parrot OS (vm or native) |
 :heart_eyes: | Wifi6e | Mediatek MT7921AUN | Alfa AWUS036AXM | 2.4Ghz / 5Ghz / 6Ghz | USB | [Link](https://amzn.to/3MaWW27) | Not working on Parrot OS (vm or native) |
