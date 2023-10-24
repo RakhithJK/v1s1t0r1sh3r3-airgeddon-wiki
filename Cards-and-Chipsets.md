@@ -6,8 +6,8 @@ _Rating legend_: --- Best --- :heart_eyes: :smile: :relaxed: :neutral_face: :dis
 
 __Ordered by users' rating, some known compatible and fully working VIF capable chipsets/cards (Whitelist, recommended)__:
 
-Users' rating | Generation | Chipset | Card/s using it | Band/s | Interface | Link/Buy | Additional comments
-:-------------|:-----------|:--------|:----------------|:------:|:---------:|:--------:|:-------------------
+Users' rating | Gen | Chipset | Card/s using it | Band/s | Interface | Link/Buy | Additional comments
+:-------------|:----|:--------|:----------------|:------:|:---------:|:--------:|:-------------------
 :heart_eyes: | Wifi6e | Mediatek MT7921AUN | Alfa AWUS036AXML | 2.4Ghz / 5Ghz / 6Ghz | USB | [Link](https://amzn.to/3tAFmOz) | Includes bluetooth chipset. Not working on Parrot OS (vm or native) |
 :heart_eyes: | Wifi6e | Mediatek MT7921AUN | Alfa AWUS036AXM | 2.4Ghz / 5Ghz / 6Ghz | USB | [Link](https://amzn.to/3MaWW27) | Not working on Parrot OS (vm or native) |
 :heart_eyes: | Wifi5 | MediaTek MT7612U | Alfa AWUS036ACM | 2.4Ghz / 5Ghz | USB | [Link](https://amzn.to/3P4wc35) | Not recommended for Virtual Machines if your host is Windows, only Native Linux or Linux VM at Linux host. Recommended kernel >= 5.3 . For Rpi 2/3 run this command to get it working ```echo "options mt76_usb disable_usb_sg=1" > /etc/modprobe.d/mt76_usb.conf``` |
