@@ -12,9 +12,9 @@ Users' rating | Gen | Chipset | Card/s using it | Band/s | Interface | Link to B
 :heart_eyes: | Wifi6e | Mediatek MT7921AUN | Alfa AWUS036AXM | 2.4Ghz / 5Ghz / 6Ghz | USB | [Link](https://amzn.to/3MaWW27) | Not working on Parrot OS (vm or native) |
 :heart_eyes: | Wifi5 | MediaTek MT7612U | Alfa AWUS036ACM | 2.4Ghz / 5Ghz | USB | [Link](https://amzn.to/3P4wc35) | Not recommended for Virtual Machines if your host is Windows, only Native Linux or Linux VM at Linux host. Recommended kernel >= 5.3 . For Rpi 2/3 run this command to get it working ```echo "options mt76_usb disable_usb_sg=1" > /etc/modprobe.d/mt76_usb.conf``` |
 :heart_eyes: | Wifi5 | Ralink RT5572 | Panda PAU07 / Panda PAU09 | 2.4Ghz / 5Ghz| USB | [Link](https://amzn.to/3IYOWgM) |
-:smile: | Wifi4 | Atheros AR9271 | Alfa AWUS036NHA / TP-Link TL-WN722N v1 | 2.4Ghz | USB | [Link](https://amzn.to/3sRWE6L) | Works like a charm, but is old stuff |
-:smile: | Wifi4 | Ralink RT5370 | Panda PAU04 | 2.4Ghz | USB | [Link](https://amzn.to/3MV7fGf) | Works like a charm, but is old stuff |
-:smile: | Wifi4 | Ralink RT5372 | D-Link DWA-137 / Panda PAU06 | 2.4Ghz | USB | [Link](https://amzn.to/3HYJBF0) | Works like a charm, but is old stuff |
+:smile: | Wifi4 | Atheros AR9271 | Alfa AWUS036NHA / TP-Link TL-WN722N v1 | 2.4Ghz | USB | [Link](https://amzn.to/3sRWE6L) | |
+:smile: | Wifi4 | Ralink RT5370 | Panda PAU04 | 2.4Ghz | USB | [Link](https://amzn.to/3MV7fGf) | |
+:smile: | Wifi4 | Ralink RT5372 | D-Link DWA-137 / Panda PAU06 | 2.4Ghz | USB | [Link](https://amzn.to/3HYJBF0) | |
 :relaxed: | Wifi4 | MediaTek MT7610U | Alfa AWUS036ACHM / TP-Link Archer T2UH | 2.4Ghz / 5Ghz | USB | [Link](https://amzn.to/44tBPic) |
 :relaxed: | Wifi4 | Ralink RT3572 | Alfa AWUS052NHS / Linksys AE1000 | 2.4Ghz / 5Ghz | USB | [Link](https://amzn.to/3vRLwc6) | 
 :relaxed: | Wifi4 | Ralink RT3070 | TP-Link TL-WN7200ND / Alfa AWUS036NH | 2.4Ghz | USB | [Link](https://amzn.to/3pyO9ii) | 
