@@ -121,6 +121,7 @@ Top donors:
  - Roberto Val
  - [masi](https://github.com/masipro)
  - DiscordAngelo-23
+ - Stevan Mirkovic
 
 If you want to be here, send me some data (mail, link, Twitter X account, etc) with your donation.
 
